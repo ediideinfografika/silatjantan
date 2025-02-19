@@ -1,0 +1,50 @@
+<?php
+
+/**
+ * @file
+ * Process theme data for siawas.
+ */
+
+
+use Drupal\user\Entity\User;
+use GuzzleHttp\Client;
+use GuzzleHttp\Exception\RequestException;
+
+
+function silatjantan_preprocess_views_view_field(&$variables) {
+
+ $variables['output'] = $variables['field']->advancedRender($variables['row']);
+
+}
+
+
+function silatjantan_preprocess_views_view_unformatted__datanib(&$variables, $hook)
+{
+     $nib = \Drupal::request()->query->get('nib'); 
+   
+    $variables['nib']=$nib; 
+	$url = "https://siawas.dpmptspjatim.com/tracking.php?nib=". $nib;
+	$client = new Client();
+		
+		try {
+		$response = $client->get($url);
+		$result = json_decode($response->getBody(), TRUE);
+		  $variables['result'] =$result['items'];
+		  $variables['d_usaha'] =$result['d_usaha'];
+		}
+		catch (RequestException $e) {
+		// log exception
+		}
+
+
+
+
+
+  
+}
+
+function silatjantan_preprocess_node(&$variables)
+{
+
+	$nid = $variables['node']->get('nid')->value;
+}

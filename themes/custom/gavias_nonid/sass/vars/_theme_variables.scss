@@ -1,0 +1,37 @@
+@import "../bootstrap/functions";
+@import "../bootstrap/variables";
+ 
+// images folder path of theme 
+$base-theme-image-path : '../images'!default;
+
+//------- FONTS
+$fa-font-path							: "../fonts/" !default;
+$font-icon 								: "FontAwesome"!default;
+$font-icon-2                     : "gva-icon"!default;
+$font-second                     : 'Poppins', sans-serif !default;
+
+//-------- COLOR--------------
+$black                           : #2e3d62 !default;  
+$white                           : #fff !default;  
+$nocolor                         : transparent !default;
+ 
+//--------- COLORS  
+$text-color                       : #666e82 !default;// #9b9b9b !default;  
+$theme_color                      : #ff8257 !default;  //#425CBB 
+$theme-color-second               : #9364d4 !default; //#4AD2AD
+$border-color-dark                : rgba(255, 255, 255, 0.1)!default;
+$border-color                     : #eaeaea!default; 
+
+$color-red        : #ef4059!default;
+$color-pink       : #ee539b!default;
+$color-light-pink : #AC70B8!default;
+$color-orange     : #FDA400!default;
+$color-yellow     : #fddd6e!default;
+$color-green      : #5dd8d3!default;
+$color-blue       : #26B2EC!default;
+$color-dark-mint  : #90D0C4!default;
+$color-violet     : #D9AC09!default;
+$color-navy       : #23569C!default;
+$color-purple     : #9364d4!default;
+$color-gray       : #BFC0BC!default;
+$color-black      : #2e3d62!default;    

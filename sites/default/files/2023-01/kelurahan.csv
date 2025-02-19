@@ -1,0 +1,565 @@
+STA_AWAL,STA_AKHIR,Panjang,Fungsi,Nm_Ruas,No
+0+000,0+100,122,Lokal Sekunder,GG. Anggrek III,1
+0+100,0+106,122,Lokal Sekunder,GG. Anggrek III,2
+0+000,0+100,159,Lingkungan Sekunder,Jalan Anggrek-Mayang Kembar IV,3
+0+100,0+140,159,Lingkungan Sekunder,Jalan Anggrek-Mayang Kembar IV,4
+0+300,0+400,425,Lokal Sekunder,Jalan Anthorium,5
+0+000,0+100,425,Lokal Sekunder,Jalan Anthorium,6
+0+100,0+200,425,Lokal Sekunder,Jalan Anthorium,7
+0+200,0+300,425,Lokal Sekunder,Jalan Anthorium,8
+0+400,0+450,425,Lokal Sekunder,Jalan Anthorium,9
+0+300,0+400,356,Lokal Sekunder,Jalan Cempaka,10
+0+000,0+100,356,Lokal Sekunder,Jalan Cempaka,11
+0+100,0+200,356,Lokal Sekunder,Jalan Cempaka,12
+0+200,0+300,356,Lokal Sekunder,Jalan Cempaka,13
+0+400,0+416,356,Lokal Sekunder,Jalan Cempaka,14
+0+000,0+100,194,Lingkungan Primer,Jalan Joharmanik,15
+0+100,0+194,194,Lingkungan Primer,Jalan Joharmanik,16
+0+300,0+400,427,Lingkungan Sekunder,Jalan Kantil,17
+0+000,0+100,427,Lingkungan Sekunder,Jalan Kantil,18
+0+100,0+200,427,Lingkungan Sekunder,Jalan Kantil,19
+0+200,0+300,427,Lingkungan Sekunder,Jalan Kantil,20
+0+400,0+428,427,Lingkungan Sekunder,Jalan Kantil,21
+0+000,0+094,102,Lingkungan Sekunder,Jalan Kantil  II,22
+0+100,0+200,209,Lingkungan Sekunder,Jalan Kantil  III,23
+0+000,0+100,209,Lingkungan Sekunder,Jalan Kantil  III,24
+0+200,0+206,209,Lingkungan Sekunder,Jalan Kantil  III,25
+0+200,0+300,309,Lokal Sekunder,Jalan Kantil  IV,26
+0+000,0+100,309,Lokal Sekunder,Jalan Kantil  IV,27
+0+100,0+200,309,Lokal Sekunder,Jalan Kantil  IV,28
+0+300,0+303,309,Lokal Sekunder,Jalan Kantil  IV,29
+0+000,0+100,309,Lokal Sekunder,Jalan Kantil  VI,30
+0+100,0+153,309,Lokal Sekunder,Jalan Kantil  VI,31
+0+000,0+100,171,Lokal Sekunder,Jalan Kantil I,32
+0+100,0+143,171,Lokal Sekunder,Jalan Kantil I,33
+0+000,0+065,63,Lokal Sekunder,Jalan Kantil V,34
+0+400,0+500,509,Lingkungan Sekunder,JALAN KASATRIAN,35
+0+000,0+100,509,Lingkungan Sekunder,JALAN KASATRIAN,36
+0+100,0+200,509,Lingkungan Sekunder,JALAN KASATRIAN,37
+0+200,0+300,509,Lingkungan Sekunder,JALAN KASATRIAN,38
+0+300,0+400,509,Lingkungan Sekunder,JALAN KASATRIAN,39
+0+500,0+509,509,Lingkungan Sekunder,JALAN KASATRIAN,40
+1+000,1+100,1193,Lokal Sekunder,Jalan Kenongo,41
+0+000,0+100,1193,Lokal Sekunder,Jalan Kenongo,42
+0+100,0+200,1193,Lokal Sekunder,Jalan Kenongo,43
+0+200,0+300,1193,Lokal Sekunder,Jalan Kenongo,44
+0+300,0+400,1193,Lokal Sekunder,Jalan Kenongo,45
+0+400,0+500,1193,Lokal Sekunder,Jalan Kenongo,46
+0+500,0+600,1193,Lokal Sekunder,Jalan Kenongo,47
+0+600,0+700,1193,Lokal Sekunder,Jalan Kenongo,48
+0+700,0+800,1193,Lokal Sekunder,Jalan Kenongo,49
+0+800,0+900,1193,Lokal Sekunder,Jalan Kenongo,50
+0+900,1+000,1193,Lokal Sekunder,Jalan Kenongo,51
+1+100,1+156,1193,Lokal Sekunder,Jalan Kenongo,52
+0+200,0+300,505,Lokal Sekunder,Jalan Kenongo 2,53
+0+000,0+100,505,Lokal Sekunder,Jalan Kenongo 2,54
+0+100,0+200,505,Lokal Sekunder,Jalan Kenongo 2,55
+0+300,0+350,505,Lokal Sekunder,Jalan Kenongo 2,56
+0+000,0+100,320,Lingkungan Sekunder,Jalan Kenongo 3,57
+0+100,0+118,320,Lingkungan Sekunder,Jalan Kenongo 3,58
+0+100,0+200,212,Lingkungan Sekunder,Jalan M Sholeh,59
+0+000,0+100,212,Lingkungan Sekunder,Jalan M Sholeh,60
+0+200,0+215,212,Lingkungan Sekunder,Jalan M Sholeh,61
+0+200,0+300,369,Lokal Sekunder,Jalan Mawar,62
+0+000,0+100,369,Lokal Sekunder,Jalan Mawar,63
+0+100,0+200,369,Lokal Sekunder,Jalan Mawar,64
+0+300,0+368,369,Lokal Sekunder,Jalan Mawar,65
+0+000,0+100,141,Lingkungan Sekunder,Jalan Mayang Kembar,66
+0+100,0+140,141,Lingkungan Sekunder,Jalan Mayang Kembar,67
+0+100,0+200,207,Lingkungan Sekunder,Jalan Mayang Kembar I,68
+0+000,0+100,207,Lingkungan Sekunder,Jalan Mayang Kembar I,69
+0+200,0+205,207,Lingkungan Sekunder,Jalan Mayang Kembar I,70
+0+100,0+200,209,Lingkungan Sekunder,Jalan Mayang Kembar II,71
+0+000,0+100,209,Lingkungan Sekunder,Jalan Mayang Kembar II,72
+0+200,0+208,209,Lingkungan Sekunder,Jalan Mayang Kembar II,73
+0+100,0+200,212,Lingkungan Sekunder,Jalan Mayang Kembar III,74
+0+000,0+100,212,Lingkungan Sekunder,Jalan Mayang Kembar III,75
+0+200,0+210,212,Lingkungan Sekunder,Jalan Mayang Kembar III,76
+0+100,0+200,205,Lingkungan Sekunder,Jalan Mayang Kembar IV,77
+0+000,0+100,205,Lingkungan Sekunder,Jalan Mayang Kembar IV,78
+0+200,0+202,205,Lingkungan Sekunder,Jalan Mayang Kembar IV,79
+0+200,0+300,406,Lokal Sekunder,Jalan Melati,80
+0+000,0+100,406,Lokal Sekunder,Jalan Melati,81
+0+100,0+200,406,Lokal Sekunder,Jalan Melati,82
+0+300,0+343,406,Lokal Sekunder,Jalan Melati,83
+0+300,0+400,365,Lokal Sekunder,Jalan Menur,84
+0+000,0+100,365,Lokal Sekunder,Jalan Menur,85
+0+100,0+200,365,Lokal Sekunder,Jalan Menur,86
+0+200,0+300,365,Lokal Sekunder,Jalan Menur,87
+0+400,0+453,365,Lokal Sekunder,Jalan Menur,88
+0+100,0+200,265,Lokal Sekunder,Jalan Menur Gg. 1,89
+0+000,0+100,265,Lokal Sekunder,Jalan Menur Gg. 1,90
+0+200,0+262,265,Lokal Sekunder,Jalan Menur Gg. 1,91
+0+000,0+100,135,Lingkungan Sekunder,Jalan Menur Gg. 2,92
+0+100,0+136,135,Lingkungan Sekunder,Jalan Menur Gg. 2,93
+0+000,0+089,86,Lingkungan Sekunder,Jalan Menur Gg. 3,94
+0+000,0+092,94,Lingkungan Sekunder,Jalan Menur Gg. 4,95
+0+600,0+700,800,Lokal Sekunder,Jalan Mojopurno - Pilangrejo,96
+0+000,0+100,800,Lokal Sekunder,Jalan Mojopurno - Pilangrejo,97
+0+100,0+200,800,Lokal Sekunder,Jalan Mojopurno - Pilangrejo,98
+0+200,0+300,800,Lokal Sekunder,Jalan Mojopurno - Pilangrejo,99
+0+300,0+400,800,Lokal Sekunder,Jalan Mojopurno - Pilangrejo,100
+0+400,0+500,800,Lokal Sekunder,Jalan Mojopurno - Pilangrejo,101
+0+500,0+600,800,Lokal Sekunder,Jalan Mojopurno - Pilangrejo,102
+0+700,0+706,800,Lokal Sekunder,Jalan Mojopurno - Pilangrejo,103
+0+100,0+200,243,Lokal Sekunder,Jalan Munggut Asri,104
+0+000,0+100,243,Lokal Sekunder,Jalan Munggut Asri,105
+0+200,0+249,243,Lokal Sekunder,Jalan Munggut Asri,106
+0+400,0+500,588,Lokal Sekunder,Jalan Nusa Indah,107
+0+000,0+100,588,Lokal Sekunder,Jalan Nusa Indah,108
+0+100,0+200,588,Lokal Sekunder,Jalan Nusa Indah,109
+0+200,0+300,588,Lokal Sekunder,Jalan Nusa Indah,110
+0+300,0+400,588,Lokal Sekunder,Jalan Nusa Indah,111
+0+500,0+587,588,Lokal Sekunder,Jalan Nusa Indah,112
+2+600,2+700,2854,Lokal sekunder,Jalan Pacing,113
+0+000,0+100,2854,Lokal sekunder,Jalan Pacing,114
+0+100,0+200,2854,Lokal sekunder,Jalan Pacing,115
+0+200,0+300,2854,Lokal sekunder,Jalan Pacing,116
+0+300,0+400,2854,Lokal sekunder,Jalan Pacing,117
+0+400,0+500,2854,Lokal sekunder,Jalan Pacing,118
+0+500,0+600,2854,Lokal sekunder,Jalan Pacing,119
+0+600,0+700,2854,Lokal sekunder,Jalan Pacing,120
+0+700,0+800,2854,Lokal sekunder,Jalan Pacing,121
+0+800,0+900,2854,Lokal sekunder,Jalan Pacing,122
+0+900,1+000,2854,Lokal sekunder,Jalan Pacing,123
+1+000,1+100,2854,Lokal sekunder,Jalan Pacing,124
+1+100,1+200,2854,Lokal sekunder,Jalan Pacing,125
+1+200,1+300,2854,Lokal sekunder,Jalan Pacing,126
+1+300,1+400,2854,Lokal sekunder,Jalan Pacing,127
+1+400,1+500,2854,Lokal sekunder,Jalan Pacing,128
+1+500,1+600,2854,Lokal sekunder,Jalan Pacing,129
+1+600,1+700,2854,Lokal sekunder,Jalan Pacing,130
+1+700,1+800,2854,Lokal sekunder,Jalan Pacing,131
+1+800,1+900,2854,Lokal sekunder,Jalan Pacing,132
+1+900,2+000,2854,Lokal sekunder,Jalan Pacing,133
+2+000,2+100,2854,Lokal sekunder,Jalan Pacing,134
+2+100,2+200,2854,Lokal sekunder,Jalan Pacing,135
+2+200,2+300,2854,Lokal sekunder,Jalan Pacing,136
+2+300,2+400,2854,Lokal sekunder,Jalan Pacing,137
+2+400,2+500,2854,Lokal sekunder,Jalan Pacing,138
+2+500,2+600,2854,Lokal sekunder,Jalan Pacing,139
+2+700,2+755,2854,Lokal sekunder,Jalan Pacing,140
+0+000,0+100,106,Lingkungan Sekunder,Jalan Sedap Malam,141
+0+100,0+104,106,Lingkungan Sekunder,Jalan Sedap Malam,142
+0+600,0+700,749,Lokal Sekunder,Jalan Seroja,143
+0+000,0+100,749,Lokal Sekunder,Jalan Seroja,144
+0+100,0+200,749,Lokal Sekunder,Jalan Seroja,145
+0+200,0+300,749,Lokal Sekunder,Jalan Seroja,146
+0+300,0+400,749,Lokal Sekunder,Jalan Seroja,147
+0+400,0+500,749,Lokal Sekunder,Jalan Seroja,148
+0+500,0+600,749,Lokal Sekunder,Jalan Seroja,149
+0+700,0+744,749,Lokal Sekunder,Jalan Seroja,150
+0+200,0+300,380,Lokal Sekunder,Jalan Sri Rejeki,151
+0+000,0+100,380,Lokal Sekunder,Jalan Sri Rejeki,152
+0+100,0+200,380,Lokal Sekunder,Jalan Sri Rejeki,153
+0+300,0+364,380,Lokal Sekunder,Jalan Sri Rejeki,154
+0+000,0+082,79,Lingkungan Sekunder,Jalan Sri Rejeki I,155
+0+000,0+100,143,Lingkungan Sekunder,Jalan Sruni,156
+0+100,0+190,143,Lingkungan Sekunder,Jalan Sruni,157
+0+000,0+100,181,Lingkungan Sekunder,Jalan Sruni 1,158
+0+100,0+117,181,Lingkungan Sekunder,Jalan Sruni 1,159
+0+000,0+100,82,Lokal Sekunder,Jalan Telasih,160
+0+100,0+102,82,Lokal Sekunder,Jalan Telasih,161
+0+300,0+400,413,Lokal Sekunder,Jalan Teratai,162
+0+000,0+100,413,Lokal Sekunder,Jalan Teratai,163
+0+100,0+200,413,Lokal Sekunder,Jalan Teratai,164
+0+200,0+300,413,Lokal Sekunder,Jalan Teratai,165
+0+400,0+417,413,Lokal Sekunder,Jalan Teratai,166
+0+100,0+200,264,Lingkungan Sekunder,Jalan Wijaya Kusuma,167
+0+000,0+100,264,Lingkungan Sekunder,Jalan Wijaya Kusuma,168
+0+200,0+261,264,Lingkungan Sekunder,Jalan Wijaya Kusuma,169
+0+100,0+200,275,Lingkungan Sekunder,Jalan Wijaya Kusuma I,170
+0+000,0+100,275,Lingkungan Sekunder,Jalan Wijaya Kusuma I,171
+0+200,0+267,275,Lingkungan Sekunder,Jalan Wijaya Kusuma I,172
+0+000,0+100,188,Lokal sekunder,Jalan Wijaya Kusuma II,173
+0+100,0+180,188,Lokal sekunder,Jalan Wijaya Kusuma II,174
+0+700,0+800,810,Lokal sekunder,Jl. Abimanyu,175
+0+000,0+100,810,Lokal sekunder,Jl. Abimanyu,176
+0+100,0+200,810,Lokal sekunder,Jl. Abimanyu,177
+0+200,0+300,810,Lokal sekunder,Jl. Abimanyu,178
+0+300,0+400,810,Lokal sekunder,Jl. Abimanyu,179
+0+400,0+500,810,Lokal sekunder,Jl. Abimanyu,180
+0+500,0+600,810,Lokal sekunder,Jl. Abimanyu,181
+0+600,0+700,810,Lokal sekunder,Jl. Abimanyu,182
+0+800,0+806,810,Lokal sekunder,Jl. Abimanyu,183
+0+100,0+200,240,Lokal sekunder,Jl. Abiyoso,184
+0+000,0+100,240,Lokal sekunder,Jl. Abiyoso,185
+0+200,0+238,240,Lokal sekunder,Jl. Abiyoso,186
+0+000,0+100,173,Lingkungan Sekunder,Jl. Arimbi 1,187
+0+100,0+165,173,Lingkungan Sekunder,Jl. Arimbi 1,188
+0+000,0+056,173,Lingkungan Sekunder,Jl. Arimbi 2,189
+0+000,0+100,120,Lokal sekunder,Jl. Arjuno,190
+0+100,0+118,120,Lokal sekunder,Jl. Arjuno,191
+0+000,0+073,72,Lokal Sekunder,Jl. Arjuno Gg.1,192
+0+200,0+300,304,Lingkungan Primer,Jl. Bali,193
+0+000,0+100,304,Lingkungan Primer,Jl. Bali,194
+0+100,0+200,304,Lingkungan Primer,Jl. Bali,195
+0+300,0+343,304,Lingkungan Primer,Jl. Bali,196
+0+000,0+100,187,Lingkungan Sekunder,Jl. Baru,197
+0+100,0+188,187,Lingkungan Sekunder,Jl. Baru,198
+0+100,0+200,300,Lokal sekunder,Jl. Baru Mberan,199
+0+000,0+100,300,Lokal sekunder,Jl. Baru Mberan,200
+0+200,0+286,300,Lokal sekunder,Jl. Baru Mberan,201
+0+700,0+800,799,Lokal Sekunder,Jl. Baudayang,202
+0+000,0+100,799,Lokal Sekunder,Jl. Baudayang,203
+0+100,0+200,799,Lokal Sekunder,Jl. Baudayang,204
+0+200,0+300,799,Lokal Sekunder,Jl. Baudayang,205
+0+300,0+400,799,Lokal Sekunder,Jl. Baudayang,206
+0+400,0+500,799,Lokal Sekunder,Jl. Baudayang,207
+0+500,0+600,799,Lokal Sekunder,Jl. Baudayang,208
+0+600,0+700,799,Lokal Sekunder,Jl. Baudayang,209
+0+800,0+801,799,Lokal Sekunder,Jl. Baudayang,210
+0+300,0+400,150,Lokal Sekunder,Jl. Bekas Rel,211
+0+000,0+100,150,Lokal Sekunder,Jl. Bekas Rel,212
+0+100,0+200,150,Lokal Sekunder,Jl. Bekas Rel,213
+0+200,0+300,150,Lokal Sekunder,Jl. Bekas Rel,214
+0+400,0+439,150,Lokal Sekunder,Jl. Bekas Rel,215
+0+200,0+300,480,Lingkungan Sekunder,Jl. Bendungan Segaran,216
+0+000,0+100,480,Lingkungan Sekunder,Jl. Bendungan Segaran,217
+0+100,0+200,480,Lingkungan Sekunder,Jl. Bendungan Segaran,218
+0+300,0+328,480,Lingkungan Sekunder,Jl. Bendungan Segaran,219
+0+000,0+100,134,Lingkungan Sekunder,Jl. Bendungan Segaran Barat,220
+0+100,0+123,134,Lingkungan Sekunder,Jl. Bendungan Segaran Barat,221
+0+000,0+100,160,Lokal sekunder,Jl. Cempaka Gg 4,222
+0+100,0+154,160,Lokal sekunder,Jl. Cempaka Gg 4,223
+0+400,0+500,541,Lingkungan Sekunder,Jl. Diponegoro 2,224
+0+000,0+100,541,Lingkungan Sekunder,Jl. Diponegoro 2,225
+0+100,0+200,541,Lingkungan Sekunder,Jl. Diponegoro 2,226
+0+200,0+300,541,Lingkungan Sekunder,Jl. Diponegoro 2,227
+0+300,0+400,541,Lingkungan Sekunder,Jl. Diponegoro 2,228
+0+500,0+560,541,Lingkungan Sekunder,Jl. Diponegoro 2,229
+1+200,1+300,567,Lingkungan Sekunder,Jl. Dungus Termulus,230
+0+000,0+100,567,Lingkungan Sekunder,Jl. Dungus Termulus,231
+0+100,0+200,567,Lingkungan Sekunder,Jl. Dungus Termulus,232
+0+200,0+300,567,Lingkungan Sekunder,Jl. Dungus Termulus,233
+0+300,0+400,567,Lingkungan Sekunder,Jl. Dungus Termulus,234
+0+400,0+500,567,Lingkungan Sekunder,Jl. Dungus Termulus,235
+0+500,0+600,567,Lingkungan Sekunder,Jl. Dungus Termulus,236
+0+600,0+700,567,Lingkungan Sekunder,Jl. Dungus Termulus,237
+0+700,0+800,567,Lingkungan Sekunder,Jl. Dungus Termulus,238
+0+800,0+900,567,Lingkungan Sekunder,Jl. Dungus Termulus,239
+0+900,1+000,567,Lingkungan Sekunder,Jl. Dungus Termulus,240
+1+000,1+100,567,Lingkungan Sekunder,Jl. Dungus Termulus,241
+1+100,1+200,567,Lingkungan Sekunder,Jl. Dungus Termulus,242
+1+300,1+350,567,Lingkungan Sekunder,Jl. Dungus Termulus,243
+0+000,0+100,52,Lingkungan Sekunder,Jl. Durian,244
+0+100,0+106,52,Lingkungan Sekunder,Jl. Durian,245
+0+000,0+100,810,Lokal sekunder,Jl. Gang Abimanyu,246
+0+100,0+198,810,Lokal sekunder,Jl. Gang Abimanyu,247
+0+000,0+100,100,Lokal sekunder,Jl. Gang Anggrek V,248
+0+100,0+119,100,Lokal sekunder,Jl. Gang Anggrek V,249
+0+000,0+098,124,Lingkungan Sekunder,Jl. Gang Asem 2,250
+0+000,0+098,245,Lingkungan Sekunder,Jl. Gang Bayusuto 1,251
+0+000,0+100,76,Lingkungan Sekunder,Jl. Gang Bayusuto 2,252
+0+100,0+130,76,Lingkungan Sekunder,Jl. Gang Bayusuto 2,253
+0+000,0+100,75,Lingkungan Sekunder,Jl. Gang Bayusuto 3,254
+0+100,0+135,75,Lingkungan Sekunder,Jl. Gang Bayusuto 3,255
+0+000,0+100,151,Lingkungan Sekunder,Jl. Gang Bayusuto 4,256
+0+100,0+143,151,Lingkungan Sekunder,Jl. Gang Bayusuto 4,257
+0+100,0+200,245,Lokal sekunder,Jl. Gang Buntu,258
+0+000,0+051,245,Lokal sekunder,Jl. Gang Buntu,261
+0+000,0+100,245,Lokal sekunder,Jl. Gang Buntu,259
+0+200,0+224,245,Lokal sekunder,Jl. Gang Buntu,260
+0+000,0+100,140,Lingkungan Sekunder,Jl. Gang Cemer 1,262
+0+100,0+126,140,Lingkungan Sekunder,Jl. Gang Cemer 1,263
+0+000,0+061,76,Lingkungan Sekunder,Jl. Gang Cemer 2,264
+0+000,0+100,73,Lingkungan Sekunder,Jl. Gang Kantil 2,265
+0+100,0+108,73,Lingkungan Sekunder,Jl. Gang Kantil 2,266
+0+000,0+051,56,Lingkungan Sekunder,Jl. Gang Kantil 3,267
+0+000,0+064,74,Lingkungan Sekunder,Jl. Gang Kasepuhan,268
+0+000,0+100,102,Lingkungan Sekunder,Jl. Gang Mangga,269
+0+100,0+103,102,Lingkungan Sekunder,Jl. Gang Mangga,270
+0+000,0+100,60,Lingkungan Sekunder,Jl. Gang Masjid,271
+0+100,0+186,60,Lingkungan Sekunder,Jl. Gang Masjid,272
+0+000,0+100,118,Lokal sekunder,Jl. Gang Rukun,273
+0+100,0+112,118,Lokal sekunder,Jl. Gang Rukun,274
+0+100,0+200,310,Lingkungan Sekunder,Jl. Gang Sadewo 1,275
+0+000,0+100,310,Lingkungan Sekunder,Jl. Gang Sadewo 1,276
+0+200,0+204,310,Lingkungan Sekunder,Jl. Gang Sadewo 1,277
+0+000,0+076,120,Lingkungan Sekunder,Jl. Gang Sadewo 2,278
+0+200,0+300,389,Lingkungan Sekunder,Jl. Gang Sentiaki 1,279
+0+000,0+100,389,Lingkungan Sekunder,Jl. Gang Sentiaki 1,280
+0+100,0+200,389,Lingkungan Sekunder,Jl. Gang Sentiaki 1,281
+0+300,0+399,389,Lingkungan Sekunder,Jl. Gang Sentiaki 1,282
+0+000,0+100,198,Lingkungan Sekunder,Jl. Gang Sentiaki 2,283
+0+100,0+195,198,Lingkungan Sekunder,Jl. Gang Sentiaki 2,284
+0+100,0+200,264,Lokal sekunder,Jl. Gang Tangah,285
+0+000,0+100,264,Lokal sekunder,Jl. Gang Tangah,286
+0+200,0+260,264,Lokal sekunder,Jl. Gang Tangah,287
+0+000,0+034,36,Lingkungan Sekunder,Jl. Gareng,288
+0+200,0+300,350,Lingkungan Sekunder,Jl. Gatot Kaca,289
+1+000,1+100,350,Lingkungan Sekunder,Jl. Gatot Kaca,293
+0+000,0+100,350,Lingkungan Sekunder,Jl. Gatot Kaca,290
+0+100,0+200,350,Lingkungan Sekunder,Jl. Gatot Kaca,291
+0+300,0+347,350,Lingkungan Sekunder,Jl. Gatot Kaca,292
+0+000,0+100,350,Lingkungan Sekunder,Jl. Gatot Kaca,294
+0+100,0+200,350,Lingkungan Sekunder,Jl. Gatot Kaca,295
+0+200,0+300,350,Lingkungan Sekunder,Jl. Gatot Kaca,296
+0+300,0+400,350,Lingkungan Sekunder,Jl. Gatot Kaca,297
+0+400,0+500,350,Lingkungan Sekunder,Jl. Gatot Kaca,298
+0+500,0+600,350,Lingkungan Sekunder,Jl. Gatot Kaca,299
+0+600,0+700,350,Lingkungan Sekunder,Jl. Gatot Kaca,300
+0+700,0+800,350,Lingkungan Sekunder,Jl. Gatot Kaca,301
+0+800,0+900,350,Lingkungan Sekunder,Jl. Gatot Kaca,302
+0+900,1+000,350,Lingkungan Sekunder,Jl. Gatot Kaca,303
+1+100,1+138,350,Lingkungan Sekunder,Jl. Gatot Kaca,304
+0+000,0+031,10,Lingkungan Sekunder,Jl. Gg Borobudur,305
+0+000,0+100,235,Lingkungan Sekunder,Jl. Gg Trobanyu,306
+0+100,0+106,235,Lingkungan Sekunder,Jl. Gg Trobanyu,307
+0+000,0+024,51,Lingkungan Sekunder,Jl. Gg. Apel,308
+0+000,0+100,122,Lingkungan Sekunder,Jl. GG. Duren,309
+0+100,0+124,122,Lingkungan Sekunder,Jl. GG. Duren,310
+0+000,0+100,105,Lingkungan Sekunder,Jl. Gg. Jambe,311
+0+100,0+103,105,Lingkungan Sekunder,Jl. Gg. Jambe,312
+0+000,0+096,90,Lingkungan Sekunder,Jl. GG. Jambu,313
+0+000,0+100,186,Lingkungan Sekunder,Jl. Gg. Jeruk,314
+0+100,0+110,186,Lingkungan Sekunder,Jl. Gg. Jeruk,315
+0+000,0+100,125,Lingkungan Sekunder,Jl. Gg. Kelapa,316
+0+100,0+128,125,Lingkungan Sekunder,Jl. Gg. Kelapa,317
+0+000,0+100,79,Lokal Sekunder,Jl. Gg. Kelurahan,318
+0+100,0+131,79,Lokal Sekunder,Jl. Gg. Kelurahan,319
+0+000,0+075,200,Lingkungan Sekunder,Jl. Gg. Mlinjo,320
+0+000,0+079,273,Lingkungan Sekunder,Jl. Gg. Nanas,321
+0+000,0+086,122,Lingkungan Sekunder,Jl. Gg. Salak,322
+0+000,0+100,169,Lingkungan Sekunder,Jl. H.Seto,323
+0+100,0+173,169,Lingkungan Sekunder,Jl. H.Seto,324
+0+000,0+100,206,Lokal sekunder,Jl. Iromito,325
+0+100,0+197,206,Lokal sekunder,Jl. Iromito,326
+0+000,0+098,102,Lingkungan Sekunder,Jl. Jambu,327
+0+000,0+100,105,Lingkungan Sekunder,Jl. K.A.Moch Basari,328
+0+100,0+109,105,Lingkungan Sekunder,Jl. K.A.Moch Basari,329
+0+000,0+100,86,Lingkungan Sekunder,Jl. Kamboja,330
+0+100,0+118,86,Lingkungan Sekunder,Jl. Kamboja,331
+0+200,0+300,250,Lokal Sekunder,Jl. Kanal Kembar (RT.11 RW.5),332
+0+000,0+100,250,Lokal Sekunder,Jl. Kanal Kembar (RT.11 RW.5),333
+0+100,0+200,250,Lokal Sekunder,Jl. Kanal Kembar (RT.11 RW.5),334
+0+300,0+333,250,Lokal Sekunder,Jl. Kanal Kembar (RT.11 RW.5),335
+0+300,0+400,305,Lingkungan Sekunder,Jl. Kantil,336
+0+000,0+100,305,Lingkungan Sekunder,Jl. Kantil,337
+0+100,0+200,305,Lingkungan Sekunder,Jl. Kantil,338
+0+200,0+300,305,Lingkungan Sekunder,Jl. Kantil,339
+0+400,0+425,305,Lingkungan Sekunder,Jl. Kantil,340
+0+000,0+100,187,Lingkungan Sekunder,Jl. Kebon Pisang,341
+0+100,0+191,187,Lingkungan Sekunder,Jl. Kebon Pisang,342
+0+200,0+300,386,Lingkungan Sekunder,Jl. Ki Ageng Bandar Alim,343
+0+000,0+100,386,Lingkungan Sekunder,Jl. Ki Ageng Bandar Alim,344
+0+100,0+200,386,Lingkungan Sekunder,Jl. Ki Ageng Bandar Alim,345
+0+300,0+389,386,Lingkungan Sekunder,Jl. Ki Ageng Bandar Alim,346
+0+500,0+600,601,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah,347
+0+000,0+100,601,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah,348
+0+100,0+200,601,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah,349
+0+200,0+300,601,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah,350
+0+300,0+400,601,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah,351
+0+400,0+500,601,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah,352
+0+600,0+607,601,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah,353
+0+000,0+037,38,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah Gang 1,354
+0+000,0+044,44,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah Gang 2,355
+0+000,0+040,52,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah Gang 3,356
+0+000,0+053,51,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah Gang 4,357
+0+000,0+024,24,Lingkungan Sekunder,Jl. Ki. Ageng Basyariyah Gang 5,358
+0+000,0+050,107,Lingkungan Sekunder,Jl. Kiwi,359
+0+100,0+200,255,Lingkungan Sekunder,Jl. Kontak Tani,360
+0+000,0+100,255,Lingkungan Sekunder,Jl. Kontak Tani,361
+0+200,0+259,255,Lingkungan Sekunder,Jl. Kontak Tani,362
+0+000,0+100,123,Lokal sekunder,Jl. Kresno,363
+0+100,0+117,123,Lokal sekunder,Jl. Kresno,364
+0+400,0+500,510,Lokal sekunder,Jl. Krisna,365
+0+000,0+100,510,Lokal sekunder,Jl. Krisna,366
+0+100,0+200,510,Lokal sekunder,Jl. Krisna,367
+0+200,0+300,510,Lokal sekunder,Jl. Krisna,368
+0+300,0+400,510,Lokal sekunder,Jl. Krisna,369
+0+500,0+506,510,Lokal sekunder,Jl. Krisna,370
+0+100,0+200,231,Lingkungan Sekunder,Jl. Lapangan,371
+0+000,0+100,231,Lingkungan Sekunder,Jl. Lapangan,372
+0+200,0+231,231,Lingkungan Sekunder,Jl. Lapangan,373
+0+000,0+100,329,Lingkungan Sekunder,Jl. Manggis,374
+0+100,0+165,329,Lingkungan Sekunder,Jl. Manggis,375
+0+500,0+600,684,Lokal sekunder,Jl. Masjid,376
+0+000,0+100,684,Lokal sekunder,Jl. Masjid,377
+0+100,0+200,684,Lokal sekunder,Jl. Masjid,378
+0+200,0+300,684,Lokal sekunder,Jl. Masjid,379
+0+300,0+400,684,Lokal sekunder,Jl. Masjid,380
+0+400,0+500,684,Lokal sekunder,Jl. Masjid,381
+0+600,0+687,684,Lokal sekunder,Jl. Masjid,382
+0+700,0+800,369,Lokal Sekunder,Jl. Mawar,383
+0+000,0+100,369,Lokal Sekunder,Jl. Mawar,384
+0+100,0+200,369,Lokal Sekunder,Jl. Mawar,385
+0+200,0+300,369,Lokal Sekunder,Jl. Mawar,386
+0+300,0+400,369,Lokal Sekunder,Jl. Mawar,387
+0+400,0+500,369,Lokal Sekunder,Jl. Mawar,388
+0+500,0+600,369,Lokal Sekunder,Jl. Mawar,389
+0+600,0+700,369,Lokal Sekunder,Jl. Mawar,390
+0+800,0+831,369,Lokal Sekunder,Jl. Mawar,391
+0+000,0+100,143,Lingkungan Sekunder,Jl. Mawar 1,392
+0+100,0+140,143,Lingkungan Sekunder,Jl. Mawar 1,393
+0+200,0+300,297,Lingkungan Sekunder,Jl. Mawar 2,394
+0+000,0+100,297,Lingkungan Sekunder,Jl. Mawar 2,395
+0+100,0+200,297,Lingkungan Sekunder,Jl. Mawar 2,396
+0+300,0+301,297,Lingkungan Sekunder,Jl. Mawar 2,397
+0+400,0+500,406,Lokal sekunder,Jl. Melati,398
+0+000,0+100,406,Lokal sekunder,Jl. Melati,399
+0+100,0+200,406,Lokal sekunder,Jl. Melati,400
+0+200,0+300,406,Lokal sekunder,Jl. Melati,401
+0+300,0+400,406,Lokal sekunder,Jl. Melati,402
+0+500,0+502,406,Lokal sekunder,Jl. Melati,403
+0+000,0+100,193,Lingkungan Sekunder,Jl. Nangka,404
+0+100,0+194,193,Lingkungan Sekunder,Jl. Nangka,405
+0+000,0+100,132,Lokal sekunder,Jl. Panji 1,406
+0+100,0+125,132,Lokal sekunder,Jl. Panji 1,407
+0+000,0+100,118,Lokal sekunder,Jl. Panji 2,408
+0+100,0+115,118,Lokal sekunder,Jl. Panji 2,409
+0+000,0+100,201,Lokal sekunder,Jl. Panji 3,410
+0+100,0+170,201,Lokal sekunder,Jl. Panji 3,411
+0+100,0+200,225,Lokal sekunder,Jl. Patimura,412
+0+000,0+100,225,Lokal sekunder,Jl. Patimura,413
+0+200,0+230,225,Lokal sekunder,Jl. Patimura,414
+0+200,0+300,403,Lokal sekunder,Jl. Pemuda,415
+0+000,0+100,403,Lokal sekunder,Jl. Pemuda,416
+0+100,0+200,403,Lokal sekunder,Jl. Pemuda,417
+0+300,0+398,403,Lokal sekunder,Jl. Pemuda,418
+0+000,0+100,101,Lokal sekunder,Jl. Pemuda Gang I,419
+0+100,0+102,101,Lokal sekunder,Jl. Pemuda Gang I,420
+0+000,0+100,101,Lokal sekunder,Jl. Pemuda Gang II,421
+0+100,0+102,101,Lokal sekunder,Jl. Pemuda Gang II,422
+0+000,0+100,102,Lokal sekunder,Jl. Pemuda Gang III,423
+0+100,0+103,102,Lokal sekunder,Jl. Pemuda Gang III,424
+0+000,0+100,100,Lokal sekunder,Jl. Pemuda Gang IV,425
+0+100,0+102,100,Lokal sekunder,Jl. Pemuda Gang IV,426
+0+000,0+100,100,Lokal sekunder,Jl. Pemuda Gang V,427
+0+000,0+100,101,Lingkungan Sekunder,Jl. Pemuda Gang VI,428
+0+100,0+102,101,Lokal sekunder,Jl. Pemuda Gang VI,429
+0+000,0+100,142,Lokal sekunder,Jl. Pemuda Gang VII,430
+0+100,0+146,142,Lokal sekunder,Jl. Pemuda Gang VII,431
+0+000,0+052,36,Lokal sekunder,Jl. Pemuda Gang VIII,432
+0+000,0+100,175,Lokal Sekunder,Jl. Pepaya,433
+0+100,0+171,175,Lokal Sekunder,Jl. Pepaya,434
+0+000,0+100,125,Lingkungan Sekunder,Jl. Petruk,435
+0+100,0+133,125,Lingkungan Sekunder,Jl. Petruk,436
+0+000,0+100,108,Lingkungan Sekunder,Jl. Pisang,437
+0+000,0+091,108,Lingkungan Sekunder,Jl. Pisang,439
+0+100,0+170,108,Lingkungan Sekunder,Jl. Pisang,438
+0+400,0+500,587,Lokal sekunder,Jl. Puntodewo,440
+0+000,0+100,587,Lokal sekunder,Jl. Puntodewo,441
+0+100,0+200,587,Lokal sekunder,Jl. Puntodewo,442
+0+200,0+300,587,Lokal sekunder,Jl. Puntodewo,443
+0+300,0+400,587,Lokal sekunder,Jl. Puntodewo,444
+0+500,0+567,587,Lokal sekunder,Jl. Puntodewo,445
+0+000,0+074,113,Lingkungan Sekunder,Jl. Puntuk I,446
+0+000,0+077,78,Lingkungan Sekunder,Jl. Puntuk II,447
+0+200,0+300,316,Lokal sekunder,Jl. Rajawali,448
+0+000,0+100,316,Lokal sekunder,Jl. Rajawali,449
+0+100,0+200,316,Lokal sekunder,Jl. Rajawali,450
+0+300,0+311,316,Lokal sekunder,Jl. Rajawali,451
+0+000,0+100,140,Lokal sekunder,Jl. Rajawali Gg.1,452
+0+100,0+136,140,Lokal sekunder,Jl. Rajawali Gg.1,453
+0+000,0+097,103,Lingkungan Sekunder,Jl. Rambutan,454
+0+100,0+200,220,Lingkungan Sekunder,Jl. Remaja,455
+0+000,0+100,220,Lingkungan Sekunder,Jl. Remaja,456
+0+200,0+220,220,Lingkungan Sekunder,Jl. Remaja,457
+0+000,0+051,52,Lokal sekunder,Jl. Remaja Gang 1,458
+0+000,0+052,54,Lokal sekunder,Jl. Remaja Gang 2,459
+0+000,0+062,65,Lokal sekunder,Jl. Remaja Gang 3,460
+0+000,0+100,143,Lokal sekunder,Jl. Rukun,461
+0+100,0+142,143,Lokal sekunder,Jl. Rukun,462
+0+000,0+100,172,Lingkungan Sekunder,Jl. Sadewo,463
+0+100,0+174,172,Lingkungan Sekunder,Jl. Sadewo,464
+0+200,0+300,255,Lingkungan Sekunder,Jl. Sawung Galing,465
+0+000,0+100,255,Lingkungan Sekunder,Jl. Sawung Galing,466
+0+100,0+200,255,Lingkungan Sekunder,Jl. Sawung Galing,467
+0+300,0+392,255,Lingkungan Sekunder,Jl. Sawung Galing,468
+0+000,0+100,178,Lingkungan Sekunder,Jl. Selo Barong,469
+0+100,0+148,178,Lingkungan Sekunder,Jl. Selo Barong,470
+0+000,0+100,122,Lingkungan Sekunder,Jl. Semar,471
+0+100,0+107,122,Lingkungan Sekunder,Jl. Semar,472
+0+000,0+100,106,Lokal sekunder,Jl. Sri Dewi,473
+0+100,0+106,106,Lokal sekunder,Jl. Sri Dewi,474
+0+300,0+400,457,Lingkungan Sekunder,Jl. Srikandi,475
+0+000,0+100,457,Lingkungan Sekunder,Jl. Srikandi,476
+0+100,0+200,457,Lingkungan Sekunder,Jl. Srikandi,477
+0+200,0+300,457,Lingkungan Sekunder,Jl. Srikandi,478
+0+400,0+432,457,Lingkungan Sekunder,Jl. Srikandi,479
+0+100,0+200,200,Lokal Sekunder,Jl. Sukodono (RT.11 RW.5),480
+0+000,0+100,200,Lokal Sekunder,Jl. Sukodono (RT.11 RW.5),481
+0+200,0+213,200,Lokal Sekunder,Jl. Sukodono (RT.11 RW.5),482
+0+200,0+300,320,Lokal sekunder,Jl. Sultan Agung,483
+0+000,0+100,320,Lokal sekunder,Jl. Sultan Agung,484
+0+100,0+200,320,Lokal sekunder,Jl. Sultan Agung,485
+0+300,0+322,320,Lokal sekunder,Jl. Sultan Agung,486
+0+300,0+400,195,Lingkungan Sekunder,Jl. Tani Jaya,487
+0+000,0+100,195,Lingkungan Sekunder,Jl. Tani Jaya,488
+0+100,0+200,195,Lingkungan Sekunder,Jl. Tani Jaya,489
+0+200,0+300,195,Lingkungan Sekunder,Jl. Tani Jaya,490
+0+400,0+400,195,Lingkungan Sekunder,Jl. Tani Jaya,491
+0+200,0+300,350,Lingkungan Sekunder,Jl. Tani Maju,492
+0+000,0+100,350,Lingkungan Sekunder,Jl. Tani Maju,493
+0+100,0+200,350,Lingkungan Sekunder,Jl. Tani Maju,494
+0+300,0+348,350,Lingkungan Sekunder,Jl. Tani Maju,495
+0+400,0+500,584,Lingkungan Sekunder,Jl. Tani Murni,496
+0+000,0+100,584,Lingkungan Sekunder,Jl. Tani Murni,497
+0+100,0+200,584,Lingkungan Sekunder,Jl. Tani Murni,498
+0+200,0+300,584,Lingkungan Sekunder,Jl. Tani Murni,499
+0+300,0+400,584,Lingkungan Sekunder,Jl. Tani Murni,500
+0+500,0+578,584,Lingkungan Sekunder,Jl. Tani Murni,501
+0+600,0+700,772,Lingkungan Sekunder,Jl. Tani Unggul,502
+0+000,0+100,772,Lingkungan Sekunder,Jl. Tani Unggul,503
+0+100,0+200,772,Lingkungan Sekunder,Jl. Tani Unggul,504
+0+200,0+300,772,Lingkungan Sekunder,Jl. Tani Unggul,505
+0+300,0+400,772,Lingkungan Sekunder,Jl. Tani Unggul,506
+0+400,0+500,772,Lingkungan Sekunder,Jl. Tani Unggul,507
+0+500,0+600,772,Lingkungan Sekunder,Jl. Tani Unggul,508
+0+700,0+763,772,Lingkungan Sekunder,Jl. Tani Unggul,509
+0+000,0+100,155,Lingkungan Sekunder,Jl. Tomat,510
+0+100,0+159,155,Lingkungan Sekunder,Jl. Tomat,511
+0+000,0+100,142,Lokal sekunder,Jl. Werkudoro,512
+0+100,0+138,142,Lokal sekunder,Jl. Werkudoro,513
+0+200,0+300,345,Lingkungan Sekunder,Jl. Wijaya,514
+0+000,0+100,345,Lingkungan Sekunder,Jl. Wijaya,515
+0+100,0+200,345,Lingkungan Sekunder,Jl. Wijaya,516
+0+300,0+341,345,Lingkungan Sekunder,Jl. Wijaya,517
+0+000,0+054,58,Lingkungan Sekunder,Jl. Wiroto,518
+0+000,0+095,98,Lingkungan Sekunder,Jl. Wiroto II,519
+1+400,1+500,1523,Lingkungan Sekunder,Jl.Antarejo,520
+0+000,0+100,1523,Lingkungan Sekunder,Jl.Antarejo,521
+0+100,0+200,1523,Lingkungan Sekunder,Jl.Antarejo,522
+0+200,0+300,1523,Lingkungan Sekunder,Jl.Antarejo,523
+0+300,0+400,1523,Lingkungan Sekunder,Jl.Antarejo,524
+0+400,0+500,1523,Lingkungan Sekunder,Jl.Antarejo,525
+0+500,0+600,1523,Lingkungan Sekunder,Jl.Antarejo,526
+0+600,0+700,1523,Lingkungan Sekunder,Jl.Antarejo,527
+0+700,0+800,1523,Lingkungan Sekunder,Jl.Antarejo,528
+0+800,0+900,1523,Lingkungan Sekunder,Jl.Antarejo,529
+0+900,1+000,1523,Lingkungan Sekunder,Jl.Antarejo,530
+1+000,1+100,1523,Lingkungan Sekunder,Jl.Antarejo,531
+1+100,1+200,1523,Lingkungan Sekunder,Jl.Antarejo,532
+1+200,1+300,1523,Lingkungan Sekunder,Jl.Antarejo,533
+1+300,1+400,1523,Lingkungan Sekunder,Jl.Antarejo,534
+1+500,1+500,1523,Lingkungan Sekunder,Jl.Antarejo,535
+0+200,0+300,335,Lingkungan Sekunder,Jl.Chery,536
+0+000,0+100,335,Lingkungan Sekunder,Jl.Chery,537
+0+100,0+200,335,Lingkungan Sekunder,Jl.Chery,538
+0+300,0+329,335,Lingkungan Sekunder,Jl.Chery,539
+0+100,0+200,153,Lingkungan Sekunder,Jl.Gang Asem 1,540
+0+000,0+100,153,Lingkungan Sekunder,Jl.Gang Asem 1,541
+0+200,0+206,153,Lingkungan Sekunder,Jl.Gang Asem 1,542
+0+000,0+100,249,Lingkungan Sekunder,Jl.Gang Gatot Kaca 1,543
+0+100,0+198,249,Lingkungan Sekunder,Jl.Gang Gatot Kaca 1,544
+0+000,0+100,118,Lingkungan Sekunder,Jl.Gang Gatot Kaca 2,545
+0+100,0+117,118,Lingkungan Sekunder,Jl.Gang Gatot Kaca 2,546
+0+000,0+100,104,Lingkungan Sekunder,Jl.Gang Gatot Kaca 3,547
+0+100,0+102,104,Lingkungan Sekunder,Jl.Gang Gatot Kaca 3,548
+0+000,0+100,125,Lokal Sekunder,"Jl.Gg pisang (RT.3,4 RW.1)",549
+0+100,0+128,125,Lokal sekunder,"Jl.Gg pisang (RT.3,4 RW.1)",550
+0+000,0+100,150,Lokal Sekunder,Jl.Gg. Kertorejan,551
+0+100,0+127,150,Lokal sekunder,Jl.Gg. Kertorejan,552
+0+000,0+096,50,Lokal Sekunder,Jl.Gg. Timur Kecamatan,553
+0+900,1+000,1078,Lokal sekunder,Jl.Sentiaki,554
+0+000,0+100,1078,Lokal sekunder,Jl.Sentiaki,555
+0+100,0+200,1078,Lokal sekunder,Jl.Sentiaki,556
+0+200,0+300,1078,Lokal sekunder,Jl.Sentiaki,557
+0+300,0+400,1078,Lokal sekunder,Jl.Sentiaki,558
+0+400,0+500,1078,Lokal sekunder,Jl.Sentiaki,559
+0+500,0+600,1078,Lokal sekunder,Jl.Sentiaki,560
+0+600,0+700,1078,Lokal sekunder,Jl.Sentiaki,561
+0+700,0+800,1078,Lokal sekunder,Jl.Sentiaki,562
+0+800,0+900,1078,Lokal sekunder,Jl.Sentiaki,563
+1+000,1+085,1078,Lokal sekunder,Jl.Sentiaki,564

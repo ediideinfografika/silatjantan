@@ -1,0 +1,112 @@
+.gsc-image{
+   @include media-breakpoint-down(md){
+      margin-bottom: 30px;
+   }
+}
+.gsc-image-content{
+   &.skin-v1{
+      background: $white;
+      display: table;
+      border-radius: 3px;
+      overflow: hidden;
+      max-width: 500px;
+      margin: 0 auto;
+      margin-bottom: 30px;
+      box-shadow: 0px 10px 60px 0 rgba(46, 61, 98, 0.1);
+      .box-image{
+         width: 145px;
+         display: table-cell;
+      }
+      .box-content{
+         display: table-cell;
+         vertical-align: middle;
+         .title{
+            padding: 30px 30px;
+            font-size: 18px;
+            font-weight: 500;
+            line-height: 28px;
+         } 
+      }
+   }
+   &.skin-v2{
+      position: relative;
+      margin-bottom: 20px;
+      text-align: left;
+      max-width: 420px;
+      margin-right: auto;
+      margin-left: auto;
+      .image{
+         position: relative;
+         overflow: hidden;
+         border-radius: 6px;
+      }  
+      .box-content{
+         background: $white;
+         padding: 30px 0 0;
+         bottom: 0;
+         left: 0;
+         z-index: 1;
+         width: 100%;
+         @include transition(all 0.35s);
+         .title{
+           margin: 0 0 15px;
+           font-size: 26px;
+           line-height: 38px;
+         }
+         .desc{
+            font-size: 16px;
+            margin-top: 30px;
+         }
+         .box-action{
+            margin-top: 26px;
+            a{
+               font-size: 16px;
+               font-weight: 500;
+               color: $body-color;
+               &:hover{
+                  color: $theme-color;
+                  text-decoration: underline;
+               }
+            }
+         }
+      }
+   }
+   &.skin-v3{
+      max-width: 600px;
+      margin: 0 auto 20px;
+      position: relative;
+      border-radius: 6px;
+      overflow: hidden;
+      .image{
+         position: relative;
+         text-align: center;
+      }
+      .box-content{
+         padding: 30px;
+         background: $theme-color;
+         position: absolute;
+         right: 10px;
+         bottom: 10px;
+         z-index: 11;
+         border-radius: 6px;
+         max-width: 250px;
+         width: 100%;
+         @include media-breakpoint-down(sm){
+            position: relative;
+            max-width: 100%;
+            margin-top: 10px;
+         }
+         .title{
+            font-size: 20px;
+            font-weight: 600;
+            color: $white;
+            a{
+               color: $white;
+               &:hover{
+                  text-decoration: underline;
+               }
+            }
+         }
+      }
+   }
+}

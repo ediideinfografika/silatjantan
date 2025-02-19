@@ -1,0 +1,1037 @@
+FID;Shape *;Nm_Ruas;Kd_Inf;Panjang;STA_AWAL;STA_AKHIR;Kondisi;Tipe_Perke;Lebar_STA
+74;Polyline ZM;Jl. Klitik-Dimong;001;8.100;8+000;8+100;baik ;aspal;6
+165;Polyline ZM;Jl. Klitik-Dimong;001;8.100;0+000;0+100;baik ;aspal;6
+166;Polyline ZM;Jl. Klitik-Dimong;001;8.100;0+100;0+200;baik ;aspal;6
+167;Polyline ZM;Jl. Klitik-Dimong;001;8.100;0+200;0+300;baik ;aspal;6
+168;Polyline ZM;Jl. Klitik-Dimong;001;8.100;0+300;0+400;baik ;aspal;6
+169;Polyline ZM;Jl. Klitik-Dimong;001;8.100;0+400;0+500;baik ;aspal;6
+170;Polyline ZM;Jl. Klitik-Dimong;001;8.100;0+500;0+600;baik ;aspal;6
+171;Polyline ZM;Jl. Klitik-Dimong;001;8.100;0+600;0+700;baik ;aspal;6
+172;Polyline ZM;Jl. Klitik-Dimong;001;8.100;0+700;0+800;baik ;aspal;6
+173;Polyline ZM;Jl. Klitik-Dimong;001;8.100;0+800;0+900;baik ;aspal;6
+174;Polyline ZM;Jl. Klitik-Dimong;001;8.100;0+900;1+000;baik ;aspal;6
+175;Polyline ZM;Jl. Klitik-Dimong;001;8.100;1+000;1+100;baik ;aspal;6
+176;Polyline ZM;Jl. Klitik-Dimong;001;8.100;1+100;1+200;baik ;aspal;6
+177;Polyline ZM;Jl. Klitik-Dimong;001;8.100;1+200;1+300;baik ;aspal;6
+178;Polyline ZM;Jl. Klitik-Dimong;001;8.100;1+300;1+400;baik ;aspal;6
+179;Polyline ZM;Jl. Klitik-Dimong;001;8.100;1+400;1+500;baik ;aspal;6
+180;Polyline ZM;Jl. Klitik-Dimong;001;8.100;1+500;1+600;baik ;aspal;6
+181;Polyline ZM;Jl. Klitik-Dimong;001;8.100;1+600;1+700;baik ;aspal;6
+182;Polyline ZM;Jl. Klitik-Dimong;001;8.100;1+700;1+800;baik ;aspal;6
+183;Polyline ZM;Jl. Klitik-Dimong;001;8.100;1+800;1+900;baik ;aspal;6
+184;Polyline ZM;Jl. Klitik-Dimong;001;8.100;1+900;2+000;baik ;aspal;6
+185;Polyline ZM;Jl. Klitik-Dimong;001;8.100;2+000;2+100;baik ;aspal;6
+186;Polyline ZM;Jl. Klitik-Dimong;001;8.100;2+100;2+200;baik ;aspal;6
+187;Polyline ZM;Jl. Klitik-Dimong;001;8.100;2+200;2+300;baik ;aspal;6
+188;Polyline ZM;Jl. Klitik-Dimong;001;8.100;2+300;2+400;baik ;aspal;6
+189;Polyline ZM;Jl. Klitik-Dimong;001;8.100;2+400;2+500;baik ;aspal;6
+190;Polyline ZM;Jl. Klitik-Dimong;001;8.100;2+500;2+600;baik ;aspal;6
+191;Polyline ZM;Jl. Klitik-Dimong;001;8.100;2+600;2+700;baik ;aspal;6
+192;Polyline ZM;Jl. Klitik-Dimong;001;8.100;2+700;2+800;baik ;aspal;6
+193;Polyline ZM;Jl. Klitik-Dimong;001;8.100;2+800;2+900;baik ;aspal;6
+194;Polyline ZM;Jl. Klitik-Dimong;001;8.100;2+900;3+000;baik ;aspal;6
+195;Polyline ZM;Jl. Klitik-Dimong;001;8.100;3+000;3+100;baik ;aspal;6
+196;Polyline ZM;Jl. Klitik-Dimong;001;8.100;3+100;3+200;baik ;aspal;6
+197;Polyline ZM;Jl. Klitik-Dimong;001;8.100;3+200;3+300;baik ;aspal;6
+198;Polyline ZM;Jl. Klitik-Dimong;001;8.100;3+300;3+400;baik ;aspal;6
+199;Polyline ZM;Jl. Klitik-Dimong;001;8.100;3+400;3+500;baik ;aspal;6
+200;Polyline ZM;Jl. Klitik-Dimong;001;8.100;3+500;3+600;baik ;aspal;6
+201;Polyline ZM;Jl. Klitik-Dimong;001;8.100;3+600;3+700;baik ;aspal;6
+202;Polyline ZM;Jl. Klitik-Dimong;001;8.100;3+700;3+800;baik ;aspal;6
+203;Polyline ZM;Jl. Klitik-Dimong;001;8.100;3+800;3+900;baik ;aspal;6
+204;Polyline ZM;Jl. Klitik-Dimong;001;8.100;3+900;4+000;baik ;aspal;6
+205;Polyline ZM;Jl. Klitik-Dimong;001;8.100;4+000;4+100;baik ;aspal;6
+206;Polyline ZM;Jl. Klitik-Dimong;001;8.100;4+100;4+200;baik ;aspal;6
+207;Polyline ZM;Jl. Klitik-Dimong;001;8.100;4+200;4+300;baik ;aspal;6
+208;Polyline ZM;Jl. Klitik-Dimong;001;8.100;4+300;4+400;baik ;aspal;6
+209;Polyline ZM;Jl. Klitik-Dimong;001;8.100;4+400;4+500;baik ;aspal;6
+210;Polyline ZM;Jl. Klitik-Dimong;001;8.100;4+500;4+600;baik ;aspal;6
+211;Polyline ZM;Jl. Klitik-Dimong;001;8.100;4+600;4+700;baik ;aspal;6
+212;Polyline ZM;Jl. Klitik-Dimong;001;8.100;4+700;4+800;baik ;aspal;6
+213;Polyline ZM;Jl. Klitik-Dimong;001;8.100;4+800;4+900;baik ;aspal;6
+214;Polyline ZM;Jl. Klitik-Dimong;001;8.100;4+900;5+000;baik ;aspal;6
+215;Polyline ZM;Jl. Klitik-Dimong;001;8.100;5+000;5+100;baik ;aspal;6
+216;Polyline ZM;Jl. Klitik-Dimong;001;8.100;5+100;5+200;baik ;aspal;6
+217;Polyline ZM;Jl. Klitik-Dimong;001;8.100;5+200;5+300;baik ;aspal;6
+218;Polyline ZM;Jl. Klitik-Dimong;001;8.100;5+300;5+400;baik ;aspal;6
+219;Polyline ZM;Jl. Klitik-Dimong;001;8.100;5+400;5+500;baik ;aspal;6
+220;Polyline ZM;Jl. Klitik-Dimong;001;8.100;5+500;5+600;baik ;aspal;6
+221;Polyline ZM;Jl. Klitik-Dimong;001;8.100;5+600;5+700;baik ;aspal;6
+222;Polyline ZM;Jl. Klitik-Dimong;001;8.100;5+700;5+800;baik ;aspal;6
+223;Polyline ZM;Jl. Klitik-Dimong;001;8.100;5+800;5+900;baik ;aspal;6
+224;Polyline ZM;Jl. Klitik-Dimong;001;8.100;5+900;6+000;baik ;aspal;6
+225;Polyline ZM;Jl. Klitik-Dimong;001;8.100;6+000;6+100;baik ;aspal;6
+226;Polyline ZM;Jl. Klitik-Dimong;001;8.100;6+100;6+200;baik ;aspal;6
+227;Polyline ZM;Jl. Klitik-Dimong;001;8.100;6+200;6+300;baik ;aspal;6
+228;Polyline ZM;Jl. Klitik-Dimong;001;8.100;6+300;6+400;baik ;aspal;6
+229;Polyline ZM;Jl. Klitik-Dimong;001;8.100;6+400;6+500;baik ;aspal;6
+230;Polyline ZM;Jl. Klitik-Dimong;001;8.100;6+500;6+600;baik ;aspal;6
+231;Polyline ZM;Jl. Klitik-Dimong;001;8.100;6+600;6+700;baik ;aspal;6
+232;Polyline ZM;Jl. Klitik-Dimong;001;8.100;6+700;6+800;baik ;aspal;6
+233;Polyline ZM;Jl. Klitik-Dimong;001;8.100;6+800;6+900;baik ;aspal;6
+234;Polyline ZM;Jl. Klitik-Dimong;001;8.100;6+900;7+000;baik ;aspal;6
+235;Polyline ZM;Jl. Klitik-Dimong;001;8.100;7+000;7+100;baik ;aspal;6
+236;Polyline ZM;Jl. Klitik-Dimong;001;8.100;7+100;7+200;baik ;aspal;6
+237;Polyline ZM;Jl. Klitik-Dimong;001;8.100;7+200;7+300;baik ;aspal;6
+238;Polyline ZM;Jl. Klitik-Dimong;001;8.100;7+300;7+400;baik ;aspal;6
+239;Polyline ZM;Jl. Klitik-Dimong;001;8.100;7+400;7+500;baik ;aspal;6
+240;Polyline ZM;Jl. Klitik-Dimong;001;8.100;7+500;7+600;baik ;aspal;6
+241;Polyline ZM;Jl. Klitik-Dimong;001;8.100;7+600;7+700;baik ;aspal;6
+242;Polyline ZM;Jl. Klitik-Dimong;001;8.100;7+700;7+800;baik ;aspal;6
+243;Polyline ZM;Jl. Klitik-Dimong;001;8.100;7+800;7+900;baik ;aspal;6
+244;Polyline ZM;Jl. Klitik-Dimong;001;8.100;7+900;8+000;baik ;aspal;6
+245;Polyline ZM;Jl. Klitik-Dimong;001;8.100;8+100;8+127;baik ;aspal;6
+2;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;5+200;5+300;baik ;aspal;6
+246;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;0+000;0+100;baik ;aspal;6
+247;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;0+100;0+200;baik ;aspal;6
+248;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;0+200;0+300;baik ;aspal;6
+249;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;0+300;0+400;baik ;aspal;6
+250;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;0+400;0+500;baik ;aspal;6
+251;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;0+500;0+600;baik ;aspal;6
+252;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;0+600;0+700;baik ;aspal;6
+253;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;0+700;0+800;baik ;aspal;6
+254;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;0+800;0+900;baik ;aspal;6
+255;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;0+900;1+000;baik ;aspal;6
+256;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;1+000;1+100;baik ;aspal;6
+257;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;1+100;1+200;baik ;aspal;6
+258;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;1+200;1+300;baik ;aspal;6
+259;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;1+300;1+400;baik ;aspal;6
+260;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;1+400;1+500;baik ;aspal;6
+261;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;1+500;1+600;baik ;aspal;6
+262;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;1+600;1+700;baik ;aspal;6
+263;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;1+700;1+800;baik ;aspal;6
+264;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;1+800;1+900;baik ;aspal;6
+265;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;1+900;2+000;baik ;aspal;6
+266;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;2+000;2+100;baik ;aspal;6
+267;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;2+100;2+200;baik ;aspal;6
+268;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;2+200;2+300;baik ;aspal;6
+269;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;2+300;2+400;baik ;aspal;6
+270;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;2+400;2+500;baik ;aspal;6
+271;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;2+500;2+600;sedang;aspal;6
+272;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;2+600;2+700;sedang;aspal;6
+273;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;2+700;2+800;sedang;aspal;6
+274;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;2+800;2+900;sedang;aspal;6
+275;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;2+900;3+000;sedang;aspal;6
+276;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;3+000;3+100;sedang;aspal;6
+277;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;3+100;3+200;sedang;aspal;6
+278;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;3+200;3+300;sedang;aspal;6
+279;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;3+300;3+400;sedang;aspal;6
+280;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;3+400;3+500;sedang;aspal;6
+281;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;3+500;3+600;sedang;aspal;6
+282;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;3+600;3+700;sedang;aspal;6
+283;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;3+700;3+800;sedang;aspal;6
+284;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;3+800;3+900;sedang;aspal;6
+285;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;3+900;4+000;sedang;aspal;6
+286;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;4+000;4+100;sedang;aspal;6
+287;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;4+100;4+200;sedang;aspal;6
+288;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;4+200;4+300;sedang;aspal;6
+289;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;4+300;4+400;sedang;aspal;6
+290;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;4+400;4+500;sedang;aspal;6
+291;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;4+500;4+600;sedang;aspal;6
+292;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;4+600;4+700;sedang;aspal;6
+293;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;4+700;4+800;sedang;aspal;6
+294;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;4+800;4+900;sedang;aspal;6
+295;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;4+900;5+000;sedang;aspal;6
+296;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;5+000;5+100;sedang;aspal;6
+297;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;5+100;5+200;sedang;aspal;6
+298;Polyline ZM;Jl. Bajulan-Kenongorejo;002;5.350;5+300;5+346;sedang;aspal;6
+66;Polyline ZM;Jl. Caruban-Morang;003;14.510;14+300;14+400;sedang;aspal;6
+299;Polyline ZM;Jl. Caruban-Morang;003;14.510;0+000;0+100;sedang;aspal;6
+300;Polyline ZM;Jl. Caruban-Morang;003;14.510;0+100;0+200;sedang;aspal;6
+301;Polyline ZM;Jl. Caruban-Morang;003;14.510;0+200;0+300;sedang;aspal;6
+302;Polyline ZM;Jl. Caruban-Morang;003;14.510;0+300;0+400;sedang;aspal;6
+303;Polyline ZM;Jl. Caruban-Morang;003;14.510;0+400;0+500;sedang;aspal;6
+304;Polyline ZM;Jl. Caruban-Morang;003;14.510;0+500;0+600;sedang;aspal;6
+305;Polyline ZM;Jl. Caruban-Morang;003;14.510;0+600;0+700;sedang;aspal;6
+306;Polyline ZM;Jl. Caruban-Morang;003;14.510;0+700;0+800;sedang;aspal;6
+307;Polyline ZM;Jl. Caruban-Morang;003;14.510;0+800;0+900;sedang;aspal;6
+308;Polyline ZM;Jl. Caruban-Morang;003;14.510;0+900;1+000;sedang;aspal;6
+309;Polyline ZM;Jl. Caruban-Morang;003;14.510;1+000;1+100;sedang;aspal;6
+310;Polyline ZM;Jl. Caruban-Morang;003;14.510;1+100;1+200;sedang;aspal;6
+311;Polyline ZM;Jl. Caruban-Morang;003;14.510;1+200;1+300;sedang;aspal;6
+312;Polyline ZM;Jl. Caruban-Morang;003;14.510;1+300;1+400;sedang;aspal;6
+313;Polyline ZM;Jl. Caruban-Morang;003;14.510;1+400;1+500;sedang;aspal;6
+314;Polyline ZM;Jl. Caruban-Morang;003;14.510;1+500;1+600;sedang;aspal;6
+315;Polyline ZM;Jl. Caruban-Morang;003;14.510;1+600;1+700;sedang;aspal;6
+316;Polyline ZM;Jl. Caruban-Morang;003;14.510;1+700;1+800;sedang;aspal;6
+317;Polyline ZM;Jl. Caruban-Morang;003;14.510;1+800;1+900;sedang;aspal;6
+318;Polyline ZM;Jl. Caruban-Morang;003;14.510;1+900;2+000;sedang;aspal;6
+319;Polyline ZM;Jl. Caruban-Morang;003;14.510;2+000;2+100;sedang;aspal;6
+320;Polyline ZM;Jl. Caruban-Morang;003;14.510;2+100;2+200;sedang;aspal;6
+321;Polyline ZM;Jl. Caruban-Morang;003;14.510;2+200;2+300;sedang;aspal;6
+322;Polyline ZM;Jl. Caruban-Morang;003;14.510;2+300;2+400;sedang;aspal;6
+323;Polyline ZM;Jl. Caruban-Morang;003;14.510;2+400;2+500;sedang;aspal;6
+324;Polyline ZM;Jl. Caruban-Morang;003;14.510;2+500;2+600;sedang;aspal;6
+325;Polyline ZM;Jl. Caruban-Morang;003;14.510;2+600;2+700;sedang;aspal;6
+326;Polyline ZM;Jl. Caruban-Morang;003;14.510;2+700;2+800;sedang;aspal;6
+327;Polyline ZM;Jl. Caruban-Morang;003;14.510;2+800;2+900;sedang;aspal;6
+328;Polyline ZM;Jl. Caruban-Morang;003;14.510;2+900;3+000;sedang;aspal;6
+329;Polyline ZM;Jl. Caruban-Morang;003;14.510;3+000;3+100;sedang;aspal;6
+330;Polyline ZM;Jl. Caruban-Morang;003;14.510;3+100;3+200;sedang;aspal;6
+331;Polyline ZM;Jl. Caruban-Morang;003;14.510;3+200;3+300;sedang;aspal;6
+332;Polyline ZM;Jl. Caruban-Morang;003;14.510;3+300;3+400;sedang;aspal;6
+333;Polyline ZM;Jl. Caruban-Morang;003;14.510;3+400;3+500;sedang;aspal;6
+334;Polyline ZM;Jl. Caruban-Morang;003;14.510;3+500;3+600;sedang;aspal;6
+335;Polyline ZM;Jl. Caruban-Morang;003;14.510;3+600;3+700;sedang;aspal;6
+336;Polyline ZM;Jl. Caruban-Morang;003;14.510;3+700;3+800;sedang;aspal;6
+337;Polyline ZM;Jl. Caruban-Morang;003;14.510;3+800;3+900;sedang;aspal;6
+338;Polyline ZM;Jl. Caruban-Morang;003;14.510;3+900;4+000;sedang;aspal;6
+339;Polyline ZM;Jl. Caruban-Morang;003;14.510;4+000;4+100;sedang;aspal;6
+340;Polyline ZM;Jl. Caruban-Morang;003;14.510;4+100;4+200;sedang;aspal;6
+341;Polyline ZM;Jl. Caruban-Morang;003;14.510;4+200;4+300;sedang;aspal;6
+342;Polyline ZM;Jl. Caruban-Morang;003;14.510;4+300;4+400;sedang;aspal;6
+343;Polyline ZM;Jl. Caruban-Morang;003;14.510;4+400;4+500;sedang;aspal;6
+344;Polyline ZM;Jl. Caruban-Morang;003;14.510;4+500;4+600;sedang;aspal;6
+345;Polyline ZM;Jl. Caruban-Morang;003;14.510;4+600;4+700;sedang;aspal;6
+346;Polyline ZM;Jl. Caruban-Morang;003;14.510;4+700;4+800;sedang;aspal;6
+347;Polyline ZM;Jl. Caruban-Morang;003;14.510;4+800;4+900;sedang;aspal;6
+348;Polyline ZM;Jl. Caruban-Morang;003;14.510;4+900;5+000;sedang;aspal;6
+349;Polyline ZM;Jl. Caruban-Morang;003;14.510;5+000;5+100;sedang;aspal;6
+350;Polyline ZM;Jl. Caruban-Morang;003;14.510;5+100;5+200;sedang;aspal;6
+351;Polyline ZM;Jl. Caruban-Morang;003;14.510;5+200;5+300;sedang;aspal;6
+352;Polyline ZM;Jl. Caruban-Morang;003;14.510;5+300;5+400;sedang;aspal;6
+353;Polyline ZM;Jl. Caruban-Morang;003;14.510;5+400;5+500;sedang;aspal;6
+354;Polyline ZM;Jl. Caruban-Morang;003;14.510;5+500;5+600;sedang;aspal;6
+355;Polyline ZM;Jl. Caruban-Morang;003;14.510;5+600;5+700;sedang;aspal;6
+356;Polyline ZM;Jl. Caruban-Morang;003;14.510;5+700;5+800;sedang;aspal;6
+357;Polyline ZM;Jl. Caruban-Morang;003;14.510;5+800;5+900;sedang;aspal;6
+358;Polyline ZM;Jl. Caruban-Morang;003;14.510;5+900;6+000;sedang;aspal;6
+359;Polyline ZM;Jl. Caruban-Morang;003;14.510;6+000;6+100;sedang;aspal;6
+360;Polyline ZM;Jl. Caruban-Morang;003;14.510;6+100;6+200;sedang;aspal;6
+361;Polyline ZM;Jl. Caruban-Morang;003;14.510;6+200;6+300;sedang;aspal;6
+362;Polyline ZM;Jl. Caruban-Morang;003;14.510;6+300;6+400;sedang;aspal;6
+363;Polyline ZM;Jl. Caruban-Morang;003;14.510;6+400;6+500;sedang;aspal;6
+364;Polyline ZM;Jl. Caruban-Morang;003;14.510;6+500;6+600;sedang;aspal;6
+365;Polyline ZM;Jl. Caruban-Morang;003;14.510;6+600;6+700;sedang;aspal;6
+366;Polyline ZM;Jl. Caruban-Morang;003;14.510;6+700;6+800;sedang;aspal;6
+367;Polyline ZM;Jl. Caruban-Morang;003;14.510;6+800;6+900;sedang;aspal;6
+368;Polyline ZM;Jl. Caruban-Morang;003;14.510;6+900;7+000;sedang;aspal;6
+369;Polyline ZM;Jl. Caruban-Morang;003;14.510;7+000;7+100;sedang;aspal;6
+370;Polyline ZM;Jl. Caruban-Morang;003;14.510;7+100;7+200;sedang;aspal;6
+371;Polyline ZM;Jl. Caruban-Morang;003;14.510;7+200;7+300;sedang;aspal;6
+372;Polyline ZM;Jl. Caruban-Morang;003;14.510;7+300;7+400;sedang;aspal;6
+373;Polyline ZM;Jl. Caruban-Morang;003;14.510;7+400;7+500;sedang;aspal;6
+374;Polyline ZM;Jl. Caruban-Morang;003;14.510;7+500;7+600;sedang;aspal;6
+375;Polyline ZM;Jl. Caruban-Morang;003;14.510;7+600;7+700;sedang;aspal;6
+376;Polyline ZM;Jl. Caruban-Morang;003;14.510;7+700;7+800;sedang;aspal;6
+377;Polyline ZM;Jl. Caruban-Morang;003;14.510;7+800;7+900;sedang;aspal;6
+378;Polyline ZM;Jl. Caruban-Morang;003;14.510;7+900;8+000;sedang;aspal;6
+379;Polyline ZM;Jl. Caruban-Morang;003;14.510;8+000;8+100;sedang;aspal;6
+380;Polyline ZM;Jl. Caruban-Morang;003;14.510;8+100;8+200;sedang;aspal;6
+381;Polyline ZM;Jl. Caruban-Morang;003;14.510;8+200;8+300;sedang;aspal;6
+382;Polyline ZM;Jl. Caruban-Morang;003;14.510;8+300;8+400;sedang;aspal;6
+383;Polyline ZM;Jl. Caruban-Morang;003;14.510;8+400;8+500;sedang;aspal;6
+384;Polyline ZM;Jl. Caruban-Morang;003;14.510;8+500;8+600;sedang;aspal;6
+385;Polyline ZM;Jl. Caruban-Morang;003;14.510;8+600;8+700;sedang;aspal;6
+386;Polyline ZM;Jl. Caruban-Morang;003;14.510;8+700;8+800;sedang;aspal;6
+387;Polyline ZM;Jl. Caruban-Morang;003;14.510;8+800;8+900;sedang;aspal;6
+388;Polyline ZM;Jl. Caruban-Morang;003;14.510;8+900;9+000;sedang;aspal;6
+389;Polyline ZM;Jl. Caruban-Morang;003;14.510;9+000;9+100;sedang;aspal;6
+390;Polyline ZM;Jl. Caruban-Morang;003;14.510;9+100;9+200;sedang;aspal;6
+391;Polyline ZM;Jl. Caruban-Morang;003;14.510;9+200;9+300;sedang;aspal;6
+392;Polyline ZM;Jl. Caruban-Morang;003;14.510;9+300;9+400;sedang;aspal;6
+393;Polyline ZM;Jl. Caruban-Morang;003;14.510;9+400;9+500;sedang;aspal;6
+394;Polyline ZM;Jl. Caruban-Morang;003;14.510;9+500;9+600;sedang;aspal;6
+395;Polyline ZM;Jl. Caruban-Morang;003;14.510;9+600;9+700;sedang;aspal;6
+396;Polyline ZM;Jl. Caruban-Morang;003;14.510;9+700;9+800;sedang;aspal;6
+397;Polyline ZM;Jl. Caruban-Morang;003;14.510;9+800;9+900;sedang;aspal;6
+398;Polyline ZM;Jl. Caruban-Morang;003;14.510;9+900;10+000;sedang;aspal;6
+399;Polyline ZM;Jl. Caruban-Morang;003;14.510;10+000;10+100;sedang;aspal;6
+400;Polyline ZM;Jl. Caruban-Morang;003;14.510;10+100;10+200;sedang;aspal;6
+401;Polyline ZM;Jl. Caruban-Morang;003;14.510;10+200;10+300;sedang;aspal;6
+402;Polyline ZM;Jl. Caruban-Morang;003;14.510;10+300;10+400;sedang;aspal;6
+403;Polyline ZM;Jl. Caruban-Morang;003;14.510;10+400;10+500;sedang;aspal;6
+404;Polyline ZM;Jl. Caruban-Morang;003;14.510;10+500;10+600;sedang;aspal;6
+405;Polyline ZM;Jl. Caruban-Morang;003;14.510;10+600;10+700;sedang;aspal;6
+406;Polyline ZM;Jl. Caruban-Morang;003;14.510;10+700;10+800;sedang;aspal;6
+407;Polyline ZM;Jl. Caruban-Morang;003;14.510;10+800;10+900;sedang;aspal;6
+408;Polyline ZM;Jl. Caruban-Morang;003;14.510;10+900;11+000;sedang;aspal;6
+409;Polyline ZM;Jl. Caruban-Morang;003;14.510;11+000;11+100;sedang;aspal;6
+410;Polyline ZM;Jl. Caruban-Morang;003;14.510;11+100;11+200;sedang;aspal;6
+411;Polyline ZM;Jl. Caruban-Morang;003;14.510;11+200;11+300;sedang;aspal;6
+412;Polyline ZM;Jl. Caruban-Morang;003;14.510;11+300;11+400;sedang;aspal;6
+413;Polyline ZM;Jl. Caruban-Morang;003;14.510;11+400;11+500;sedang;aspal;6
+414;Polyline ZM;Jl. Caruban-Morang;003;14.510;11+500;11+600;sedang;aspal;6
+415;Polyline ZM;Jl. Caruban-Morang;003;14.510;11+600;11+700;sedang;aspal;6
+416;Polyline ZM;Jl. Caruban-Morang;003;14.510;11+700;11+800;sedang;aspal;6
+417;Polyline ZM;Jl. Caruban-Morang;003;14.510;11+800;11+900;sedang;aspal;6
+418;Polyline ZM;Jl. Caruban-Morang;003;14.510;11+900;12+000;sedang;aspal;6
+419;Polyline ZM;Jl. Caruban-Morang;003;14.510;12+000;12+100;sedang;aspal;6
+420;Polyline ZM;Jl. Caruban-Morang;003;14.510;12+100;12+200;sedang;aspal;6
+421;Polyline ZM;Jl. Caruban-Morang;003;14.510;12+200;12+300;sedang;aspal;6
+422;Polyline ZM;Jl. Caruban-Morang;003;14.510;12+300;12+400;sedang;aspal;6
+423;Polyline ZM;Jl. Caruban-Morang;003;14.510;12+400;12+500;sedang;aspal;6
+424;Polyline ZM;Jl. Caruban-Morang;003;14.510;12+500;12+600;sedang;aspal;6
+425;Polyline ZM;Jl. Caruban-Morang;003;14.510;12+600;12+700;sedang;aspal;6
+426;Polyline ZM;Jl. Caruban-Morang;003;14.510;12+700;12+800;sedang;aspal;6
+427;Polyline ZM;Jl. Caruban-Morang;003;14.510;12+800;12+900;sedang;aspal;6
+428;Polyline ZM;Jl. Caruban-Morang;003;14.510;12+900;13+000;sedang;aspal;6
+429;Polyline ZM;Jl. Caruban-Morang;003;14.510;13+000;13+100;sedang;aspal;6
+430;Polyline ZM;Jl. Caruban-Morang;003;14.510;13+100;13+200;sedang;aspal;6
+431;Polyline ZM;Jl. Caruban-Morang;003;14.510;13+200;13+300;sedang;aspal;6
+432;Polyline ZM;Jl. Caruban-Morang;003;14.510;13+300;13+400;sedang;aspal;6
+433;Polyline ZM;Jl. Caruban-Morang;003;14.510;13+400;13+500;sedang;aspal;6
+434;Polyline ZM;Jl. Caruban-Morang;003;14.510;13+500;13+600;sedang;aspal;6
+435;Polyline ZM;Jl. Caruban-Morang;003;14.510;13+600;13+700;sedang;aspal;6
+436;Polyline ZM;Jl. Caruban-Morang;003;14.510;13+700;13+800;sedang;aspal;6
+437;Polyline ZM;Jl. Caruban-Morang;003;14.510;13+800;13+900;sedang;aspal;6
+438;Polyline ZM;Jl. Caruban-Morang;003;14.510;13+900;14+000;sedang;aspal;6
+439;Polyline ZM;Jl. Caruban-Morang;003;14.510;14+000;14+100;sedang;aspal;6
+440;Polyline ZM;Jl. Caruban-Morang;003;14.510;14+100;14+200;sedang;aspal;6
+441;Polyline ZM;Jl. Caruban-Morang;003;14.510;14+200;14+300;sedang;aspal;6
+442;Polyline ZM;Jl. Caruban-Morang;003;14.510;14+400;14+498;sedang;aspal;6
+31;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;7+700;7+800;sedang;aspal;6
+443;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;0+000;0+100;sedang;aspal;6
+444;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;0+100;0+200;sedang;aspal;6
+445;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;0+200;0+300;sedang;aspal;6
+446;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;0+300;0+400;sedang;aspal;6
+447;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;0+400;0+500;sedang;aspal;6
+448;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;0+500;0+600;sedang;aspal;6
+449;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;0+600;0+700;sedang;aspal;6
+450;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;0+700;0+800;sedang;aspal;6
+451;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;0+800;0+900;sedang;aspal;6
+452;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;0+900;1+000;sedang;aspal;6
+453;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;1+000;1+100;sedang;aspal;6
+454;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;1+100;1+200;sedang;aspal;6
+455;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;1+200;1+300;sedang;aspal;6
+456;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;1+300;1+400;sedang;aspal;6
+457;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;1+400;1+500;sedang;aspal;6
+458;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;1+500;1+600;sedang;aspal;6
+459;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;1+600;1+700;sedang;aspal;6
+460;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;1+700;1+800;sedang;aspal;6
+461;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;1+800;1+900;sedang;aspal;6
+462;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;1+900;2+000;sedang;aspal;6
+463;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;2+000;2+100;sedang;aspal;6
+464;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;2+100;2+200;sedang;aspal;6
+465;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;2+200;2+300;sedang;aspal;6
+466;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;2+300;2+400;sedang;aspal;6
+467;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;2+400;2+500;sedang;aspal;6
+468;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;2+500;2+600;sedang;aspal;6
+469;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;2+600;2+700;sedang;aspal;6
+470;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;2+700;2+800;sedang;aspal;6
+471;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;2+800;2+900;sedang;aspal;6
+472;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;2+900;3+000;sedang;aspal;6
+473;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;3+000;3+100;sedang;aspal;6
+474;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;3+100;3+200;sedang;aspal;6
+475;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;3+200;3+300;sedang;aspal;6
+476;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;3+300;3+400;sedang;aspal;6
+477;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;3+400;3+500;sedang;aspal;6
+478;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;3+500;3+600;sedang;aspal;6
+479;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;3+600;3+700;sedang;aspal;6
+480;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;3+700;3+800;sedang;aspal;6
+481;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;3+800;3+900;sedang;aspal;6
+482;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;3+900;4+000;sedang;aspal;6
+483;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;4+000;4+100;sedang;aspal;6
+484;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;4+100;4+200;sedang;aspal;6
+485;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;4+200;4+300;sedang;aspal;6
+486;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;4+300;4+400;sedang;aspal;6
+487;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;4+400;4+500;sedang;aspal;6
+488;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;4+500;4+600;sedang;aspal;6
+489;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;4+600;4+700;sedang;aspal;6
+490;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;4+700;4+800;sedang;aspal;6
+491;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;4+800;4+900;sedang;aspal;6
+492;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;4+900;5+000;sedang;aspal;6
+493;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;5+000;5+100;sedang;aspal;6
+494;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;5+100;5+200;sedang;aspal;6
+495;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;5+200;5+300;sedang;aspal;6
+496;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;5+300;5+400;sedang;aspal;6
+497;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;5+400;5+500;sedang;aspal;6
+498;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;5+500;5+600;sedang;aspal;6
+499;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;5+600;5+700;sedang;aspal;6
+500;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;5+700;5+800;sedang;aspal;6
+501;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;5+800;5+900;sedang;aspal;6
+502;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;5+900;6+000;sedang;aspal;6
+503;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;6+000;6+100;sedang;aspal;6
+504;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;6+100;6+200;sedang;aspal;6
+505;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;6+200;6+300;sedang;aspal;6
+506;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;6+300;6+400;sedang;aspal;6
+507;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;6+400;6+500;sedang;aspal;6
+508;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;6+500;6+600;sedang;aspal;6
+509;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;6+600;6+700;sedang;aspal;6
+510;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;6+700;6+800;sedang;aspal;6
+511;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;6+800;6+900;sedang;aspal;6
+512;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;6+900;7+000;sedang;aspal;6
+513;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;7+000;7+100;sedang;aspal;6
+514;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;7+100;7+200;sedang;aspal;6
+515;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;7+200;7+300;sedang;aspal;6
+516;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;7+300;7+400;sedang;aspal;6
+517;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;7+400;7+500;sedang;aspal;6
+518;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;7+500;7+600;sedang;aspal;6
+519;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;7+600;7+700;sedang;aspal;6
+520;Polyline ZM;Jl. Balerejo-Muneng;004;7.800;"7+800
+";7+836;sedang;aspal;6
+84;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;1+700;1+800;sedang;aspal;6
+521;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;0+000;0+100;sedang;aspal;6
+522;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;0+100;0+200;sedang;aspal;6
+523;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;0+200;0+300;sedang;aspal;6
+524;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;0+300;0+400;sedang;aspal;6
+525;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;0+400;0+500;sedang;aspal;6
+526;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;0+500;0+600;sedang;aspal;6
+527;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;0+600;0+700;sedang;aspal;6
+528;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;0+700;0+800;sedang;aspal;6
+529;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;0+800;0+900;sedang;aspal;6
+530;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;0+900;1+000;sedang;aspal;6
+531;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;1+000;1+100;sedang;aspal;6
+532;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;1+100;1+200;sedang;aspal;6
+533;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;1+200;1+300;sedang;aspal;6
+534;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;1+300;1+400;sedang;aspal;6
+535;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;1+400;1+500;sedang;aspal;6
+536;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;1+500;1+600;sedang;aspal;6
+537;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;1+600;1+700;sedang;aspal;6
+538;Polyline ZM;Jl. Pagotan-Dagangan;005;1.840;1+800;1+847;sedang;aspal;6
+124;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;"6+700
+";6+800;sedang;aspal;6
+539;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;0+000;0+100;sedang;aspal;6
+540;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;0+100;0+200;sedang;aspal;6
+541;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;0+200;0+300;sedang;aspal;6
+542;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;0+300;0+400;sedang;aspal;6
+543;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;0+400;0+500;sedang;aspal;6
+544;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;0+500;0+600;sedang;aspal;6
+545;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;0+600;0+700;sedang;aspal;6
+546;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;0+700;0+800;sedang;aspal;6
+547;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;0+800;0+900;sedang;aspal;6
+548;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;0+900;1+000;sedang;aspal;6
+549;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;1+000;1+100;sedang;aspal;6
+550;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;1+100;1+200;sedang;aspal;6
+551;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;1+200;1+300;sedang;aspal;6
+552;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;1+300;1+400;sedang;aspal;6
+553;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;1+400;1+500;sedang;aspal;6
+554;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;1+500;1+600;sedang;aspal;6
+555;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;1+600;1+700;sedang;aspal;6
+556;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;1+700;1+800;sedang;aspal;6
+557;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;1+800;1+900;sedang;aspal;6
+558;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;1+900;2+000;sedang;aspal;6
+559;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;2+000;2+100;sedang;aspal;6
+560;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;2+100;2+200;sedang;aspal;6
+561;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;2+200;2+300;sedang;aspal;6
+562;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;2+300;2+400;sedang;aspal;6
+563;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;2+400;2+500;sedang;aspal;6
+564;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;2+500;2+600;sedang;aspal;6
+565;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;2+600;2+700;sedang;aspal;6
+566;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;2+700;2+800;sedang;aspal;6
+567;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;2+800;2+900;sedang;aspal;6
+568;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;2+900;3+000;sedang;aspal;6
+569;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;3+000;3+100;sedang;aspal;6
+570;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;3+100;3+200;sedang;aspal;6
+571;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;3+200;3+300;sedang;aspal;6
+572;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;3+300;3+400;sedang;aspal;6
+573;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;3+400;3+500;sedang;aspal;6
+574;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;3+500;3+600;sedang;aspal;6
+575;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;3+600;3+700;sedang;aspal;6
+576;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;3+700;3+800;sedang;aspal;6
+577;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;3+800;3+900;sedang;aspal;6
+578;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;3+900;4+000;sedang;aspal;6
+579;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;4+000;4+100;sedang;aspal;6
+580;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;4+100;4+200;sedang;aspal;6
+581;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;4+200;4+300;sedang;aspal;6
+582;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;4+300;4+400;sedang;aspal;6
+583;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;4+400;4+500;sedang;aspal;6
+584;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;4+500;4+600;sedang;aspal;6
+585;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;4+600;4+700;sedang;aspal;6
+586;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;4+700;4+800;sedang;aspal;6
+587;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;4+800;4+900;sedang;aspal;6
+588;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;4+900;5+000;sedang;aspal;6
+589;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;5+000;5+100;sedang;aspal;6
+590;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;5+100;5+200;sedang;aspal;6
+591;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;5+200;5+300;sedang;aspal;6
+592;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;5+300;5+400;sedang;aspal;6
+593;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;5+400;5+500;sedang;aspal;6
+594;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;5+500;5+600;sedang;aspal;6
+595;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;5+600;5+700;sedang;aspal;6
+596;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;5+700;5+800;sedang;aspal;6
+597;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;5+800;5+900;sedang;aspal;6
+598;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;5+900;6+000;sedang;aspal;6
+599;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;6+000;6+100;sedang;aspal;6
+600;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;6+100;6+200;sedang;aspal;6
+601;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;6+200;6+300;sedang;aspal;6
+602;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;6+300;6+400;sedang;aspal;6
+603;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;6+400;6+500;sedang;aspal;6
+604;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;6+500;6+600;sedang;aspal;6
+605;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;6+600;6+700;sedang;aspal;6
+606;Polyline ZM;Jl. Uteran-Batas Magetan;006;7.110;6+800;" 6+860
+";sedang;aspal;6
+121;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;7+700;7+800;sedang;aspal;6
+607;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;0+000;0+100;sedang;aspal;6
+608;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;0+100;0+200;sedang;aspal;6
+609;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;0+200;0+300;sedang;aspal;6
+610;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;0+300;0+400;sedang;aspal;6
+611;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;0+400;0+500;sedang;aspal;6
+612;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;0+500;0+600;sedang;aspal;6
+613;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;0+600;0+700;sedang;aspal;6
+614;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;0+700;0+800;sedang;aspal;6
+615;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;0+800;0+900;sedang;aspal;6
+616;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;0+900;1+000;sedang;aspal;6
+617;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;1+000;1+100;sedang;aspal;6
+618;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;1+100;1+200;sedang;aspal;6
+619;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;1+200;1+300;sedang;aspal;6
+620;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;1+300;1+400;sedang;aspal;6
+621;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;1+400;1+500;sedang;aspal;6
+622;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;1+500;1+600;sedang;aspal;6
+623;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;1+600;1+700;sedang;aspal;6
+624;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;1+700;1+800;sedang;aspal;6
+625;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;1+800;1+900;sedang;aspal;6
+626;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;1+900;2+000;sedang;aspal;6
+627;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;2+000;2+100;sedang;aspal;6
+628;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;2+100;2+200;sedang;aspal;6
+629;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;2+200;2+300;sedang;aspal;6
+630;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;2+300;2+400;sedang;aspal;6
+631;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;2+400;2+500;sedang;aspal;6
+632;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;2+500;2+600;sedang;aspal;6
+633;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;2+600;2+700;sedang;aspal;6
+634;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;2+700;2+800;sedang;aspal;6
+635;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;2+800;2+900;sedang;aspal;6
+636;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;2+900;3+000;sedang;beton;6
+637;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;3+000;3+100;sedang;beton;6
+638;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;3+100;3+200;sedang;beton;6
+639;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;3+200;3+300;sedang;beton;6
+640;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;3+300;3+400;sedang;beton;6
+641;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;3+400;3+500;sedang;beton;6
+642;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;3+500;3+600;sedang;beton;6
+643;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;3+600;3+700;sedang;beton;6
+644;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;3+700;3+800;sedang;beton;6
+645;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;3+800;3+900;sedang;beton;6
+646;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;3+900;4+000;sedang;beton;6
+647;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;4+000;4+100;sedang;beton;6
+648;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;4+100;4+200;sedang;beton;6
+649;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;4+200;4+300;sedang;beton;6
+650;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;4+300;4+400;sedang;beton;6
+651;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;4+400;4+500;sedang;beton;6
+652;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;4+500;4+600;sedang;beton;6
+653;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;4+600;4+700;sedang;beton;6
+654;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;4+700;4+800;sedang;beton;6
+655;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;4+800;4+900;sedang;beton;6
+656;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;4+900;5+000;sedang;beton;6
+657;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;5+000;5+100;sedang;beton;6
+658;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;5+100;5+200;sedang;beton;6
+659;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;5+200;5+300;sedang;beton;6
+660;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;5+300;5+400;sedang;beton;6
+661;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;5+400;5+500;sedang;beton;6
+662;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;5+500;5+600;sedang;beton;6
+663;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;5+600;5+700;sedang;beton;6
+664;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;5+700;5+800;sedang;beton;6
+665;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;5+800;5+900;sedang;beton;6
+666;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;5+900;6+000;sedang;beton;6
+667;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;6+000;6+100;sedang;beton;6
+668;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;6+100;6+200;sedang;beton;6
+669;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;6+200;6+300;sedang;beton;6
+670;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;6+300;6+400;sedang;beton;6
+671;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;6+400;6+500;sedang;beton;6
+672;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;6+500;6+600;sedang;beton;6
+673;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;6+600;6+700;sedang;beton;6
+674;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;6+700;6+800;sedang;beton;6
+675;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;6+800;6+900;sedang;beton;6
+676;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;6+900;7+000;sedang;beton;6
+677;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;7+000;7+100;sedang;beton;6
+678;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;7+100;7+200;sedang;beton;6
+679;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;7+200;7+300;sedang;beton;6
+680;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;7+300;7+400;sedang;beton;6
+681;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;7+400;7+500;sedang;beton;6
+682;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;7+500;7+600;sedang;beton;6
+683;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;7+600;7+700;sedang;beton;6
+684;Polyline ZM;Jl. Dolopo-Mojorejo;007;7.800;7+800;" 7+810
+";sedang;beton;6
+58;Polyline ZM;Jl. Saradan-Mundu;008;12.110;12+000;12+100;sedang;beton;6
+685;Polyline ZM;Jl. Saradan-Mundu;008;12.110;0+000;0+100;sedang;beton;6
+686;Polyline ZM;Jl. Saradan-Mundu;008;12.110;0+100;0+200;sedang;beton;6
+687;Polyline ZM;Jl. Saradan-Mundu;008;12.110;0+200;0+300;sedang;beton;6
+688;Polyline ZM;Jl. Saradan-Mundu;008;12.110;0+300;0+400;sedang;beton;6
+689;Polyline ZM;Jl. Saradan-Mundu;008;12.110;0+400;0+500;sedang;beton;6
+690;Polyline ZM;Jl. Saradan-Mundu;008;12.110;0+500;0+600;sedang;beton;6
+691;Polyline ZM;Jl. Saradan-Mundu;008;12.110;0+600;0+700;sedang;beton;6
+692;Polyline ZM;Jl. Saradan-Mundu;008;12.110;0+700;0+800;sedang;beton;6
+693;Polyline ZM;Jl. Saradan-Mundu;008;12.110;0+800;0+900;sedang;beton;6
+694;Polyline ZM;Jl. Saradan-Mundu;008;12.110;0+900;1+000;sedang;beton;6
+695;Polyline ZM;Jl. Saradan-Mundu;008;12.110;1+000;1+100;sedang;beton;6
+696;Polyline ZM;Jl. Saradan-Mundu;008;12.110;1+100;1+200;sedang;beton;6
+697;Polyline ZM;Jl. Saradan-Mundu;008;12.110;1+200;1+300;sedang;beton;6
+698;Polyline ZM;Jl. Saradan-Mundu;008;12.110;1+300;1+400;sedang;beton;6
+699;Polyline ZM;Jl. Saradan-Mundu;008;12.110;1+400;1+500;sedang;beton;6
+700;Polyline ZM;Jl. Saradan-Mundu;008;12.110;1+500;1+600;sedang;beton;6
+701;Polyline ZM;Jl. Saradan-Mundu;008;12.110;1+600;1+700;sedang;beton;6
+702;Polyline ZM;Jl. Saradan-Mundu;008;12.110;1+700;1+800;sedang;beton;6
+703;Polyline ZM;Jl. Saradan-Mundu;008;12.110;1+800;1+900;sedang;beton;6
+704;Polyline ZM;Jl. Saradan-Mundu;008;12.110;1+900;2+000;sedang;beton;6
+705;Polyline ZM;Jl. Saradan-Mundu;008;12.110;2+000;2+100;sedang;beton;6
+706;Polyline ZM;Jl. Saradan-Mundu;008;12.110;2+100;2+200;sedang;beton;6
+707;Polyline ZM;Jl. Saradan-Mundu;008;12.110;2+200;2+300;sedang;beton;6
+708;Polyline ZM;Jl. Saradan-Mundu;008;12.110;2+300;2+400;sedang;beton;6
+709;Polyline ZM;Jl. Saradan-Mundu;008;12.110;2+400;2+500;sedang;beton;6
+710;Polyline ZM;Jl. Saradan-Mundu;008;12.110;2+500;2+600;sedang;beton;6
+711;Polyline ZM;Jl. Saradan-Mundu;008;12.110;2+600;2+700;sedang;beton;6
+712;Polyline ZM;Jl. Saradan-Mundu;008;12.110;2+700;2+800;sedang;beton;6
+713;Polyline ZM;Jl. Saradan-Mundu;008;12.110;2+800;2+900;sedang;beton;6
+714;Polyline ZM;Jl. Saradan-Mundu;008;12.110;2+900;3+000;sedang;beton;6
+715;Polyline ZM;Jl. Saradan-Mundu;008;12.110;3+000;3+100;sedang;beton;6
+716;Polyline ZM;Jl. Saradan-Mundu;008;12.110;3+100;3+200;sedang;beton;6
+717;Polyline ZM;Jl. Saradan-Mundu;008;12.110;3+200;3+300;sedang;beton;6
+718;Polyline ZM;Jl. Saradan-Mundu;008;12.110;3+300;3+400;sedang;beton;6
+719;Polyline ZM;Jl. Saradan-Mundu;008;12.110;3+400;3+500;sedang;beton;6
+720;Polyline ZM;Jl. Saradan-Mundu;008;12.110;3+500;3+600;sedang;beton;6
+721;Polyline ZM;Jl. Saradan-Mundu;008;12.110;3+600;3+700;sedang;beton;6
+722;Polyline ZM;Jl. Saradan-Mundu;008;12.110;3+700;3+800;sedang;beton;6
+723;Polyline ZM;Jl. Saradan-Mundu;008;12.110;3+800;3+900;sedang;beton;6
+724;Polyline ZM;Jl. Saradan-Mundu;008;12.110;3+900;4+000;sedang;beton;6
+725;Polyline ZM;Jl. Saradan-Mundu;008;12.110;4+000;4+100;sedang;beton;6
+726;Polyline ZM;Jl. Saradan-Mundu;008;12.110;4+100;4+200;sedang;beton;6
+727;Polyline ZM;Jl. Saradan-Mundu;008;12.110;4+200;4+300;sedang;beton;6
+728;Polyline ZM;Jl. Saradan-Mundu;008;12.110;4+300;4+400;sedang;beton;6
+729;Polyline ZM;Jl. Saradan-Mundu;008;12.110;4+400;4+500;sedang;beton;6
+730;Polyline ZM;Jl. Saradan-Mundu;008;12.110;4+500;4+600;sedang;beton;6
+731;Polyline ZM;Jl. Saradan-Mundu;008;12.110;4+600;4+700;sedang;beton;6
+732;Polyline ZM;Jl. Saradan-Mundu;008;12.110;4+700;4+800;sedang;beton;6
+733;Polyline ZM;Jl. Saradan-Mundu;008;12.110;4+800;4+900;sedang;beton;6
+734;Polyline ZM;Jl. Saradan-Mundu;008;12.110;4+900;5+000;sedang;beton;6
+735;Polyline ZM;Jl. Saradan-Mundu;008;12.110;5+000;5+100;sedang;beton;6
+736;Polyline ZM;Jl. Saradan-Mundu;008;12.110;5+100;5+200;sedang;beton;6
+737;Polyline ZM;Jl. Saradan-Mundu;008;12.110;5+200;5+300;sedang;beton;6
+738;Polyline ZM;Jl. Saradan-Mundu;008;12.110;5+300;5+400;sedang;beton;6
+739;Polyline ZM;Jl. Saradan-Mundu;008;12.110;5+400;5+500;sedang;beton;6
+740;Polyline ZM;Jl. Saradan-Mundu;008;12.110;5+500;5+600;sedang;beton;6
+741;Polyline ZM;Jl. Saradan-Mundu;008;12.110;5+600;5+700;sedang;beton;6
+742;Polyline ZM;Jl. Saradan-Mundu;008;12.110;5+700;5+800;sedang;beton;6
+743;Polyline ZM;Jl. Saradan-Mundu;008;12.110;5+800;5+900;sedang;beton;6
+744;Polyline ZM;Jl. Saradan-Mundu;008;12.110;5+900;6+000;sedang;beton;6
+745;Polyline ZM;Jl. Saradan-Mundu;008;12.110;6+000;6+100;sedang;beton;6
+746;Polyline ZM;Jl. Saradan-Mundu;008;12.110;6+100;6+200;sedang;beton;6
+747;Polyline ZM;Jl. Saradan-Mundu;008;12.110;6+200;6+300;sedang;beton;6
+748;Polyline ZM;Jl. Saradan-Mundu;008;12.110;6+300;6+400;sedang;beton;6
+749;Polyline ZM;Jl. Saradan-Mundu;008;12.110;6+400;6+500;sedang;beton;6
+750;Polyline ZM;Jl. Saradan-Mundu;008;12.110;6+500;6+600;sedang;beton;6
+751;Polyline ZM;Jl. Saradan-Mundu;008;12.110;6+600;6+700;sedang;beton;6
+752;Polyline ZM;Jl. Saradan-Mundu;008;12.110;6+700;6+800;sedang;beton;6
+753;Polyline ZM;Jl. Saradan-Mundu;008;12.110;6+800;6+900;sedang;beton;6
+754;Polyline ZM;Jl. Saradan-Mundu;008;12.110;6+900;7+000;sedang;beton;6
+755;Polyline ZM;Jl. Saradan-Mundu;008;12.110;7+000;7+100;sedang;beton;6
+756;Polyline ZM;Jl. Saradan-Mundu;008;12.110;7+100;7+200;sedang;beton;6
+757;Polyline ZM;Jl. Saradan-Mundu;008;12.110;7+200;7+300;sedang;beton;6
+758;Polyline ZM;Jl. Saradan-Mundu;008;12.110;7+300;7+400;sedang;beton;6
+759;Polyline ZM;Jl. Saradan-Mundu;008;12.110;7+400;7+500;sedang;beton;6
+760;Polyline ZM;Jl. Saradan-Mundu;008;12.110;7+500;7+600;sedang;beton;6
+761;Polyline ZM;Jl. Saradan-Mundu;008;12.110;7+600;7+700;sedang;beton;6
+762;Polyline ZM;Jl. Saradan-Mundu;008;12.110;7+700;7+800;sedang;beton;6
+763;Polyline ZM;Jl. Saradan-Mundu;008;12.110;7+800;7+900;sedang;beton;6
+764;Polyline ZM;Jl. Saradan-Mundu;008;12.110;7+900;8+000;sedang;beton;6
+765;Polyline ZM;Jl. Saradan-Mundu;008;12.110;8+000;8+100;sedang;beton;6
+766;Polyline ZM;Jl. Saradan-Mundu;008;12.110;8+100;8+200;sedang;beton;6
+767;Polyline ZM;Jl. Saradan-Mundu;008;12.110;8+200;8+300;sedang;beton;6
+768;Polyline ZM;Jl. Saradan-Mundu;008;12.110;8+300;8+400;sedang;beton;6
+769;Polyline ZM;Jl. Saradan-Mundu;008;12.110;8+400;8+500;sedang;beton;6
+770;Polyline ZM;Jl. Saradan-Mundu;008;12.110;8+500;8+600;sedang;beton;6
+771;Polyline ZM;Jl. Saradan-Mundu;008;12.110;8+600;8+700;sedang;beton;6
+772;Polyline ZM;Jl. Saradan-Mundu;008;12.110;8+700;8+800;sedang;beton;6
+773;Polyline ZM;Jl. Saradan-Mundu;008;12.110;8+800;8+900;sedang;beton;6
+774;Polyline ZM;Jl. Saradan-Mundu;008;12.110;8+900;9+000;sedang;beton;6
+775;Polyline ZM;Jl. Saradan-Mundu;008;12.110;9+000;9+100;sedang;beton;6
+776;Polyline ZM;Jl. Saradan-Mundu;008;12.110;9+100;9+200;sedang;beton;6
+777;Polyline ZM;Jl. Saradan-Mundu;008;12.110;9+200;9+300;sedang;beton;6
+778;Polyline ZM;Jl. Saradan-Mundu;008;12.110;9+300;9+400;sedang;beton;6
+779;Polyline ZM;Jl. Saradan-Mundu;008;12.110;9+400;9+500;sedang;beton;6
+780;Polyline ZM;Jl. Saradan-Mundu;008;12.110;9+500;9+600;sedang;beton;6
+781;Polyline ZM;Jl. Saradan-Mundu;008;12.110;9+600;9+700;sedang;beton;6
+782;Polyline ZM;Jl. Saradan-Mundu;008;12.110;9+700;9+800;sedang;beton;6
+783;Polyline ZM;Jl. Saradan-Mundu;008;12.110;9+800;9+900;sedang;beton;6
+784;Polyline ZM;Jl. Saradan-Mundu;008;12.110;9+900;10+000;sedang;beton;6
+785;Polyline ZM;Jl. Saradan-Mundu;008;12.110;10+000;10+100;sedang;beton;6
+786;Polyline ZM;Jl. Saradan-Mundu;008;12.110;10+100;10+200;sedang;beton;6
+787;Polyline ZM;Jl. Saradan-Mundu;008;12.110;10+200;10+300;sedang;beton;6
+788;Polyline ZM;Jl. Saradan-Mundu;008;12.110;10+300;10+400;sedang;beton;6
+789;Polyline ZM;Jl. Saradan-Mundu;008;12.110;10+400;10+500;sedang;beton;6
+790;Polyline ZM;Jl. Saradan-Mundu;008;12.110;10+500;10+600;sedang;beton;6
+791;Polyline ZM;Jl. Saradan-Mundu;008;12.110;10+600;10+700;sedang;beton;6
+792;Polyline ZM;Jl. Saradan-Mundu;008;12.110;10+700;10+800;sedang;beton;6
+793;Polyline ZM;Jl. Saradan-Mundu;008;12.110;10+800;10+900;sedang;beton;6
+794;Polyline ZM;Jl. Saradan-Mundu;008;12.110;10+900;11+000;sedang;beton;6
+795;Polyline ZM;Jl. Saradan-Mundu;008;12.110;11+000;11+100;sedang;beton;6
+796;Polyline ZM;Jl. Saradan-Mundu;008;12.110;11+100;11+200;sedang;beton;6
+797;Polyline ZM;Jl. Saradan-Mundu;008;12.110;11+200;11+300;sedang;beton;6
+798;Polyline ZM;Jl. Saradan-Mundu;008;12.110;11+300;11+400;sedang;beton;6
+799;Polyline ZM;Jl. Saradan-Mundu;008;12.110;11+400;11+500;sedang;beton;6
+800;Polyline ZM;Jl. Saradan-Mundu;008;12.110;11+500;11+600;sedang;beton;6
+801;Polyline ZM;Jl. Saradan-Mundu;008;12.110;11+600;11+700;sedang;beton;6
+802;Polyline ZM;Jl. Saradan-Mundu;008;12.110;11+700;11+800;sedang;beton;6
+803;Polyline ZM;Jl. Saradan-Mundu;008;12.110;11+800;11+900;sedang;beton;6
+804;Polyline ZM;Jl. Saradan-Mundu;008;12.110;11+900;12+000;sedang;beton;6
+805;Polyline ZM;Jl. Saradan-Mundu;008;12.110;12+100;12+100;sedang;beton;6
+154;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;8+600;8+700;sedang;beton;6
+806;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;0+000;0+100;sedang;beton;6
+807;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;0+100;0+200;sedang;beton;6
+808;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;0+200;0+300;sedang;beton;6
+809;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;0+300;0+400;sedang;beton;6
+810;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;0+400;0+500;sedang;beton;6
+811;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;0+500;0+600;sedang;beton;6
+812;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;0+600;0+700;sedang;beton;6
+813;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;0+700;0+800;sedang;beton;6
+814;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;0+800;0+900;sedang;beton;6
+815;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;0+900;1+000;sedang;beton;6
+816;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;1+000;1+100;sedang;beton;6
+817;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;1+100;1+200;sedang;beton;6
+818;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;1+200;1+300;sedang;beton;6
+819;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;1+300;1+400;sedang;beton;6
+820;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;1+400;1+500;sedang;beton;6
+821;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;1+500;1+600;sedang;beton;6
+822;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;1+600;1+700;sedang;beton;6
+823;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;1+700;1+800;sedang;beton;6
+824;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;1+800;1+900;sedang;beton;6
+825;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;1+900;2+000;sedang;beton;6
+826;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;2+000;2+100;sedang;beton;6
+827;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;2+100;2+200;sedang;beton;6
+828;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;2+200;2+300;sedang;beton;6
+829;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;2+300;2+400;sedang;beton;6
+830;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;2+400;2+500;sedang;beton;6
+831;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;2+500;2+600;sedang;beton;6
+832;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;2+600;2+700;sedang;beton;6
+833;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;2+700;2+800;sedang;beton;6
+834;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;2+800;2+900;sedang;beton;6
+835;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;2+900;3+000;sedang;beton;6
+836;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;3+000;3+100;sedang;beton;6
+837;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;3+100;3+200;sedang;beton;6
+838;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;3+200;3+300;sedang;beton;6
+839;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;3+300;3+400;sedang;beton;6
+840;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;3+400;3+500;sedang;beton;6
+841;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;3+500;3+600;sedang;beton;6
+842;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;3+600;3+700;sedang;beton;6
+843;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;3+700;3+800;sedang;beton;6
+844;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;3+800;3+900;sedang;beton;6
+845;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;3+900;4+000;sedang;beton;6
+846;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;4+000;4+100;sedang;beton;6
+847;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;4+100;4+200;sedang;beton;6
+848;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;4+200;4+300;sedang;beton;6
+849;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;4+300;4+400;sedang;beton;6
+850;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;4+400;4+500;sedang;beton;6
+851;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;4+500;4+600;sedang;beton;6
+852;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;4+600;4+700;sedang;beton;6
+853;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;4+700;4+800;sedang;beton;6
+854;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;4+800;4+900;sedang;beton;6
+855;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;4+900;5+000;sedang;beton;6
+856;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;5+000;5+100;sedang;beton;6
+857;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;5+100;5+200;sedang;beton;6
+858;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;5+200;5+300;sedang;beton;6
+859;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;5+300;5+400;sedang;beton;6
+860;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;5+400;5+500;sedang;beton;6
+861;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;5+500;5+600;sedang;beton;6
+862;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;5+600;5+700;sedang;beton;6
+863;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;5+700;5+800;sedang;beton;6
+864;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;5+800;5+900;sedang;beton;6
+865;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;5+900;6+000;sedang;beton;6
+866;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;6+000;6+100;sedang;beton;6
+867;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;6+100;6+200;sedang;beton;6
+868;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;6+200;6+300;sedang;beton;6
+869;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;6+300;6+400;sedang;beton;6
+870;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;6+400;6+500;sedang;beton;6
+871;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;6+500;6+600;sedang;beton;6
+872;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;6+600;6+700;sedang;beton;6
+873;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;6+700;6+800;sedang;beton;6
+874;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;6+800;6+900;sedang;beton;6
+875;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;6+900;7+000;sedang;beton;6
+876;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;7+000;7+100;sedang;beton;6
+877;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;7+100;7+200;sedang;beton;6
+878;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;7+200;7+300;sedang;beton;6
+879;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;7+300;7+400;sedang;beton;6
+880;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;7+400;7+500;sedang;beton;6
+881;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;7+500;7+600;sedang;beton;6
+882;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;7+600;7+700;sedang;beton;6
+883;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;7+700;7+800;sedang;beton;6
+884;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;7+800;7+900;sedang;beton;6
+885;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;7+900;8+000;sedang;beton;6
+886;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;8+000;8+100;sedang;beton;6
+887;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;8+100;8+200;sedang;beton;6
+888;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;8+200;8+300;sedang;beton;6
+889;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;8+300;8+400;sedang;beton;6
+890;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;8+400;8+500;sedang;beton;6
+891;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;8+500;8+600;sedang;beton;6
+892;Polyline ZM;Jl. Dungus-Batas Kota;009;8.700;8+700;8+728;sedang;beton;6
+20;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;4+800;4+900;sedang;beton;6
+893;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;0+000;0+100;sedang;beton;6
+894;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;0+100;0+200;sedang;beton;6
+895;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;0+200;0+300;sedang;beton;6
+896;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;0+300;0+400;sedang;beton;6
+897;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;0+400;0+500;sedang;beton;6
+898;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;0+500;0+600;sedang;beton;6
+899;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;0+600;0+700;sedang;beton;6
+900;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;0+700;0+800;sedang;beton;6
+901;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;0+800;0+900;sedang;beton;6
+902;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;0+900;1+000;sedang;beton;6
+903;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;1+000;1+100;sedang;beton;6
+904;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;1+100;1+200;sedang;beton;6
+905;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;1+200;1+300;sedang;beton;6
+906;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;1+300;1+400;sedang;beton;6
+907;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;1+400;1+500;sedang;beton;6
+908;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;1+500;1+600;sedang;beton;6
+909;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;1+600;1+700;sedang;beton;6
+910;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;1+700;1+800;sedang;beton;6
+911;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;1+800;1+900;sedang;beton;6
+912;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;1+900;2+000;sedang;beton;6
+913;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;2+000;2+100;sedang;beton;6
+914;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;2+100;2+200;sedang;beton;6
+915;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;2+200;2+300;sedang;beton;6
+916;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;2+300;2+400;sedang;beton;6
+917;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;2+400;2+500;sedang;beton;6
+918;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;2+500;2+600;sedang;beton;6
+919;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;2+600;2+700;sedang;beton;6
+920;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;2+700;2+800;sedang;beton;6
+921;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;2+800;2+900;sedang;beton;6
+922;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;2+900;3+000;sedang;beton;6
+923;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;3+000;3+100;sedang;beton;6
+924;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;3+100;3+200;sedang;beton;6
+925;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;3+200;3+300;sedang;beton;6
+926;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;3+300;3+400;sedang;beton;6
+927;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;3+400;3+500;sedang;beton;6
+928;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;3+500;3+600;sedang;beton;6
+929;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;3+600;3+700;sedang;beton;6
+930;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;3+700;3+800;sedang;beton;6
+931;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;3+800;3+900;sedang;beton;6
+932;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;3+900;4+000;sedang;beton;6
+933;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;4+000;4+100;sedang;beton;6
+934;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;4+100;4+200;sedang;beton;6
+935;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;4+200;4+300;sedang;beton;6
+936;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;4+300;4+400;sedang;beton;6
+937;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;4+400;4+500;sedang;beton;6
+938;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;4+500;4+600;sedang;beton;6
+939;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;4+600;4+700;sedang;beton;6
+940;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;4+700;4+800;sedang;beton;6
+941;Polyline ZM;Jl. Kaligunting-Bajulan;010;4.960;4+900;4+967;sedang;beton;6
+15;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;5+600;5+700;RR;beton;6
+942;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;0+000;0+100;RR;beton;6
+943;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;0+100;0+200;RR;beton;6
+944;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;0+200;0+300;RR;beton;6
+945;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;0+300;0+400;RR;beton;6
+946;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;0+400;0+500;RR;beton;6
+947;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;0+500;0+600;RR;beton;6
+948;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;0+600;0+700;RR;beton;6
+949;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;0+700;0+800;RR;beton;6
+950;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;0+800;0+900;RR;beton;6
+951;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;0+900;1+000;RR;beton;6
+952;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;1+000;1+100;RR;beton;6
+953;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;1+100;1+200;RR;beton;6
+954;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;1+200;1+300;RR;beton;6
+955;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;1+300;1+400;RR;beton;6
+956;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;1+400;1+500;RR;beton;6
+957;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;1+500;1+600;RR;beton;6
+958;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;1+600;1+700;RR;beton;6
+959;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;1+700;1+800;RR;beton;6
+960;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;1+800;1+900;RR;beton;6
+961;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;1+900;2+000;RR;beton;6
+962;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;2+000;2+100;RR;beton;6
+963;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;2+100;2+200;RR;beton;6
+964;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;2+200;2+300;RR;beton;6
+965;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;2+300;2+400;RR;beton;6
+966;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;2+400;2+500;RR;beton;6
+967;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;2+500;2+600;RR;beton;6
+968;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;2+600;2+700;RR;beton;6
+969;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;2+700;2+800;RR;beton;6
+970;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;2+800;2+900;RR;beton;6
+971;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;2+900;3+000;RR;beton;6
+972;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;3+000;3+100;RR;beton;6
+973;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;3+100;3+200;RR;beton;6
+974;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;3+200;3+300;RR;beton;6
+975;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;3+300;3+400;RR;beton;6
+976;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;3+400;3+500;RR;beton;6
+977;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;3+500;3+600;RR;beton;6
+978;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;3+600;3+700;RR;beton;6
+979;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;3+700;3+800;RR;beton;6
+980;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;3+800;3+900;RR;beton;6
+981;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;3+900;4+000;RR;beton;6
+982;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;4+000;4+100;RR;beton;6
+983;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;4+100;4+200;RR;beton;6
+984;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;4+200;4+300;RR;beton;6
+985;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;4+300;4+400;RR;beton;6
+986;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;4+400;4+500;RR;beton;6
+987;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;4+500;4+600;RR;beton;6
+988;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;4+600;4+700;RR;beton;6
+989;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;4+700;4+800;RR;beton;6
+990;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;4+800;4+900;RR;beton;6
+991;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;4+900;5+000;RR;beton;6
+992;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;5+000;5+100;RR;beton;6
+993;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;5+100;5+200;RR;beton;6
+994;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;5+200;5+300;RR;beton;6
+995;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;5+300;5+400;RR;beton;6
+996;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;5+400;5+500;RR;beton;6
+997;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;5+500;5+600;RR;beton;6
+998;Polyline ZM;Jl. Ngepeh-Tulung;011;5.650;5+700;" 5+749
+";RR;beton;6
+123;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;2+300;2+400;RR;beton;6
+999;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;0+000;0+100;RR;beton;6
+1000;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;0+100;0+200;RR;beton;6
+1001;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;0+200;0+300;RR;beton;6
+1002;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;0+300;0+400;RR;beton;6
+1003;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;0+400;0+500;RR;beton;6
+1004;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;0+500;0+600;RR;beton;6
+1005;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;0+600;0+700;RR;beton;6
+1006;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;0+700;0+800;RR;beton;6
+1007;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;0+800;0+900;RR;beton;6
+1008;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;0+900;1+000;RR;beton;6
+1009;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;1+000;1+100;RR;beton;6
+1010;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;1+100;1+200;RR;beton;6
+1011;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;1+200;1+300;RR;beton;6
+1012;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;1+300;1+400;RR;beton;6
+1013;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;1+400;1+500;RR;beton;6
+1014;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;1+500;1+600;RR;beton;6
+1015;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;1+600;1+700;RR;beton;6
+1016;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;1+700;1+800;RR;beton;6
+1017;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;1+800;1+900;RR;beton;6
+1018;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;1+900;2+000;RR;beton;6
+1019;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;2+000;2+100;RR;beton;6
+1020;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;2+100;2+200;RR;beton;6
+1021;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;2+200;2+300;RR;beton;6
+1022;Polyline ZM;Jl. Pagotan-Nglandung;012;2.470;2+400;2+471;RR;beton;6
+130;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;4+200;4+300;RR;beton;6
+1023;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;0+000;0+100;RR;beton;6
+1024;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;0+100;0+200;RR;beton;6
+1025;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;0+200;0+300;RR;beton;6
+1026;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;0+300;0+400;RR;beton;6
+1027;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;0+400;0+500;RR;beton;6
+1028;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;0+500;0+600;RR;beton;6
+1029;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;0+600;0+700;RR;beton;6
+1030;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;0+700;0+800;RR;beton;6
+1031;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;0+800;0+900;RR;beton;6
+1032;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;0+900;1+000;RR;beton;6
+1033;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;1+000;1+100;RR;beton;6
+1034;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;1+100;1+200;RR;beton;6
+1035;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;1+200;1+300;RR;beton;6
+1036;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;1+300;1+400;RR;beton;6
+1037;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;1+400;1+500;RR;beton;6
+1038;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;1+500;1+600;RR;beton;6
+1039;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;1+600;1+700;RR;beton;6
+1040;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;1+700;1+800;RR;beton;6
+1041;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;1+800;1+900;RR;beton;6
+1042;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;1+900;2+000;RR;beton;6
+1043;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;2+000;2+100;RR;beton;6
+1044;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;2+100;2+200;RR;beton;6
+1045;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;2+200;2+300;RR;beton;6
+1046;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;2+300;2+400;RR;beton;6
+1047;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;2+400;2+500;RR;beton;6
+1048;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;2+500;2+600;RR;beton;6
+1049;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;2+600;2+700;RR;beton;6
+1050;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;2+700;2+800;RR;beton;6
+1051;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;2+800;2+900;RR;beton;6
+1052;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;2+900;3+000;RR;beton;6
+1053;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;3+000;3+100;RR;beton;6
+1054;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;3+100;3+200;RR;beton;6
+1055;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;3+200;3+300;RR;beton;6
+1056;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;3+300;3+400;RR;beton;6
+1057;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;3+400;3+500;RR;beton;6
+1058;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;3+500;3+600;RR;beton;6
+1059;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;3+600;3+700;RR;beton;6
+1060;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;3+700;3+800;RR;beton;6
+1061;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;3+800;3+900;RR;beton;6
+1062;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;3+900;4+000;RR;beton;6
+1063;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;4+000;4+100;RR;beton;6
+1064;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;4+100;4+200;RR;beton;6
+1065;Polyline ZM;Jl. Kaibon-Nglandung;013;4.380;4+300;4+380;RR;beton;6
+102;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;3+700;3+800;RR;beton;6
+1066;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;0+000;0+100;RR;beton;6
+1067;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;0+100;0+200;RR;beton;6
+1068;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;0+200;0+300;RR;beton;6
+1069;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;0+300;0+400;RR;beton;6
+1070;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;0+400;0+500;RR;beton;6
+1071;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;0+500;0+600;RR;beton;6
+1072;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;0+600;0+700;RR;beton;6
+1073;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;0+700;0+800;RR;beton;6
+1074;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;0+800;0+900;RR;beton;6
+1075;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;0+900;1+000;RR;beton;6
+1076;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;1+000;1+100;RR;beton;6
+1077;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;1+100;1+200;RR;beton;6
+1078;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;1+200;1+300;RR;beton;6
+1079;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;1+300;1+400;RR;beton;6
+1080;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;1+400;1+500;RR;beton;6
+1081;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;1+500;1+600;RR;beton;6
+1082;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;1+600;1+700;RR;beton;7
+1083;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;1+700;1+800;RR;beton;7
+1084;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;1+800;1+900;RR;beton;7
+1085;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;1+900;2+000;RR;beton;7
+1086;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;2+000;2+100;RR;beton;7
+1087;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;2+100;2+200;RR;beton;7
+1088;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;2+200;2+300;RR;beton;7
+1089;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;2+300;2+400;RR;beton;7
+1090;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;2+400;2+500;RR;beton;7
+1091;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;2+500;2+600;RR;beton;7
+1092;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;2+600;2+700;RR;beton;7
+1093;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;2+700;2+800;RR;beton;7
+1094;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;2+800;2+900;RR;beton;7
+1095;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;2+900;3+000;RR;beton;7
+1096;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;3+000;3+100;RR;beton;7
+1097;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;3+100;3+200;RR;beton;7
+1098;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;3+200;3+300;RR;beton;7
+1099;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;3+300;3+400;RR;beton;7
+1100;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;3+400;3+500;RR;beton;7
+1101;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;3+500;3+600;RR;beton;7
+1102;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;3+600;3+700;RR;beton;7
+1103;Polyline ZM;Jl. Dimong-Batas Kota;014;3.800;"3+800
+";3+860;RR;beton;7
+5;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;7+400;7+500;RR;beton;7
+1104;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;0+000;0+100;RR;beton;7
+1105;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;0+100;0+200;RR;beton;7
+1106;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;0+200;0+300;RR;beton;7
+1107;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;0+300;0+400;RR;beton;7
+1108;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;0+400;0+500;RR;beton;7
+1109;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;0+500;0+600;RR;beton;7
+1110;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;0+600;0+700;RR;beton;7
+1111;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;0+700;0+800;RR;beton;7
+1112;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;0+800;0+900;RR;beton;7
+1113;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;0+900;1+000;RR;beton;7
+1114;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;1+000;1+100;RR;beton;7
+1115;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;1+100;1+200;RR;beton;7
+1116;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;1+200;1+300;RR;beton;7
+1117;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;1+300;1+400;RR;beton;7
+1118;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;1+400;1+500;RR;beton;7
+1119;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;1+500;1+600;RR;beton;7
+1120;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;1+600;1+700;RR;beton;7
+1121;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;1+700;1+800;RR;beton;7
+1122;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;1+800;1+900;RR;beton;7
+1123;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;1+900;2+000;RR;beton;7
+1124;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;2+000;2+100;RR;beton;7
+1125;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;2+100;2+200;RR;beton;7
+1126;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;2+200;2+300;RR;beton;7
+1127;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;2+300;2+400;RR;beton;7
+1128;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;2+400;2+500;RR;beton;7
+1129;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;2+500;2+600;RR;beton;7
+1130;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;2+600;2+700;RR;beton;7
+1131;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;2+700;2+800;RR;beton;7
+1132;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;2+800;2+900;RR;beton;7
+1133;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;2+900;3+000;RR;beton;7
+1134;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;3+000;3+100;RR;beton;7
+1135;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;3+100;3+200;RR;beton;7
+1136;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;3+200;3+300;RR;beton;7
+1137;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;3+300;3+400;RR;beton;7
+1138;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;3+400;3+500;RR;beton;7
+1139;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;3+500;3+600;RR;beton;7
+1140;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;3+600;3+700;RR;beton;7
+1141;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;3+700;3+800;RR;beton;7
+1142;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;3+800;3+900;RR;beton;7
+1143;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;3+900;4+000;RR;beton;7
+1144;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;4+000;4+100;RR;beton;7
+1145;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;4+100;4+200;RR;beton;7
+1146;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;4+200;4+300;RR;beton;7
+1147;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;4+300;4+400;RR;beton;7
+1148;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;4+400;4+500;RR;beton;7
+1149;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;4+500;4+600;RR;beton;7
+1150;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;4+600;4+700;RR;beton;7
+1151;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;4+700;4+800;RR;beton;7
+1152;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;4+800;4+900;RR;beton;7
+1153;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;4+900;5+000;RR;beton;7
+1154;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;5+000;5+100;RR;beton;7
+1155;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;5+100;5+200;RR;beton;7
+1156;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;5+200;5+300;RR;beton;7
+1157;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;5+300;5+400;RR;beton;7
+1158;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;5+400;5+500;RR;beton;7
+1159;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;5+500;5+600;RR;beton;7
+1160;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;5+600;5+700;RR;beton;7
+1161;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;5+700;5+800;RR;beton;7
+1162;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;5+800;5+900;RR;beton;7
+1163;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;5+900;6+000;RR;beton;7
+1164;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;6+000;6+100;RR;beton;7
+1165;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;6+100;6+200;RR;beton;7
+1166;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;6+200;6+300;RR;beton;7
+1167;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;6+300;6+400;RR;beton;7
+1168;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;6+400;6+500;RR;beton;7
+1169;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;6+500;6+600;RR;beton;7
+1170;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;6+600;6+700;RR;beton;7
+1171;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;6+700;6+800;RR;beton;7
+1172;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;6+800;6+900;RR;beton;7
+1173;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;6+900;7+000;RR;beton;7
+1174;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;7+000;7+100;RR;beton;7
+1175;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;7+100;7+200;RR;beton;7
+1176;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;7+200;7+300;RR;beton;7
+1177;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;7+300;7+400;RR;beton;7
+158;Polyline ZM;Jl. Dungus-Kare;016;9.740;9+600;9+700;RR;beton;7
+1178;Polyline ZM;Jl. Muneng-Kenongorejo;015;7.570;7+500;7+565;RR;beton;7

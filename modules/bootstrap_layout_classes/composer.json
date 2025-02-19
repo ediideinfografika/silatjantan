@@ -1,0 +1,14 @@
+{
+  "name": "drupal/bootstrap_layout_classes",
+  "type": "drupal-module",
+  "description": "Provides a Bootstrap Layout Classes widget and field formatter.",
+  "keywords": ["Drupal"],
+  "homepage": "http://drupal.org/project/bootstrap_layout_classes",
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/core": "^8 || ^9 || ^10",
+    "symfony/yaml": "*",
+    "symfony/finder": "*"
+  }
+}

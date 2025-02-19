@@ -1,0 +1,24 @@
+name: silatmobile
+type: theme
+description: 'tema silatmobile'
+package: Other
+core_version_requirement: ^8 || ^9
+base theme: false
+libraries:
+  - silatmobile/global-style
+  
+
+# Regions
+regions:
+  # App Header
+  header: 'Header'
+  header_left: 'header_left'
+  header_right: 'header_right'
+  header_title: 'header_title'
+
+
+  # Global region
+  content: 'Content'
+  sidebar_first: 'Left sidebar'
+  sidebar_second: 'Right sidebar'
+  bottom_menu: 'Bottom Menu'

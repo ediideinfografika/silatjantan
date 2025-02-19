@@ -1,0 +1,121 @@
+.gsc-video-box{
+    position: relative;
+    margin: 0 auto;
+    &.style-1{
+      margin-bottom: 30px;
+      .video-inner{
+        position: relative;
+        width: 200px;
+        float: right;
+        @include media-breakpoint-down(md){
+          width: 100%;
+          margin-bottom: 10px;
+        }
+        .image{
+          .popup-video{
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 11; 
+            @include size(100%, 100%); 
+            text-transform: uppercase;
+            .icon{
+              position: absolute;
+              @include size(60px, 60px);
+              @include border-radius(50%);
+              @include transition(all 0.35s);
+              top: 50%;
+              left: 50%;
+              margin-left: -25px;
+              margin-top: -25px;
+              z-index: 12;
+              background: $theme-color;
+              color: $white;
+              display: inline-block;
+              text-align: center;
+              line-height: 60px;
+              font-size: 14px;
+            }
+          }
+        }
+      }
+      .video-content{
+        padding-right: 220px;
+        padding-top: 30px;
+        @include media-breakpoint-down(md){
+          padding-right: 0;
+        }
+        .video-title{
+          font-size: 16px;
+          a{
+            color: $black;
+            text-decoration: underline;
+            &:hover{
+              color: $theme-color;
+            }
+          }
+        }
+      }
+      &:hover{
+        .video-inner{
+          .image{
+            .popup-video{
+              .icon{
+                @include scale(0.8);
+                 @include opacity(1);
+              }
+            }
+          }
+        }
+      }
+    }
+    &.style-2{
+      margin-bottom: 30px;
+      .image{
+        .popup-video{
+          position: absolute;
+          top: 0;
+          left: 0;
+          z-index: 19; 
+          @include size(100%, 100%); 
+          text-transform: uppercase;
+          .icon{
+            position: absolute;
+            @include size(50px, 50px);
+            @include border-radius(50%);
+            @include transition(all 0.35s);
+            top: 50%;
+            left: 50%;
+            margin-left: -25px;
+            margin-top: -25px;
+            z-index: 19;
+            background: $theme-color;
+            color: $white;
+            display: inline-block;
+            text-align: center;
+            line-height: 50px;
+          }
+        }
+      }
+      .video-content{
+        .video-title{
+          font-size: 14px;
+          font-weight: 400;
+          margin: 10px 0 0;
+          position: relative;
+          float: left;
+          text-transform: capitalize;
+          a{
+            color: $black;
+            text-decoration: underline;
+            &:hover{
+              color: $theme-color;
+            }
+          }
+        }
+      }
+      .video-inner{
+        position: relative;
+      }
+   }
+}

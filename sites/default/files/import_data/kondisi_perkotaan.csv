@@ -1,0 +1,1035 @@
+No,Nm_Ruas,Kd_Inf,Panjang,STA_AWAL,STA_AKHIR,Fungsi,Kondisi,Tipe_Perke,Lebar_STA,Tahun_Reali,tahun,Tgl,Penanganan,Kondisi_Kini,Perke_Kini
+1,4001 - JL. PATIMURA,,951,0+800,0+900,,baik,aspal,5,,2022,,,,
+11,4002 - JL. LETJEN SUTOYO,,767,0+600,0+700,,baik,aspal,5,,2022,,,,
+19,4003 - JL. S. TENDEAN,,1578,1+400,1+500,,baik,aspal,5,,2022,,,,
+35,4004 - JL. DIPONEGORO,,1170,1+000,1+100,,baik,aspal,5,,2022,,,,
+47,4005 - JL. SINGOLUDRO,,1075,0+900,1+000,,baik,aspal,5,,2022,,,,
+58,4006 - JL. KOL. MARHADI,,695,0+500,0+600,,baik,aspal,5,,2022,,,,
+65,4007 - JL. MT. HARYONO,,1625,1+500,1+600,,baik,aspal,5,,2022,,,,
+82,4008 - JL. H. AGUS SALIM,,697,0+500,0+600,,baik,makadam,5,,2022,,,,
+89,4009 - JL. FLAMBOYAN,,445,0+300,0+400,,baik,makadam,5,,2022,,,,
+94,4010 - JL. DAHLIA,,118,0+100,0+118,,baik,makadam,5,,2022,,,,
+96,4011 - JL. NUSA INDAH,,436,0+300,0+400,,baik,makadam,5,,2022,,,,
+101,4012 - JL. KENANGA,,430,0+300,0+400,,baik,makadam,5,,2022,,,,
+106,4013 - JL. ANGGREK,,456,0+300,0+400,,baik,makadam,5,,2022,,,,
+111,4014 - JL. CEMPAKA,,649,0+500,0+600,,baik,makadam,5,,2022,,,,
+118,4015 - JL. TANJUNG,,206,0+100,0+200,,baik,makadam,5,,2022,,,,
+121,4016 - JL. MELATI,,262,0+100,0+200,,baik,makadam,5,,2022,,,,
+124,4017 - JL. KEMUNING,,553,0+400,0+500,,baik,makadam,5,,2022,,,,
+130,4018 - JL. SERUNI,,387,0+200,0+300,,sedang,makadam,5,,2022,,,,
+134,4019 - JL. GARUDA,,162,0+100,0+161,,sedang,lapen,5,,2022,,,,
+136,4020 - JL. DR. SUTOMO,,665,0+500,0+600,,sedang,lapen,5,,2022,,,,
+143,4021 - JL. PENANGGUNGAN,,234,0+100,0+200,,sedang,lapen,5,,2022,,,,
+146,4022 - JL. PANDAN,,245,0+100,0+200,,sedang,lapen,5,,2022,,,,
+149,4023 - JL. SEMERU,,271,0+100,0+200,,sedang,lapen,5,,2022,,,,
+152,4024 - JL. RINJANI,,206,0+100,0+200,,sedang,lapen,5,,2022,,,,
+155,4025 - JL. DIENG,,375,0+200,0+300,,sedang,lapen,5,,2022,,,,
+159,4026 - JL. SERAYU,,127,0+100,0+127,,sedang,tanah,5,,2022,,,,
+161,4027 - JL. CISADANE,,123,0+100,0+122,,sedang,tanah,5,,2022,,,,
+163,4028 - JL. MUSI,,370,0+200,0+300,,sedang,tanah,5,,2022,,,,
+167,4029 - JL. CITARUM,,130,0+100,0+100,,sedang,tanah,5,,2022,,,,
+169,4030 - JL. ANJASMORO,,247,0+100,0+200,,sedang,tanah,5,,2022,,,,
+172,4031 - JL. CILIWUNG,,378,0+200,0+300,,sedang,beton,5,,2022,,,,
+176,4032 - JL. SINGOLUDRO II,,600,0+400,0+500,,sedang,beton,5,,2022,,,,
+182,4033 - JL. BOGO,,834,0+700,0+800,,sedang,beton,5,,2022,,,,
+191,4034 - JL. BOGO II,,387,0+200,0+300,,sedang,beton,5,,2022,,,,
+195,4035 - JL. KAMBOJA,,565,0+400,0+500,,sedang,beton,5,,2022,,,,
+201,4036 - JL. SRIGADING,,492,0+300,0+400,,sedang,aspal,5,,2022,,,,
+206,4037 - JL. MELATI I,,173,0+100,0+172,,sedang,aspal,5,,2022,,,,
+208,4038 - JL. MELATI II,,263,0+100,0+200,,sedang,aspal,5,,2022,,,,
+211,4039 - JL. KUNTO,,2048,1+900,2+000,,RR,aspal,5,,2022,,,,
+232,4040 - JL. YOS SUDARSO,,200,0+100,0+199,,RR,aspal,5,,2022,,,,
+234,4041 - JL. PRAMBANAN,,482,0+300,0+400,,RR,aspal,5,,2022,,,,
+239,4042 - JL. BOROBUDUR,,474,0+300,0+400,,RR,aspal,5,,2022,,,,
+244,4043 - JL. KALASAN,,465,0+300,0+400,,RR,makadam,5,,2022,,,,
+249,4044 - JL. MENDUT,,218,0+100,0+200,,RR,makadam,5,,2022,,,,
+252,4045 - JL. SALAK,,293,0+100,0+200,,RR,makadam,5,,2022,,,,
+255,4046 - JL. MANGGA,,229,0+100,0+200,,RR,makadam,5,,2022,,,,
+258,4047 - JL. SAWO,,188,0+100,0+187,,RR,makadam,5,,2022,,,,
+260,4048 - JL. STASIUN TIMUR,,241,0+100,0+200,,RR,makadam,5,,2022,,,,
+263,4049 - JL. SEMANGKA,,354,0+200,0+300,,RR,makadam,5,,2022,,,,
+267,4050 - JL. KESEMEK,,197,0+100,0+196,,RR,makadam,5,,2022,,,,
+269,4051 - JL. ANGGUR,,253,0+100,0+200,,RR,makadam,5,,2022,,,,
+272,4052 - JL. MANGGIS,,261,0+100,0+200,,RR,makadam,5,,2022,,,,
+275,4053 - JL. MELON,,146,0+100,0+145,,RR,makadam,5,,2022,,,,
+277,4054 - JL. SIRSAK,,146,0+100,0+145,,RR,lapen,5,,2022,,,,
+279,4055 - JL. RAMBUTAN,,282,0+100,0+200,,RR,lapen,5,,2022,,,,
+282,4056 - JL. JAMBU,,361,0+200,0+300,,RR,lapen,5,,2022,,,,
+286,4057 - JL. BISMO,,877,0+700,0+800,,RR,lapen,5,,2022,,,,
+295,4058 - JL. PARIKESIT,,783,0+600,0+700,,RR,lapen,5,,2022,,,,
+303,4059 - JL. BOLODEWO,,372,0+200,0+300,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+307,4060 - JL. KRESNA,,457,0+300,0+400,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+312,4061 - JL. MARKISA RAJA,,610,0+500,0+600,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+319,4062 - JL. APEL RAJA,,213,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+322,4063 - JL. PEPAYA RAJA,,212,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+336,4065 - JL. SAWO RAJA,,177,0+100,0+176,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+344,4067 - JL. KAKAK TUA,,980,0+800,0+900,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+354,4068 - JL. KARANGLO I,,1279,1+100,1+200,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+367,4069 - JL. KARANGLO II,,129,0+100,0+128,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+374,4071 - JL. SEMBADA,,284,0+100,0+200,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+377,4072 - JL. KYAI SERANG,,241,0+100,0+200,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+380,4073 - JL SUHADA HAJI,,1273,1+100,1+200,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+393,4074 - JL. KUTILANG,,159,0+100,0+159,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+395,4075 - JL. JL. MANYAR,,588,0+400,0+500,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+401,4076 - JL. S. PARMAN,,213,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+404,4077 - JL. PANJAITAN,,608,0+500,0+600,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+411,4078 - JL. SUMATRA,,198,0+100,0+197,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+413,4079 - JL. BALI,,90,0+000,0+089,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+414,4080 - JL. KALIMANTAN,,396,0+200,0+300,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+418,4081 - JL. MADURA,,354,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+422,4082 - JL. SULAWESI,,192,0+100,0+192,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+424,4083 - JL. FLORES,,95,0+000,0+095,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+425,4084 - JL. SUMBAWA,,212,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+428,4085 - JL. CENDRAWASIH,,385,0+200,0+300,,baik,makadam,5,,2022,,,,
+432,4086 - JL. RAJAWALI,,695,0+500,0+600,,baik,makadam,5,,2022,,,,
+439,4087 - JL. MENUR,,319,0+200,0+300,,baik,makadam,5,,2022,,,,
+443,4088 - JL. NIAS,,285,0+100,0+200,,baik,makadam,5,,2022,,,,
+446,4089 - JL. KENARI,,657,0+500,0+600,,baik,makadam,5,,2022,,,,
+453,4090 - JL. PARKIT,,291,0+100,0+200,,baik,makadam,5,,2022,,,,
+456,4091 - JL. BETET,,798,0+600,0+700,,baik,makadam,5,,2022,,,,
+464,4092 - JL. SRITI,,593,0+400,0+500,,baik,lapen,5,,2022,,,,
+471,4094 - JL. CEMPAKA II,,129,0+100,0+128,,baik,lapen,5,,2022,,,,
+473,4095 - JL. CEMPAKA III,,153,0+100,0+153,,baik,lapen,5,,2022,,,,
+475,4097 - JL. ANGGREK II,,198,0+100,0+197,,baik,lapen,5,,2022,,,,
+477,4098 - JL. JUANDA,,2348,2+200,2+300,,baik,lapen,5,,2022,,,,
+501,4099 - JL. PROGO,,678,0+500,0+600,,baik,lapen,5,,2022,,,,
+508,4101 - JL. RUSUNAWA,,286,0+100,0+200,,baik,lapen,5,,2022,,,,
+511,4102 - JL. MERPATI (MEJAYAN),,258,0+100,0+200,,baik,tanah,5,,2022,,,,
+514,4103 - JL. IRIAN JAYA,,440,0+300,0+400,,baik,tanah,5,,2022,,,,
+519,4104 - JL. PRAWIRO DIPURAN,,361,0+200,0+300,,baik,tanah,5,,2022,,,,
+523,4105 - JL. KURMA RAJA,,467,0+300,0+400,,sedang,tanah,5,,2022,,,,
+528,4201 - JL. NGAGEL,,1326,1+200,1+300,,sedang,tanah,5,,2022,,,,
+542,4202 - JL. JANOKO,,1133,1+000,1+100,,sedang,beton,5,,2022,,,,
+554,4203 - JL. SEDAH,,1863,1+700,1+800,,sedang,beton,5,,2022,,,,
+573,4204 - JL. SASONO LOYO,,522,0+400,0+500,,sedang,beton,5,,2022,,,,
+579,4205 - JL. KEBODALEM,,531,0+400,0+500,,sedang,beton,5,,2022,,,,
+585,4206 - JL. SIDODADI,,463,0+300,0+400,,sedang,beton,5,,2022,,,,
+590,4207 - JL. TEGALREJO,,2333,2+200,2+300,,sedang,aspal,5,,2022,,,,
+614,4208 - JL. NGRAWAN II,,1413,1+300,1+400,,sedang,aspal,5,,2022,,,,
+629,4209 - JL. KEMANTREN,,826,0+700,0+800,,sedang,aspal,5,,2022,,,,
+638,4210 - JL. NGRAWAN I,,1155,1+000,1+100,,sedang,aspal,5,,2022,,,,
+650,4211 - JL. PANCA UPAYA,,962,0+800,0+900,,sedang,aspal,5,,2022,,,,
+674,4213 - JL. KERTO RAHARJO,,586,0+400,0+500,,sedang,aspal,5,,2022,,,,
+680,4214 - JL. PANJANG PUNJUNG,,2075,1+900,2+000,,sedang,aspal,5,,2022,,,,
+701,4215 - JL. GEMAH RIPAH,,713,0+600,0+700,,sedang,makadam,5,,2022,,,,
+709,4216 - JL. SIDOASIH,,361,0+200,0+300,,sedang,makadam,5,,2022,,,,
+713,4217 - JL. TEGAL ARUM,,1552,1+400,1+500,,sedang,makadam,5,,2022,,,,
+729,4218 - JL. SIDOMUKTI,,859,0+700,0+800,,sedang,makadam,5,,2022,,,,
+738,4219 - JL. SIDOMULYO,,749,0+600,0+700,,sedang,makadam,5,,2022,,,,
+746,4220 - JL. WAKIDUN,,205,0+100,0+200,,sedang,makadam,5,,2022,,,,
+749,4221 - JL. SIDO AGUNG,,445,0+300,0+400,,sedang,makadam,5,,2022,,,,
+754,4222 - JL. PASIR WUKIR,,385,0+200,0+300,,RR,makadam,5,,2022,,,,
+758,4223 - JL. TOTO TERTIB,,414,0+300,0+400,,RR,makadam,5,,2022,,,,
+763,4224 - JL. BERBUDI,,486,0+300,0+400,,RR,makadam,5,,2022,,,,
+768,4225 - JL. JUWET/SURO,,434,0+300,0+400,,RR,makadam,5,,2022,,,,
+773,4226 - JL. PUNDEN,,622,0+500,0+600,,RR,lapen,5,,2022,,,,
+780,4227 - JL. PERHUTANI,,747,0+600,0+700,,RR,lapen,5,,2022,,,,
+788,4228 - JL. M.I. BUNGA BANGSA,,726,0+600,0+700,,RR,lapen,5,,2022,,,,
+796,4229 - JL. M.I. FARHIN,,835,0+700,0+800,,RR,lapen,5,,2022,,,,
+805,4230 - JL. WAHID HASYIM,,2271,2+100,2+200,,RR,lapen,5,,2022,,,,
+828,4231 - JL. COKRO AMINOTO,,603,0+500,0+600,,RR,lapen,5,,2022,,,,
+835,4232 - JL. TENGKU UMAR,,844,0+700,0+800,,RR,lapen,5,,2022,,,,
+844,4233 - JL. SANDANG PANGAN,,243,0+100,0+200,,RR,tanah,5,,2022,,,,
+847,4234 - JL. TOTO TENTREM,,509,0+400,0+500,,RR,tanah,5,,2022,,,,
+853,4235 - JL. LOHJINAWI,,636,0+500,0+600,,RR,tanah,5,,2022,,,,
+860,4236 - JL. SANGGRAHAN,,863,0+700,0+800,,RR,tanah,5,,2022,,,,
+869,4237 - JL. LAPANGAN BERAN,,425,0+300,0+400,,RR,tanah,5,,2022,,,,
+874,4238 - JL. TEGAL ASRI,,1211,1+100,1+200,,RR,beton,5,,2022,,,,
+887,4239 - JL. MONTIKAN,,1105,1+000,1+100,,RR,beton,5,,2022,,,,
+899,4240 - JL. DIPONEGORO,,774,0+600,0+700,,RR,beton,5,,2022,,,,
+907,4241 - JL. RADEN PATAH,,315,0+200,0+300,,RR,beton,5,,2022,,,,
+911,4242 - JL. K.H. MOJO I,,413,0+300,0+400,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+916,4243 - JL. K.H. MOJO II,,271,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+919,4244 - JL. AGUS SALIM,,1497,1+300,1+400,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+934,4245 - JL. MELATI,,358,0+200,0+300,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+938,4246 - JL. MENUR,,613,0+500,0+600,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+945,4247 - JL. NOGO,,1241,1+100,1+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+958,4248 - JL. SAUR,,783,0+600,0+700,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+966,4301 - JL. SUMBERMORO,,500,0+300,0+400,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+971,4302 - JL. SUMBERSAKTI,,242,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+974,4303 - JL. KARYAWAN,,383,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+978,4304 - JL. SUMBER MAS,,323,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+982,4305 - JL. SENDANG BEJI,,327,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+986,4306 - JL. BRANJANGAN I/B,,258,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+989,4307 - JL. BRANJANGAN I,,327,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+993,4308 - JL. SETYA RUKUN,,500,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+998,4309 - JL. SERBA GUNA,,188,0+100,0+187,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+1000,4310 - JL. EKA BHAKTI,,736,0+600,0+700,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+1008,4311 - JL. SWAKARYA,,317,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+1012,4312 - JL. SWANARDIPA,,195,0+100,0+194,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+1014,4313 - JL. SWASEMBADA,,263,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+1017,4314 - JL. KANAL TIMUR,,1094,0+900,1+000,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+1028,4315 - JL. SETYA DARMA,,668,0+500,0+600,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+2,4001 - JL. PATIMURA,,951,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+3,4001 - JL. PATIMURA,,951,0+100,0+200,,baik,lapen,5,,2022,,,,
+4,4001 - JL. PATIMURA,,951,0+200,0+300,,baik,lapen,5,,2022,,,,
+5,4001 - JL. PATIMURA,,951,0+300,0+400,,baik,lapen,5,,2022,,,,
+6,4001 - JL. PATIMURA,,951,0+400,0+500,,baik,tanah,5,,2022,,,,
+7,4001 - JL. PATIMURA,,951,0+500,0+600,,baik,tanah,5,,2022,,,,
+8,4001 - JL. PATIMURA,,951,0+600,0+700,,baik,tanah,5,,2022,,,,
+9,4001 - JL. PATIMURA,,951,0+700,0+800,,baik,tanah,5,,2022,,,,
+10,4001 - JL. PATIMURA,,951,0+900,0+951,,baik,tanah,5,,2022,,,,
+12,4002 - JL. LETJEN SUTOYO,,767,0+000,0+100,,baik,beton,5,,2022,,,,
+13,4002 - JL. LETJEN SUTOYO,,767,0+100,0+200,,baik,beton,5,,2022,,,,
+14,4002 - JL. LETJEN SUTOYO,,767,0+200,0+300,,baik,beton,5,,2022,,,,
+15,4002 - JL. LETJEN SUTOYO,,767,0+300,0+400,,baik,beton,5,,2022,,,,
+16,4002 - JL. LETJEN SUTOYO,,767,0+400,0+500,,baik,beton,5,,2022,,,,
+17,4002 - JL. LETJEN SUTOYO,,767,0+500,0+600,,baik,aspal,5,,2022,,,,
+18,4002 - JL. LETJEN SUTOYO,,767,0+700,0+767,,baik,aspal,5,,2022,,,,
+20,4003 - JL. S. TENDEAN,,1578,0+000,0+100,,baik,aspal,5,,2022,,,,
+21,4003 - JL. S. TENDEAN,,1578,0+100,0+200,,baik,aspal,5,,2022,,,,
+22,4003 - JL. S. TENDEAN,,1578,0+200,0+300,,sedang,aspal,5,,2022,,,,
+23,4003 - JL. S. TENDEAN,,1578,0+300,0+400,,sedang,aspal,5,,2022,,,,
+24,4003 - JL. S. TENDEAN,,1578,0+400,0+500,,sedang,aspal,5,,2022,,,,
+25,4003 - JL. S. TENDEAN,,1578,0+500,0+600,,sedang,makadam,5,,2022,,,,
+26,4003 - JL. S. TENDEAN,,1578,0+600,0+700,,sedang,makadam,5,,2022,,,,
+27,4003 - JL. S. TENDEAN,,1578,0+700,0+800,,sedang,makadam,5,,2022,,,,
+28,4003 - JL. S. TENDEAN,,1578,0+800,0+900,,sedang,makadam,5,,2022,,,,
+29,4003 - JL. S. TENDEAN,,1578,0+900,1+000,,sedang,makadam,5,,2022,,,,
+30,4003 - JL. S. TENDEAN,,1578,1+000,1+100,,sedang,makadam,5,,2022,,,,
+31,4003 - JL. S. TENDEAN,,1578,1+100,1+200,,sedang,makadam,5,,2022,,,,
+32,4003 - JL. S. TENDEAN,,1578,1+200,1+300,,sedang,makadam,5,,2022,,,,
+33,4003 - JL. S. TENDEAN,,1578,1+300,1+400,,sedang,makadam,5,,2022,,,,
+34,4003 - JL. S. TENDEAN,,1578,1+500,1+577,,sedang,makadam,5,,2022,,,,
+36,4004 - JL. DIPONEGORO,,1170,0+000,0+100,,sedang,makadam,5,,2022,,,,
+37,4004 - JL. DIPONEGORO,,1170,0+100,0+200,,sedang,lapen,5,,2022,,,,
+38,4004 - JL. DIPONEGORO,,1170,0+200,0+300,,sedang,lapen,5,,2022,,,,
+39,4004 - JL. DIPONEGORO,,1170,0+300,0+400,,sedang,lapen,5,,2022,,,,
+40,4004 - JL. DIPONEGORO,,1170,0+400,0+500,,sedang,lapen,5,,2022,,,,
+41,4004 - JL. DIPONEGORO,,1170,0+500,0+600,,sedang,lapen,5,,2022,,,,
+42,4004 - JL. DIPONEGORO,,1170,0+600,0+700,,sedang,lapen,5,,2022,,,,
+43,4004 - JL. DIPONEGORO,,1170,0+700,0+800,,sedang,lapen,5,,2022,,,,
+44,4004 - JL. DIPONEGORO,,1170,0+800,0+900,,RR,tanah,5,,2022,,,,
+45,4004 - JL. DIPONEGORO,,1170,0+900,1+000,,RR,tanah,5,,2022,,,,
+46,4004 - JL. DIPONEGORO,,1170,1+100,1+170,,RR,tanah,5,,2022,,,,
+48,4005 - JL. SINGOLUDRO,,1075,0+000,0+100,,RR,tanah,5,,2022,,,,
+49,4005 - JL. SINGOLUDRO,,1075,0+100,0+200,,RR,tanah,5,,2022,,,,
+50,4005 - JL. SINGOLUDRO,,1075,0+200,0+300,,RR,beton,5,,2022,,,,
+51,4005 - JL. SINGOLUDRO,,1075,0+300,0+400,,RR,beton,5,,2022,,,,
+52,4005 - JL. SINGOLUDRO,,1075,0+400,0+500,,RR,beton,5,,2022,,,,
+53,4005 - JL. SINGOLUDRO,,1075,0+500,0+600,,RR,beton,5,,2022,,,,
+54,4005 - JL. SINGOLUDRO,,1075,0+600,0+700,,RR,beton,5,,2022,,,,
+55,4005 - JL. SINGOLUDRO,,1075,0+700,0+800,,RR,aspal,5,,2022,,,,
+56,4005 - JL. SINGOLUDRO,,1075,0+800,0+900,,RR,aspal,5,,2022,,,,
+57,4005 - JL. SINGOLUDRO,,1075,1+000,1+075,,RR,aspal,5,,2022,,,,
+59,4006 - JL. KOL. MARHADI,,695,0+000,0+100,,RR,aspal,5,,2022,,,,
+60,4006 - JL. KOL. MARHADI,,695,0+100,0+200,,RR,aspal,5,,2022,,,,
+61,4006 - JL. KOL. MARHADI,,695,0+200,0+300,,RR,aspal,5,,2022,,,,
+62,4006 - JL. KOL. MARHADI,,695,0+300,0+400,,RR,aspal,5,,2022,,,,
+63,4006 - JL. KOL. MARHADI,,695,0+400,0+500,,RR,makadam,5,,2022,,,,
+64,4006 - JL. KOL. MARHADI,,695,0+600,0+695,,RR,makadam,5,,2022,,,,
+66,4007 - JL. MT. HARYONO,,1625,0+000,0+100,,RR,makadam,5,,2022,,,,
+67,4007 - JL. MT. HARYONO,,1625,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+68,4007 - JL. MT. HARYONO,,1625,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+69,4007 - JL. MT. HARYONO,,1625,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+70,4007 - JL. MT. HARYONO,,1625,0+400,0+500,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+71,4007 - JL. MT. HARYONO,,1625,0+500,0+600,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+72,4007 - JL. MT. HARYONO,,1625,0+600,0+700,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+73,4007 - JL. MT. HARYONO,,1625,0+700,0+800,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+74,4007 - JL. MT. HARYONO,,1625,0+800,0+900,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+75,4007 - JL. MT. HARYONO,,1625,0+900,1+000,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+76,4007 - JL. MT. HARYONO,,1625,1+000,1+100,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+77,4007 - JL. MT. HARYONO,,1625,1+100,1+200,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+78,4007 - JL. MT. HARYONO,,1625,1+200,1+300,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+79,4007 - JL. MT. HARYONO,,1625,1+300,1+400,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+80,4007 - JL. MT. HARYONO,,1625,1+400,1+500,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+81,4007 - JL. MT. HARYONO,,1625,1+600,1+625,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+83,4008 - JL. H. AGUS SALIM,,697,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+84,4008 - JL. H. AGUS SALIM,,697,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+85,4008 - JL. H. AGUS SALIM,,697,0+200,0+300,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+86,4008 - JL. H. AGUS SALIM,,697,0+300,0+400,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+87,4008 - JL. H. AGUS SALIM,,697,0+400,0+500,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+88,4008 - JL. H. AGUS SALIM,,697,0+600,0+696,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+90,4009 - JL. FLAMBOYAN,,445,0+000,0+100,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+91,4009 - JL. FLAMBOYAN,,445,0+100,0+200,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+92,4009 - JL. FLAMBOYAN,,445,0+200,0+300,,baik,beton,5,,2022,,,,
+93,4009 - JL. FLAMBOYAN,,445,0+400,0+444,,baik,beton,5,,2022,,,,
+95,4010 - JL. DAHLIA,,118,0+000,0+100,,baik,aspal,5,,2022,,,,
+97,4011 - JL. NUSA INDAH,,436,0+000,0+100,,baik,aspal,5,,2022,,,,
+98,4011 - JL. NUSA INDAH,,436,0+100,0+200,,baik,aspal,5,,2022,,,,
+99,4011 - JL. NUSA INDAH,,436,0+200,0+300,,baik,aspal,5,,2022,,,,
+100,4011 - JL. NUSA INDAH,,436,0+400,0+436,,baik,aspal,5,,2022,,,,
+102,4012 - JL. KENANGA,,430,0+000,0+100,,baik,aspal,5,,2022,,,,
+103,4012 - JL. KENANGA,,430,0+100,0+200,,baik,aspal,5,,2022,,,,
+104,4012 - JL. KENANGA,,430,0+200,0+300,,baik,makadam,5,,2022,,,,
+105,4012 - JL. KENANGA,,430,0+400,0+430,,baik,makadam,5,,2022,,,,
+107,4013 - JL. ANGGREK,,456,0+000,0+100,,baik,makadam,5,,2022,,,,
+108,4013 - JL. ANGGREK,,456,0+100,0+200,,baik,makadam,5,,2022,,,,
+109,4013 - JL. ANGGREK,,456,0+200,0+300,,baik,makadam,5,,2022,,,,
+110,4013 - JL. ANGGREK,,456,0+400,0+455,,baik,makadam,5,,2022,,,,
+112,4014 - JL. CEMPAKA,,649,0+000,0+100,,baik,makadam,5,,2022,,,,
+113,4014 - JL. CEMPAKA,,649,0+100,0+200,,baik,makadam,5,,2022,,,,
+114,4014 - JL. CEMPAKA,,649,0+200,0+300,,sedang,makadam,5,,2022,,,,
+115,4014 - JL. CEMPAKA,,649,0+300,0+400,,sedang,makadam,5,,2022,,,,
+116,4014 - JL. CEMPAKA,,649,0+400,0+500,,sedang,makadam,5,,2022,,,,
+117,4014 - JL. CEMPAKA,,649,0+600,0+648,,sedang,lapen,5,,2022,,,,
+119,4015 - JL. TANJUNG,,206,0+000,0+100,,sedang,lapen,5,,2022,,,,
+120,4015 - JL. TANJUNG,,206,0+200,0+205,,sedang,lapen,5,,2022,,,,
+122,4016 - JL. MELATI,,262,0+000,0+100,,sedang,lapen,5,,2022,,,,
+123,4016 - JL. MELATI,,262,0+200,0+262,,sedang,lapen,5,,2022,,,,
+125,4017 - JL. KEMUNING,,553,0+000,0+100,,sedang,lapen,5,,2022,,,,
+126,4017 - JL. KEMUNING,,553,0+100,0+200,,sedang,lapen,5,,2022,,,,
+127,4017 - JL. KEMUNING,,553,0+200,0+300,,sedang,tanah,5,,2022,,,,
+128,4017 - JL. KEMUNING,,553,0+300,0+400,,sedang,tanah,5,,2022,,,,
+129,4017 - JL. KEMUNING,,553,0+500,0+553,,sedang,tanah,5,,2022,,,,
+131,4018 - JL. SERUNI,,387,0+000,0+100,,sedang,tanah,5,,2022,,,,
+132,4018 - JL. SERUNI,,387,0+100,0+200,,sedang,tanah,5,,2022,,,,
+133,4018 - JL. SERUNI,,387,0+300,0+386,,sedang,beton,5,,2022,,,,
+135,4019 - JL. GARUDA,,162,0+000,0+100,,sedang,beton,5,,2022,,,,
+137,4020 - JL. DR. SUTOMO,,665,0+000,0+100,,sedang,beton,5,,2022,,,,
+138,4020 - JL. DR. SUTOMO,,665,0+100,0+200,,sedang,beton,5,,2022,,,,
+139,4020 - JL. DR. SUTOMO,,665,0+200,0+300,,sedang,beton,5,,2022,,,,
+140,4020 - JL. DR. SUTOMO,,665,0+300,0+400,,sedang,aspal,5,,2022,,,,
+141,4020 - JL. DR. SUTOMO,,665,0+400,0+500,,RR,aspal,5,,2022,,,,
+142,4020 - JL. DR. SUTOMO,,665,0+600,0+685,,RR,aspal,5,,2022,,,,
+144,4021 - JL. PENANGGUNGAN,,234,0+000,0+100,,RR,aspal,5,,2022,,,,
+145,4021 - JL. PENANGGUNGAN,,234,0+200,0+234,,RR,aspal,5,,2022,,,,
+147,4022 - JL. PANDAN,,245,0+000,0+100,,RR,aspal,5,,2022,,,,
+148,4022 - JL. PANDAN,,245,0+200,0+244,,RR,aspal,5,,2022,,,,
+150,4023 - JL. SEMERU,,271,0+000,0+100,,RR,makadam,5,,2022,,,,
+151,4023 - JL. SEMERU,,271,0+200,0+270,,RR,makadam,5,,2022,,,,
+153,4024 - JL. RINJANI,,206,0+000,0+100,,RR,makadam,5,,2022,,,,
+154,4024 - JL. RINJANI,,206,0+200,0+205,,RR,makadam,5,,2022,,,,
+156,4025 - JL. DIENG,,375,0+000,0+100,,RR,makadam,5,,2022,,,,
+157,4025 - JL. DIENG,,375,0+100,0+200,,RR,makadam,5,,2022,,,,
+158,4025 - JL. DIENG,,375,0+300,0+375,,RR,makadam,5,,2022,,,,
+160,4026 - JL. SERAYU,,127,0+000,0+100,,RR,makadam,5,,2022,,,,
+162,4027 - JL. CISADANE,,123,0+000,0+100,,RR,makadam,5,,2022,,,,
+164,4028 - JL. MUSI,,370,0+000,0+100,,RR,makadam,5,,2022,,,,
+165,4028 - JL. MUSI,,370,0+100,0+200,,RR,makadam,5,,2022,,,,
+166,4028 - JL. MUSI,,370,0+300,0+369,,RR,lapen,5,,2022,,,,
+168,4029 - JL. CITARUM,,130,0+000,0+100,,RR,lapen,5,,2022,,,,
+170,4030 - JL. ANJASMORO,,247,0+000,0+100,,RR,lapen,5,,2022,,,,
+171,4030 - JL. ANJASMORO,,247,0+200,0+247,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+173,4031 - JL. CILIWUNG,,378,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+174,4031 - JL. CILIWUNG,,378,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+175,4031 - JL. CILIWUNG,,378,0+300,0+377,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+177,4032 - JL. SINGOLUDRO II,,600,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+178,4032 - JL. SINGOLUDRO II,,600,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+179,4032 - JL. SINGOLUDRO II,,600,0+200,0+300,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+180,4032 - JL. SINGOLUDRO II,,600,0+300,0+400,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+181,4032 - JL. SINGOLUDRO II,,600,0+500,0+599,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+183,4033 - JL. BOGO,,834,0+000,0+100,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+184,4033 - JL. BOGO,,834,0+100,0+200,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+185,4033 - JL. BOGO,,834,0+200,0+300,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+186,4033 - JL. BOGO,,834,0+300,0+400,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+187,4033 - JL. BOGO,,834,0+400,0+500,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+188,4033 - JL. BOGO,,834,0+500,0+600,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+189,4033 - JL. BOGO,,834,0+600,0+700,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+190,4033 - JL. BOGO,,834,0+800,0+834,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+192,4034 - JL. BOGO II,,387,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+193,4034 - JL. BOGO II,,387,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+194,4034 - JL. BOGO II,,387,0+300,0+386,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+196,4035 - JL. KAMBOJA,,565,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+197,4035 - JL. KAMBOJA,,565,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+198,4035 - JL. KAMBOJA,,565,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+199,4035 - JL. KAMBOJA,,565,0+300,0+400,,baik,makadam,5,,2022,,,,
+200,4035 - JL. KAMBOJA,,565,0+500,0+565,,baik,makadam,5,,2022,,,,
+202,4036 - JL. SRIGADING,,492,0+000,0+100,,baik,makadam,5,,2022,,,,
+203,4036 - JL. SRIGADING,,492,0+100,0+200,,baik,makadam,5,,2022,,,,
+204,4036 - JL. SRIGADING,,492,0+200,0+300,,baik,makadam,5,,2022,,,,
+205,4036 - JL. SRIGADING,,492,0+400,0+492,,baik,makadam,5,,2022,,,,
+207,4037 - JL. MELATI I,,173,0+000,0+100,,baik,makadam,5,,2022,,,,
+209,4038 - JL. MELATI II,,263,0+000,0+100,,baik,makadam,5,,2022,,,,
+210,4038 - JL. MELATI II,,263,0+200,0+263,,baik,makadam,5,,2022,,,,
+212,4039 - JL. KUNTO,,2048,0+000,0+100,,baik,lapen,5,,2022,,,,
+213,4039 - JL. KUNTO,,2048,0+100,0+200,,baik,lapen,5,,2022,,,,
+214,4039 - JL. KUNTO,,2048,0+200,0+300,,baik,lapen,5,,2022,,,,
+215,4039 - JL. KUNTO,,2048,0+300,0+400,,baik,lapen,5,,2022,,,,
+216,4039 - JL. KUNTO,,2048,0+400,0+500,,baik,lapen,5,,2022,,,,
+217,4039 - JL. KUNTO,,2048,0+500,0+600,,baik,lapen,5,,2022,,,,
+218,4039 - JL. KUNTO,,2048,0+600,0+700,,baik,lapen,5,,2022,,,,
+219,4039 - JL. KUNTO,,2048,0+700,0+800,,baik,tanah,5,,2022,,,,
+220,4039 - JL. KUNTO,,2048,0+800,0+900,,sedang,tanah,5,,2022,,,,
+221,4039 - JL. KUNTO,,2048,0+900,1+000,,sedang,tanah,5,,2022,,,,
+222,4039 - JL. KUNTO,,2048,1+000,1+100,,sedang,tanah,5,,2022,,,,
+223,4039 - JL. KUNTO,,2048,1+100,1+200,,sedang,tanah,5,,2022,,,,
+224,4039 - JL. KUNTO,,2048,1+200,1+300,,sedang,beton,5,,2022,,,,
+225,4039 - JL. KUNTO,,2048,1+300,1+400,,sedang,beton,5,,2022,,,,
+226,4039 - JL. KUNTO,,2048,1+400,1+500,,sedang,beton,5,,2022,,,,
+227,4039 - JL. KUNTO,,2048,1+500,1+600,,sedang,beton,5,,2022,,,,
+228,4039 - JL. KUNTO,,2048,1+600,1+700,,sedang,beton,5,,2022,,,,
+229,4039 - JL. KUNTO,,2048,1+700,1+800,,sedang,aspal,5,,2022,,,,
+230,4039 - JL. KUNTO,,2048,1+800,1+900,,sedang,aspal,5,,2022,,,,
+231,4039 - JL. KUNTO,,2048,2+000,2+048,,sedang,aspal,5,,2022,,,,
+233,4040 - JL. YOS SUDARSO,,200,0+000,0+100,,sedang,aspal,5,,2022,,,,
+235,4041 - JL. PRAMBANAN,,482,0+000,0+100,,sedang,aspal,5,,2022,,,,
+236,4041 - JL. PRAMBANAN,,482,0+100,0+200,,sedang,aspal,5,,2022,,,,
+237,4041 - JL. PRAMBANAN,,482,0+200,0+300,,sedang,aspal,5,,2022,,,,
+238,4041 - JL. PRAMBANAN,,482,0+400,0+481,,sedang,makadam,5,,2022,,,,
+240,4042 - JL. BOROBUDUR,,474,0+000,0+100,,sedang,makadam,5,,2022,,,,
+241,4042 - JL. BOROBUDUR,,474,0+100,0+200,,sedang,makadam,5,,2022,,,,
+242,4042 - JL. BOROBUDUR,,474,0+200,0+300,,sedang,makadam,5,,2022,,,,
+243,4042 - JL. BOROBUDUR,,474,0+400,0+474,,sedang,makadam,5,,2022,,,,
+245,4043 - JL. KALASAN,,465,0+000,0+100,,RR,makadam,5,,2022,,,,
+246,4043 - JL. KALASAN,,465,0+100,0+200,,RR,makadam,5,,2022,,,,
+247,4043 - JL. KALASAN,,465,0+200,0+300,,RR,makadam,5,,2022,,,,
+248,4043 - JL. KALASAN,,465,0+400,0+465,,RR,makadam,5,,2022,,,,
+250,4044 - JL. MENDUT,,218,0+000,0+100,,RR,makadam,5,,2022,,,,
+251,4044 - JL. MENDUT,,218,0+200,0+218,,RR,makadam,5,,2022,,,,
+253,4045 - JL. SALAK,,293,0+000,0+100,,RR,lapen,5,,2022,,,,
+254,4045 - JL. SALAK,,293,0+200,0+292,,RR,lapen,5,,2022,,,,
+256,4046 - JL. MANGGA,,229,0+000,0+100,,RR,lapen,5,,2022,,,,
+257,4046 - JL. MANGGA,,229,0+200,0+228,,RR,lapen,5,,2022,,,,
+259,4047 - JL. SAWO,,188,0+000,0+100,,RR,lapen,5,,2022,,,,
+261,4048 - JL. STASIUN TIMUR,,241,0+000,0+100,,RR,lapen,5,,2022,,,,
+262,4048 - JL. STASIUN TIMUR,,241,0+200,0+240,,RR,lapen,5,,2022,,,,
+264,4049 - JL. SEMANGKA,,354,0+000,0+100,,RR,tanah,5,,2022,,,,
+265,4049 - JL. SEMANGKA,,354,0+100,0+200,,RR,tanah,5,,2022,,,,
+266,4049 - JL. SEMANGKA,,354,0+300,0+353,,RR,tanah,5,,2022,,,,
+268,4050 - JL. KESEMEK,,197,0+000,0+100,,RR,tanah,5,,2022,,,,
+270,4051 - JL. ANGGUR,,253,0+000,0+100,,RR,tanah,5,,2022,,,,
+271,4051 - JL. ANGGUR,,253,0+200,0+252,,RR,beton,5,,2022,,,,
+273,4052 - JL. MANGGIS,,261,0+000,0+100,,RR,beton,5,,2022,,,,
+274,4052 - JL. MANGGIS,,261,0+200,0+260,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+276,4053 - JL. MELON,,146,0+000,0+100,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+278,4054 - JL. SIRSAK,,146,0+000,0+100,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+280,4055 - JL. RAMBUTAN,,282,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+281,4055 - JL. RAMBUTAN,,282,0+200,0+281,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+283,4056 - JL. JAMBU,,361,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+284,4056 - JL. JAMBU,,361,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+285,4056 - JL. JAMBU,,361,0+300,0+361,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+287,4057 - JL. BISMO,,877,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+288,4057 - JL. BISMO,,877,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+289,4057 - JL. BISMO,,877,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+290,4057 - JL. BISMO,,877,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+291,4057 - JL. BISMO,,877,0+400,0+500,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+292,4057 - JL. BISMO,,877,0+500,0+600,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+293,4057 - JL. BISMO,,877,0+600,0+700,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+294,4057 - JL. BISMO,,877,0+800,0+876,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+296,4058 - JL. PARIKESIT,,783,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+297,4058 - JL. PARIKESIT,,783,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+298,4058 - JL. PARIKESIT,,783,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+299,4058 - JL. PARIKESIT,,783,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+300,4058 - JL. PARIKESIT,,783,0+400,0+500,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+301,4058 - JL. PARIKESIT,,783,0+500,0+600,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+302,4058 - JL. PARIKESIT,,783,0+700,0+782,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+304,4059 - JL. BOLODEWO,,372,0+000,0+100,,baik,lapen,5,,2022,,,,
+305,4059 - JL. BOLODEWO,,372,0+100,0+200,,baik,lapen,5,,2022,,,,
+306,4059 - JL. BOLODEWO,,372,0+300,0+371,,baik,lapen,5,,2022,,,,
+308,4060 - JL. KRESNA,,457,0+000,0+100,,baik,lapen,5,,2022,,,,
+309,4060 - JL. KRESNA,,457,0+100,0+200,,baik,lapen,5,,2022,,,,
+310,4060 - JL. KRESNA,,457,0+200,0+300,,baik,tanah,5,,2022,,,,
+311,4060 - JL. KRESNA,,457,0+400,0+457,,baik,tanah,5,,2022,,,,
+313,4061 - JL. MARKISA RAJA,,610,0+000,0+100,,baik,tanah,5,,2022,,,,
+314,4061 - JL. MARKISA RAJA,,610,0+100,0+200,,baik,tanah,5,,2022,,,,
+315,4061 - JL. MARKISA RAJA,,610,0+200,0+300,,baik,tanah,5,,2022,,,,
+316,4061 - JL. MARKISA RAJA,,610,0+300,0+400,,baik,beton,5,,2022,,,,
+317,4061 - JL. MARKISA RAJA,,610,0+400,0+500,,baik,beton,5,,2022,,,,
+318,4061 - JL. MARKISA RAJA,,610,0+600,0+609,,baik,beton,5,,2022,,,,
+320,4062 - JL. APEL RAJA,,213,0+000,0+100,,baik,beton,5,,2022,,,,
+321,4062 - JL. APEL RAJA,,213,0+200,0+212,,baik,beton,5,,2022,,,,
+323,4063 - JL. PEPAYA RAJA,,212,0+000,0+100,,baik,aspal,5,,2022,,,,
+324,4063 - JL. PEPAYA RAJA,,212,0+200,0+211,,baik,aspal,5,,2022,,,,
+337,4065 - JL. SAWO RAJA,,177,0+000,0+100,,sedang,aspal,5,,2022,,,,
+345,4067 - JL. KAKAK TUA,,980,0+000,0+100,,sedang,aspal,5,,2022,,,,
+346,4067 - JL. KAKAK TUA,,980,0+100,0+200,,sedang,aspal,5,,2022,,,,
+347,4067 - JL. KAKAK TUA,,980,0+200,0+300,,sedang,aspal,5,,2022,,,,
+348,4067 - JL. KAKAK TUA,,980,0+300,0+400,,sedang,aspal,5,,2022,,,,
+349,4067 - JL. KAKAK TUA,,980,0+400,0+500,,sedang,makadam,5,,2022,,,,
+350,4067 - JL. KAKAK TUA,,980,0+500,0+600,,sedang,makadam,5,,2022,,,,
+351,4067 - JL. KAKAK TUA,,980,0+600,0+700,,sedang,makadam,5,,2022,,,,
+352,4067 - JL. KAKAK TUA,,980,0+700,0+800,,sedang,makadam,5,,2022,,,,
+353,4067 - JL. KAKAK TUA,,980,0+900,0+980,,sedang,makadam,5,,2022,,,,
+355,4068 - JL. KARANGLO I,,1279,0+000,0+100,,sedang,makadam,5,,2022,,,,
+356,4068 - JL. KARANGLO I,,1279,0+100,0+200,,sedang,makadam,5,,2022,,,,
+357,4068 - JL. KARANGLO I,,1279,0+200,0+300,,sedang,makadam,5,,2022,,,,
+358,4068 - JL. KARANGLO I,,1279,0+300,0+400,,sedang,makadam,5,,2022,,,,
+359,4068 - JL. KARANGLO I,,1279,0+400,0+500,,sedang,makadam,5,,2022,,,,
+360,4068 - JL. KARANGLO I,,1279,0+500,0+600,,sedang,makadam,5,,2022,,,,
+361,4068 - JL. KARANGLO I,,1279,0+600,0+700,,sedang,lapen,5,,2022,,,,
+362,4068 - JL. KARANGLO I,,1279,0+700,0+800,,sedang,lapen,5,,2022,,,,
+363,4068 - JL. KARANGLO I,,1279,0+800,0+900,,sedang,lapen,5,,2022,,,,
+364,4068 - JL. KARANGLO I,,1279,0+900,1+000,,sedang,lapen,5,,2022,,,,
+365,4068 - JL. KARANGLO I,,1279,1+000,1+100,,sedang,lapen,5,,2022,,,,
+366,4068 - JL. KARANGLO I,,1279,1+200,1+276,,RR,lapen,5,,2022,,,,
+368,4069 - JL. KARANGLO II,,129,0+000,0+100,,RR,lapen,5,,2022,,,,
+375,4071 - JL. SEMBADA,,284,0+000,0+100,,RR,tanah,5,,2022,,,,
+376,4071 - JL. SEMBADA,,284,0+200,0+283,,RR,tanah,5,,2022,,,,
+378,4072 - JL. KYAI SERANG,,241,0+000,0+100,,RR,tanah,5,,2022,,,,
+379,4072 - JL. KYAI SERANG,,241,0+200,0+241,,RR,tanah,5,,2022,,,,
+381,4073 - JL SUHADA HAJI,,1273,0+000,0+100,,RR,tanah,5,,2022,,,,
+382,4073 - JL SUHADA HAJI,,1273,0+100,0+200,,RR,beton,5,,2022,,,,
+383,4073 - JL SUHADA HAJI,,1273,0+200,0+300,,RR,beton,5,,2022,,,,
+384,4073 - JL SUHADA HAJI,,1273,0+300,0+400,,RR,beton,5,,2022,,,,
+385,4073 - JL SUHADA HAJI,,1273,0+400,0+500,,RR,beton,5,,2022,,,,
+386,4073 - JL SUHADA HAJI,,1273,0+500,0+600,,RR,beton,5,,2022,,,,
+387,4073 - JL SUHADA HAJI,,1273,0+600,0+700,,RR,aspal,5,,2022,,,,
+388,4073 - JL SUHADA HAJI,,1273,0+700,0+800,,RR,aspal,5,,2022,,,,
+389,4073 - JL SUHADA HAJI,,1273,0+800,0+900,,RR,aspal,5,,2022,,,,
+390,4073 - JL SUHADA HAJI,,1273,0+900,1+000,,RR,aspal,5,,2022,,,,
+391,4073 - JL SUHADA HAJI,,1273,1+000,1+100,,RR,aspal,5,,2022,,,,
+392,4073 - JL SUHADA HAJI,,1273,1+200,1+273,,RR,aspal,5,,2022,,,,
+394,4074 - JL. KUTILANG,,159,0+000,0+100,,RR,aspal,5,,2022,,,,
+396,4075 - JL. JL. MANYAR,,588,0+000,0+100,,RR,makadam,5,,2022,,,,
+397,4075 - JL. JL. MANYAR,,588,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+398,4075 - JL. JL. MANYAR,,588,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+399,4075 - JL. JL. MANYAR,,588,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+400,4075 - JL. JL. MANYAR,,588,0+500,0+587,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+402,4076 - JL. S. PARMAN,,213,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+403,4076 - JL. S. PARMAN,,213,0+200,0+212,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+405,4077 - JL. PANJAITAN,,608,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+406,4077 - JL. PANJAITAN,,608,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+407,4077 - JL. PANJAITAN,,608,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+408,4077 - JL. PANJAITAN,,608,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+409,4077 - JL. PANJAITAN,,608,0+400,0+500,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+410,4077 - JL. PANJAITAN,,608,0+600,0+608,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+412,4078 - JL. SUMATRA,,198,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+415,4080 - JL. KALIMANTAN,,396,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+416,4080 - JL. KALIMANTAN,,396,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+417,4080 - JL. KALIMANTAN,,396,0+300,0+300,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+419,4081 - JL. MADURA,,354,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+420,4081 - JL. MADURA,,354,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+421,4081 - JL. MADURA,,354,0+300,0+353,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+423,4082 - JL. SULAWESI,,192,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+426,4084 - JL. SUMBAWA,,212,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+427,4084 - JL. SUMBAWA,,212,0+200,0+212,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+429,4085 - JL. CENDRAWASIH,,385,0+000,0+100,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+430,4085 - JL. CENDRAWASIH,,385,0+100,0+200,,baik,beton,5,,2022,,,,
+431,4085 - JL. CENDRAWASIH,,385,0+300,0+385,,baik,beton,5,,2022,,,,
+433,4086 - JL. RAJAWALI,,695,0+000,0+100,,baik,beton,5,,2022,,,,
+434,4086 - JL. RAJAWALI,,695,0+100,0+200,,baik,beton,5,,2022,,,,
+435,4086 - JL. RAJAWALI,,695,0+200,0+300,,baik,aspal,5,,2022,,,,
+436,4086 - JL. RAJAWALI,,695,0+300,0+400,,baik,aspal,5,,2022,,,,
+437,4086 - JL. RAJAWALI,,695,0+400,0+500,,baik,aspal,5,,2022,,,,
+438,4086 - JL. RAJAWALI,,695,0+600,0+694,,baik,aspal,5,,2022,,,,
+440,4087 - JL. MENUR,,319,0+000,0+100,,baik,aspal,5,,2022,,,,
+441,4087 - JL. MENUR,,319,0+100,0+200,,baik,aspal,5,,2022,,,,
+442,4087 - JL. MENUR,,319,0+300,0+319,,baik,aspal,5,,2022,,,,
+444,4088 - JL. NIAS,,285,0+000,0+100,,baik,makadam,5,,2022,,,,
+445,4088 - JL. NIAS,,285,0+200,0+285,,baik,makadam,5,,2022,,,,
+447,4089 - JL. KENARI,,657,0+000,0+100,,baik,makadam,5,,2022,,,,
+448,4089 - JL. KENARI,,657,0+100,0+200,,baik,makadam,5,,2022,,,,
+449,4089 - JL. KENARI,,657,0+200,0+300,,baik,makadam,5,,2022,,,,
+450,4089 - JL. KENARI,,657,0+300,0+400,,baik,makadam,5,,2022,,,,
+451,4089 - JL. KENARI,,657,0+400,0+500,,sedang,makadam,5,,2022,,,,
+452,4089 - JL. KENARI,,657,0+600,0+657,,sedang,makadam,5,,2022,,,,
+454,4090 - JL. PARKIT,,291,0+000,0+100,,sedang,makadam,5,,2022,,,,
+455,4090 - JL. PARKIT,,291,0+200,0+291,,sedang,makadam,5,,2022,,,,
+457,4091 - JL. BETET,,798,0+000,0+100,,sedang,makadam,5,,2022,,,,
+458,4091 - JL. BETET,,798,0+100,0+200,,sedang,lapen,5,,2022,,,,
+459,4091 - JL. BETET,,798,0+200,0+300,,sedang,lapen,5,,2022,,,,
+460,4091 - JL. BETET,,798,0+300,0+400,,sedang,lapen,5,,2022,,,,
+461,4091 - JL. BETET,,798,0+400,0+500,,sedang,lapen,5,,2022,,,,
+462,4091 - JL. BETET,,798,0+500,0+600,,sedang,lapen,5,,2022,,,,
+463,4091 - JL. BETET,,798,0+700,0+797,,sedang,lapen,5,,2022,,,,
+465,4092 - JL. SRITI,,593,0+000,0+100,,sedang,lapen,5,,2022,,,,
+466,4092 - JL. SRITI,,593,0+100,0+200,,sedang,tanah,5,,2022,,,,
+467,4092 - JL. SRITI,,593,0+200,0+300,,sedang,tanah,5,,2022,,,,
+468,4092 - JL. SRITI,,593,0+300,0+400,,sedang,tanah,5,,2022,,,,
+469,4092 - JL. SRITI,,593,0+500,0+592,,sedang,tanah,5,,2022,,,,
+472,4094 - JL. CEMPAKA II,,129,0+000,0+100,,sedang,tanah,5,,2022,,,,
+474,4095 - JL. CEMPAKA III,,153,0+000,0+100,,sedang,beton,5,,2022,,,,
+476,4097 - JL. ANGGREK II,,198,0+000,0+100,,sedang,beton,5,,2022,,,,
+478,4098 - JL. JUANDA,,2348,0+000,0+100,,sedang,beton,5,,2022,,,,
+479,4098 - JL. JUANDA,,2348,0+100,0+200,,sedang,beton,5,,2022,,,,
+480,4098 - JL. JUANDA,,2348,0+200,0+300,,RR,beton,5,,2022,,,,
+481,4098 - JL. JUANDA,,2348,0+300,0+400,,RR,aspal,5,,2022,,,,
+482,4098 - JL. JUANDA,,2348,0+400,0+500,,RR,aspal,5,,2022,,,,
+483,4098 - JL. JUANDA,,2348,0+500,0+600,,RR,aspal,5,,2022,,,,
+484,4098 - JL. JUANDA,,2348,0+600,0+700,,RR,aspal,5,,2022,,,,
+485,4098 - JL. JUANDA,,2348,0+700,0+800,,RR,aspal,5,,2022,,,,
+486,4098 - JL. JUANDA,,2348,0+800,0+900,,RR,aspal,5,,2022,,,,
+487,4098 - JL. JUANDA,,2348,0+900,1+000,,RR,aspal,5,,2022,,,,
+488,4098 - JL. JUANDA,,2348,1+000,1+100,,RR,makadam,5,,2022,,,,
+489,4098 - JL. JUANDA,,2348,1+100,1+200,,RR,makadam,5,,2022,,,,
+490,4098 - JL. JUANDA,,2348,1+200,1+300,,RR,makadam,5,,2022,,,,
+491,4098 - JL. JUANDA,,2348,1+300,1+400,,RR,makadam,5,,2022,,,,
+492,4098 - JL. JUANDA,,2348,1+400,1+500,,RR,makadam,5,,2022,,,,
+493,4098 - JL. JUANDA,,2348,1+500,1+600,,RR,makadam,5,,2022,,,,
+494,4098 - JL. JUANDA,,2348,1+600,1+700,,RR,makadam,5,,2022,,,,
+495,4098 - JL. JUANDA,,2348,1+700,1+800,,RR,makadam,5,,2022,,,,
+496,4098 - JL. JUANDA,,2348,1+800,1+900,,RR,makadam,5,,2022,,,,
+497,4098 - JL. JUANDA,,2348,1+900,2+000,,RR,makadam,5,,2022,,,,
+498,4098 - JL. JUANDA,,2348,2+000,2+100,,RR,makadam,5,,2022,,,,
+499,4098 - JL. JUANDA,,2348,2+100,2+200,,RR,lapen,5,,2022,,,,
+500,4098 - JL. JUANDA,,2348,2+300,2+348,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+502,4099 - JL. PROGO,,678,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+503,4099 - JL. PROGO,,678,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+504,4099 - JL. PROGO,,678,0+200,0+300,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+505,4099 - JL. PROGO,,678,0+300,0+400,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+506,4099 - JL. PROGO,,678,0+400,0+500,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+507,4099 - JL. PROGO,,678,0+600,0+678,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+509,4101 - JL. RUSUNAWA,,286,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+510,4101 - JL. RUSUNAWA,,286,0+200,0+286,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+512,4102 - JL. MERPATI (MEJAYAN),,258,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+513,4102 - JL. MERPATI (MEJAYAN),,258,0+200,0+258,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+515,4103 - JL. IRIAN JAYA,,440,0+000,0+100,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+516,4103 - JL. IRIAN JAYA,,440,0+100,0+200,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+517,4103 - JL. IRIAN JAYA,,440,0+200,0+300,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+518,4103 - JL. IRIAN JAYA,,440,0+400,0+439,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+520,4104 - JL. PRAWIRO DIPURAN,,361,0+000,0+100,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+521,4104 - JL. PRAWIRO DIPURAN,,361,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+522,4104 - JL. PRAWIRO DIPURAN,,361,0+300,0+360,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+524,4105 - JL. KURMA RAJA,,467,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+525,4105 - JL. KURMA RAJA,,467,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+526,4105 - JL. KURMA RAJA,,467,0+200,0+300,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+527,4105 - JL. KURMA RAJA,,467,0+400,0+466,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+529,4201 - JL. NGAGEL,,1326,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+530,4201 - JL. NGAGEL,,1326,0+100,0+200,,baik,makadam,5,,2022,,,,
+531,4201 - JL. NGAGEL,,1326,0+200,0+300,,baik,makadam,5,,2022,,,,
+532,4201 - JL. NGAGEL,,1326,0+300,0+400,,baik,makadam,5,,2022,,,,
+533,4201 - JL. NGAGEL,,1326,0+400,0+500,,baik,makadam,5,,2022,,,,
+534,4201 - JL. NGAGEL,,1326,0+500,0+600,,baik,makadam,5,,2022,,,,
+535,4201 - JL. NGAGEL,,1326,0+600,0+700,,baik,makadam,5,,2022,,,,
+536,4201 - JL. NGAGEL,,1326,0+700,0+800,,baik,makadam,5,,2022,,,,
+537,4201 - JL. NGAGEL,,1326,0+800,0+900,,baik,makadam,5,,2022,,,,
+538,4201 - JL. NGAGEL,,1326,0+900,1+000,,baik,makadam,5,,2022,,,,
+539,4201 - JL. NGAGEL,,1326,1+000,1+100,,baik,makadam,5,,2022,,,,
+540,4201 - JL. NGAGEL,,1326,1+100,1+200,,baik,makadam,5,,2022,,,,
+541,4201 - JL. NGAGEL,,1326,1+300,1+325,,baik,lapen,5,,2022,,,,
+543,4202 - JL. JANOKO,,1133,0+000,0+100,,baik,lapen,5,,2022,,,,
+544,4202 - JL. JANOKO,,1133,0+100,0+200,,baik,lapen,5,,2022,,,,
+545,4202 - JL. JANOKO,,1133,0+200,0+300,,baik,lapen,5,,2022,,,,
+546,4202 - JL. JANOKO,,1133,0+300,0+400,,baik,lapen,5,,2022,,,,
+547,4202 - JL. JANOKO,,1133,0+400,0+500,,baik,lapen,5,,2022,,,,
+548,4202 - JL. JANOKO,,1133,0+500,0+600,,sedang,lapen,5,,2022,,,,
+549,4202 - JL. JANOKO,,1133,0+600,0+700,,sedang,tanah,5,,2022,,,,
+550,4202 - JL. JANOKO,,1133,0+700,0+800,,sedang,tanah,5,,2022,,,,
+551,4202 - JL. JANOKO,,1133,0+800,0+900,,sedang,tanah,5,,2022,,,,
+552,4202 - JL. JANOKO,,1133,0+900,1+000,,sedang,tanah,5,,2022,,,,
+553,4202 - JL. JANOKO,,1133,1+100,1+132,,sedang,tanah,5,,2022,,,,
+555,4203 - JL. SEDAH,,1863,0+000,0+100,,sedang,beton,5,,2022,,,,
+556,4203 - JL. SEDAH,,1863,0+100,0+200,,sedang,beton,5,,2022,,,,
+557,4203 - JL. SEDAH,,1863,0+200,0+300,,sedang,beton,5,,2022,,,,
+558,4203 - JL. SEDAH,,1863,0+300,0+400,,sedang,beton,5,,2022,,,,
+559,4203 - JL. SEDAH,,1863,0+400,0+500,,sedang,beton,5,,2022,,,,
+560,4203 - JL. SEDAH,,1863,0+500,0+600,,sedang,aspal,5,,2022,,,,
+561,4203 - JL. SEDAH,,1863,0+600,0+700,,sedang,aspal,5,,2022,,,,
+562,4203 - JL. SEDAH,,1863,0+700,0+800,,sedang,aspal,5,,2022,,,,
+563,4203 - JL. SEDAH,,1863,0+800,0+900,,sedang,aspal,5,,2022,,,,
+564,4203 - JL. SEDAH,,1863,0+900,1+000,,sedang,aspal,5,,2022,,,,
+565,4203 - JL. SEDAH,,1863,1+000,1+100,,sedang,aspal,5,,2022,,,,
+566,4203 - JL. SEDAH,,1863,1+100,1+200,,sedang,aspal,5,,2022,,,,
+567,4203 - JL. SEDAH,,1863,1+200,1+300,,sedang,makadam,5,,2022,,,,
+568,4203 - JL. SEDAH,,1863,1+300,1+400,,sedang,makadam,5,,2022,,,,
+569,4203 - JL. SEDAH,,1863,1+400,1+500,,sedang,makadam,5,,2022,,,,
+570,4203 - JL. SEDAH,,1863,1+500,1+600,,RR,makadam,5,,2022,,,,
+571,4203 - JL. SEDAH,,1863,1+600,1+700,,RR,makadam,5,,2022,,,,
+572,4203 - JL. SEDAH,,1863,1+800,1+862,,RR,makadam,5,,2022,,,,
+574,4204 - JL. SASONO LOYO,,522,0+000,0+100,,RR,makadam,5,,2022,,,,
+575,4204 - JL. SASONO LOYO,,522,0+100,0+200,,RR,makadam,5,,2022,,,,
+576,4204 - JL. SASONO LOYO,,522,0+200,0+300,,RR,makadam,5,,2022,,,,
+577,4204 - JL. SASONO LOYO,,522,0+300,0+400,,RR,makadam,5,,2022,,,,
+578,4204 - JL. SASONO LOYO,,522,0+500,0+521,,RR,makadam,5,,2022,,,,
+580,4205 - JL. KEBODALEM,,531,0+000,0+100,,RR,lapen,5,,2022,,,,
+581,4205 - JL. KEBODALEM,,531,0+100,0+200,,RR,lapen,5,,2022,,,,
+582,4205 - JL. KEBODALEM,,531,0+200,0+300,,RR,lapen,5,,2022,,,,
+583,4205 - JL. KEBODALEM,,531,0+300,0+400,,RR,lapen,5,,2022,,,,
+584,4205 - JL. KEBODALEM,,531,0+500,0+531,,RR,lapen,5,,2022,,,,
+586,4206 - JL. SIDODADI,,463,0+000,0+100,,RR,lapen,5,,2022,,,,
+587,4206 - JL. SIDODADI,,463,0+100,0+200,,RR,lapen,5,,2022,,,,
+588,4206 - JL. SIDODADI,,463,0+200,0+300,,RR,tanah,5,,2022,,,,
+589,4206 - JL. SIDODADI,,463,0+400,0+462,,RR,tanah,5,,2022,,,,
+591,4207 - JL. TEGALREJO,,2333,0+000,0+100,,RR,tanah,5,,2022,,,,
+592,4207 - JL. TEGALREJO,,2333,0+100,0+200,,RR,tanah,5,,2022,,,,
+593,4207 - JL. TEGALREJO,,2333,0+200,0+300,,RR,tanah,5,,2022,,,,
+594,4207 - JL. TEGALREJO,,2333,0+300,0+400,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+595,4207 - JL. TEGALREJO,,2333,0+400,0+500,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+596,4207 - JL. TEGALREJO,,2333,0+500,0+600,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+597,4207 - JL. TEGALREJO,,2333,0+600,0+700,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+598,4207 - JL. TEGALREJO,,2333,0+700,0+800,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+599,4207 - JL. TEGALREJO,,2333,0+800,0+900,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+600,4207 - JL. TEGALREJO,,2333,0+900,1+000,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+601,4207 - JL. TEGALREJO,,2333,1+000,1+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+602,4207 - JL. TEGALREJO,,2333,1+100,1+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+603,4207 - JL. TEGALREJO,,2333,1+200,1+300,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+604,4207 - JL. TEGALREJO,,2333,1+300,1+400,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+605,4207 - JL. TEGALREJO,,2333,1+400,1+500,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+606,4207 - JL. TEGALREJO,,2333,1+500,1+600,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+607,4207 - JL. TEGALREJO,,2333,1+600,1+700,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+608,4207 - JL. TEGALREJO,,2333,1+700,1+800,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+609,4207 - JL. TEGALREJO,,2333,1+800,1+900,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+610,4207 - JL. TEGALREJO,,2333,1+900,2+000,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+611,4207 - JL. TEGALREJO,,2333,2+000,2+100,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+612,4207 - JL. TEGALREJO,,2333,2+100,2+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+613,4207 - JL. TEGALREJO,,2333,2+300,2+332,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+615,4208 - JL. NGRAWAN II,,1413,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+616,4208 - JL. NGRAWAN II,,1413,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+617,4208 - JL. NGRAWAN II,,1413,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+618,4208 - JL. NGRAWAN II,,1413,0+300,0+400,,baik,lapen,5,,2022,,,,
+619,4208 - JL. NGRAWAN II,,1413,0+400,0+500,,baik,lapen,5,,2022,,,,
+620,4208 - JL. NGRAWAN II,,1413,0+500,0+600,,baik,lapen,5,,2022,,,,
+621,4208 - JL. NGRAWAN II,,1413,0+600,0+700,,baik,lapen,5,,2022,,,,
+622,4208 - JL. NGRAWAN II,,1413,0+700,0+800,,baik,lapen,5,,2022,,,,
+623,4208 - JL. NGRAWAN II,,1413,0+800,0+900,,baik,lapen,5,,2022,,,,
+624,4208 - JL. NGRAWAN II,,1413,0+900,1+000,,baik,lapen,5,,2022,,,,
+625,4208 - JL. NGRAWAN II,,1413,1+000,1+100,,baik,tanah,5,,2022,,,,
+626,4208 - JL. NGRAWAN II,,1413,1+100,1+200,,baik,tanah,5,,2022,,,,
+627,4208 - JL. NGRAWAN II,,1413,1+200,1+300,,baik,tanah,5,,2022,,,,
+628,4208 - JL. NGRAWAN II,,1413,1+400,1+400,,baik,tanah,5,,2022,,,,
+630,4209 - JL. KEMANTREN,,826,0+000,0+100,,baik,tanah,5,,2022,,,,
+631,4209 - JL. KEMANTREN,,826,0+100,0+200,,baik,beton,5,,2022,,,,
+632,4209 - JL. KEMANTREN,,826,0+200,0+300,,baik,beton,5,,2022,,,,
+633,4209 - JL. KEMANTREN,,826,0+300,0+400,,baik,beton,5,,2022,,,,
+634,4209 - JL. KEMANTREN,,826,0+400,0+500,,baik,beton,5,,2022,,,,
+635,4209 - JL. KEMANTREN,,826,0+500,0+600,,baik,beton,5,,2022,,,,
+636,4209 - JL. KEMANTREN,,826,0+600,0+700,,sedang,aspal,5,,2022,,,,
+637,4209 - JL. KEMANTREN,,826,0+800,0+826,,sedang,aspal,5,,2022,,,,
+639,4210 - JL. NGRAWAN I,,1155,0+000,0+100,,sedang,aspal,5,,2022,,,,
+640,4210 - JL. NGRAWAN I,,1155,0+100,0+200,,sedang,aspal,5,,2022,,,,
+641,4210 - JL. NGRAWAN I,,1155,0+200,0+300,,sedang,aspal,5,,2022,,,,
+642,4210 - JL. NGRAWAN I,,1155,0+300,0+400,,sedang,aspal,5,,2022,,,,
+643,4210 - JL. NGRAWAN I,,1155,0+400,0+500,,sedang,aspal,5,,2022,,,,
+644,4210 - JL. NGRAWAN I,,1155,0+500,0+600,,sedang,makadam,5,,2022,,,,
+645,4210 - JL. NGRAWAN I,,1155,0+600,0+700,,sedang,makadam,5,,2022,,,,
+646,4210 - JL. NGRAWAN I,,1155,0+700,0+800,,sedang,makadam,5,,2022,,,,
+647,4210 - JL. NGRAWAN I,,1155,0+800,0+900,,sedang,makadam,5,,2022,,,,
+648,4210 - JL. NGRAWAN I,,1155,0+900,1+000,,sedang,makadam,5,,2022,,,,
+649,4210 - JL. NGRAWAN I,,1155,1+100,1+155,,sedang,makadam,5,,2022,,,,
+651,4211 - JL. PANCA UPAYA,,962,0+000,0+100,,sedang,makadam,5,,2022,,,,
+652,4211 - JL. PANCA UPAYA,,962,0+100,0+200,,sedang,makadam,5,,2022,,,,
+653,4211 - JL. PANCA UPAYA,,962,0+200,0+300,,sedang,makadam,5,,2022,,,,
+654,4211 - JL. PANCA UPAYA,,962,0+300,0+400,,sedang,makadam,5,,2022,,,,
+655,4211 - JL. PANCA UPAYA,,962,0+400,0+500,,sedang,makadam,5,,2022,,,,
+656,4211 - JL. PANCA UPAYA,,962,0+500,0+600,,sedang,lapen,5,,2022,,,,
+657,4211 - JL. PANCA UPAYA,,962,0+600,0+700,,sedang,lapen,5,,2022,,,,
+658,4211 - JL. PANCA UPAYA,,962,0+700,0+800,,sedang,lapen,5,,2022,,,,
+659,4211 - JL. PANCA UPAYA,,962,0+900,0+961,,RR,lapen,5,,2022,,,,
+660,4212 - JL. JEBLOK,,1307,0+000,0+100,,RR,lapen,5,,2022,,,,
+661,4212 - JL. JEBLOK,,1307,0+100,0+200,,RR,lapen,5,,2022,,,,
+662,4212 - JL. JEBLOK,,1307,0+200,0+300,,RR,lapen,5,,2022,,,,
+663,4212 - JL. JEBLOK,,1307,0+300,0+400,,RR,tanah,5,,2022,,,,
+664,4212 - JL. JEBLOK,,1307,0+400,0+500,,RR,tanah,5,,2022,,,,
+665,4212 - JL. JEBLOK,,1307,0+500,0+600,,RR,tanah,5,,2022,,,,
+666,4212 - JL. JEBLOK,,1307,0+600,0+700,,RR,tanah,5,,2022,,,,
+667,4212 - JL. JEBLOK,,1307,0+700,0+800,,RR,tanah,5,,2022,,,,
+668,4212 - JL. JEBLOK,,1307,0+800,0+900,,RR,beton,5,,2022,,,,
+669,4212 - JL. JEBLOK,,1307,0+900,1+000,,RR,beton,5,,2022,,,,
+670,4212 - JL. JEBLOK,,1307,1+000,1+100,,RR,beton,5,,2022,,,,
+671,4212 - JL. JEBLOK,,1307,1+100,1+200,,RR,beton,5,,2022,,,,
+672,4212 - JL. JEBLOK,,1307,1+300,1+306,,RR,beton,5,,2022,,,,
+673,4212 - JL. JEBLOK,,1307,1+200,1+300,,RR,aspal,5,,2022,,,,
+675,4213 - JL. KERTO RAHARJO,,586,0+000,0+100,,RR,aspal,5,,2022,,,,
+676,4213 - JL. KERTO RAHARJO,,586,0+100,0+200,,RR,aspal,5,,2022,,,,
+677,4213 - JL. KERTO RAHARJO,,586,0+200,0+300,,RR,aspal,5,,2022,,,,
+678,4213 - JL. KERTO RAHARJO,,586,0+300,0+400,,RR,aspal,5,,2022,,,,
+679,4213 - JL. KERTO RAHARJO,,586,0+500,0+585,,RR,aspal,5,,2022,,,,
+681,4214 - JL. PANJANG PUNJUNG,,2075,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+682,4214 - JL. PANJANG PUNJUNG,,2075,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+683,4214 - JL. PANJANG PUNJUNG,,2075,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+684,4214 - JL. PANJANG PUNJUNG,,2075,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+685,4214 - JL. PANJANG PUNJUNG,,2075,0+400,0+500,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+686,4214 - JL. PANJANG PUNJUNG,,2075,0+500,0+600,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+687,4214 - JL. PANJANG PUNJUNG,,2075,0+600,0+700,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+688,4214 - JL. PANJANG PUNJUNG,,2075,0+700,0+800,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+689,4214 - JL. PANJANG PUNJUNG,,2075,0+800,0+900,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+690,4214 - JL. PANJANG PUNJUNG,,2075,0+900,1+000,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+691,4214 - JL. PANJANG PUNJUNG,,2075,1+000,1+100,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+692,4214 - JL. PANJANG PUNJUNG,,2075,1+100,1+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+693,4214 - JL. PANJANG PUNJUNG,,2075,1+200,1+300,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+694,4214 - JL. PANJANG PUNJUNG,,2075,1+300,1+400,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+695,4214 - JL. PANJANG PUNJUNG,,2075,1+400,1+500,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+696,4214 - JL. PANJANG PUNJUNG,,2075,1+500,1+600,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+697,4214 - JL. PANJANG PUNJUNG,,2075,1+600,1+700,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+698,4214 - JL. PANJANG PUNJUNG,,2075,1+700,1+800,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+699,4214 - JL. PANJANG PUNJUNG,,2075,1+800,1+900,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+700,4214 - JL. PANJANG PUNJUNG,,2075,2+000,2+074,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+702,4215 - JL. GEMAH RIPAH,,713,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+703,4215 - JL. GEMAH RIPAH,,713,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+704,4215 - JL. GEMAH RIPAH,,713,0+200,0+300,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+705,4215 - JL. GEMAH RIPAH,,713,0+300,0+400,,baik,tanah,5,,2022,,,,
+706,4215 - JL. GEMAH RIPAH,,713,0+400,0+500,,baik,beton,5,,2022,,,,
+707,4215 - JL. GEMAH RIPAH,,713,0+500,0+600,,baik,beton,5,,2022,,,,
+708,4215 - JL. GEMAH RIPAH,,713,0+700,0+712,,baik,beton,5,,2022,,,,
+710,4216 - JL. SIDOASIH,,361,0+000,0+100,,baik,beton,5,,2022,,,,
+711,4216 - JL. SIDOASIH,,361,0+100,0+200,,baik,beton,5,,2022,,,,
+712,4216 - JL. SIDOASIH,,361,0+300,0+361,,baik,aspal,5,,2022,,,,
+714,4217 - JL. TEGAL ARUM,,1552,0+000,0+100,,baik,aspal,5,,2022,,,,
+715,4217 - JL. TEGAL ARUM,,1552,0+100,0+200,,baik,aspal,5,,2022,,,,
+716,4217 - JL. TEGAL ARUM,,1552,0+200,0+300,,baik,aspal,5,,2022,,,,
+717,4217 - JL. TEGAL ARUM,,1552,0+300,0+400,,baik,aspal,5,,2022,,,,
+718,4217 - JL. TEGAL ARUM,,1552,0+400,0+500,,baik,aspal,5,,2022,,,,
+719,4217 - JL. TEGAL ARUM,,1552,0+500,0+600,,baik,aspal,5,,2022,,,,
+720,4217 - JL. TEGAL ARUM,,1552,0+600,0+700,,baik,makadam,5,,2022,,,,
+721,4217 - JL. TEGAL ARUM,,1552,0+700,0+800,,baik,makadam,5,,2022,,,,
+722,4217 - JL. TEGAL ARUM,,1552,0+800,0+900,,baik,makadam,5,,2022,,,,
+723,4217 - JL. TEGAL ARUM,,1552,0+900,1+000,,baik,makadam,5,,2022,,,,
+724,4217 - JL. TEGAL ARUM,,1552,1+000,1+100,,sedang,makadam,5,,2022,,,,
+725,4217 - JL. TEGAL ARUM,,1552,1+100,1+200,,sedang,makadam,5,,2022,,,,
+726,4217 - JL. TEGAL ARUM,,1552,1+200,1+300,,sedang,makadam,5,,2022,,,,
+727,4217 - JL. TEGAL ARUM,,1552,1+300,1+400,,sedang,makadam,5,,2022,,,,
+728,4217 - JL. TEGAL ARUM,,1552,1+500,1+552,,sedang,makadam,5,,2022,,,,
+730,4218 - JL. SIDOMUKTI,,859,0+000,0+100,,sedang,makadam,5,,2022,,,,
+731,4218 - JL. SIDOMUKTI,,859,0+100,0+200,,sedang,makadam,5,,2022,,,,
+732,4218 - JL. SIDOMUKTI,,859,0+200,0+300,,sedang,lapen,5,,2022,,,,
+733,4218 - JL. SIDOMUKTI,,859,0+300,0+400,,sedang,lapen,5,,2022,,,,
+734,4218 - JL. SIDOMUKTI,,859,0+400,0+500,,sedang,lapen,5,,2022,,,,
+735,4218 - JL. SIDOMUKTI,,859,0+500,0+600,,sedang,lapen,5,,2022,,,,
+736,4218 - JL. SIDOMUKTI,,859,0+600,0+700,,sedang,lapen,5,,2022,,,,
+737,4218 - JL. SIDOMUKTI,,859,0+800,0+858,,sedang,lapen,5,,2022,,,,
+739,4219 - JL. SIDOMULYO,,749,0+000,0+100,,sedang,lapen,5,,2022,,,,
+740,4219 - JL. SIDOMULYO,,749,0+100,0+200,,sedang,tanah,5,,2022,,,,
+741,4219 - JL. SIDOMULYO,,749,0+200,0+300,,sedang,tanah,5,,2022,,,,
+742,4219 - JL. SIDOMULYO,,749,0+300,0+400,,sedang,tanah,5,,2022,,,,
+743,4219 - JL. SIDOMULYO,,749,0+400,0+500,,sedang,tanah,5,,2022,,,,
+744,4219 - JL. SIDOMULYO,,749,0+500,0+600,,sedang,tanah,5,,2022,,,,
+745,4219 - JL. SIDOMULYO,,749,0+700,0+748,,sedang,beton,5,,2022,,,,
+747,4220 - JL. WAKIDUN,,205,0+000,0+100,,sedang,beton,5,,2022,,,,
+748,4220 - JL. WAKIDUN,,205,0+200,0+204,,RR,beton,5,,2022,,,,
+750,4221 - JL. SIDO AGUNG,,445,0+000,0+100,,RR,beton,5,,2022,,,,
+751,4221 - JL. SIDO AGUNG,,445,0+100,0+200,,RR,beton,5,,2022,,,,
+752,4221 - JL. SIDO AGUNG,,445,0+200,0+300,,RR,aspal,5,,2022,,,,
+753,4221 - JL. SIDO AGUNG,,445,0+400,0+444,,RR,aspal,5,,2022,,,,
+755,4222 - JL. PASIR WUKIR,,385,0+000,0+100,,RR,aspal,5,,2022,,,,
+756,4222 - JL. PASIR WUKIR,,385,0+100,0+200,,RR,aspal,5,,2022,,,,
+757,4222 - JL. PASIR WUKIR,,385,0+300,0+385,,RR,aspal,5,,2022,,,,
+759,4223 - JL. TOTO TERTIB,,414,0+000,0+100,,RR,aspal,5,,2022,,,,
+760,4223 - JL. TOTO TERTIB,,414,0+100,0+200,,RR,aspal,5,,2022,,,,
+761,4223 - JL. TOTO TERTIB,,414,0+200,0+300,,RR,makadam,5,,2022,,,,
+762,4223 - JL. TOTO TERTIB,,414,0+400,0+413,,RR,makadam,5,,2022,,,,
+764,4224 - JL. BERBUDI,,486,0+000,0+100,,RR,makadam,5,,2022,,,,
+765,4224 - JL. BERBUDI,,486,0+100,0+200,,RR,makadam,5,,2022,,,,
+766,4224 - JL. BERBUDI,,486,0+200,0+300,,RR,makadam,5,,2022,,,,
+767,4224 - JL. BERBUDI,,486,0+400,0+485,,RR,makadam,5,,2022,,,,
+769,4225 - JL. JUWET/SURO,,434,0+000,0+100,,RR,makadam,5,,2022,,,,
+770,4225 - JL. JUWET/SURO,,434,0+100,0+200,,RR,makadam,5,,2022,,,,
+771,4225 - JL. JUWET/SURO,,434,0+200,0+300,,RR,makadam,5,,2022,,,,
+772,4225 - JL. JUWET/SURO,,434,0+400,0+434,,RR,makadam,5,,2022,,,,
+774,4226 - JL. PUNDEN,,622,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+775,4226 - JL. PUNDEN,,622,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+776,4226 - JL. PUNDEN,,622,0+200,0+300,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+777,4226 - JL. PUNDEN,,622,0+300,0+400,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+778,4226 - JL. PUNDEN,,622,0+400,0+500,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+779,4226 - JL. PUNDEN,,622,0+600,0+622,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+781,4227 - JL. PERHUTANI,,747,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+782,4227 - JL. PERHUTANI,,747,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+783,4227 - JL. PERHUTANI,,747,0+200,0+300,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+784,4227 - JL. PERHUTANI,,747,0+300,0+400,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+785,4227 - JL. PERHUTANI,,747,0+400,0+500,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+786,4227 - JL. PERHUTANI,,747,0+500,0+600,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+787,4227 - JL. PERHUTANI,,747,0+700,0+746,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+789,4228 - JL. M.I. BUNGA BANGSA,,726,0+000,0+100,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+790,4228 - JL. M.I. BUNGA BANGSA,,726,0+100,0+200,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+791,4228 - JL. M.I. BUNGA BANGSA,,726,0+200,0+300,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+792,4228 - JL. M.I. BUNGA BANGSA,,726,0+300,0+400,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+793,4228 - JL. M.I. BUNGA BANGSA,,726,0+400,0+500,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+794,4228 - JL. M.I. BUNGA BANGSA,,726,0+500,0+600,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+795,4228 - JL. M.I. BUNGA BANGSA,,726,0+700,0+725,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+797,4229 - JL. M.I. FARHIN,,835,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+798,4229 - JL. M.I. FARHIN,,835,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+799,4229 - JL. M.I. FARHIN,,835,0+200,0+300,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+800,4229 - JL. M.I. FARHIN,,835,0+300,0+400,,baik,aspal,5,,2022,,,,
+801,4229 - JL. M.I. FARHIN,,835,0+400,0+500,,baik,aspal,5,,2022,,,,
+802,4229 - JL. M.I. FARHIN,,835,0+500,0+600,,baik,makadam,5,,2022,,,,
+803,4229 - JL. M.I. FARHIN,,835,0+600,0+700,,baik,makadam,5,,2022,,,,
+804,4229 - JL. M.I. FARHIN,,835,0+800,0+834,,baik,makadam,5,,2022,,,,
+806,4230 - JL. WAHID HASYIM,,2271,0+000,0+100,,baik,makadam,5,,2022,,,,
+807,4230 - JL. WAHID HASYIM,,2271,0+100,0+200,,baik,makadam,5,,2022,,,,
+808,4230 - JL. WAHID HASYIM,,2271,0+200,0+300,,baik,makadam,5,,2022,,,,
+809,4230 - JL. WAHID HASYIM,,2271,0+300,0+400,,baik,makadam,5,,2022,,,,
+810,4230 - JL. WAHID HASYIM,,2271,0+400,0+500,,baik,makadam,5,,2022,,,,
+811,4230 - JL. WAHID HASYIM,,2271,0+500,0+600,,baik,makadam,5,,2022,,,,
+812,4230 - JL. WAHID HASYIM,,2271,0+600,0+700,,baik,makadam,5,,2022,,,,
+813,4230 - JL. WAHID HASYIM,,2271,0+700,0+800,,baik,makadam,5,,2022,,,,
+814,4230 - JL. WAHID HASYIM,,2271,0+800,0+900,,baik,lapen,5,,2022,,,,
+815,4230 - JL. WAHID HASYIM,,2271,0+900,1+000,,baik,lapen,5,,2022,,,,
+816,4230 - JL. WAHID HASYIM,,2271,1+000,1+100,,baik,lapen,5,,2022,,,,
+817,4230 - JL. WAHID HASYIM,,2271,1+100,1+200,,baik,lapen,5,,2022,,,,
+818,4230 - JL. WAHID HASYIM,,2271,1+200,1+300,,sedang,lapen,5,,2022,,,,
+819,4230 - JL. WAHID HASYIM,,2271,1+300,1+400,,sedang,lapen,5,,2022,,,,
+820,4230 - JL. WAHID HASYIM,,2271,1+400,1+500,,sedang,lapen,5,,2022,,,,
+821,4230 - JL. WAHID HASYIM,,2271,1+500,1+600,,sedang,tanah,5,,2022,,,,
+822,4230 - JL. WAHID HASYIM,,2271,1+600,1+700,,sedang,tanah,5,,2022,,,,
+823,4230 - JL. WAHID HASYIM,,2271,1+700,1+800,,sedang,tanah,5,,2022,,,,
+824,4230 - JL. WAHID HASYIM,,2271,1+800,1+900,,sedang,tanah,5,,2022,,,,
+825,4230 - JL. WAHID HASYIM,,2271,1+900,2+000,,sedang,tanah,5,,2022,,,,
+826,4230 - JL. WAHID HASYIM,,2271,2+000,2+100,,sedang,beton,5,,2022,,,,
+827,4230 - JL. WAHID HASYIM,,2271,2+200,2+271,,sedang,beton,5,,2022,,,,
+829,4231 - JL. COKRO AMINOTO,,603,0+000,0+100,,sedang,beton,5,,2022,,,,
+830,4231 - JL. COKRO AMINOTO,,603,0+100,0+200,,sedang,beton,5,,2022,,,,
+831,4231 - JL. COKRO AMINOTO,,603,0+200,0+300,,sedang,beton,5,,2022,,,,
+832,4231 - JL. COKRO AMINOTO,,603,0+300,0+400,,sedang,aspal,5,,2022,,,,
+833,4231 - JL. COKRO AMINOTO,,603,0+400,0+500,,sedang,aspal,5,,2022,,,,
+834,4231 - JL. COKRO AMINOTO,,603,0+600,0+602,,sedang,aspal,5,,2022,,,,
+836,4232 - JL. TENGKU UMAR,,844,0+000,0+100,,sedang,aspal,5,,2022,,,,
+837,4232 - JL. TENGKU UMAR,,844,0+100,0+200,,sedang,aspal,5,,2022,,,,
+838,4232 - JL. TENGKU UMAR,,844,0+200,0+300,,sedang,aspal,5,,2022,,,,
+839,4232 - JL. TENGKU UMAR,,844,0+300,0+400,,sedang,aspal,5,,2022,,,,
+840,4232 - JL. TENGKU UMAR,,844,0+400,0+500,,sedang,makadam,5,,2022,,,,
+841,4232 - JL. TENGKU UMAR,,844,0+500,0+600,,RR,makadam,5,,2022,,,,
+842,4232 - JL. TENGKU UMAR,,844,0+600,0+700,,RR,makadam,5,,2022,,,,
+843,4232 - JL. TENGKU UMAR,,844,0+800,0+844,,RR,makadam,5,,2022,,,,
+845,4233 - JL. SANDANG PANGAN,,243,0+000,0+100,,RR,makadam,5,,2022,,,,
+846,4233 - JL. SANDANG PANGAN,,243,0+200,0+242,,RR,makadam,5,,2022,,,,
+848,4234 - JL. TOTO TENTREM,,509,0+000,0+100,,RR,makadam,5,,2022,,,,
+849,4234 - JL. TOTO TENTREM,,509,0+100,0+200,,RR,makadam,5,,2022,,,,
+850,4234 - JL. TOTO TENTREM,,509,0+200,0+300,,RR,makadam,5,,2022,,,,
+851,4234 - JL. TOTO TENTREM,,509,0+300,0+400,,RR,makadam,5,,2022,,,,
+852,4234 - JL. TOTO TENTREM,,509,0+500,0+508,,RR,makadam,5,,2022,,,,
+854,4235 - JL. LOHJINAWI,,636,0+000,0+100,,RR,lapen,5,,2022,,,,
+855,4235 - JL. LOHJINAWI,,636,0+100,0+200,,RR,lapen,5,,2022,,,,
+856,4235 - JL. LOHJINAWI,,636,0+200,0+300,,RR,lapen,5,,2022,,,,
+857,4235 - JL. LOHJINAWI,,636,0+300,0+400,,RR,lapen,5,,2022,,,,
+858,4235 - JL. LOHJINAWI,,636,0+400,0+500,,RR,lapen,5,,2022,,,,
+859,4235 - JL. LOHJINAWI,,636,0+600,0+636,,RR,lapen,5,,2022,,,,
+861,4236 - JL. SANGGRAHAN,,863,0+000,0+100,,RR,lapen,5,,2022,,,,
+862,4236 - JL. SANGGRAHAN,,863,0+100,0+200,,RR,tanah,5,,2022,,,,
+863,4236 - JL. SANGGRAHAN,,863,0+200,0+300,,RR,tanah,5,,2022,,,,
+864,4236 - JL. SANGGRAHAN,,863,0+300,0+400,,RR,tanah,5,,2022,,,,
+865,4236 - JL. SANGGRAHAN,,863,0+400,0+500,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+866,4236 - JL. SANGGRAHAN,,863,0+500,0+600,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+867,4236 - JL. SANGGRAHAN,,863,0+600,0+700,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+868,4236 - JL. SANGGRAHAN,,863,0+800,0+863,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+870,4237 - JL. LAPANGAN BERAN,,425,0+000,0+100,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+871,4237 - JL. LAPANGAN BERAN,,425,0+100,0+200,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+872,4237 - JL. LAPANGAN BERAN,,425,0+200,0+300,,RB,beton,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+873,4237 - JL. LAPANGAN BERAN,,425,0+400,0+425,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+875,4238 - JL. TEGAL ASRI,,1211,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+876,4238 - JL. TEGAL ASRI,,1211,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+877,4238 - JL. TEGAL ASRI,,1211,0+200,0+300,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+878,4238 - JL. TEGAL ASRI,,1211,0+300,0+400,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+879,4238 - JL. TEGAL ASRI,,1211,0+400,0+500,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+880,4238 - JL. TEGAL ASRI,,1211,0+500,0+600,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+881,4238 - JL. TEGAL ASRI,,1211,0+600,0+700,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+882,4238 - JL. TEGAL ASRI,,1211,0+700,0+800,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+883,4238 - JL. TEGAL ASRI,,1211,0+800,0+900,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+884,4238 - JL. TEGAL ASRI,,1211,0+900,1+000,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+885,4238 - JL. TEGAL ASRI,,1211,1+000,1+100,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+886,4238 - JL. TEGAL ASRI,,1211,1+200,1+210,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+888,4239 - JL. MONTIKAN,,1105,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+889,4239 - JL. MONTIKAN,,1105,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+890,4239 - JL. MONTIKAN,,1105,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+891,4239 - JL. MONTIKAN,,1105,0+300,0+400,,baik,makadam,5,,2022,,,,
+892,4239 - JL. MONTIKAN,,1105,0+400,0+500,,baik,makadam,5,,2022,,,,
+893,4239 - JL. MONTIKAN,,1105,0+500,0+600,,baik,lapen,5,,2022,,,,
+894,4239 - JL. MONTIKAN,,1105,0+600,0+700,,baik,lapen,5,,2022,,,,
+895,4239 - JL. MONTIKAN,,1105,0+700,0+800,,baik,lapen,5,,2022,,,,
+896,4239 - JL. MONTIKAN,,1105,0+800,0+900,,baik,lapen,5,,2022,,,,
+897,4239 - JL. MONTIKAN,,1105,0+900,1+000,,baik,lapen,5,,2022,,,,
+898,4239 - JL. MONTIKAN,,1105,1+100,1+105,,baik,lapen,5,,2022,,,,
+900,4240 - JL. DIPONEGORO,,774,0+000,0+100,,baik,lapen,5,,2022,,,,
+901,4240 - JL. DIPONEGORO,,774,0+100,0+200,,baik,tanah,5,,2022,,,,
+902,4240 - JL. DIPONEGORO,,774,0+200,0+300,,baik,tanah,5,,2022,,,,
+903,4240 - JL. DIPONEGORO,,774,0+300,0+400,,baik,tanah,5,,2022,,,,
+904,4240 - JL. DIPONEGORO,,774,0+400,0+500,,baik,tanah,5,,2022,,,,
+905,4240 - JL. DIPONEGORO,,774,0+500,0+600,,baik,tanah,5,,2022,,,,
+906,4240 - JL. DIPONEGORO,,774,0+700,0+773,,baik,beton,5,,2022,,,,
+908,4241 - JL. RADEN PATAH,,315,0+000,0+100,,baik,beton,5,,2022,,,,
+909,4241 - JL. RADEN PATAH,,315,0+100,0+200,,baik,beton,5,,2022,,,,
+910,4241 - JL. RADEN PATAH,,315,0+300,0+315,,sedang,beton,5,,2022,,,,
+912,4242 - JL. K.H. MOJO I,,413,0+000,0+100,,sedang,beton,5,,2022,,,,
+913,4242 - JL. K.H. MOJO I,,413,0+100,0+200,,sedang,aspal,5,,2022,,,,
+914,4242 - JL. K.H. MOJO I,,413,0+200,0+300,,sedang,aspal,5,,2022,,,,
+915,4242 - JL. K.H. MOJO I,,413,0+400,0+413,,sedang,aspal,5,,2022,,,,
+917,4243 - JL. K.H. MOJO II,,271,0+000,0+100,,sedang,aspal,5,,2022,,,,
+918,4243 - JL. K.H. MOJO II,,271,0+200,0+270,,sedang,aspal,5,,2022,,,,
+920,4244 - JL. AGUS SALIM,,1497,0+000,0+100,,sedang,aspal,5,,2022,,,,
+921,4244 - JL. AGUS SALIM,,1497,0+100,0+200,,sedang,aspal,5,,2022,,,,
+922,4244 - JL. AGUS SALIM,,1497,0+200,0+300,,sedang,makadam,5,,2022,,,,
+923,4244 - JL. AGUS SALIM,,1497,0+300,0+400,,sedang,makadam,5,,2022,,,,
+924,4244 - JL. AGUS SALIM,,1497,0+400,0+500,,sedang,makadam,5,,2022,,,,
+925,4244 - JL. AGUS SALIM,,1497,0+500,0+600,,sedang,makadam,5,,2022,,,,
+926,4244 - JL. AGUS SALIM,,1497,0+600,0+700,,sedang,makadam,5,,2022,,,,
+927,4244 - JL. AGUS SALIM,,1497,0+700,0+800,,sedang,makadam,5,,2022,,,,
+928,4244 - JL. AGUS SALIM,,1497,0+800,0+900,,sedang,makadam,5,,2022,,,,
+929,4244 - JL. AGUS SALIM,,1497,0+900,1+000,,sedang,makadam,5,,2022,,,,
+930,4244 - JL. AGUS SALIM,,1497,1+000,1+100,,sedang,makadam,5,,2022,,,,
+931,4244 - JL. AGUS SALIM,,1497,1+100,1+200,,sedang,makadam,5,,2022,,,,
+932,4244 - JL. AGUS SALIM,,1497,1+200,1+300,,sedang,makadam,5,,2022,,,,
+933,4244 - JL. AGUS SALIM,,1497,1+400,1+497,,sedang,lapen,5,,2022,,,,
+935,4245 - JL. MELATI,,358,0+000,0+100,,RR,lapen,5,,2022,,,,
+936,4245 - JL. MELATI,,358,0+100,0+200,,RR,lapen,5,,2022,,,,
+937,4245 - JL. MELATI,,358,0+300,0+357,,RR,lapen,5,,2022,,,,
+939,4246 - JL. MENUR,,613,0+000,0+100,,RR,lapen,5,,2022,,,,
+940,4246 - JL. MENUR,,613,0+100,0+200,,RR,lapen,5,,2022,,,,
+941,4246 - JL. MENUR,,613,0+200,0+300,,RR,lapen,5,,2022,,,,
+942,4246 - JL. MENUR,,613,0+300,0+400,,RR,tanah,5,,2022,,,,
+943,4246 - JL. MENUR,,613,0+400,0+500,,RR,tanah,5,,2022,,,,
+944,4246 - JL. MENUR,,613,0+600,0+613,,RR,tanah,5,,2022,,,,
+946,4247 - JL. NOGO,,1241,0+000,0+100,,RR,tanah,5,,2022,,,,
+947,4247 - JL. NOGO,,1241,0+100,0+200,,RR,tanah,5,,2022,,,,
+948,4247 - JL. NOGO,,1241,0+200,0+300,,RR,beton,5,,2022,,,,
+949,4247 - JL. NOGO,,1241,0+300,0+400,,RR,beton,5,,2022,,,,
+950,4247 - JL. NOGO,,1241,0+400,0+500,,RR,beton,5,,2022,,,,
+951,4247 - JL. NOGO,,1241,0+500,0+600,,RR,beton,5,,2022,,,,
+952,4247 - JL. NOGO,,1241,0+600,0+700,,RR,beton,5,,2022,,,,
+953,4247 - JL. NOGO,,1241,0+700,0+800,,RR,aspal,5,,2022,,,,
+954,4247 - JL. NOGO,,1241,0+800,0+900,,RR,aspal,5,,2022,,,,
+955,4247 - JL. NOGO,,1241,0+900,1+000,,RR,aspal,5,,2022,,,,
+956,4247 - JL. NOGO,,1241,1+000,1+100,,RR,aspal,5,,2022,,,,
+957,4247 - JL. NOGO,,1241,1+200,1+240,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+959,4248 - JL. SAUR,,783,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+960,4248 - JL. SAUR,,783,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+961,4248 - JL. SAUR,,783,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+962,4248 - JL. SAUR,,783,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+963,4248 - JL. SAUR,,783,0+400,0+500,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+964,4248 - JL. SAUR,,783,0+500,0+600,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+965,4248 - JL. SAUR,,783,0+700,0+782,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+967,4301 - JL. SUMBERMORO,,500,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+968,4301 - JL. SUMBERMORO,,500,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+969,4301 - JL. SUMBERMORO,,500,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+970,4301 - JL. SUMBERMORO,,500,0+400,0+499,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+972,4302 - JL. SUMBERSAKTI,,242,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+973,4302 - JL. SUMBERSAKTI,,242,0+200,0+242,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+975,4303 - JL. KARYAWAN,,383,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+976,4303 - JL. KARYAWAN,,383,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+977,4303 - JL. KARYAWAN,,383,0+300,0+383,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+979,4304 - JL. SUMBER MAS,,323,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+980,4304 - JL. SUMBER MAS,,323,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+981,4304 - JL. SUMBER MAS,,323,0+300,0+323,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+983,4305 - JL. SENDANG BEJI,,327,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+984,4305 - JL. SENDANG BEJI,,327,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+985,4305 - JL. SENDANG BEJI,,327,0+300,0+326,,RB,tanah,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+987,4306 - JL. BRANJANGAN I/B,,258,0+000,0+100,,baik,tanah,5,,2022,,,,
+988,4306 - JL. BRANJANGAN I/B,,258,0+200,0+258,,baik,tanah,5,,2022,,,,
+990,4307 - JL. BRANJANGAN I,,327,0+000,0+100,,baik,tanah,5,,2022,,,,
+991,4307 - JL. BRANJANGAN I,,327,0+100,0+200,,baik,beton,5,,2022,,,,
+992,4307 - JL. BRANJANGAN I,,327,0+300,0+326,,baik,beton,5,,2022,,,,
+994,4308 - JL. SETYA RUKUN,,500,0+000,0+100,,baik,beton,5,,2022,,,,
+995,4308 - JL. SETYA RUKUN,,500,0+100,0+200,,baik,beton,5,,2022,,,,
+996,4308 - JL. SETYA RUKUN,,500,0+200,0+300,,baik,beton,5,,2022,,,,
+997,4308 - JL. SETYA RUKUN,,500,0+400,0+499,,baik,aspal,5,,2022,,,,
+999,4309 - JL. SERBA GUNA,,188,0+000,0+100,,baik,aspal,5,,2022,,,,
+1001,4310 - JL. EKA BHAKTI,,736,0+000,0+100,,baik,aspal,5,,2022,,,,
+1002,4310 - JL. EKA BHAKTI,,736,0+100,0+200,,baik,aspal,5,,2022,,,,
+1003,4310 - JL. EKA BHAKTI,,736,0+200,0+300,,baik,aspal,5,,2022,,,,
+1004,4310 - JL. EKA BHAKTI,,736,0+300,0+400,,baik,aspal,5,,2022,,,,
+1005,4310 - JL. EKA BHAKTI,,736,0+400,0+500,,baik,aspal,5,,2022,,,,
+1006,4310 - JL. EKA BHAKTI,,736,0+500,0+600,,baik,makadam,5,,2022,,,,
+1007,4310 - JL. EKA BHAKTI,,736,0+700,0+736,,baik,makadam,5,,2022,,,,
+1009,4311 - JL. SWAKARYA,,317,0+000,0+100,,sedang,makadam,5,,2022,,,,
+1010,4311 - JL. SWAKARYA,,317,0+100,0+200,,sedang,makadam,5,,2022,,,,
+1011,4311 - JL. SWAKARYA,,317,0+300,0+317,,sedang,makadam,5,,2022,,,,
+1013,4312 - JL. SWANARDIPA,,195,0+000,0+100,,sedang,makadam,5,,2022,,,,
+1015,4313 - JL. SWASEMBADA,,263,0+000,0+100,,sedang,makadam,5,,2022,,,,
+1016,4313 - JL. SWASEMBADA,,263,0+200,0+263,,sedang,makadam,5,,2022,,,,
+1018,4314 - JL. KANAL TIMUR,,1094,0+000,0+100,,sedang,makadam,5,,2022,,,,
+1019,4314 - JL. KANAL TIMUR,,1094,0+100,0+200,,sedang,makadam,5,,2022,,,,
+1020,4314 - JL. KANAL TIMUR,,1094,0+200,0+300,,sedang,makadam,5,,2022,,,,
+1021,4314 - JL. KANAL TIMUR,,1094,0+300,0+400,,sedang,lapen,5,,2022,,,,
+1022,4314 - JL. KANAL TIMUR,,1094,0+400,0+500,,sedang,lapen,5,,2022,,,,
+1023,4314 - JL. KANAL TIMUR,,1094,0+500,0+600,,sedang,lapen,5,,2022,,,,
+1024,4314 - JL. KANAL TIMUR,,1094,0+600,0+700,,sedang,lapen,5,,2022,,,,
+1025,4314 - JL. KANAL TIMUR,,1094,0+700,0+800,,sedang,lapen,5,,2022,,,,
+1026,4314 - JL. KANAL TIMUR,,1094,0+800,0+900,,sedang,lapen,5,,2022,,,,
+1027,4314 - JL. KANAL TIMUR,,1094,1+000,1+094,,sedang,lapen,5,,2022,,,,
+1029,4315 - JL. SETYA DARMA,,668,0+000,0+100,,sedang,tanah,5,,2022,,,,
+1030,4315 - JL. SETYA DARMA,,668,0+100,0+200,,sedang,tanah,5,,2022,,,,
+1031,4315 - JL. SETYA DARMA,,668,0+200,0+300,,sedang,tanah,5,,2022,,,,
+1032,4315 - JL. SETYA DARMA,,668,0+300,0+400,,sedang,tanah,5,,2022,,,,
+1033,4315 - JL. SETYA DARMA,,668,0+400,0+500,,sedang,tanah,5,,2022,,,,
+1034,4315 - JL. SETYA DARMA,,668,0+600,0+667,,RR,beton,5,,2022,,,,
+325,4064 - JL. CAKRANINGRAT,,1027,0+000,0+100,,RR,beton,5,,2022,,,,
+326,4064 - JL. CAKRANINGRAT,,1027,0+100,0+200,,RR,beton,5,,2022,,,,
+327,4064 - JL. CAKRANINGRAT,,1027,0+200,0+300,,RR,beton,5,,2022,,,,
+328,4064 - JL. CAKRANINGRAT,,1027,0+300,0+400,,RR,beton,5,,2022,,,,
+329,4064 - JL. CAKRANINGRAT,,1027,0+400,0+500,,RR,aspal,5,,2022,,,,
+330,4064 - JL. CAKRANINGRAT,,1027,0+500,0+600,,RR,aspal,5,,2022,,,,
+331,4064 - JL. CAKRANINGRAT,,1027,0+600,0+700,,RR,aspal,5,,2022,,,,
+332,4064 - JL. CAKRANINGRAT,,1027,0+700,0+800,,RR,aspal,5,,2022,,,,
+333,4064 - JL. CAKRANINGRAT,,1027,0+800,0+900,,RR,aspal,5,,2022,,,,
+334,4064 - JL. CAKRANINGRAT,,1027,0+900,1+000,,RR,aspal,5,,2022,,,,
+335,4064 - JL. CAKRANINGRAT,,1027,1+000,1+026,,RR,aspal,5,,2022,,,,
+369,4070 - JL. WIBOWO,,414,0+300,0+400,,RR,makadam,5,,2022,,,,
+370,4070 - JL. WIBOWO,,414,0+000,0+100,,RR,makadam,5,,2022,,,,
+371,4070 - JL. WIBOWO,,414,0+100,0+200,,RR,makadam,5,,2022,,,,
+372,4070 - JL. WIBOWO,,414,0+200,0+300,,RR,makadam,5,,2022,,,,
+373,4070 - JL. WIBOWO,,414,0+400,0+414,,RR,makadam,5,,2022,,,,
+470,4093 - JL. CEMPAKA I,,62,0+000,0+062,,RR,makadam,5,,2022,,,,
+338,4066 - JL. MERPATI (BALEREJO),,576,0+000,0+100,,RR,makadam,5,,2022,,,,
+339,4066 - JL. MERPATI (BALEREJO),,576,0+100,0+200,,RR,makadam,5,,2022,,,,
+340,4066 - JL. MERPATI (BALEREJO),,576,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+341,4066 - JL. MERPATI (BALEREJO),,576,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+342,4066 - JL. MERPATI (BALEREJO),,576,0+400,0+500,,RB,makadam,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal
+343,4066 - JL. MERPATI (BALEREJO),,576,0+500,0+576,,RB,lapen,5,2023,2022,2023-01-12,pemeliharaan rutin,baik,aspal

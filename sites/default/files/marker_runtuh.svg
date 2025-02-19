@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<g>
+	<ellipse fill="#770505" cx="401.7" cy="251" rx="220.3" ry="231.9"/>
+	<path fill="#770505" d="M400,0C261.2,0,147.8,113.4,147.8,252.2S400,800,400,800s252.2-409,252.2-549C652.2,112.2,538.8,0,400,0z
+		 M400,448.9c-113.4,0-205.1-91.7-205.1-205.1S286.6,38.6,400,38.6s205.1,91.7,205.1,205.1C603.9,357.2,512.2,448.9,400,448.9z"/>
+</g>
+<g>
+	<rect x="246.4" y="175.4" fill="#FEFDFF" width="14" height="51.2"/>
+	<g>
+		<path fill="#FEFDFF" d="M498.3,368.5h62.9V225.8c-8.7-3.6-100.3-41-161.2-41s-152.5,37.4-161.2,41v142.7h62.9
+			c0.5-68.6,44.4-124.1,98.3-124.1S497.8,299.9,498.3,368.5z"/>
+		<rect x="293.1" y="159.2" fill="#FEFDFF" width="14" height="51.2"/>
+		<rect x="342.1" y="149.8" fill="#FEFDFF" width="14" height="51.2"/>
+		<rect x="400" y="139.8" fill="#FEFDFF" width="14" height="51.2"/>
+		<rect x="458" y="153.2" fill="#FEFDFF" width="14" height="51.2"/>
+		<rect x="545" y="178.8" fill="#FEFDFF" width="14" height="51.2"/>
+		<rect x="508.7" y="165.4" fill="#FEFDFF" width="14" height="51.2"/>
+	</g>
+</g>
+</svg>

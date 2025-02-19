@@ -1,0 +1,15 @@
+name: Bootstrap Layout Classes
+description: 'Provides a Bootstrap Layout Classes widget and field formatter.'
+package: Fields
+
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9 || ^10
+
+dependencies:
+  - drupal:field
+
+# Information added by Drupal.org packaging script on 2023-01-17
+version: '1.0.1'
+project: 'bootstrap_layout_classes'
+datestamp: 1673981121

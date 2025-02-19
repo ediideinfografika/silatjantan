@@ -1,0 +1,6 @@
+leaflet_geojson_bbox:
+  js:
+    js/leaflet_geojson.bbox.js: {}
+  css:
+    theme:
+      css/style.css: {}

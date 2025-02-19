@@ -1,0 +1,13 @@
+name: Geolocation - Leaflet - geojson
+type: module
+description: Add a geojson layer for geolocation leaflet
+core_version_requirement: ^8 || ^9
+package: Geolocation
+dependencies:
+  - geolocation:geolocation
+  - geolocation:geolocation_leaflet
+
+# Information added by Drupal.org packaging script on 2021-10-29
+version: '1.0.0-beta1'
+project: 'geolocation_leaflet_geojson'
+datestamp: 1635505040

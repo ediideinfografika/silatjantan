@@ -1,0 +1,942 @@
+{#
+/**
+ * @file
+ * Default theme implementation to display a view of unformatted rows.
+ *
+ * Available variables:
+ * - title: The title of this group of rows. May be empty.
+ * - rows: A list of the view's row items.
+ *   - attributes: The row's HTML attributes.
+ *   - content: The row's content.
+ * - view: The view object.
+ * - default_row_class: A flag indicating whether default classes should be
+ *   used on rows.
+ *
+ * @see template_preprocess_views_view_unformatted()
+ *
+ * @ingroup themeable
+ */
+#}
+<style>
+
+    #menu1 {
+        background: #fff;
+        position: absolute;
+        z-index: 99;
+        top: 10px;
+        left: 10px;
+        border-radius: 3px;
+        width: auto;
+        border: 1px solid rgba(0, 0, 0, 0.4);
+        font-family: 'Open Sans', sans-serif;
+        
+    }
+
+    #menu a {
+             text-transform: uppercase;
+    font-size: 10px;
+    color: #000000;
+    display: block;
+    margin: 0;
+    background: #c6eff3;
+        padding: 0;
+        padding: 10px;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+        text-align: center;
+    }
+
+    #menu a:last-child {
+        border: none;
+    }
+
+    #menu a:hover {
+        background-color: #f8f8f8;
+        color: #404040;
+    }
+
+    #menu a.active {
+        background-color: #3887be;
+        color: #ffffff;
+    }
+
+    #menu a.active:hover {
+        background: #3074a4;
+    }
+  
+
+        #map {
+           position: relative;
+        top: 0;
+        bottom: 0;
+        height:700px;
+        width: 100%;
+      }
+
+      .mapboxgl-popup {
+        max-width: 400px;
+        font: 12px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
+      }
+
+      .mapboxgl-popup {
+        max-width: 400px;
+        font: 12px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
+      }
+      .map-overlay {
+            z-index: 99;
+position: absolute;
+    bottom: 40px;
+    right: 2px;
+    background: #fff;
+    margin-right: 20px;
+    font-family: Arial, sans-serif;
+    overflow: auto;
+    border-radius: 3px;
+    padding: 13px;
+}
+#legend {
+    padding: 10px;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 10%);
+    line-height: 22px;
+    height: 137px;
+    width: 144px;
+    font-size: 14px;
+}
+.legend-key {
+display: inline-block;
+border-radius: 20%;
+width: 10px;
+height: 10px;
+margin-right: 5px;
+}
+
+  #menu {
+      position: absolute;
+    /* background: #fff; */
+    border-radius: 20px;
+    top: 10px;
+    right: 12px;
+    padding: 10px;
+    font-family: "Open Sans", sans-serif;
+        z-index: 99;
+      }
+
+
+      
+
+#sidebarx {
+ position: absolute;
+    top: 0px;
+    left: -260px;
+    width: 260px;
+    height: 100%;
+    color: #fff;
+    z-index: 1;
+    background: #151719ad;
+    transition: all 300ms linear;
+}
+#sidebarx.active {
+  left:0;
+  padding: 47px 0px 47px 13px;
+      overflow: scroll;
+}
+#sidebarx .toggle-btn {
+  position:absolute;
+  left:220px;
+      top: 42px;
+}
+#sidebarx .toggle-btn span {
+  display:block;
+  width:30px;
+  height:5px;
+  background:#151719;
+  margin:5px 0px;
+  cursor:pointer;
+}
+#sidebarx div.list div.item {
+  padding:15px 10px;
+  border-bottom:1px solid #444;
+  color:#fcfcfc;
+  text-transform:uppercase;
+  font-size:12px;
+}
+
+#sidebarx div.list div.item a{
+  color:#fcfcfc;
+  text-decoration: none;
+}
+
+#wadahfeat{
+  padding:0;
+   padding-bottom: 30px;
+}
+#wadahfeat li a {
+    color: #e8f0f7;
+}
+#wadahfeat li  {
+    list-style:none;
+   
+}
+
+.btcari{
+      width: 52px;
+    padding-right: 10p;
+    margin: 4px 13px;
+}
+
+      /* Marker tweaks */
+      .mapboxgl-popup {
+            left: -10px;
+      }
+
+      .mapboxgl-popup-close-button {
+            position: absolute;
+    right: 19px;
+    top: 0;
+    border: 0;
+    border-radius: 0 3px 0 0;
+    cursor: pointer;
+    background-color: #f70303 !important;
+    color: #fff;
+    font-size: 15px;
+      }
+      .mapboxgl-popup-content {
+        font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', sans-serif;
+        padding: 0;
+        width: 250px;
+      }
+      .mapboxgl-popup-content h3 {
+           background: #91c949;
+    color: #000;
+    margin: 0;
+    padding: 5px;
+    border-radius: 3px 3px 0 0;
+    font-weight: 700;
+    margin-top: -15px;
+    font-size: 1em;
+      }
+
+      .mapboxgl-popup-content h4 {
+           margin: 0;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 1.2em;
+      }
+
+      .mapboxgl-popup-content div {
+        padding: 10px;
+      }
+      .mapboxgl-popup-content p {
+      padding: 2px;
+    font-size: 0.7em;
+    margin: 0;
+        
+      }
+
+      .mapboxgl-popup-anchor-top > .mapboxgl-popup-content {
+        margin-top: 5px;
+      }
+
+      .mapboxgl-popup-anchor-top > .mapboxgl-popup-tip {
+        border-bottom-color: #91c949;
+      }
+    
+
+
+</style>
+{% if title %}
+  <h3>{{ title }}</h3>
+{% endif %}
+ <script src="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
+
+
+
+  
+<div id="map">
+ <div id="menu1">
+   <input id="satelit" type="radio" name="rtoggle" value="satellite" checked="checked" />
+      <label for="satellite">satellite</label>
+      <input id="streets-v11" type="radio" name="rtoggle" value="streets"/>
+      <label for="streets">streets</label>
+      <input id="light-v10" type="radio" name="rtoggle" value="light" />
+      <label for="light">light</label>
+      <input id="dark-v10" type="radio" name="rtoggle" value="dark" />
+      <label for="dark">dark</label>
+      <input id="outdoors-v11" type="radio" name="rtoggle" value="outdoors" />
+      <label for="outdoors">outdoors</label>
+      <button class="btcari" onclick="toggleSidebar(this)"> Cari</button>  
+    </div>
+
+  <div class="map-overlay" id="legend"></div>
+
+<nav id="menu">
+   {% for row in rows %}  
+   
+{% set filex= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ field_file_impo }}'] %}
+{% set jenisx= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ field_jenis_newimport }}'] %}
+{% set idx= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ nid }}'] %}
+
+
+		{% if jenisx=='jalan_kabupaten' %}
+		
+			{% set tilex ='Kon_Karakteristik_Jalan_100m-78vgvr'%}
+			{% set mapboxid ='robaitusman.9lfabi0d'%}
+			{% set jenis ='kab'%}
+			{% set promoteid ='No'%}
+			{% set idnya ='row.No'%}
+		
+		{% elseif jenisx=='jalan_perkotaan'  %}
+			{% set tilex ='Kon_Jl_Perkotaan_Kab_Madiun-dz0rgm'%}
+			{% set mapboxid ='robaitusman.b03ezrdx'%}
+			{% set jenis ='kota'%}
+			{% set promoteid ='No'%}
+			{% set idnya ='row.No'%}
+		
+		{% elseif jenisx=='jalan_kelurahan'  %} 
+			{% set tilex ='Kon_Jalan_Kelurahan_2-cv7czs'%}
+			{% set mapboxid ='robaitusman.5ngx9rrq'%}
+			{% set jenis ='kel'%}
+			{% set promoteid ='No'%}
+			{% set idnya ='row.No'%}
+		
+		{% else %}
+			{% set tilex ='Kon_Jalan_Poros_Sesuai_SK-8lejoj'%}
+			{% set mapboxid ='robaitusman.6xbcv45x'%}
+			{% set jenis ='kel'%}
+			{% set promoteid ='No'%}
+			{% set idnya ='row.No'%}		
+			
+		{% endif %}
+
+          <a id="{{idx}}" href="#"  data-tile="{{idx}}_tile" data-source="{{tilex}}" data-file="{{filex}}" >{{jenisx}}</a>  
+   {% endfor %}
+</nav>
+
+
+<div id="sidebarx">
+
+ <form>
+  <input type="text" id="filter">
+  <ul id="wadahfeat">
+  
+  </ul>
+</form>
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-filterlist@1.0.3/lib/jquery.filterList.min.js"></script>
+  <script>
+function toggleSidebar(ref){
+  document.getElementById("sidebarx").classList.toggle('active');
+}
+
+document.getElementById('filter').addEventListener('click', () => {
+map.fitBounds([
+[111.45,-7.8], // southwestern corner of the bounds
+[111.83,-7.43] // northeastern corner of the bounds
+]);
+});
+
+      //YOUR TURN: Replace with your Mapbox Token
+      const apiKey = "AAPK79d62b890b694fe6b15a3fa76116acf9ztzOzKN55-fQXqFyPp7KqRlhqm68rJW9Tj4BgViZoVt5GZrnGD7hbcXij58yGz-o";
+      const basemapEnum = "ArcGIS:Imagery";
+      
+      
+      mapboxgl.accessToken = 'pk.eyJ1Ijoicm9iYWl0IiwiYSI6ImNqbXEzczh2bjA2bjgzd213azh2ZXE0bTYifQ.H4ObVqAY4KTQk17fpTV1kw';
+      var map = new mapboxgl.Map({
+        container: "map",
+       style: `https://basemaps-api.arcgis.com/arcgis/rest/services/styles/${basemapEnum}?type=style&token=${apiKey}`,
+        zoom: 12, // starting zoom
+        center: [111.653,-7.500]
+      });
+    
+          //control
+    map.addControl(new mapboxgl.NavigationControl());
+    map.addControl(new mapboxgl.FullscreenControl({container: document.querySelector('#map')}));
+    map.addControl(new mapboxgl.GeolocateControl({
+positionOptions: {
+enableHighAccuracy: true
+},
+trackUserLocation: true,
+showUserHeading: true
+}));
+
+      map.on("load", function () {
+
+
+          addBaseLayer();
+        addMaineLayer();
+     
+
+          const layerList = document.getElementById("menu1");
+          const inputs = layerList.getElementsByTagName("input");
+
+
+
+
+
+function switchLayer(layer) {
+    // addMaineLayer fn will be called once on layer switched
+    map.once("styledata", addBaseLayer);
+    map.once("styledata", addMaineLayer);
+
+    const layerId = layer.target.id;
+    if (layerId=='satelit'){
+        
+         const apiKey = "AAPK79d62b890b694fe6b15a3fa76116acf9ztzOzKN55-fQXqFyPp7KqRlhqm68rJW9Tj4BgViZoVt5GZrnGD7hbcXij58yGz-o";
+      const basemapEnum = "ArcGIS:Imagery";
+       map.setStyle(`https://basemaps-api.arcgis.com/arcgis/rest/services/styles/${basemapEnum}?type=style&token=${apiKey}`); 
+    }
+    else{
+       map.setStyle("mapbox://styles/mapbox/" + layerId);  
+    }
+   
+    
+
+  }
+
+  // set toggle base style events
+  for (let i = 0; i < inputs.length; i++) {
+    inputs[i].onclick = switchLayer;
+  }
+
+          
+          // create legend
+          const legend = document.getElementById('legend');
+          const colors = [
+          '#25ed25',
+          'yellow',
+          'red',
+          '#630606',
+          '#000',
+          '#ccc'
+          ];
+          
+             const layers = [
+          'baik',
+          'sedang',
+          'RR (Rusak Ringan)',
+          'RB (Rusak Berat)',
+          'Jalan nasional',
+          'Batas Wilayah'
+          ];
+
+          layers.forEach((layer, i) => {
+          const color = colors[i];
+          const item = document.createElement('div');
+          const key = document.createElement('span');
+          key.className = 'legend-key';
+          key.style.backgroundColor = color;
+          
+          const value = document.createElement('span');
+          value.innerHTML = `${layer}`;
+          item.appendChild(key);
+          item.appendChild(value);
+          legend.appendChild(item);
+          });
+
+
+        
+      
+      });
+
+
+map.on('styledata', function () {
+    $('#menu a').filter('.active').each(function(i) {
+  var ida= $(this).attr('id');
+  const visibility = map.getLayoutProperty(ida,'visibility');
+  //console.log(visibility);
+  map.setLayoutProperty(ida, 'visibility', 'visible');  
+});
+
+})
+
+function addBaseLayer() {
+  
+         map.addSource("jalannastile", {
+          type: "vector",
+          url: "mapbox://robait.9ioa8vf9"
+        });              
+                   
+         map.addSource("bataskabtile", {
+          type: "vector",
+          url: "mapbox://robait.1wbh76pk"
+        });
+          map.addSource("jalankabtile", {
+          type: "vector",
+          url: "mapbox://robait.ad73so7a"
+        });  
+
+
+  const addLayer = (layer, beforeId) => map.addLayer(layer, beforeId);
+
+   addLayerBefore(
+    addLayer,
+  {
+          id: "bataskab",
+          type: "line",
+          source: "bataskabtile",
+          "source-layer": "Kab_Madiun_Polyline-7gpmc2",
+          layout: {},
+          paint: {
+            'line-color': '#fff',
+            'line-width': 2
+            },
+        },
+    "bataskab"
+  );
+
+   addLayerBefore(
+    addLayer,
+  {
+          id: "jalannas",
+          type: "line",
+          source: "jalannastile",
+          "source-layer": "JALAN_NASIONAL_MADIUN-2mmnhr",
+          layout: {},
+          paint: {
+            'line-color': '#000',
+            'line-width': 4
+            },
+        },
+    "jalannas"
+  );
+
+  addLayerBefore(
+    addLayer,
+  {
+          id: "jalankab",
+          type: "line",
+          source: "jalankabtile",
+          "source-layer": "Jalan_kabupaten_100m-2lldiz",
+          layout: {},
+          paint: {
+            'line-color': '#ccc',
+            'line-width': 4
+            },
+        },
+    "jalankab"
+  );
+
+
+}  
+
+
+
+      
+function addMaineLayer() {
+
+  const addLayer = (layer, beforeId) => map.addLayer(layer, beforeId);
+  {% for row in rows %}
+
+{% set filex= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ field_file_impo }}'] %}
+{% set jenis= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ field_jenis_newimport }}'] %}
+{% set idx= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ nid }}'] %}
+
+
+		{% if jenis=='jalan_kabupaten' %}
+		
+			{% set tilex ='Kon_Karakteristik_Jalan_100m-78vgvr'%}
+			{% set mapboxid ='robaitusman.9lfabi0d'%}
+			{% set jenis ='kab'%}
+			{% set promoteid ='No'%}
+			{% set idnya ='row.No'%}
+		
+		{% elseif jenis=='jalan_perkotaan'  %}
+			{% set tilex ='Kon_Jl_Perkotaan_Kab_Madiun-dz0rgm'%}
+			{% set mapboxid ='robaitusman.b03ezrdx'%}
+			{% set jenis ='kota'%}
+			{% set promoteid ='No'%}
+			{% set idnya ='row.No'%}
+		
+		{% elseif jenis=='jalan_kelurahan'  %} 
+			{% set tilex ='Kon_Jalan_Kelurahan_2-cv7czs'%}
+			{% set mapboxid ='robaitusman.5ngx9rrq'%}
+			{% set jenis ='kel'%}
+			{% set promoteid ='No'%}
+			{% set idnya ='row.No'%}
+		
+		{% else %}
+			{% set tilex ='Kon_Jalan_Poros_Sesuai_SK-8lejoj'%}
+			{% set mapboxid ='robaitusman.6xbcv45x'%}
+			{% set jenis ='kel'%}
+			{% set promoteid ='No'%}
+			{% set idnya ='row.No'%}		
+			
+		{% endif %}
+
+
+const csvUrl{{idx}} = '{{filex}}';
+const csvPromise{{idx}} = papaPromise(csvUrl{{idx}});
+
+          csvPromise{{idx}}.then(function (results) {
+         // console.log(results.data);
+          results.data.forEach((row) => {
+           
+            if(row.Kondisi_Kini)
+            {              
+             var kondisix=row.Kondisi_Kini;
+             var perke=row.Perke_Kini;
+            }
+            else{
+               var kondisix=row.Kondisi;
+               var perke=row.Tipe_Perke;
+            }
+
+            map.setFeatureState(
+              {
+                //YOUR TURN: Replace with your source tileset and source layer
+                source: "{{idx}}_tile",
+                sourceLayer: "{{tilex}}",
+                //YOUR TURN: Replace with unqiue ID row name
+                id: {{idnya}},
+              },
+              //YOUR TURN: Add rows you want to style/interact with
+              {
+                Kondisi: kondisix,
+                Tipe_Perke: perke,
+                Lebar_STA: row.Lebar_STA,
+                Penanganan: row.Penanganan,
+                Panjang: row.Panjang,
+              }
+            );
+          });
+        });
+
+
+
+      //YOUR TURN: Add source layer
+        map.addSource("{{idx}}_tile", {
+          type: "vector",
+          url: "mapbox://{{mapboxid}}",
+          promoteId: "{{promoteid}}",
+        });
+
+  
+
+  addLayerBefore(
+  addLayer,
+   {
+          id: "{{idx}}",
+          type: "line",
+          source: "{{idx}}_tile",
+          "source-layer": "{{tilex}}",
+          layout: {'visibility': 'none'},
+          paint: {
+            'line-color': [
+            'match',
+            ['feature-state', 'Kondisi'],
+            'baik','#25ed25',
+            'baik ','#25ed25',
+            'sedang','yellow',
+            'RR','red',
+            'RB','#630606',
+            /* other */ '#ccc'
+            ],
+            'line-width': 4
+            },
+        },
+    "{{idx}}"
+  );
+    
+
+{% endfor %}
+
+
+
+
+}
+
+
+
+
+function addLayerBefore(addLayerFn, layer, beforeId) {
+  // check beforeId defined and exists on the map
+  const beforeLayer = Boolean(beforeId) && map.getLayer(beforeId);
+  if (beforeLayer && beforeId === beforeLayer.id) addLayerFn(layer, beforeId);
+  else {
+    console.warn(
+      `Not found layer with id '${beforeId}'.\nLayer '${
+        layer.id
+      }' added without before.`
+    );
+    addLayerFn(layer);
+  }
+}
+
+
+
+
+      var popup = new mapboxgl.Popup({
+        closeButton: false,
+        closeOnClick: false,
+      });
+
+  {% for row in rows %}
+  {% set idx= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ nid }}'] %}
+  {% set jenis= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ field_jenis_import }}'] %}
+
+
+   
+      map.on("mousemove", "{{idx}}", function (e) {
+        map.getCanvas().style.cursor = "pointer";
+
+        var district = map.queryRenderedFeatures(e.point, {
+          layers: ["{{idx}}"],
+        });
+        {# console.log(e.point); #}
+
+        var props = district[0].properties;
+
+        var state = district[0].state;
+
+        var content = "<b>" + "Detail Jalan" + "</b>" + "<br>";
+        {% if jenis =='Status Jalan Kabupaten'%}
+        content += "<b>" + props.Nm_Ruas + "</b><br>";
+          content += "No Ruas: " + props.Kd_Inf + "<br>";
+        {% else %}
+         content += "<b>" + props.Nm_Ruas + "</b><br>";
+       {% endif %}      
+        content += "Panjang Ruas: " + state.Panjang + "<br>";
+        content += "STA_AWAL: " + props.STA_AWAL + "<br>";
+        content += "STA_AKHIR: " + props.STA_AKHIR + "<br>";
+        content += "Kondisi: " + state.Kondisi + "<br>";
+        content += "Perkerasan: " + state.Tipe_Perke + "<br>";
+        content += "Penanganan: " + state.Penanganan + "<br>";
+        content += "Lebar: " + state.Lebar_STA + "<br>";
+        popup.setLngLat(e.lngLat).setHTML(content).addTo(map);
+      });
+
+      map.on("mouseleave", "{{idx}}", function () {
+        map.getCanvas().style.cursor = "";
+        popup.remove();
+      });
+
+  {% endfor %}
+
+      function transformRequest(url, resourceType) {
+        var isMapboxRequest =
+          url.slice(8, 22) === "api.mapbox.com" ||
+          url.slice(10, 26) === "tiles.mapbox.com";
+        return {
+          url: isMapboxRequest
+            ? url.replace("?", "?pluginName=dataJoins&")
+            : url,
+        };
+      }
+      function papaPromise(url) {
+        return new Promise(function (resolve, reject) {
+          Papa.parse(url, {
+            download: true,
+            header: true,
+            skipEmptyLines: true,
+            complete: resolve,
+          });
+        });
+      }
+
+
+
+
+$(function() {
+
+  // info button transitions
+  $(".menu").on("click", function() {
+    $(".menu > i").toggleClass("fa-bars fa-close", 300);
+    $(".sidebar-wrapper").toggleClass("show-sidebar", 500);
+    $("body").toggleClass("push-body", 500);
+  });
+});
+
+
+
+      
+map.on('idle', () => {
+
+
+  $("#filter").keyup(function(){
+    var dInput = this.value;
+    if(dInput.length>3){
+
+        var options = {
+	shouldSort: true,
+	threshold: 0.2,
+	maxPatternLength: 32,
+	minMatchCharLength: 4,
+	keys: ['properties.Nm_Ruas']
+};
+
+
+var arrfeat=[];
+           $('#menu a').filter('.active').each(function(i) {
+        var ida= $(this).attr('id');
+        var tilex= $(this).attr('data-tile');
+        var sourcex= $(this).attr('data-source');
+        const cobax = map.queryRenderedFeatures({layers: [ida]});  
+
+         arrfeat = arrfeat.concat(cobax);
+          });
+
+      
+var fusex = new Fuse(arrfeat, options); 
+
+        if (arrfeat) {
+        var resultJSON = fusex.search(dInput);
+    //    const uniqueFeatures = getUniqueFeatures(featuresx, 'No');
+        renderListings(resultJSON); 
+          }
+    }  
+  });
+
+
+});
+
+$('#menu a').click(function (e) {
+   e.preventDefault();
+   // $("#menu a").removeClass("active");
+    $(this).toggleClass("active");
+     var clickedLayer = $(this).attr("id");
+
+
+
+              const visibility = map.getLayoutProperty(
+                    clickedLayer,
+                    'visibility'
+                );
+
+                // Toggle layer visibility by changing the layout object's visibility property.
+                if (visibility === 'visible') {
+                    map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+                   // this.className = '';
+                } else {
+                   // this.className = 'active';'
+                    map.setLayoutProperty(
+                        clickedLayer,
+                        'visibility',
+                        'visible'
+                    );
+
+          
+
+                }
+
+
+
+
+});
+
+
+   function renderListings(features) {
+     const listings = document.getElementById('wadahfeat');
+      
+  $('#wadahfeat').empty();  
+  let itemNames =features; //features.filter(eachObj => eachObj.properties.Nm_Ruas.includes(dInput));
+
+    
+        if (itemNames.length) {
+            for (const feature of itemNames) {
+            
+                 const listing = listings.appendChild(document.createElement('li'));
+                 
+                  /* Assign the 'item' class to each listing for styling. */
+                  listing.className = 'itemx';
+
+          /* Add the link to the individual listing created above. */
+          const link = listing.appendChild(document.createElement('a'));
+          link.href = '#';
+          link.setAttribute('attname', 'attvalue');
+          link.data = 'coba';
+          link.id = feature.item.properties.No;
+          link.innerHTML = feature.item.properties.Nm_Ruas+" "+feature.item.properties.STA_AWAL+" - "+feature.item.properties.STA_AKHIR; 
+
+       link.addEventListener('click', function () {
+            for (const featurex of itemNames) {
+              //console.log(featurex);
+              if (this.id === featurex.item.properties.No) {
+                flyToStore(featurex.item);
+                createPopUp(featurex.item);
+              } 
+            }
+           
+          });
+
+            }
+
+            // Show the filter input
+           // filterEl.parentNode.style.display = 'block';
+        } else if (features.length === 0 ) {
+         
+        } else {
+          
+
+       
+        } 
+    }
+
+
+
+      function flyToStore(currentFeature) {
+       // console.log(currentFeature);
+       map.flyTo({
+          center: currentFeature.geometry.coordinates[0],
+          zoom: 15
+        }); 
+      }
+
+      function createPopUp(currentFeature) {
+
+        const popUps = document.getElementsByClassName('mapboxgl-popup');
+        if (popUps[0]) popUps[0].remove();
+        const popup = new mapboxgl.Popup({ closeOnClick: false })
+          .setLngLat(currentFeature.geometry.coordinates[0])
+          .setHTML(
+            `<h3>${currentFeature.properties.Nm_Ruas}</h3><h4>${currentFeature.state.Kondisi}</h4>
+            <p>Panjang: ${currentFeature.properties.Panjang}</p>
+            <p>STA_AWAL: ${currentFeature.properties.STA_AWAL}</p>
+            <p>STA_AKHIR: ${currentFeature.properties.STA_AKHIR}</p>
+            <p>Tipe_Perkerasan: ${currentFeature.state.Tipe_Perke}</p>
+            <p>Lebar_STA: ${currentFeature.state.Lebar_STA}</p>
+            `
+          )
+          .addTo(map);
+      }
+
+      function getUniqueFeatures(features, comparatorProperty) {
+      const uniqueIds = new Set();
+      const uniqueFeatures = [];
+      for (const feature of features) {
+      const id = feature.properties.No+'_'+feature.properties.Nm_Ruas;
+      if (!uniqueIds.has(id)) {
+      uniqueIds.add(id);
+      uniqueFeatures.push(feature);
+      }
+      }
+      return uniqueFeatures;
+      }
+
+
+
+    </script>
+
+
+
+

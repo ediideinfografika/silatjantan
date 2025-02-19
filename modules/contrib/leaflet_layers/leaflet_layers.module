@@ -1,0 +1,95 @@
+<?php
+
+/**
+ * @file
+ * Contains leaflet_layers.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+use Drupal\leaflet_layers\Entity\MapBundle;
+use Drupal\leaflet_layers\Entity\MapLayer;
+
+/**
+ * Implements hook_help().
+ */
+function leaflet_layers_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the leaflet_layers module.
+    case 'help.page.leaflet_layers':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Provide configurable config for Leaflet') . '</p>';
+      return $output;
+
+    default:
+  }
+}
+
+/**
+ * Implements hook_leaflet_map_info().
+ */
+function leaflet_layers_leaflet_map_info() {
+  $bundles = MapBundle::loadMultiple();
+  $hook_data = [];
+  foreach ($bundles as $bundle) {
+    $item = [
+      'label' => $bundle->label(),
+      'description' => '',
+      'settings' => $bundle->getSettings(),
+      'layers' => [],
+      'leaflet_layers' => TRUE,
+    ];
+
+    $layers = $bundle->getLayers();
+
+    foreach ($layers as $layer) {
+      if ($layer['module'] !== 'leaflet_layers') {
+        $layer_data = \Drupal::moduleHandler()->invoke($layer['module'], 'leaflet_map_info');
+
+        $layer_name = $layer['id'];
+        if ($layer['label'] !== '') {
+          $layer_name = $layer['label'];
+        }
+
+        $item['layers'][$layer_name] = $layer_data[$layer['map_bundle']]['layers'][$layer['layer_id']];
+      }
+      else {
+        $layerEntity = MapLayer::load($layer['layer_id']);
+
+        $settings = $layerEntity->getSettings();
+        $plugin_type = $settings['plugin_type'] ?? 'tilelayer';
+        unset($settings['plugin_type']);
+
+        $layerItem = [
+          'urlTemplate' => $layerEntity->getUrlTemplate(),
+          'options' => $settings,
+        ];
+
+        $layer_name = $layerEntity->label();
+        if ($layer['label'] !== '') {
+          $layer_name = $layer['label'];
+        }
+
+        $layerItem['type'] = $plugin_type;
+
+        if ($layerEntity->getSetting('layer_type', FALSE) != FALSE) {
+          $layerItem['layer_type'] = $layerEntity->getSetting('layer_type');
+        }
+
+        $item['layers'][$layer_name] = $layerItem;
+      }
+    }
+
+    // Make sure base layers come before overlays.
+    uasort($item['layers'], function ($a, $b) {
+      $aVal = isset($a['layer_type']) ? $a['layer_type'] : 'base';
+      $bVal = isset($b['layer_type']) ? $b['layer_type'] : 'base';
+
+      return strcmp($aVal, $bVal);
+    });
+
+
+    $hook_data[$bundle->id()] = $item;
+  }
+  return $hook_data;
+}

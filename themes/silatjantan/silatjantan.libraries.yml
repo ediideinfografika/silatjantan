@@ -1,0 +1,12 @@
+global-style:
+  version: 1.x
+  css:
+    theme:
+       assets/css/styles.css: {}
+  js:
+    assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js: {}
+    assets/js/sidebarmenu.js: {}
+    assets/js/app.min.js: {} 
+    assets/libs/simplebar/dist/simplebar.js: {}
+  dependencies:
+    - core/jquery

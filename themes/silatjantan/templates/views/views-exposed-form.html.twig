@@ -1,0 +1,37 @@
+{#
+/**
+ * @file
+ * Theme override for a views exposed form.
+ *
+ * Available variables:
+ * - form: A render element representing the form.
+ *
+ * @see template_preprocess_views_exposed_form()
+ */
+#}
+{% if q is not empty %}
+  {#
+    This ensures that, if clean URLs are off, the 'q' is added first,
+    as a hidden form element, so that it shows up first in the POST URL.
+  #}
+{{ q }}
+{% endif %}
+
+
+       <div class="row">
+    <form{{ attributes.addClass('uk-form-stacked') }}>
+      {# Iterate through form elements and add class 'col-sm' to each input #}
+      {% for key, element in form %}
+     
+     {% if element['#type'] in ['textfield', 'select', 'checkbox', 'radios'] %}
+             <div class="col-5">       {{ element }}</div>
+        {% endif %}
+        
+         {% if element['#type'] in ['actions'] %}
+             <div class="col">       {{ element }}</div>
+        {% endif %}
+      {% endfor %}
+      
+    </form>
+    </div>
+

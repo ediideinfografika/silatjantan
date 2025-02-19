@@ -1,0 +1,7985 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.001.001",
+          "nama_jembatan": "Jembatan Wonoasri I",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.95,
+          "lebar1": 7.4,
+          "lebar2": 7.95,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62469,
+            -7.56769
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.001.002",
+          "nama_jembatan": "Jembatan Ngadirejo I",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 13,
+          "lebar1": 5.8,
+          "lebar2": 7.9,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.60897,
+            -7.58204
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.001.003",
+          "nama_jembatan": "Jembatan Ngadirejo II",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.7,
+          "lebar1": 7,
+          "lebar2": 7.65,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.60186,
+            -7.59212
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.001.004",
+          "nama_jembatan": "Jembatan Dimong I",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.9,
+          "lebar1": 7,
+          "lebar2": 8,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.59896,
+            -7.59371
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.002.001",
+          "nama_jembatan": "Jembatan Kedungrejo I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 24,
+          "lebar1": 4,
+          "lebar2": 4.9,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66315,
+            -7.51685
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.002.002",
+          "nama_jembatan": "Jembatan Kenongorejo I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.6,
+          "lebar1": 5,
+          "lebar2": 7,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66293,
+            -7.49006
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.002.003",
+          "nama_jembatan": "Jembatan Kenongorejo II",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.5,
+          "lebar1": 9,
+          "lebar2": 12.5,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.662346,
+            -7.488835
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.002.004",
+          "nama_jembatan": "Jembatan Kenongorejo III",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 5,
+          "lebar1": 10,
+          "lebar2": 11.35,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66092,
+            -7.48465
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.003.001",
+          "nama_jembatan": "Jembatan Mejayan I",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.8,
+          "lebar1": 7.1,
+          "lebar2": 9.83,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66052,
+            -7.55246
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.003.002",
+          "nama_jembatan": "Jembatan Wonorejo I",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5,
+          "lebar1": 6.1,
+          "lebar2": 9.3,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68142,
+            -7.58111
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.003.003",
+          "nama_jembatan": "Jembatan Kebonagung VI",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.4,
+          "lebar1": 4.5,
+          "lebar2": 7.5,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68877,
+            -7.60022
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.003.004",
+          "nama_jembatan": "Jembatan Kebonagung VII",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.95,
+          "lebar1": 4.3,
+          "lebar2": 7.63,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68951,
+            -7.60331
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.003.005",
+          "nama_jembatan": "Jembatan Kebonagung VIII",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 20.3,
+          "lebar1": 6.2,
+          "lebar2": 8.1,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69089,
+            -7.6106
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.003.006",
+          "nama_jembatan": "Jembatan Tawangrejo I",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.8,
+          "lebar1": 6,
+          "lebar2": 6.64,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69268,
+            -7.62537
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.003.007",
+          "nama_jembatan": "Jembatan Tawangrejo II",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 24.6,
+          "lebar1": 4.1,
+          "lebar2": 4.5,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69579,
+            -7.63563
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.003.008",
+          "nama_jembatan": "Jembatan Tawangrejo III",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.15,
+          "lebar1": 5.3,
+          "lebar2": 6.15,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69621,
+            -7.6384
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.004.001",
+          "nama_jembatan": "Jembatan Balerejo I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 10.85,
+          "lebar1": 6.3,
+          "lebar2": 7.7,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58094,
+            -7.55447
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.004.002",
+          "nama_jembatan": "Jembatan Balerejo II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 34,
+          "lebar1": 4.6,
+          "lebar2": 6.3,
+          "jml_bentang": 3,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58084,
+            -7.5525
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.004.003",
+          "nama_jembatan": "Jembatan Balerejo III",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.8,
+          "lebar1": 6.3,
+          "lebar2": 8.9,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58199,
+            -7.54982
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.004.004",
+          "nama_jembatan": "Jembatan Balerejo IV",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.6,
+          "lebar1": 5,
+          "lebar2": 7.6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58407,
+            -7.54279
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.004.005",
+          "nama_jembatan": "Jembatan Kedungrejo I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.1,
+          "lebar1": 6.7,
+          "lebar2": 7.8,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58557,
+            -7.53588
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.004.006",
+          "nama_jembatan": "Jembatan Kedungrejo II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 10,
+          "lebar1": 4.45,
+          "lebar2": 5.65,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58958,
+            -7.51928
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.004.007",
+          "nama_jembatan": "Jembatan Pacinan I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.8,
+          "lebar1": 5.8,
+          "lebar2": 7.4,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.59293,
+            -7.50975
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.005.001",
+          "nama_jembatan": "Jembatan Uteran I",
+          "kec": "Dagangan ",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.4,
+          "lebar1": 7,
+          "lebar2": 12.1,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.53931,
+            -7.70552
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.005.002",
+          "nama_jembatan": "Jembatan Dagangan I",
+          "kec": "Dagangan ",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.55,
+          "lebar1": 7,
+          "lebar2": 9.45,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54623,
+            -7.70676
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.006.001",
+          "nama_jembatan": "Jembatan Balerejo V",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.1,
+          "lebar1": 5.8,
+          "lebar2": 6.9,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51136,
+            -7.72147
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.006.002",
+          "nama_jembatan": "Jembatan Balerejo VI",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 31.85,
+          "lebar1": 5.9,
+          "lebar2": 7.6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5004,
+            -7.71876
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.006.003",
+          "nama_jembatan": "Jembatan Balerejo VII",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.4,
+          "lebar1": 6,
+          "lebar2": 6.9,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.49326,
+            -7.71694
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.006.004",
+          "nama_jembatan": "Jembatan Kedondong I",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 20.9,
+          "lebar1": 5.9,
+          "lebar2": 7.85,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.48515,
+            -7.71509
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.006.005",
+          "nama_jembatan": "Jembatan Rejosari I",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 125.1,
+          "lebar1": 6,
+          "lebar2": 7,
+          "jml_bentang": 3,
+          "tipe": "R"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.47197,
+            -7.71226
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.007.001",
+          "nama_jembatan": "Jembatan Bangunsari I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.7,
+          "lebar1": 6.2,
+          "lebar2": 7.7,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51869,
+            -7.75399
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.007.002",
+          "nama_jembatan": "Jembatan Sidorejo I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.8,
+          "lebar1": 8.9,
+          "lebar2": 9.1,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.4893,
+            -7.74885
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.007.003",
+          "nama_jembatan": "Jembatan Hutan ",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.65,
+          "lebar1": 4.7,
+          "lebar2": 7.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58483,
+            -7.73819
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.008.001",
+          "nama_jembatan": "Jembatan Sugihwaras I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.7,
+          "lebar1": 4.5,
+          "lebar2": 7.7,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.73965,
+            -7.56162
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.008.002",
+          "nama_jembatan": "Jembatan Sugihwaras II",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.6,
+          "lebar1": 6.8,
+          "lebar2": 7.6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.74297,
+            -7.56644
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.008.003",
+          "nama_jembatan": "Jembatan Sebayi I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 10.6,
+          "lebar1": 5,
+          "lebar2": 5.7,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.74088,
+            -7.60665
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.009.001",
+          "nama_jembatan": "Jembatan Wungu I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.5,
+          "lebar1": 8.1,
+          "lebar2": 11,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61297,
+            -7.68671
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.009.002",
+          "nama_jembatan": "Jembatan Mojopurno I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 10.45,
+          "lebar1": 7.45,
+          "lebar2": 8,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54994,
+            -7.64667
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.010.001",
+          "nama_jembatan": "Jembatan Bongsopotro I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.45,
+          "lebar1": 7.9,
+          "lebar2": 8.97,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69606,
+            -7.54165
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.010.002",
+          "nama_jembatan": "Jembatan Bongsopotro II",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 16.75,
+          "lebar1": 7.2,
+          "lebar2": 9.8,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68997,
+            -7.53867
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.010.003",
+          "nama_jembatan": "Jembatan Sukorejo I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.4,
+          "lebar1": 5.2,
+          "lebar2": 6.9,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68515,
+            -7.53742
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.010.004",
+          "nama_jembatan": "Jembatan Bajulan I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.8,
+          "lebar1": 7,
+          "lebar2": 9.05,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66443,
+            -7.53211
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.011.001",
+          "nama_jembatan": "Jembatan Ngepeh I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 20.6,
+          "lebar1": 7,
+          "lebar2": 9,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68091,
+            -7.544
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.011.002",
+          "nama_jembatan": "Jembatan Ngepeh II",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 31.5,
+          "lebar1": 6,
+          "lebar2": 8,
+          "jml_bentang": 2,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68121,
+            -7.53942
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.011.003",
+          "nama_jembatan": "Jembatan Sumbersari I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 26.4,
+          "lebar1": 5.6,
+          "lebar2": 6.3,
+          "jml_bentang": 2,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69436,
+            -7.5201
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.011.004",
+          "nama_jembatan": "Jembatan Sumbersari II",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.5,
+          "lebar1": 6.4,
+          "lebar2": 7.9,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69536,
+            -7.51741
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.011.005",
+          "nama_jembatan": "Jembatan Sambirejo I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.85,
+          "lebar1": 5,
+          "lebar2": 7.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69591,
+            -7.51421
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.013.001",
+          "nama_jembatan": "Jembatan Kaibon I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.5,
+          "lebar1": 6.5,
+          "lebar2": 9.75,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52306,
+            -7.6753
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.013.002",
+          "nama_jembatan": "Jembatan Kaibon II",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.85,
+          "lebar1": 6.9,
+          "lebar2": 8.3,
+          "jml_bentang": 1,
+          "tipe": "G&P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52048,
+            -7.68465
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.013.003",
+          "nama_jembatan": "Jembatan Nglandung I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.45,
+          "lebar1": 8.6,
+          "lebar2": 9.9,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5185,
+            -7.69101
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.014.001",
+          "nama_jembatan": "Jembatan Dimong IV",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.8,
+          "lebar1": 6.1,
+          "lebar2": 8.46,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5844,
+            -7.58985
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.014.002",
+          "nama_jembatan": "Jembatan Sendangrejo I",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.6,
+          "lebar1": 7.5,
+          "lebar2": 8.25,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57088,
+            -7.5976
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.014.003",
+          "nama_jembatan": "Jembatan Sendangrejo II",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.2,
+          "lebar1": 5.6,
+          "lebar2": 6.2,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56068,
+            -7.60339
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.016.001",
+          "nama_jembatan": "Jembatan Wungu II",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.5,
+          "lebar1": 4.4,
+          "lebar2": 9.2,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.63069,
+            -7.69111
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.016.002",
+          "nama_jembatan": "Jembatan Kuwiran III",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.7,
+          "lebar1": 4.4,
+          "lebar2": 6.4,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.65656,
+            -7.69806
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.017.001",
+          "nama_jembatan": "Jembatan Bantengan I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.95,
+          "lebar1": 6.7,
+          "lebar2": 8,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55694,
+            -7.64037
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.017.002",
+          "nama_jembatan": "Jembatan Bantengan II",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3,
+          "lebar1": 5.8,
+          "lebar2": 7.1,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56328,
+            -7.64132
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.017.003",
+          "nama_jembatan": "Jembatan Mojorayung I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.9,
+          "lebar1": 5.6,
+          "lebar2": 6.7,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56885,
+            -7.63549
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.017.004",
+          "nama_jembatan": "Jembatan Mojorayung II",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.7,
+          "lebar1": 6.6,
+          "lebar2": 7.8,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56889,
+            -7.63025
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.017.005",
+          "nama_jembatan": "Jembatan Nglanduk I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.9,
+          "lebar1": 5.8,
+          "lebar2": 7.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57464,
+            -7.62138
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.017.006",
+          "nama_jembatan": "Jembatan Nglambangan I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.6,
+          "lebar1": 4.1,
+          "lebar2": 5.7,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58027,
+            -7.61126
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.017.007",
+          "nama_jembatan": "Jembatan Nglambangan II",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.8,
+          "lebar1": 4,
+          "lebar2": 6.55,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58136,
+            -7.60959
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.017.008",
+          "nama_jembatan": "Jembatan Sobrah I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.25,
+          "lebar1": 6,
+          "lebar2": 7.7,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58455,
+            -7.60419
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.017.009",
+          "nama_jembatan": "Jembatan Sobrah II",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.5,
+          "lebar1": 7,
+          "lebar2": 8,
+          "jml_bentang": 1,
+          "tipe": "B"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58782,
+            -7.60064
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.017.010",
+          "nama_jembatan": "Jembatan Sirapan I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.8,
+          "lebar1": 4.1,
+          "lebar2": 6.6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58944,
+            -7.59825
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.018.001",
+          "nama_jembatan": "Jembatan Teguhan I",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 18.9,
+          "lebar1": 6,
+          "lebar2": 6.7,
+          "jml_bentang": 4,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.47755,
+            -7.60736
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.019.001",
+          "nama_jembatan": "Jembatan Pucangrejo I",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.8,
+          "lebar1": 4,
+          "lebar2": 6.45,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52995,
+            -7.57774
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.019.002",
+          "nama_jembatan": "Jembatan Pucangrejo II",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.1,
+          "lebar1": 7.6,
+          "lebar2": 8.5,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52599,
+            -7.57702
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.019.003",
+          "nama_jembatan": "Jembatan Pucangrejo III",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.8,
+          "lebar1": 6,
+          "lebar2": 7.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51534,
+            -7.575437
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.019.004",
+          "nama_jembatan": "Jembatan Bibrik I",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.8,
+          "lebar1": 4.5,
+          "lebar2": 6.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.50078,
+            -7.57335
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.019.005",
+          "nama_jembatan": "Jembatan Bibrik II",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 12.1,
+          "lebar1": 5.2,
+          "lebar2": 6.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.48579,
+            -7.57101
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.021.001",
+          "nama_jembatan": "Jembatan Rejosari II",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.5,
+          "lebar1": 7.7,
+          "lebar2": 8.6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.47307,
+            -7.7245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.021.002",
+          "nama_jembatan": "Jembatan Kebonsari I",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.75,
+          "lebar1": 4.5,
+          "lebar2": 7.6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.45958,
+            -7.74636
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.021.003",
+          "nama_jembatan": "Jembatan Palur I",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.63,
+          "lebar1": 6.65,
+          "lebar2": 8,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.472917,
+            -7.724445
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.021.004",
+          "nama_jembatan": "Jembatan Tambakmas I",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 40.7,
+          "lebar1": 5.4,
+          "lebar2": 8.4,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.45391,
+            -7.78289
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.022.001",
+          "nama_jembatan": "Jembatan Dolopo I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.9,
+          "lebar1": 7.7,
+          "lebar2": 10.5,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52714,
+            -7.76257
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.022.002",
+          "nama_jembatan": "Jembatan Dolopo II",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.8,
+          "lebar1": 7.3,
+          "lebar2": 8.95,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.53142,
+            -7.76436
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.023.001",
+          "nama_jembatan": "Jembatan Sambirejo I",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.7,
+          "lebar1": 8,
+          "lebar2": 8.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.49147,
+            -7.63012
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.023.002",
+          "nama_jembatan": "Jembatan Sambirejo II",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 42.2,
+          "lebar1": 7,
+          "lebar2": 9.5,
+          "jml_bentang": 1,
+          "tipe": "R"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.50991,
+            -7.64881
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.024.001",
+          "nama_jembatan": "Jembatan Wungu III",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 16.6,
+          "lebar1": 3.5,
+          "lebar2": 4.3,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.6341,
+            -7.69626
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.024.002",
+          "nama_jembatan": "Jembatan Cermo I",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.2,
+          "lebar1": 4.9,
+          "lebar2": 6.43,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69708,
+            -7.68951
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.024.003",
+          "nama_jembatan": "Jembatan Cermo II",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 16.75,
+          "lebar1": 3.75,
+          "lebar2": 4.58,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.70269,
+            -7.69201
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.024.004",
+          "nama_jembatan": "Jembatan Batok I",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.9,
+          "lebar1": 4,
+          "lebar2": 4.74,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.70888,
+            -7.69523
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.024.005",
+          "nama_jembatan": "Jembatan Batok II",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.9,
+          "lebar1": 6,
+          "lebar2": 6.55,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.71343,
+            -7.69998
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.024.006",
+          "nama_jembatan": "Jembatan Tawangrejo IV",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.6,
+          "lebar1": 4,
+          "lebar2": 7.95,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.72227,
+            -7.66192
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.024.007",
+          "nama_jembatan": "Jembatan Kuwiran I",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.5,
+          "lebar1": 6.6,
+          "lebar2": 7.25,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.726848,
+            -7.659382
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.024.008",
+          "nama_jembatan": "Jembatan Kuwiran II",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 22.8,
+          "lebar1": 6.05,
+          "lebar2": 7.05,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.730501,
+            -7.652824
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.024.009",
+          "nama_jembatan": "Jembatan Gemarang I",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.3,
+          "lebar1": 4.65,
+          "lebar2": 5.6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.73168,
+            -7.65218
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.025.001",
+          "nama_jembatan": "Jembatan Balerejo VIII",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.95,
+          "lebar1": 4.3,
+          "lebar2": 10.4,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5084,
+            -7.71292
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.025.002",
+          "nama_jembatan": "Jembatan Bacem I",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 7,
+          "lebar1": 7,
+          "lebar2": 7.6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51114,
+            -7.71058
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.025.003",
+          "nama_jembatan": "Jembatan Nglandung II",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 15.8,
+          "lebar1": 6.4,
+          "lebar2": 7.8,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51581,
+            -7.70147
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.026.001",
+          "nama_jembatan": "Jembatan Mlilir I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.8,
+          "lebar1": 5.2,
+          "lebar2": 5.9,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51249,
+            -7.79759
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.026.002",
+          "nama_jembatan": "Jembatan Lembah I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.55,
+          "lebar1": 6,
+          "lebar2": 6.8,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.49867,
+            -7.78876
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.026.003",
+          "nama_jembatan": "Jembatan Tambakmas II",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.2,
+          "lebar1": 4,
+          "lebar2": 5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.46793,
+            -7.77557
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.028.001",
+          "nama_jembatan": "Jembatan Kajang I",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 243.5,
+          "lebar1": 5.7,
+          "lebar2": 6.3,
+          "jml_bentang": 4,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54141,
+            -7.54634
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.028.002",
+          "nama_jembatan": "Jembatan Kajang II",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 6,
+          "lebar1": 4,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.53794,
+            -7.54538
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.030.001",
+          "nama_jembatan": "Jembatan Sumbergandu I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.7,
+          "lebar1": 6.85,
+          "lebar2": 9.85,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66465,
+            -7.49895
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.030.002",
+          "nama_jembatan": "Jembatan Bener I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.15,
+          "lebar1": 5.1,
+          "lebar2": 6.2,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68178,
+            -7.52
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.030.003",
+          "nama_jembatan": "Jembatan Duren I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.4,
+          "lebar1": 4,
+          "lebar2": 7,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68398,
+            -7.50215
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.030.004",
+          "nama_jembatan": "Jembatan Tulung II",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 17.75,
+          "lebar1": 6,
+          "lebar2": 6.6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68856,
+            -7.5024
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.031.001",
+          "nama_jembatan": "Jembatan Dagangan II",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 27.9,
+          "lebar1": 5.6,
+          "lebar2": 6.3,
+          "jml_bentang": 2,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55378,
+            -7.70678
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.031.002",
+          "nama_jembatan": "Jembatan Banjarsari Kulon I",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 27,
+          "lebar1": 5.55,
+          "lebar2": 6.2,
+          "jml_bentang": 3,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55245,
+            -7.69959
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.031.003",
+          "nama_jembatan": "Jembatan Banjarsari Kulon II",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.8,
+          "lebar1": 5.45,
+          "lebar2": 5.85,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5506,
+            -7.69118
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.032.001",
+          "nama_jembatan": "Jembatan Banjarsari Kulon III",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.35,
+          "lebar1": 5.9,
+          "lebar2": 6.4,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55307,
+            -7.68275
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.033.001",
+          "nama_jembatan": "Jembatan Jiwan I",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.7,
+          "lebar1": 8,
+          "lebar2": 8.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.49147,
+            -7.63012
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.033.002",
+          "nama_jembatan": "Jembatan Metesih I",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.1,
+          "lebar1": 7,
+          "lebar2": 7.7,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.489543,
+            -7.635631
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.034.001",
+          "nama_jembatan": "Jembatan Sidodadi I",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 25.5,
+          "lebar1": 6,
+          "lebar2": 8.37,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.6742,
+            -7.57234
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.034.002",
+          "nama_jembatan": "Jembatan Klecorejo I",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.8,
+          "lebar1": 5.5,
+          "lebar2": 7.1,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.67401,
+            -7.57289
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.035.001",
+          "nama_jembatan": "Jembatan Purwosari I",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 16,
+          "lebar1": 3,
+          "lebar2": 3.7,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.64422,
+            -7.56543
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.036.001",
+          "nama_jembatan": "Jembatan Babadan Lor I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 51,
+          "lebar1": 4.15,
+          "lebar2": 4.65,
+          "jml_bentang": 3,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61519,
+            -7.54532
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.036.002",
+          "nama_jembatan": "Jembatan Babadan Lor II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.6,
+          "lebar1": 4.3,
+          "lebar2": 8.9,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61487,
+            -7.53956
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.036.003",
+          "nama_jembatan": "Jembatan Kuwu I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.4,
+          "lebar1": 4.7,
+          "lebar2": 5.5,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61524,
+            -7.53358
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.036.004",
+          "nama_jembatan": "Jembatan Kuwu II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.7,
+          "lebar1": 7,
+          "lebar2": 7.95,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.6195,
+            -7.52217
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.036.005",
+          "nama_jembatan": "Jembatan Kuwu III",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.7,
+          "lebar1": 6.5,
+          "lebar2": 7.55,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.6206,
+            -7.51833
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.037.001",
+          "nama_jembatan": "Jembatan Banjarsari III",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 12,
+          "lebar1": 3.6,
+          "lebar2": 4,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54693,
+            -7.59149
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.037.002",
+          "nama_jembatan": "Jembatan Banjarsari IV",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.7,
+          "lebar1": 5.8,
+          "lebar2": 9.45,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55018,
+            -7.59228
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.038.001",
+          "nama_jembatan": "Jembatan Balerjo IX",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 8,
+          "lebar1": 5.8,
+          "lebar2": 7.3,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58367,
+            -7.55653
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.038.002",
+          "nama_jembatan": "Jembatan Balerjo X",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.75,
+          "lebar1": 4.9,
+          "lebar2": 7.4,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58423,
+            -7.5569
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.038.003",
+          "nama_jembatan": "Jembatan Balerjo XI",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.8,
+          "lebar1": 6.2,
+          "lebar2": 7.4,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58565,
+            -7.558
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.038.004",
+          "nama_jembatan": "Jembatan Gading III",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.15,
+          "lebar1": 4,
+          "lebar2": 6.35,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.59052,
+            -7.56184
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.038.005",
+          "nama_jembatan": "Jembatan Kebon Agung I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 18.9,
+          "lebar1": 4.8,
+          "lebar2": 6.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.59483,
+            -7.57157
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.038.006",
+          "nama_jembatan": "Jembatan Kebon Agung II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.6,
+          "lebar1": 4,
+          "lebar2": 8.45,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.59451,
+            -7.57271
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.038.007",
+          "nama_jembatan": "Jembatan Kebon Agung III",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.6,
+          "lebar1": 4,
+          "lebar2": 6.95,
+          "jml_bentang": 1,
+          "tipe": "B"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.59232,
+            -7.57719
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.038.008",
+          "nama_jembatan": "Jembatan Tulungrejo I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.6,
+          "lebar1": 4,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.59077,
+            -7.58061
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.038.009",
+          "nama_jembatan": "Jembatan Dimong II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.1,
+          "lebar1": 4,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58898,
+            -7.58595
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.038.010",
+          "nama_jembatan": "Jembatan Dimong III",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.6,
+          "lebar1": 4,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5886,
+            -7.58764
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.040.001",
+          "nama_jembatan": "Jembatan Sewulan I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 26.25,
+          "lebar1": 6,
+          "lebar2": 8,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54127,
+            -7.69263
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.041.001",
+          "nama_jembatan": "Jembatan Geger I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 15.6,
+          "lebar1": 4.5,
+          "lebar2": 5.9,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54304,
+            -7.74015
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.041.002",
+          "nama_jembatan": "Jembatan Sareng I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.1,
+          "lebar1": 3.95,
+          "lebar2": 6.1,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55061,
+            -7.74236
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.042.001",
+          "nama_jembatan": "Jembatan Doho I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 17,
+          "lebar1": 3.4,
+          "lebar2": 4.8,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51947,
+            -7.76144
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.042.002",
+          "nama_jembatan": "Jembatan Doho II",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.9,
+          "lebar1": 5.4,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51564,
+            -7.76914
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.042.003",
+          "nama_jembatan": "Jembatan Pucanganom I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.9,
+          "lebar1": 6.2,
+          "lebar2": 9,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5053,
+            -7.76349
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.042.004",
+          "nama_jembatan": "Jembatan Sukorejo II",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 12.1,
+          "lebar1": 3.5,
+          "lebar2": 4,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.49206,
+            -7.76182
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.042.005",
+          "nama_jembatan": "Jembatan Sukorejo III",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 9,
+          "lebar1": 3.5,
+          "lebar2": 4.5,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.491679,
+            -7.761794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.042.006",
+          "nama_jembatan": "Jembatan Tanjungrejo I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.74,
+          "lebar1": 5.4,
+          "lebar2": 6.2,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.47372,
+            -7.76263
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.043.001",
+          "nama_jembatan": "Jembatan Candimulyo I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 26.9,
+          "lebar1": 3.45,
+          "lebar2": 3.85,
+          "jml_bentang": 4,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54009,
+            -7.7575
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.043.002",
+          "nama_jembatan": "Jembatan Candimulyo II",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.75,
+          "lebar1": 4.7,
+          "lebar2": 5.45,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55811,
+            -7.76145
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.043.003",
+          "nama_jembatan": "Jembatan Candimulyo III",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.1,
+          "lebar1": 4.85,
+          "lebar2": 5.4,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55849,
+            -7.76215
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.044.001",
+          "nama_jembatan": "Jembatan Munggut I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 12.5,
+          "lebar1": 6.2,
+          "lebar2": 7,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54385,
+            -7.65437
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.044.002",
+          "nama_jembatan": "Jembatan Sidorejo II",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.55,
+          "lebar1": 6.4,
+          "lebar2": 7.14,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54147,
+            -7.65935
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.046.001",
+          "nama_jembatan": "Jembatan Banjarsari Kulon IV",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.7,
+          "lebar1": 4.1,
+          "lebar2": 6.75,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55137,
+            -7.68005
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.046.002",
+          "nama_jembatan": "Jembatan Sidorejo III",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.25,
+          "lebar1": 4.1,
+          "lebar2": 7,
+          "jml_bentang": 4,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54761,
+            -7.67831
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.047.001",
+          "nama_jembatan": "Jembatan Kincangwetan I",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.6,
+          "lebar1": 5,
+          "lebar2": 5.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.46595,
+            -7.621
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.048.002",
+          "nama_jembatan": "Jembatan Pajaran I",
+          "kec": "Saradan ",
+          "tipe_penyebrangan": "S",
+          "panjang": 22,
+          "lebar1": 6.4,
+          "lebar2": 8.13,
+          "jml_bentang": 4,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.76982,
+            -7.53589
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.048.003",
+          "nama_jembatan": "Jembatan Pajaran II",
+          "kec": "Saradan ",
+          "tipe_penyebrangan": "S",
+          "panjang": 19,
+          "lebar1": 6.35,
+          "lebar2": 8.06,
+          "jml_bentang": 3,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.77557,
+            -7.53108
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.048.004",
+          "nama_jembatan": "Jembatan Pajaran III",
+          "kec": "Saradan ",
+          "tipe_penyebrangan": "S",
+          "panjang": 24.5,
+          "lebar1": 6.3,
+          "lebar2": 8.04,
+          "jml_bentang": 3,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.77838,
+            -7.52931
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.048.005",
+          "nama_jembatan": "Jembatan Klangon I",
+          "kec": "Saradan ",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.8,
+          "lebar1": 4,
+          "lebar2": 4.8,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.7956,
+            -7.47281
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.049.001",
+          "nama_jembatan": "Jembatan Kaligunting I",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5,
+          "lebar1": 3.3,
+          "lebar2": 3.82,
+          "jml_bentang": 2,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69137,
+            -7.5532
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.049.002",
+          "nama_jembatan": "Jembatan Kaligunting II",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.17,
+          "lebar1": 3.2,
+          "lebar2": 3.74,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69233,
+            -7.56075
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.049.003",
+          "nama_jembatan": "Jembatan Darmorejo I",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.25,
+          "lebar1": 2.7,
+          "lebar2": 3.15,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.6833,
+            -7.57236
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.050.001",
+          "nama_jembatan": "Jembatan Banyukambang I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.3,
+          "lebar1": 4.2,
+          "lebar2": 5,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61361,
+            -7.56175
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.050.002",
+          "nama_jembatan": "Jembatan Banyukambang II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.8,
+          "lebar1": 6.4,
+          "lebar2": 7.3,
+          "jml_bentang": 1,
+          "tipe": "B"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61209,
+            -7.56706
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.051.001",
+          "nama_jembatan": "Jembatan Grobogan I",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 23.8,
+          "lebar1": 2.3,
+          "lebar2": 2.6,
+          "jml_bentang": 3,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.4887,
+            -7.61603
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.051.002",
+          "nama_jembatan": "Jembatan Klagen Serut I",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.05,
+          "lebar1": 4.5,
+          "lebar2": 5.35,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.49635,
+            -7.60112
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.052.001",
+          "nama_jembatan": "Jembatan Bulakrejo I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 5,
+          "lebar1": 4.1,
+          "lebar2": 5.1,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.6308,
+            -7.54254
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.052.002",
+          "nama_jembatan": "Jembatan Bulakrejo II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.8,
+          "lebar1": 3,
+          "lebar2": 9.6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.6318,
+            -7.53715
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.052.003",
+          "nama_jembatan": "Jembatan Bulakrejo III",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.9,
+          "lebar1": 3,
+          "lebar2": 9.7,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.63273,
+            -7.53343
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.055.001",
+          "nama_jembatan": "Jembatan Wonoayu I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.6,
+          "lebar1": 5,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.64998,
+            -7.52256
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.055.002",
+          "nama_jembatan": "Jembatan Wonoayu II",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.3,
+          "lebar1": 3.5,
+          "lebar2": 4.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.65288,
+            -7.52109
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.055.003",
+          "nama_jembatan": "Jembatan Kedungrejo II",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.9,
+          "lebar1": 4.5,
+          "lebar2": 7.5,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66031,
+            -7.51623
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.056.001",
+          "nama_jembatan": "Jembatan Luworo I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.8,
+          "lebar1": 5,
+          "lebar2": 7.8,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66086,
+            -7.49866
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.057.001",
+          "nama_jembatan": "Jembatan Pulerejo I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.2,
+          "lebar1": 5,
+          "lebar2": 8.05,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62284,
+            -7.50443
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.057.002",
+          "nama_jembatan": "Jembatan Krebet I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.1,
+          "lebar1": 3,
+          "lebar2": 4,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62563,
+            -7.48881
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.057.003",
+          "nama_jembatan": "Jembatan Krebet II",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.1,
+          "lebar1": 3,
+          "lebar2": 4.1,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62635,
+            -7.48419
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.057.004",
+          "nama_jembatan": "Jembatan Krebet III",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.5,
+          "lebar1": 4.3,
+          "lebar2": 4.5,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62735,
+            -7.47807
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.058.001",
+          "nama_jembatan": "Jembatan Sidorejo IV",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 13.6,
+          "lebar1": 6.57,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.70629,
+            -7.5424
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.058.003",
+          "nama_jembatan": "Jembatan Klumutan I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.9,
+          "lebar1": 5.8,
+          "lebar2": 6.9,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.70876,
+            -7.53087
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.059.001",
+          "nama_jembatan": "Jembatan Sidorejo V",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 16,
+          "lebar1": 3.95,
+          "lebar2": 5.02,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.70913,
+            -7.54878
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.060.001",
+          "nama_jembatan": "Jembatan Jerukgulung I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.25,
+          "lebar1": 4.15,
+          "lebar2": 5,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.604895,
+            -7.557804
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.060.002",
+          "nama_jembatan": "Jembatan Gading I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.45,
+          "lebar1": 3.4,
+          "lebar2": 4.1,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.60456,
+            -7.5618
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.060.003",
+          "nama_jembatan": "Jembatan Gading II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.2,
+          "lebar1": 3.4,
+          "lebar2": 3.85,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.60798,
+            -7.56553
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.061.001",
+          "nama_jembatan": "Jembatan Jerukgulung II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 47,
+          "lebar1": 2.16,
+          "lebar2": 3.05,
+          "jml_bentang": 1,
+          "tipe": "R"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.60508,
+            -7.54095
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.062.001",
+          "nama_jembatan": "Jembatan Balerejo XII",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.4,
+          "lebar1": 2.8,
+          "lebar2": 3.55,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57867,
+            -7.55733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.062.002",
+          "nama_jembatan": "Jembatan Tanjungrejo II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 17,
+          "lebar1": 2.35,
+          "lebar2": 3.35,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57701,
+            -7.56631
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.063.001",
+          "nama_jembatan": "Jembatan Garon I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.5,
+          "lebar1": 6,
+          "lebar2": 7.3,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56581,
+            -7.56541
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.063.002",
+          "nama_jembatan": "Jembatan Garon II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.8,
+          "lebar1": 3,
+          "lebar2": 3.9,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56825,
+            -7.569031
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.064.001",
+          "nama_jembatan": "Jembatan Glonggongan I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 11.85,
+          "lebar1": 2.7,
+          "lebar2": 3.4,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55863,
+            -7.55324
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.064.002",
+          "nama_jembatan": "Jembatan Glonggongan II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 38,
+          "lebar1": 2.6,
+          "lebar2": 3.4,
+          "jml_bentang": 4,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55909,
+            -7.55059
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.064.003",
+          "nama_jembatan": "Jembatan Sogo I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 11.5,
+          "lebar1": 3.3,
+          "lebar2": 3.95,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56532,
+            -7.52844
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.065.001",
+          "nama_jembatan": "Jembatan Tiron I",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 12,
+          "lebar1": 3.7,
+          "lebar2": 4.03,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54899,
+            -7.5772
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.065.002",
+          "nama_jembatan": "Jembatan Tiron II",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.7,
+          "lebar1": 5.1,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55649,
+            -7.57867
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.066.001",
+          "nama_jembatan": "Jembatan Teguhan II",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.47,
+          "lebar1": 3.2,
+          "lebar2": 4.4,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.47741,
+            -7.60783
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.066.002",
+          "nama_jembatan": "Jembatan Teguhan III",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.9,
+          "lebar1": 3.3,
+          "lebar2": 4.4,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.47759,
+            -7.60776
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.067.001",
+          "nama_jembatan": "Jembatan Kranggan I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.7,
+          "lebar1": 6,
+          "lebar2": 7.03,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.50949,
+            -7.6631
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.067.002",
+          "nama_jembatan": "Jembatan Putat I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 10.3,
+          "lebar1": 4.7,
+          "lebar2": 5.7,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.50257,
+            -7.68061
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.067.003",
+          "nama_jembatan": "Jembatan Putat II",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 16.85,
+          "lebar1": 5.1,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.50322,
+            -7.68861
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.067.004",
+          "nama_jembatan": "Jembatan Sambirejo III",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 21.35,
+          "lebar1": 6,
+          "lebar2": 7.7,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.49553,
+            -7.70183
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.068.001",
+          "nama_jembatan": "Jembatan Kertosari I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 20,
+          "lebar1": 3.4,
+          "lebar2": 3.95,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.536977,
+            -7.675935
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.068.002",
+          "nama_jembatan": "Jembatan Sukosari I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 19.5,
+          "lebar1": 2.2,
+          "lebar2": 2.8,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.547147,
+            -7.685189
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.069.001",
+          "nama_jembatan": "Jembatan Kaibon III",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.3,
+          "lebar1": 5.4,
+          "lebar2": 6.55,
+          "jml_bentang": 2,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51527,
+            -7.68087
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.070.001",
+          "nama_jembatan": "Jembatan Sewulan II",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 21.5,
+          "lebar1": 4.3,
+          "lebar2": 5.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54236,
+            -7.68785
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.071.001",
+          "nama_jembatan": "Jembatan Kepet I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 10.4,
+          "lebar1": 3.5,
+          "lebar2": 5.5,
+          "jml_bentang": 2,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55396,
+            -7.72061
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.071.002",
+          "nama_jembatan": "Jembatan Joho I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 5,
+          "lebar1": 3.5,
+          "lebar2": 5.2,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56433,
+            -7.72786
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.071.003",
+          "nama_jembatan": "Jembatan Joho II",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.9,
+          "lebar1": 4,
+          "lebar2": 5.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57481,
+            -7.73461
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.071.004",
+          "nama_jembatan": "Jembatan Joho III",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 10.8,
+          "lebar1": 4.5,
+          "lebar2": 5.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57655,
+            -7.73467
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.071.005",
+          "nama_jembatan": "Jembatan Joho IV",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 10,
+          "lebar1": 2.7,
+          "lebar2": 4.5,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58173,
+            -7.73617
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.073.001",
+          "nama_jembatan": "Jembatan Banaran I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.5,
+          "lebar1": 5.6,
+          "lebar2": 6.5,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51874,
+            -7.73217
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.073.002",
+          "nama_jembatan": "Jembatan Banaran II",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 28.5,
+          "lebar1": 5.95,
+          "lebar2": 7.8,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51675,
+            -7.73278
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.073.003",
+          "nama_jembatan": "Jembatan Banaran III",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.4,
+          "lebar1": 6,
+          "lebar2": 7.45,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51644,
+            -7.73352
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.073.004",
+          "nama_jembatan": "Jembatan Banaran IV",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.4,
+          "lebar1": 6.45,
+          "lebar2": 7.4,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5122,
+            -7.73593
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.074.001",
+          "nama_jembatan": "Jembatan Dolopo III",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 4,
+          "lebar1": 6,
+          "lebar2": 6.7,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52899,
+            -7.74459
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.075.001",
+          "nama_jembatan": "Jembatan Bader I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 21.5,
+          "lebar1": 2.5,
+          "lebar2": 3.6,
+          "jml_bentang": 6,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55175,
+            -7.77868
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.076.001",
+          "nama_jembatan": "Jembatan Dolopo IV",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.65,
+          "lebar1": 2.4,
+          "lebar2": 3.15,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51351,
+            -7.77692
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.076.002",
+          "nama_jembatan": "Jembatan Sukorejo IV",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.7,
+          "lebar1": 3,
+          "lebar2": 4.3,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.50592,
+            -7.77553
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.077.001",
+          "nama_jembatan": "Jembatan Lembah II",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.15,
+          "lebar1": 3.2,
+          "lebar2": 4.9,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51256,
+            -7.7887
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.077.002",
+          "nama_jembatan": "Jembatan Lembah III",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.6,
+          "lebar1": 6.4,
+          "lebar2": 7,
+          "jml_bentang": 1,
+          "tipe": "B"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51178,
+            -7.78846
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.078.001",
+          "nama_jembatan": "Jembatan Kradinan I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 16.4,
+          "lebar1": 2.1,
+          "lebar2": 2.5,
+          "jml_bentang": 2,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57065,
+            -7.7942
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.078.002",
+          "nama_jembatan": "Jembatan Suluk I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.2,
+          "lebar1": 4.8,
+          "lebar2": 5.55,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57875,
+            -7.79135
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.078.003",
+          "nama_jembatan": "Jembatan Suluk II",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.5,
+          "lebar1": 4.5,
+          "lebar2": 5.3,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58829,
+            -7.78468
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.079.001",
+          "nama_jembatan": "Jembatan Mlilir II",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 10,
+          "lebar1": 4.1,
+          "lebar2": 5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52479,
+            -7.79925
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.080.001",
+          "nama_jembatan": "Jembatan Mojorayung III",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.8,
+          "lebar1": 6.15,
+          "lebar2": 6.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.563884,
+            -7.631675
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.080.002",
+          "nama_jembatan": "Jembatan Mojorayung IV",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.3,
+          "lebar1": 6,
+          "lebar2": 7.55,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.556056,
+            -7.628945
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.080.003",
+          "nama_jembatan": "Jembatan Tempursari I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.95,
+          "lebar1": 6,
+          "lebar2": 7,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.552845,
+            -7.627773
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.081.001",
+          "nama_jembatan": "Jembatan Bantengan III",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.9,
+          "lebar1": 6,
+          "lebar2": 6.7,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55101,
+            -7.63619
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.082.001",
+          "nama_jembatan": "Jembatan Dempelan I",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.3,
+          "lebar1": 3.4,
+          "lebar2": 4.1,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57238,
+            -7.61563
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.083.001",
+          "nama_jembatan": "Jembatan Tempursari II",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 11,
+          "lebar1": 3.8,
+          "lebar2": 5.55,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55273,
+            -7.61928
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.084.001",
+          "nama_jembatan": "Jembatan Sumberejo I",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.35,
+          "lebar1": 3.5,
+          "lebar2": 4,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56503,
+            -7.59171
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.084.002",
+          "nama_jembatan": "Jembatan Sumberejo II",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.15,
+          "lebar1": 3.5,
+          "lebar2": 3.95,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56097,
+            -7.59476
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.085.001",
+          "nama_jembatan": "Jembatan Rejosari III",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4,
+          "lebar1": 4.45,
+          "lebar2": 5,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51581,
+            -7.57558
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.085.002",
+          "nama_jembatan": "Jembatan Wayut I",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.3,
+          "lebar1": 3,
+          "lebar2": 4.4,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51161,
+            -7.60589
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.086.001",
+          "nama_jembatan": "Jembatan Mruwak I",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.5,
+          "lebar1": 4.5,
+          "lebar2": 7.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58008,
+            -7.6989
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.086.002",
+          "nama_jembatan": "Jembatan Mruwak II",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.7,
+          "lebar1": 3.8,
+          "lebar2": 4.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58569,
+            -7.6966
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.086.003",
+          "nama_jembatan": "Jembatan Mruwak III",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.9,
+          "lebar1": 6,
+          "lebar2": 7,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58708,
+            -7.69605
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.086.004",
+          "nama_jembatan": "Jembatan Mruwak IV",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4,
+          "lebar1": 4,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58928,
+            -7.69337
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.086.005",
+          "nama_jembatan": "Jembatan Mruwak V",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 53,
+          "lebar1": 3.3,
+          "lebar2": 4,
+          "jml_bentang": 2,
+          "tipe": "R"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58951,
+            -7.69288
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.086.006",
+          "nama_jembatan": "Jembatan Brumbun I",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.5,
+          "lebar1": 4,
+          "lebar2": 6.1,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.59962,
+            -7.69138
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.086.007",
+          "nama_jembatan": "Jembatan Brumbun II",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.4,
+          "lebar1": 4.4,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.60184,
+            -7.69122
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.086.008",
+          "nama_jembatan": "Jembatan Brumbun III",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.2,
+          "lebar1": 4.9,
+          "lebar2": 5.5,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.60504,
+            -7.68876
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.087.001",
+          "nama_jembatan": "Jembatan Dagangan III",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 30.15,
+          "lebar1": 6.5,
+          "lebar2": 7.2,
+          "jml_bentang": 2,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55589,
+            -7.70888
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.088.001",
+          "nama_jembatan": "Jembatan Sareng II",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.6,
+          "lebar1": 8.7,
+          "lebar2": 9.6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55324,
+            -7.73634
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.090.001",
+          "nama_jembatan": "Jembatan Segulung I",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.93,
+          "lebar1": 5.3,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.59591,
+            -7.73923
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.090.002",
+          "nama_jembatan": "Jembatan Segulung II",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 24.65,
+          "lebar1": 5.7,
+          "lebar2": 6.6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.59496,
+            -7.74093
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.090.003",
+          "nama_jembatan": "Jembatan Tileng I",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 18.1,
+          "lebar1": 4.75,
+          "lebar2": 5.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61023,
+            -7.77905
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.090.004",
+          "nama_jembatan": "Jembatan Bader II",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 13.5,
+          "lebar1": 4.8,
+          "lebar2": 5.6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61023,
+            -7.77905
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.091.001",
+          "nama_jembatan": "Jembatan Padas I",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 9,
+          "lebar1": 6,
+          "lebar2": 6.55,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.60496,
+            -7.73975
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.091.002",
+          "nama_jembatan": "Jembatan Ngranget I ",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.9,
+          "lebar1": 5.95,
+          "lebar2": 6.55,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62474,
+            -7.74718
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.091.003",
+          "nama_jembatan": "Jembatan Mruwak VI",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 12.85,
+          "lebar1": 3.95,
+          "lebar2": 4.6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57462,
+            -7.70318
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.091.004",
+          "nama_jembatan": "Jembatan Jetis I",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3,
+          "lebar1": 10.2,
+          "lebar2": 12.1,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57256,
+            -7.70288
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.092.001",
+          "nama_jembatan": "Jembatan Sareng III",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 13,
+          "lebar1": 5.85,
+          "lebar2": 6.6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55641,
+            -7.74715
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.092.002",
+          "nama_jembatan": "Jembatan Ketandan I",
+          "kec": "Dagangan",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.3,
+          "lebar1": 4.6,
+          "lebar2": 5.9,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56138,
+            -7.75334
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.093.001",
+          "nama_jembatan": "Jembatan Teguhan IV",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.4,
+          "lebar1": 12.5,
+          "lebar2": 19,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.476311,
+            -7.60469
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.093.002",
+          "nama_jembatan": "Jembatan Teguhan V",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.54,
+          "lebar1": 6,
+          "lebar2": 7.7,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.48024,
+            -7.59591
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.093.003",
+          "nama_jembatan": "Jembatan Ngetrep I",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.05,
+          "lebar1": 6.6,
+          "lebar2": 6.8,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.483204,
+            -7.591268
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.093.004",
+          "nama_jembatan": "Jembatan Bedoho I",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.3,
+          "lebar1": 6.25,
+          "lebar2": 7.1,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.48488,
+            -7.58502
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.094.001",
+          "nama_jembatan": "Jembatan Grobogan II",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 25,
+          "lebar1": 4.5,
+          "lebar2": 4.8,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.48392,
+            -7.60857
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": 19095001,
+          "nama_jembatan": "Jembatan Bukur I",
+          "kec": "Jiwan",
+          "tipe_penyebrangan": "S",
+          "panjang": 12,
+          "lebar1": 4.5,
+          "lebar2": 6.5,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.485845,
+            -7.653032
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.096.001",
+          "nama_jembatan": "Jembatan Lebakayu I",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.8,
+          "lebar1": 4,
+          "lebar2": 9.95,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.53281,
+            -7.56328
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.096.002",
+          "nama_jembatan": "Jembatan Sawahan I",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.4,
+          "lebar1": 6.8,
+          "lebar2": 7.4,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.53688,
+            -7.55394
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.097.001",
+          "nama_jembatan": "Jembatan Cabean I",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.4,
+          "lebar1": 3.05,
+          "lebar2": 7.25,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5172,
+            -7.55548
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.097.002",
+          "nama_jembatan": "Jembatan Cabean II",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.3,
+          "lebar1": 5.1,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52115,
+            -7.55657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.097.003",
+          "nama_jembatan": "Jembatan Cabean III",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.5,
+          "lebar1": 3,
+          "lebar2": 7.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52918,
+            -7.55883
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.097.004",
+          "nama_jembatan": "Jembatan Cabean IV",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.9,
+          "lebar1": 5.1,
+          "lebar2": 5.55,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.53356,
+            -7.55966
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.098.001",
+          "nama_jembatan": "Jembatan Pucangrejo IV",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.8,
+          "lebar1": 5.4,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52046,
+            -7.57605
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.099.001",
+          "nama_jembatan": "Jembatan Golan I",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.7,
+          "lebar1": 4,
+          "lebar2": 7.6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.50611,
+            -7.55853
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.100.001",
+          "nama_jembatan": "Jembatan Pule I",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.63,
+          "lebar1": 8,
+          "lebar2": 9,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51214,
+            -7.53946
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.101.001",
+          "nama_jembatan": "Jembatan Kajang III",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.2,
+          "lebar1": 4.5,
+          "lebar2": 6.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52422,
+            -7.54211
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.102.001",
+          "nama_jembatan": "Jembatan Rejosari IV",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.3,
+          "lebar1": 4.7,
+          "lebar2": 5.3,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52366,
+            -7.584
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.102.002",
+          "nama_jembatan": "Jembatan Rejosari V",
+          "kec": "Sawahan",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.6,
+          "lebar1": 3,
+          "lebar2": 7.9,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52023,
+            -7.58324
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.103.001",
+          "nama_jembatan": "Jembatan Bandungan I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 23.65,
+          "lebar1": 4.65,
+          "lebar2": 5.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.83064,
+            -7.54787
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.103.002",
+          "nama_jembatan": "Jembatan Bandungan II",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 10.8,
+          "lebar1": 3.3,
+          "lebar2": 3.8,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.83295,
+            -7.54488
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.103.003",
+          "nama_jembatan": "Jembatan Bandungan III",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 16,
+          "lebar1": 3.4,
+          "lebar2": 4.15,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.83351,
+            -7.53921
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.103.004",
+          "nama_jembatan": "Jembatan Bandungan IV",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 85.4,
+          "lebar1": 6.02,
+          "lebar2": 7.02,
+          "jml_bentang": 4,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.83377,
+            -7.53728
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.105.001",
+          "nama_jembatan": "Jembatan Tulung I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 17,
+          "lebar1": 4.4,
+          "lebar2": 5.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.702248,
+            -7.502499
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.105.002",
+          "nama_jembatan": "Jembatan Sumberbendo I",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.4,
+          "lebar1": 2.9,
+          "lebar2": 3.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.7581,
+            -7.473535
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.105.003",
+          "nama_jembatan": "Jembatan Sumberbendo II",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 10.5,
+          "lebar1": 3.9,
+          "lebar2": 4.7,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.762313,
+            -7.473401
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.105.004",
+          "nama_jembatan": "Jembatan Sumberbendo III",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 16.5,
+          "lebar1": 4.3,
+          "lebar2": 4.8,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.767317,
+            -7.473835
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.106.001",
+          "nama_jembatan": "Jembatan Klumutan II",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 20.2,
+          "lebar1": 3,
+          "lebar2": 3.52,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.71006,
+            -7.52669
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.107.001",
+          "nama_jembatan": "Jembatan Sambirejo IV",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 18.25,
+          "lebar1": 3.5,
+          "lebar2": 3.1,
+          "jml_bentang": 3,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.7067,
+            -7.5204
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.108.001",
+          "nama_jembatan": "Jembatan Sukorejo VI",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 16,
+          "lebar1": 3.7,
+          "lebar2": 4.23,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68277,
+            -7.53933
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.109.001",
+          "nama_jembatan": "Jembatan Sukorejo VII",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.95,
+          "lebar1": 5.6,
+          "lebar2": 7.03,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.67234,
+            -7.52569
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.109.002",
+          "nama_jembatan": "Jembatan Bener II",
+          "kec": "Saradan",
+          "tipe_penyebrangan": "S",
+          "panjang": 24.6,
+          "lebar1": 4,
+          "lebar2": 4.85,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.67607,
+            -7.51306
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.111.001",
+          "nama_jembatan": "Jembatan Kedungmaron I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.5,
+          "lebar1": 6.3,
+          "lebar2": 7,
+          "jml_bentang": 1,
+          "tipe": "B"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66697,
+            -7.51294
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.111.002",
+          "nama_jembatan": "Jembatan Kedungmaron II",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 17.5,
+          "lebar1": 2.75,
+          "lebar2": 3,
+          "jml_bentang": 2,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.67042,
+            -7.51336
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.112.001",
+          "nama_jembatan": "Jembatan Kenongorejo IV",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.2,
+          "lebar1": 2.8,
+          "lebar2": 4,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.67084,
+            -7.48536
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.114.001",
+          "nama_jembatan": "Jembatan Dawuhan I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.3,
+          "lebar1": 3.4,
+          "lebar2": 4.4,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.67902,
+            -7.485277
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.114.002",
+          "nama_jembatan": "Jembatan Dawuhan II",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.5,
+          "lebar1": 5.1,
+          "lebar2": 5.4,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.681829,
+            -7.485038
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.115.001",
+          "nama_jembatan": "Jembatan Bulu I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 22.7,
+          "lebar1": 2.4,
+          "lebar2": 3.7,
+          "jml_bentang": 2,
+          "tipe": "R"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.67453,
+            -7.48429
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.115.002",
+          "nama_jembatan": "Jembatan Bongsopotro III",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.6,
+          "lebar1": 3.5,
+          "lebar2": 4.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69587,
+            -7.43821
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.116.001",
+          "nama_jembatan": "Jembatan Kenongorejo V",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 24.65,
+          "lebar1": 5,
+          "lebar2": 5.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66112,
+            -7.48139
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.117.001",
+          "nama_jembatan": "Jembtan Ngengor I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 12.5,
+          "lebar1": 2.9,
+          "lebar2": 3.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.65951,
+            -7.47567
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.118.001",
+          "nama_jembatan": "Jembatan Gandul I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 22.95,
+          "lebar1": 5,
+          "lebar2": 5.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.65163,
+            -7.47407
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.119.001",
+          "nama_jembatan": "Jembatan Luworo II",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 48,
+          "lebar1": 2.5,
+          "lebar2": 3,
+          "jml_bentang": 5,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.64198,
+            -7.47034
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.119.002",
+          "nama_jembatan": "Jembatan Luworo III",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 18.3,
+          "lebar1": 3.9,
+          "lebar2": 4.9,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.64346,
+            -7.45798
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.120.001",
+          "nama_jembatan": "Jembatan Kedungbanteng I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 46.5,
+          "lebar1": 5.95,
+          "lebar2": 7.95,
+          "jml_bentang": 3,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.6323,
+            -7.47443
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.120.002",
+          "nama_jembatan": "Jembatan Kedungbanteng II",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.7,
+          "lebar1": 4.9,
+          "lebar2": 6,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.63131,
+            -7.47386
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.120.003",
+          "nama_jembatan": "Jembatan Krebet IV",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.7,
+          "lebar1": 4.9,
+          "lebar2": 6.3,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62925,
+            -7.47357
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.120.004",
+          "nama_jembatan": "Jembatan Krebet V",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 12.83,
+          "lebar1": 5.8,
+          "lebar2": 6.8,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.628459,
+            -7.464231
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.121.001",
+          "nama_jembatan": "Jembatan Krebet VI",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 36.5,
+          "lebar1": 3.25,
+          "lebar2": 4.3,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62732,
+            -7.47384
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.122.001",
+          "nama_jembatan": "Jembatan Pilangkenceng I",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.1,
+          "lebar1": 3.35,
+          "lebar2": 3.75,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.64124,
+            -7.49968
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.122.002",
+          "nama_jembatan": "Jembatan Gandul II",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.1,
+          "lebar1": 3,
+          "lebar2": 4,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.64333,
+            -7.48733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.122.003",
+          "nama_jembatan": "Jembatan Luworo IV",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.5,
+          "lebar1": 3.45,
+          "lebar2": 4.8,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.64469,
+            -7.47938
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.123.001",
+          "nama_jembatan": "Jembatan Pulerejo II",
+          "kec": "Pilangkenceng",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.4,
+          "lebar1": 2.6,
+          "lebar2": 3.15,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.63077,
+            -7.49963
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.124.001",
+          "nama_jembatan": "Jembatan Garon III",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 10.6,
+          "lebar1": 4.1,
+          "lebar2": 6.85,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56451,
+            -7.56451
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.124.002",
+          "nama_jembatan": "Jembatan Kaliabu I",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 8,
+          "lebar1": 4.4,
+          "lebar2": 5.36,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.65275,
+            -7.5708
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.124.003",
+          "nama_jembatan": "Jembatan Kaliabu II",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 12,
+          "lebar1": 5,
+          "lebar2": 5.7,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.64937,
+            -7.57129
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.126.001",
+          "nama_jembatan": "Jembatan Kebonagung I",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.65,
+          "lebar1": 3.5,
+          "lebar2": 3.82,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68742,
+            -7.58222
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.126.002",
+          "nama_jembatan": "Jembatan Kebonagung II",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.5,
+          "lebar1": 4.35,
+          "lebar2": 4.58,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69187,
+            -7.58582
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.126.003",
+          "nama_jembatan": "Jembatan Kebonagung III",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.4,
+          "lebar1": 4.2,
+          "lebar2": 4.2,
+          "jml_bentang": 2,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69216,
+            -7.59014
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.126.004",
+          "nama_jembatan": "Jembatan Kebonagung IV",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 16.2,
+          "lebar1": 3.1,
+          "lebar2": 3.62,
+          "jml_bentang": 2,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69123,
+            -7.59084
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.126.005",
+          "nama_jembatan": "Jembatan Kebonagung V",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.7,
+          "lebar1": 3.5,
+          "lebar2": 3.8,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68952,
+            -7.59086
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.127.001",
+          "nama_jembatan": "Jembatan Blabakan I",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.9,
+          "lebar1": 4.7,
+          "lebar2": 5.54,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.658546,
+            -7.56461
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.127.002",
+          "nama_jembatan": "Jembatan Wonorejo II",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.2,
+          "lebar1": 5.5,
+          "lebar2": 6.08,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.67714,
+            -7.59262
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.127.003",
+          "nama_jembatan": "Jembatan Gemarang II",
+          "kec": "Mejayan",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.55,
+          "lebar1": 3.6,
+          "lebar2": 4.1,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.67684,
+            -7.66023
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.128.001",
+          "nama_jembatan": "Jembatan Sidomulyo I",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 3,
+          "lebar1": 3,
+          "lebar2": 7.3,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62575,
+            -7.57786
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.128.002",
+          "nama_jembatan": "Jembatan Plumpungrejo I",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 3,
+          "lebar1": 3.7,
+          "lebar2": 4,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.63672,
+            -7.57699
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.129.001",
+          "nama_jembatan": "Jembatan Klitik I",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.1,
+          "lebar1": 3.5,
+          "lebar2": 7.8,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.63248,
+            -7.55251
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.130.001",
+          "nama_jembatan": "Jembatan Wonoasri II",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.9,
+          "lebar1": 3,
+          "lebar2": 7.85,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62879,
+            -7.57051
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.130.002",
+          "nama_jembatan": "Jembatan Bancong I",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 2,
+          "lebar1": 3.1,
+          "lebar2": 3.6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.63529,
+            -7.56056
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.131.001",
+          "nama_jembatan": "Jembatan Banyukambang III",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.8,
+          "lebar1": 3.9,
+          "lebar2": 4.75,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.6198,
+            -7.56569
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.131.002",
+          "nama_jembatan": "Jembatan Banyukambang IV",
+          "kec": "Wonoasri",
+          "tipe_penyebrangan": "S",
+          "panjang": 4,
+          "lebar1": 2.8,
+          "lebar2": 3.5,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61515,
+            -7.56683
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.133.001",
+          "nama_jembatan": "Jembatan Banjarsari I",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 10.8,
+          "lebar1": 5.8,
+          "lebar2": 8,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.56493,
+            -7.58255
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.133.002",
+          "nama_jembatan": "Jembatan Banjarsari II",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.8,
+          "lebar1": 5.45,
+          "lebar2": 6.17,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57027,
+            -7.5773
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.133.003",
+          "nama_jembatan": "Jembatan Tanjungrejo III",
+          "kec": "Madiun",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.8,
+          "lebar1": 3.4,
+          "lebar2": 4.05,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57994,
+            -7.57907
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.134.001",
+          "nama_jembatan": "Jembatan Kebonagung IV",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.75,
+          "lebar1": 3.95,
+          "lebar2": 4.15,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5989,
+            -7.57041
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.135.001",
+          "nama_jembatan": "Jembatan Kedungrejo III",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.9,
+          "lebar1": 3.7,
+          "lebar2": 7.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.59776,
+            -7.52387
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.136.001",
+          "nama_jembatan": "Jembatan Sogo II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 12.1,
+          "lebar1": 3.3,
+          "lebar2": 3.8,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57269,
+            -7.52905
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.137.001",
+          "nama_jembatan": "Jembatan Kedungjati i",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.4,
+          "lebar1": 3,
+          "lebar2": 7.4,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58985,
+            -7.54857
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.137.002",
+          "nama_jembatan": "Jembatan Warurejo I",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.4,
+          "lebar1": 5.7,
+          "lebar2": 7,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61077,
+            -7.54013
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.137.003",
+          "nama_jembatan": "Jembatan Warurejo II",
+          "kec": "Balerejo",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.2,
+          "lebar1": 5.7,
+          "lebar2": 7,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61121,
+            -7.54019
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.138.001",
+          "nama_jembatan": "Jembatan Bantengan IV",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.8,
+          "lebar1": 6,
+          "lebar2": 6.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.57254,
+            -7.64689
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.138.002",
+          "nama_jembatan": "Jembatan Karangrejo I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.55,
+          "lebar1": 3,
+          "lebar2": 3.8,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58574,
+            -7.67077
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.139.001",
+          "nama_jembatan": "Jembatan Bantengan V",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.4,
+          "lebar1": 7,
+          "lebar2": 7.9,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.55367,
+            -7.63452
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.140.001",
+          "nama_jembatan": "Jembatan Karangrejo II",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.8,
+          "lebar1": 3.15,
+          "lebar2": 3.75,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.58147,
+            -7.66749
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.141.001",
+          "nama_jembatan": "Jembatan Sidorejo VI",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.8,
+          "lebar1": 4.8,
+          "lebar2": 6.45,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.54666,
+            -7.65996
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.143.001",
+          "nama_jembatan": "Jembatan Wungu IV",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.45,
+          "lebar1": 4.5,
+          "lebar2": 6.95,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.61658,
+            -7.69032
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.143.002",
+          "nama_jembatan": "Jembatan Kresek I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.1,
+          "lebar1": 4.5,
+          "lebar2": 7.5,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62049,
+            -7.69356
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.143.003",
+          "nama_jembatan": "Jembatan Kresek II",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.4,
+          "lebar1": 4.5,
+          "lebar2": 7.85,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62,
+            -7.69493
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.143.004",
+          "nama_jembatan": "Jembatan Kresek III",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 35.7,
+          "lebar1": 6.9,
+          "lebar2": 11.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62511,
+            -7.70067
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.143.005",
+          "nama_jembatan": "Jembatan Kresek IV",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.5,
+          "lebar1": 4.5,
+          "lebar2": 5.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.63193,
+            -7.70555
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.144.001",
+          "nama_jembatan": "Jembatan Kresek V",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 11.7,
+          "lebar1": 3,
+          "lebar2": 3.65,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62727,
+            -7.70257
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.144.002",
+          "nama_jembatan": "Jembatan Kresek VI",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.7,
+          "lebar1": 2.7,
+          "lebar2": 3.65,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62664,
+            -7.70607
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.144.003",
+          "nama_jembatan": "Jembatan Bodag I",
+          "kec": "Wungu",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.1,
+          "lebar1": 4.1,
+          "lebar2": 5.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.64982,
+            -7.730033
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.145.001",
+          "nama_jembatan": "Jembatan Bodag II",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.4,
+          "lebar1": 4.4,
+          "lebar2": 4.95,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.65681,
+            -7.73971
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.145.002",
+          "nama_jembatan": "Jembatan Bodag III",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.6,
+          "lebar1": 5,
+          "lebar2": 5.55,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.65921,
+            -7.73904
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.145.003",
+          "nama_jembatan": "Kembatan Kepel I",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.8,
+          "lebar1": 3,
+          "lebar2": 3.7,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66968,
+            -7.73977
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.145.004",
+          "nama_jembatan": "Kembatan Kepel II",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.4,
+          "lebar1": 3,
+          "lebar2": 4.05,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.66976,
+            -7.73878
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.145.005",
+          "nama_jembatan": "Kembatan Kepel III",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.5,
+          "lebar1": 6,
+          "lebar2": 4.03,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.67366,
+            -7.73313
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.147.001",
+          "nama_jembatan": "Jembatan Wungu V",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.28,
+          "lebar1": 3,
+          "lebar2": 4.61,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62199,
+            -7.69284
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.147.002",
+          "nama_jembatan": "Jembatan Wungu VI",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 3,
+          "lebar1": 3,
+          "lebar2": 4.3,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.62937,
+            -7.69521
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.147.003",
+          "nama_jembatan": "Jembatan Kresek VII",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 34.4,
+          "lebar1": 6.7,
+          "lebar2": 7.42,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.64092,
+            -7.69936
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.148.001",
+          "nama_jembatan": "Jembatan Kare I",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.4,
+          "lebar1": 3.9,
+          "lebar2": 4.95,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69105,
+            -7.73277
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.149.001",
+          "nama_jembatan": "Jembatan Kare II",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 7.6,
+          "lebar1": 3.2,
+          "lebar2": 3.2,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.69526,
+            -7.75727
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.150.001",
+          "nama_jembatan": "Jembatan Randualas I",
+          "kec": "Kare",
+          "tipe_penyebrangan": "S",
+          "panjang": 4,
+          "lebar1": 2.4,
+          "lebar2": 3.35,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.68383,
+            -7.70244
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.151.001",
+          "nama_jembatan": "Jembatan Tawangrejo V",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.4,
+          "lebar1": 3,
+          "lebar2": 3.67,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.71003,
+            -7.65497
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.151.002",
+          "nama_jembatan": "Jembatan Morang I",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.75,
+          "lebar1": 5.1,
+          "lebar2": 6.13,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.70608,
+            -7.656
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.152.001",
+          "nama_jembatan": "Jembatan Batok III",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.95,
+          "lebar1": 6,
+          "lebar2": 6.53,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.71774,
+            -7.70224
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.152.002",
+          "nama_jembatan": "Jembatan Batok IV",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.5,
+          "lebar1": 3,
+          "lebar2": 4.32,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.728,
+            -7.69533
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.152.003",
+          "nama_jembatan": "Jembatan Batok V",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 11.5,
+          "lebar1": 3.6,
+          "lebar2": 4.2,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.72983,
+            -7.69584
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.153.001",
+          "nama_jembatan": "Jembatan Durenan I",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.2,
+          "lebar1": 4.4,
+          "lebar2": 4.98,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.73831,
+            -7.69913
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.153.002",
+          "nama_jembatan": "Jembatan Durenan II",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.25,
+          "lebar1": 3,
+          "lebar2": 5.85,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.74079,
+            -7.70181
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.153.003",
+          "nama_jembatan": "Jembatan Durenan III",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 8.7,
+          "lebar1": 5.35,
+          "lebar2": 6.05,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.74304,
+            -7.70245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.153.004",
+          "nama_jembatan": "Jembatan Durenan IV",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 16.67,
+          "lebar1": 6.15,
+          "lebar2": 7.12,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.73417,
+            -7.72436
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.154.001",
+          "nama_jembatan": "Jembatan Winong I",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.6,
+          "lebar1": 3.1,
+          "lebar2": 4,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.74965,
+            -7.66712
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.154.002",
+          "nama_jembatan": "Jembatan Gemarang III",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 5,
+          "lebar1": 3.55,
+          "lebar2": 4.05,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.75553,
+            -7.62706
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.154.003",
+          "nama_jembatan": "Jembatan Sebayi II",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 14,
+          "lebar1": 3,
+          "lebar2": 3.6,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.75,
+            -7.61318
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.154.004",
+          "nama_jembatan": "Jembatan Sebayi III",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 6.25,
+          "lebar1": 3.5,
+          "lebar2": 4.03,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.74448,
+            -7.60968
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.154.005",
+          "nama_jembatan": "Jembatan Sebayi IV",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 16,
+          "lebar1": 3.45,
+          "lebar2": 4.02,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.74105,
+            -7.60863
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.155.001",
+          "nama_jembatan": "Jembatan Sebayi V",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 16.75,
+          "lebar1": 6,
+          "lebar2": 6.5,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.748585,
+            -7.590168
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.155.002",
+          "nama_jembatan": "Jembatan Nampu I",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.4,
+          "lebar1": 2.75,
+          "lebar2": 3.15,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.758273,
+            -7.593905
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.155.003",
+          "nama_jembatan": "Jembatan Nampu II",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.3,
+          "lebar1": 3.1,
+          "lebar2": 3.63,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.761765,
+            -7.595147
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.155.004",
+          "nama_jembatan": "Jembatan Nampu III",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.3,
+          "lebar1": 3.1,
+          "lebar2": 3.63,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.766397,
+            -7.595085
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.155.005",
+          "nama_jembatan": "Jembatan Nampu IV",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.45,
+          "lebar1": 5.92,
+          "lebar2": 6.54,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.774913,
+            -7.597647
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.155.006",
+          "nama_jembatan": "Jembatan Nampu V",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.45,
+          "lebar1": 3,
+          "lebar2": 3,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.780928,
+            -7.600341
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.155.007",
+          "nama_jembatan": "Jembatan Nampu VI",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.9,
+          "lebar1": 2.75,
+          "lebar2": 3.58,
+          "jml_bentang": 1,
+          "tipe": "Y"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.784837,
+            -7.60643
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.155.008",
+          "nama_jembatan": "Jembatan Nampu VII",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.8,
+          "lebar1": 3.7,
+          "lebar2": 4.37,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.785947,
+            -7.613366
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.155.009",
+          "nama_jembatan": "Jembatan Nampu VIII",
+          "kec": "Gemarang",
+          "tipe_penyebrangan": "S",
+          "panjang": 27.83,
+          "lebar1": 3.02,
+          "lebar2": 3.61,
+          "jml_bentang": 2,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.78959,
+            -7.62021
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.157.001",
+          "nama_jembatan": "Jembatan Jatisari I",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 14.75,
+          "lebar1": 3.15,
+          "lebar2": 4.1,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5314,
+            -7.7039
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.157.002",
+          "nama_jembatan": "Jembatan Sumberejo III",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.6,
+          "lebar1": 5.5,
+          "lebar2": 6.45,
+          "jml_bentang": 1,
+          "tipe": "E&B"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52525,
+            -7.71375
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.157.003",
+          "nama_jembatan": "Jembatan Sumberejo IV",
+          "kec": "Geger",
+          "tipe_penyebrangan": "S",
+          "panjang": 4.3,
+          "lebar1": 6.65,
+          "lebar2": 7.3,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.52331,
+            -7.71972
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.158.001",
+          "nama_jembatan": "Jembatan Banaran V",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 12,
+          "lebar1": 4.15,
+          "lebar2": 6.45,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.51027,
+            -7.73018
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.158.002",
+          "nama_jembatan": "Jembatan Krandegan I",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 5.15,
+          "lebar1": 5.5,
+          "lebar2": 8.3,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.50915,
+            -7.73946
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.159.001",
+          "nama_jembatan": "Jembatan Kebonsari II",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 10,
+          "lebar1": 5.4,
+          "lebar2": 6.3,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.48625,
+            -7.7284
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.159.002",
+          "nama_jembatan": "Jembatan Kebonsari III",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 12,
+          "lebar1": 4.2,
+          "lebar2": 5.3,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.48145,
+            -7.73374
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.160.001",
+          "nama_jembatan": "Jembatan Rejosari VI",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.4,
+          "lebar1": 5.4,
+          "lebar2": 6.4,
+          "jml_bentang": 1,
+          "tipe": "E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.473718,
+            -7.727086
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.160.002",
+          "nama_jembatan": "Jembatan Rejosari VII",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 2.7,
+          "lebar1": 6.5,
+          "lebar2": 7.35,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.469498,
+            -7.74055
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.162.001",
+          "nama_jembatan": "Jembatan Palur II",
+          "kec": "Kebonsari",
+          "tipe_penyebrangan": "S",
+          "panjang": 48,
+          "lebar1": 7,
+          "lebar2": 10.1,
+          "jml_bentang": 1,
+          "tipe": "G"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.45326,
+            -7.75145
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.164.001",
+          "nama_jembatan": "Jembatan Ketawang I",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.3,
+          "lebar1": 4,
+          "lebar2": 10.6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.5064,
+            -7.75803
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.164.002",
+          "nama_jembatan": "Jembatan Pucanganom II",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 3.1,
+          "lebar1": 4,
+          "lebar2": 10.3,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.50606,
+            -7.75955
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.164.003",
+          "nama_jembatan": "Jembatan Sukorejo V",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.9,
+          "lebar1": 4.1,
+          "lebar2": 5.9,
+          "jml_bentang": 1,
+          "tipe": "M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.50379,
+            -7.77636
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "no_jembatan": "19.164.004",
+          "nama_jembatan": "Jembatan Lembah IV",
+          "kec": "Dolopo",
+          "tipe_penyebrangan": "S",
+          "panjang": 9.1,
+          "lebar1": 3.1,
+          "lebar2": 3.6,
+          "jml_bentang": 1,
+          "tipe": "P"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.50213,
+            -7.78676
+          ]
+        }
+      }
+    ]
+  }

@@ -1,0 +1,4 @@
+FID,Nm_Ruas,Kd_Inf,Panjang,STA_AWAL,STA_AKHIR,Fungsi,Kondisi,Tipe_Perke,Lebar_STA,Tahun_Reali,tahun,Tgl,Penanganan,Kondisi_Kini,Perke_Kini
+74,Jl. Klitik-Dimong,1,8,8+000,8+100,Lokal Primer,Baik,Aspal,6,2023,2022,20-12-2022,aspal,Sangat Baik,Aspal
+165,Jl. Klitik-Dimong,1,8,0+000,0+100,,,,,,2022,,,,
+166,Jl. Klitik-Dimong,1,8,0+100,0+200,,,,,,2022,,,,

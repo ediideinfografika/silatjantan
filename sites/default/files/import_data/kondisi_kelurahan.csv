@@ -1,0 +1,565 @@
+No,Nm_Ruas,Kd_Inf,Panjang,STA_AWAL,STA_AKHIR,Fungsi,Kondisi,Tipe_Perke,Lebar_STA,Tahun_Reali,tahun,Tgl,Penanganan,Kondisi_Kini,Perke_Kini
+199,Jl. Baru Mberan,,286,0+100,0+200,,baik,aspal,5,,2022,,,,
+487,Jl. Tani Jaya,,400,0+300,0+400,,baik,aspal,5,,2022,,,,
+360,Jl. Kontak Tani,,259,0+100,0+200,,baik,aspal,5,,2022,,,,
+502,Jl. Tani Unggul,,763,0+600,0+700,,baik,aspal,5,,2022,,,,
+492,Jl. Tani Maju,,349,0+200,0+300,,baik,aspal,5,,2022,,,,
+496,Jl. Tani Murni,,579,0+400,0+500,,baik,aspal,5,,2022,,,,
+222,Jl. Cempaka Gg 4,,154,0+000,0+100,,baik,aspal,5,,2022,,,,
+248,Jl. Gang Anggrek V,,120,0+000,0+100,,baik,aspal,5,,2022,,,,
+1,GG. Anggrek III,,106,0+000,0+100,,baik,aspal,5,,2022,,,,
+549,Jl.Gg pisang (RT.3,4 RW.1),,129,0+000,0+100,,baik,makadam,5,,2022,,,,
+437,Jl. Pisang,,170,0+000,0+100,,baik,makadam,5,,2022,,,,
+433,Jl. Pepaya,,172,0+000,0+100,,baik,makadam,5,,2022,,,,
+193,Jl. Bali,,344,0+200,0+300,,baik,makadam,5,,2022,,,,
+551,Jl.Gg. Kertorejan,,128,0+000,0+100,,baik,makadam,5,,2022,,,,
+553,Jl.Gg. Timur Kecamatan,,97,0+000,0+096,,baik,makadam,5,,2022,,,,
+412,Jl. Patimura,,231,0+100,0+200,,baik,makadam,5,,2022,,,,
+465,Jl. Sawung Galing,,392,0+200,0+300,,baik,lapen,5,,2022,,,,
+258,Jl. Gang Buntu,,225,0+100,0+200,,baik,lapen,5,,2022,,,,
+224,Jl. Diponegoro 2,,560,0+400,0+500,,baik,lapen,5,,2022,,,,
+392,Jl. Mawar 1,,141,0+000,0+100,,baik,lapen,5,,2022,,,,
+394,Jl. Mawar 2,,301,0+200,0+300,,baik,lapen,5,,2022,,,,
+483,Jl. Sultan Agung,,322,0+200,0+300,,baik,lapen,5,,2022,,,,
+96,Jalan Mojopurno - Pilangrejo,,707,0+600,0+700,,baik,lapen,5,,2022,,,,
+113,Jalan Pacing,,2755,2+600,2+700,,sedang,lapen,5,,2022,,,,
+107,Jalan Nusa Indah,,587,0+400,0+500,,sedang,tanah,5,,2022,,,,
+162,Jalan Teratai,,418,0+300,0+400,,sedang,tanah,5,,2022,,,,
+143,Jalan Seroja,,745,0+600,0+700,,sedang,tanah,5,,2022,,,,
+41,Jalan Kenongo,,1159,1+000,1+100,,sedang,tanah,5,,2022,,,,
+17,Jalan Kantil,,428,0+300,0+400,,sedang,tanah,5,,2022,,,,
+62,Jalan Mawar,,368,0+200,0+300,,sedang,tanah,5,,2022,,,,
+80,Jalan Melati,,344,0+200,0+300,,sedang,tanah,5,,2022,,,,
+5,Jalan Anthorium,,450,0+300,0+400,,sedang,beton,5,,2022,,,,
+156,Jalan Sruni,,191,0+000,0+100,,sedang,beton,5,,2022,,,,
+158,Jalan Sruni 1,,118,0+000,0+100,,sedang,beton,5,,2022,,,,
+141,Jalan Sedap Malam,,105,0+000,0+100,,sedang,beton,5,,2022,,,,
+160,Jalan Telasih,,102,0+000,0+100,,sedang,beton,5,,2022,,,,
+3,Jalan Anggrek-Mayang Kembar IV,,240,0+000,0+100,,sedang,beton,5,,2022,,,,
+66,Jalan Mayang Kembar,,141,0+000,0+100,,sedang,beton,5,,2022,,,,
+68,Jalan Mayang Kembar I,,205,0+100,0+200,,sedang,beton,5,,2022,,,,
+71,Jalan Mayang Kembar II,,208,0+100,0+200,,sedang,beton,5,,2022,,,,
+74,Jalan Mayang Kembar III,,211,0+100,0+200,,sedang,aspal,5,,2022,,,,
+77,Jalan Mayang Kembar IV,,202,0+100,0+200,,sedang,aspal,5,,2022,,,,
+167,Jalan Wijaya Kusuma,,262,0+100,0+200,,sedang,aspal,5,,2022,,,,
+170,Jalan Wijaya Kusuma I,,267,0+100,0+200,,sedang,aspal,5,,2022,,,,
+173,Jalan Wijaya Kusuma II,,180,0+000,0+100,,sedang,aspal,5,,2022,,,,
+84,Jalan Menur,,454,0+300,0+400,,RR,aspal,5,,2022,,,,
+89,Jalan Menur Gg. 1,,262,0+100,0+200,,RR,aspal,5,,2022,,,,
+92,Jalan Menur Gg. 2,,136,0+000,0+100,,RR,aspal,5,,2022,,,,
+94,Jalan Menur Gg. 3,,90,0+000,0+089,,RR,aspal,5,,2022,,,,
+95,Jalan Menur Gg. 4,,92,0+000,0+092,,RR,makadam,5,,2022,,,,
+104,Jalan Munggut Asri,,250,0+100,0+200,,RR,makadam,5,,2022,,,,
+59,Jalan M Sholeh,,215,0+100,0+200,,RR,makadam,5,,2022,,,,
+10,Jalan Cempaka,,416,0+300,0+400,,RR,makadam,5,,2022,,,,
+32,Jalan Kantil I,,144,0+000,0+100,,RR,makadam,5,,2022,,,,
+22,Jalan Kantil  II,,95,0+000,0+094,,RR,makadam,5,,2022,,,,
+23,Jalan Kantil  III,,206,0+100,0+200,,RR,makadam,5,,2022,,,,
+26,Jalan Kantil  IV,,304,0+200,0+300,,RR,lapen,5,,2022,,,,
+34,Jalan Kantil V,,66,0+000,0+065,,RR,lapen,5,,2022,,,,
+30,Jalan Kantil  VI,,154,0+000,0+100,,RR,lapen,5,,2022,,,,
+15,Jalan Joharmanik,,194,0+000,0+100,,RR,lapen,5,,2022,,,,
+53,Jalan Kenongo 2,,351,0+200,0+300,,RR,lapen,5,,2022,,,,
+57,Jalan Kenongo 3,,118,0+000,0+100,,RR,lapen,5,,2022,,,,
+151,Jalan Sri Rejeki,,365,0+200,0+300,,RR,lapen,5,,2022,,,,
+155,Jalan Sri Rejeki I,,83,0+000,0+082,,RR,lapen,5,,2022,,,,
+363,Jl. Kresno,,117,0+000,0+100,,RR,tanah,5,,2022,,,,
+473,Jl. Sri Dewi,,106,0+000,0+100,,RR,tanah,5,,2022,,,,
+514,Jl. Wijaya,,342,0+200,0+300,,RR,tanah,5,,2022,,,,
+289,Jl. Gatot Kaca,,347,0+200,0+300,,RR,tanah,5,,2022,,,,
+184,Jl. Abiyoso,,239,0+100,0+200,,RR,tanah,5,,2022,,,,
+202,Jl. Baudayang,,801,0+700,0+800,,RR,tanah,5,,2022,,,,
+455,Jl. Remaja,,220,0+100,0+200,,RR,tanah,5,,2022,,,,
+415,Jl. Pemuda,,399,0+200,0+300,,RR,beton,5,,2022,,,,
+371,Jl. Lapangan,,231,0+100,0+200,,RR,beton,5,,2022,,,,
+323,Jl. H.Seto,,173,0+000,0+100,,RR,beton,5,,2022,,,,
+430,Jl. Pemuda Gang VII,,147,0+000,0+100,,RR,beton,5,,2022,,,,
+428,Jl. Pemuda Gang VI,,103,0+000,0+100,,RR,beton,5,,2022,,,,
+427,Jl. Pemuda Gang V,,101,0+000,0+100,,RR,beton,5,,2022,,,,
+425,Jl. Pemuda Gang IV,,103,0+000,0+100,,RR,beton,5,,2022,,,,
+423,Jl. Pemuda Gang III,,103,0+000,0+100,,RR,beton,5,,2022,,,,
+421,Jl. Pemuda Gang II,,102,0+000,0+100,,RR,beton,5,,2022,,,,
+419,Jl. Pemuda Gang I,,102,0+000,0+100,,RR,aspal,5,,2022,,,,
+432,Jl. Pemuda Gang VIII,,52,0+000,0+052,,RR,aspal,5,,2022,,,,
+197,Jl. Baru,,189,0+000,0+100,,RR,aspal,5,,2022,,,,
+35,JALAN KASATRIAN,,510,0+400,0+500,,RR,aspal,5,,2022,,,,
+347,Jl. Ki. Ageng Basyariyah,,607,0+500,0+600,,RR,aspal,5,,2022,,,,
+376,Jl. Masjid,,688,0+500,0+600,,RR,aspal,5,,2022,,,,
+354,Jl. Ki. Ageng Basyariyah Gang 1,,38,0+000,0+037,,RR,aspal,5,,2022,,,,
+355,Jl. Ki. Ageng Basyariyah Gang 2,,44,0+000,0+044,,RR,aspal,5,,2022,,,,
+356,Jl. Ki. Ageng Basyariyah Gang 3,,40,0+000,0+040,,RR,aspal,5,,2022,,,,
+357,Jl. Ki. Ageng Basyariyah Gang 4,,53,0+000,0+053,,RR,makadam,5,,2022,,,,
+358,Jl. Ki. Ageng Basyariyah Gang 5,,24,0+000,0+024,,RR,makadam,5,,2022,,,,
+341,Jl. Kebon Pisang,,192,0+000,0+100,,RR,makadam,5,,2022,,,,
+519,Jl. Wiroto II,,96,0+000,0+095,,RR,makadam,5,,2022,,,,
+518,Jl. Wiroto,,55,0+000,0+054,,RR,makadam,5,,2022,,,,
+261,Jl. Gang Buntu,,52,0+000,0+051,,RR,makadam,5,,2022,,,,
+446,Jl. Puntuk I,,74,0+000,0+074,,RR,makadam,5,,2022,,,,
+447,Jl. Puntuk II,,78,0+000,0+077,,RR,lapen,5,,2022,,,,
+328,Jl. K.A.Moch Basari,,109,0+000,0+100,,RR,lapen,5,,2022,,,,
+448,Jl. Rajawali,,312,0+200,0+300,,RR,lapen,5,,2022,,,,
+285,Jl. Gang Tangah,,260,0+100,0+200,,RR,lapen,5,,2022,,,,
+325,Jl. Iromito,,197,0+000,0+100,,RR,lapen,5,,2022,,,,
+273,Jl. Gang Rukun,,112,0+000,0+100,,RR,lapen,5,,2022,,,,
+406,Jl. Panji 1,,125,0+000,0+100,,RR,lapen,5,,2022,,,,
+408,Jl. Panji 2,,116,0+000,0+100,,RR,lapen,5,,2022,,,,
+410,Jl. Panji 3,,171,0+000,0+100,,RR,tanah,5,,2022,,,,
+461,Jl. Rukun,,142,0+000,0+100,,RR,tanah,5,,2022,,,,
+190,Jl. Arjuno,,119,0+000,0+100,,RR,tanah,5,,2022,,,,
+452,Jl. Rajawali Gg.1,,136,0+000,0+100,,RR,tanah,5,,2022,,,,
+458,Jl. Remaja Gang 1,,52,0+000,0+051,,RR,tanah,5,,2022,,,,
+192,Jl. Arjuno Gg.1,,73,0+000,0+073,,RR,tanah,5,,2022,,,,
+459,Jl. Remaja Gang 2,,52,0+000,0+052,,RR,tanah,5,,2022,,,,
+460,Jl. Remaja Gang 3,,62,0+000,0+062,,RR,beton,5,,2022,,,,
+318,Jl. Gg. Kelurahan,,132,0+000,0+100,,RR,beton,5,,2022,,,,
+321,Jl. Gg. Nanas,,80,0+000,0+079,,RR,beton,5,,2022,,,,
+320,Jl. Gg. Mlinjo,,76,0+000,0+075,,RR,beton,5,,2022,,,,
+316,Jl. Gg. Kelapa,,129,0+000,0+100,,RR,beton,5,,2022,,,,
+305,Jl. Gg Borobudur,,32,0+000,0+031,,RR,beton,5,,2022,,,,
+314,Jl. Gg. Jeruk,,110,0+000,0+100,,RR,beton,5,,2022,,,,
+306,Jl. Gg Trobanyu,,107,0+000,0+100,,RR,beton,5,,2022,,,,
+311,Jl. Gg. Jambe,,104,0+000,0+100,,RR,beton,5,,2022,,,,
+309,Jl. GG. Duren,,125,0+000,0+100,,RR,aspal,5,,2022,,,,
+313,Jl. GG. Jambu,,97,0+000,0+096,,RR,aspal,5,,2022,,,,
+308,Jl. Gg. Apel,,24,0+000,0+024,,RR,aspal,5,,2022,,,,
+322,Jl. Gg. Salak,,87,0+000,0+086,,RR,aspal,5,,2022,,,,
+211,Jl. Bekas Rel,,439,0+300,0+400,,RR,aspal,5,,2022,,,,
+332,Jl. Kanal Kembar (RT.11 RW.5),,333,0+200,0+300,,RR,aspal,5,,2022,,,,
+480,Jl. Sukodono (RT.11 RW.5),,213,0+100,0+200,,RR,aspal,5,,2022,,,,
+520,Jl.Antarejo,,1501,1+400,1+500,,RR,aspal,5,,2022,,,,
+293,Jl. Gatot Kaca,,1139,1+000,1+100,,RR,aspal,5,,2022,,,,
+175,Jl. Abimanyu,,807,0+700,0+800,,RR,makadam,5,,2022,,,,
+554,Jl.Sentiaki,,1086,0+900,1+000,,RR,makadam,5,,2022,,,,
+512,Jl. Werkudoro,,139,0+000,0+100,,RR,makadam,5,,2022,,,,
+365,Jl. Krisna,,507,0+400,0+500,,RR,makadam,5,,2022,,,,
+251,Jl. Gang Bayusuto 1,,99,0+000,0+098,,RR,makadam,5,,2022,,,,
+252,Jl. Gang Bayusuto 2,,131,0+000,0+100,,RR,makadam,5,,2022,,,,
+254,Jl. Gang Bayusuto 3,,136,0+000,0+100,,RR,makadam,5,,2022,,,,
+256,Jl. Gang Bayusuto 4,,144,0+000,0+100,,RR,lapen,5,,2022,,,,
+540,Jl.Gang Asem 1,,207,0+100,0+200,,RR,lapen,5,,2022,,,,
+250,Jl. Gang Asem 2,,99,0+000,0+098,,RR,lapen,5,,2022,,,,
+469,Jl. Selo Barong,,148,0+000,0+100,,RR,lapen,5,,2022,,,,
+440,Jl. Puntodewo,,568,0+400,0+500,,RR,lapen,5,,2022,,,,
+475,Jl. Srikandi,,432,0+300,0+400,,RR,lapen,5,,2022,,,,
+216,Jl. Bendungan Segaran,,328,0+200,0+300,,RR,lapen,5,,2022,,,,
+220,Jl. Bendungan Segaran Barat,,123,0+000,0+100,,RR,lapen,5,,2022,,,,
+383,Jl. Mawar,,831,0+700,0+800,,RR,tanah,5,,2022,,,,
+330,Jl. Kamboja,,119,0+000,0+100,,RR,tanah,5,,2022,,,,
+343,Jl. Ki Ageng Bandar Alim,,390,0+200,0+300,,RR,tanah,5,,2022,,,,
+398,Jl. Melati,,502,0+400,0+500,,RR,tanah,5,,2022,,,,
+265,Jl. Gang Kantil 2,,108,0+000,0+100,,RR,tanah,5,,2022,,,,
+267,Jl. Gang Kantil 3,,51,0+000,0+051,,RR,tanah,5,,2022,,,,
+336,Jl. Kantil,,425,0+300,0+400,,RR,tanah,5,,2022,,,,
+268,Jl. Gang Kasepuhan,,64,0+000,0+064,,RR,beton,5,,2022,,,,
+543,Jl.Gang Gatot Kaca 1,,198,0+000,0+100,,RR,beton,5,,2022,,,,
+545,Jl.Gang Gatot Kaca 2,,118,0+000,0+100,,RR,beton,5,,2022,,,,
+547,Jl.Gang Gatot Kaca 3,,102,0+000,0+100,,RR,beton,5,,2022,,,,
+262,Jl. Gang Cemer 1,,127,0+000,0+100,,RR,beton,5,,2022,,,,
+264,Jl. Gang Cemer 2,,61,0+000,0+061,,RR,beton,5,,2022,,,,
+246,Jl. Gang Abimanyu,,199,0+000,0+100,,RR,beton,5,,2022,,,,
+435,Jl. Petruk,,134,0+000,0+100,,RR,beton,5,,2022,,,,
+471,Jl. Semar,,108,0+000,0+100,,RR,beton,5,,2022,,,,
+288,Jl. Gareng,,34,0+000,0+034,,RR,aspal,5,,2022,,,,
+283,Jl. Gang Sentiaki 2,,195,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+279,Jl. Gang Sentiaki 1,,400,0+200,0+300,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+230,Jl. Dungus Termulus,,1350,1+200,1+300,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+510,Jl. Tomat,,160,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+536,Jl.Chery,,330,0+200,0+300,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+374,Jl. Manggis,,166,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+269,Jl. Gang Mangga,,103,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+454,Jl. Rambutan,,97,0+000,0+097,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+327,Jl. Jambu,,99,0+000,0+098,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+404,Jl. Nangka,,194,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+244,Jl. Durian,,106,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+359,Jl. Kiwi,,51,0+000,0+050,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+271,Jl. Gang Masjid,,187,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+187,Jl. Arimbi 1,,166,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+189,Jl. Arimbi 2,,57,0+000,0+056,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+463,Jl. Sadewo,,175,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+275,Jl. Gang Sadewo 1,,204,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+278,Jl. Gang Sadewo 2,,77,0+000,0+076,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+439,Jl. Pisang,,91,0+000,0+091,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+2,GG. Anggrek III,,106,0+100,0+106,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+4,Jalan Anggrek-Mayang Kembar IV,,240,0+100,0+140,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+6,Jalan Anthorium,,450,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+7,Jalan Anthorium,,450,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+8,Jalan Anthorium,,450,0+200,0+300,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+9,Jalan Anthorium,,450,0+400,0+450,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+11,Jalan Cempaka,,416,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+12,Jalan Cempaka,,416,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+13,Jalan Cempaka,,416,0+200,0+300,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+14,Jalan Cempaka,,416,0+400,0+416,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+16,Jalan Joharmanik,,194,0+100,0+194,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+18,Jalan Kantil,,428,0+000,0+100,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+19,Jalan Kantil,,428,0+100,0+200,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+20,Jalan Kantil,,428,0+200,0+300,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+21,Jalan Kantil,,428,0+400,0+428,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+24,Jalan Kantil  III,,206,0+000,0+100,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+25,Jalan Kantil  III,,206,0+200,0+206,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+27,Jalan Kantil  IV,,304,0+000,0+100,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+28,Jalan Kantil  IV,,304,0+100,0+200,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+29,Jalan Kantil  IV,,304,0+300,0+303,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+31,Jalan Kantil  VI,,154,0+100,0+153,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+33,Jalan Kantil I,,144,0+100,0+143,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+36,JALAN KASATRIAN,,510,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+37,JALAN KASATRIAN,,510,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+38,JALAN KASATRIAN,,510,0+200,0+300,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+39,JALAN KASATRIAN,,510,0+300,0+400,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+40,JALAN KASATRIAN,,510,0+500,0+509,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+42,Jalan Kenongo,,1159,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+43,Jalan Kenongo,,1159,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+44,Jalan Kenongo,,1159,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+45,Jalan Kenongo,,1159,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+46,Jalan Kenongo,,1159,0+400,0+500,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+47,Jalan Kenongo,,1159,0+500,0+600,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+48,Jalan Kenongo,,1159,0+600,0+700,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+49,Jalan Kenongo,,1159,0+700,0+800,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+50,Jalan Kenongo,,1159,0+800,0+900,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+51,Jalan Kenongo,,1159,0+900,1+000,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+52,Jalan Kenongo,,1159,1+100,1+156,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+54,Jalan Kenongo 2,,351,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+55,Jalan Kenongo 2,,351,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+56,Jalan Kenongo 2,,351,0+300,0+350,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+58,Jalan Kenongo 3,,118,0+100,0+118,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+60,Jalan M Sholeh,,215,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+61,Jalan M Sholeh,,215,0+200,0+215,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+63,Jalan Mawar,,368,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+64,Jalan Mawar,,368,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+65,Jalan Mawar,,368,0+300,0+368,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+67,Jalan Mayang Kembar,,141,0+100,0+140,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+69,Jalan Mayang Kembar I,,205,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+70,Jalan Mayang Kembar I,,205,0+200,0+205,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+72,Jalan Mayang Kembar II,,208,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+73,Jalan Mayang Kembar II,,208,0+200,0+208,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+75,Jalan Mayang Kembar III,,211,0+000,0+100,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+76,Jalan Mayang Kembar III,,211,0+200,0+210,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+78,Jalan Mayang Kembar IV,,202,0+000,0+100,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+79,Jalan Mayang Kembar IV,,202,0+200,0+202,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+81,Jalan Melati,,344,0+000,0+100,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+82,Jalan Melati,,344,0+100,0+200,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+83,Jalan Melati,,344,0+300,0+343,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+85,Jalan Menur,,454,0+000,0+100,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+86,Jalan Menur,,454,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+87,Jalan Menur,,454,0+200,0+300,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+88,Jalan Menur,,454,0+400,0+453,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+90,Jalan Menur Gg. 1,,262,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+91,Jalan Menur Gg. 1,,262,0+200,0+262,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+93,Jalan Menur Gg. 2,,136,0+100,0+136,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+97,Jalan Mojopurno - Pilangrejo,,707,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+98,Jalan Mojopurno - Pilangrejo,,707,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+99,Jalan Mojopurno - Pilangrejo,,707,0+200,0+300,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+100,Jalan Mojopurno - Pilangrejo,,707,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+101,Jalan Mojopurno - Pilangrejo,,707,0+400,0+500,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+102,Jalan Mojopurno - Pilangrejo,,707,0+500,0+600,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+103,Jalan Mojopurno - Pilangrejo,,707,0+700,0+706,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+105,Jalan Munggut Asri,,250,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+106,Jalan Munggut Asri,,250,0+200,0+249,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+108,Jalan Nusa Indah,,587,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+109,Jalan Nusa Indah,,587,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+110,Jalan Nusa Indah,,587,0+200,0+300,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+111,Jalan Nusa Indah,,587,0+300,0+400,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+112,Jalan Nusa Indah,,587,0+500,0+587,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+114,Jalan Pacing,,2755,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+115,Jalan Pacing,,2755,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+116,Jalan Pacing,,2755,0+200,0+300,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+117,Jalan Pacing,,2755,0+300,0+400,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+118,Jalan Pacing,,2755,0+400,0+500,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+119,Jalan Pacing,,2755,0+500,0+600,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+120,Jalan Pacing,,2755,0+600,0+700,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+121,Jalan Pacing,,2755,0+700,0+800,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+122,Jalan Pacing,,2755,0+800,0+900,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+123,Jalan Pacing,,2755,0+900,1+000,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+124,Jalan Pacing,,2755,1+000,1+100,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+125,Jalan Pacing,,2755,1+100,1+200,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+126,Jalan Pacing,,2755,1+200,1+300,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+127,Jalan Pacing,,2755,1+300,1+400,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+128,Jalan Pacing,,2755,1+400,1+500,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+129,Jalan Pacing,,2755,1+500,1+600,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+130,Jalan Pacing,,2755,1+600,1+700,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+131,Jalan Pacing,,2755,1+700,1+800,,baik,beton,5,,2022,,,,
+132,Jalan Pacing,,2755,1+800,1+900,,baik,beton,5,,2022,,,,
+133,Jalan Pacing,,2755,1+900,2+000,,baik,beton,5,,2022,,,,
+134,Jalan Pacing,,2755,2+000,2+100,,baik,aspal,5,,2022,,,,
+135,Jalan Pacing,,2755,2+100,2+200,,baik,aspal,5,,2022,,,,
+136,Jalan Pacing,,2755,2+200,2+300,,baik,aspal,5,,2022,,,,
+137,Jalan Pacing,,2755,2+300,2+400,,baik,aspal,5,,2022,,,,
+138,Jalan Pacing,,2755,2+400,2+500,,baik,aspal,5,,2022,,,,
+139,Jalan Pacing,,2755,2+500,2+600,,baik,aspal,5,,2022,,,,
+140,Jalan Pacing,,2755,2+700,2+755,,baik,aspal,5,,2022,,,,
+142,Jalan Sedap Malam,,105,0+100,0+104,,baik,aspal,5,,2022,,,,
+144,Jalan Seroja,,745,0+000,0+100,,baik,aspal,5,,2022,,,,
+145,Jalan Seroja,,745,0+100,0+200,,baik,makadam,5,,2022,,,,
+146,Jalan Seroja,,745,0+200,0+300,,baik,makadam,5,,2022,,,,
+147,Jalan Seroja,,745,0+300,0+400,,baik,makadam,5,,2022,,,,
+148,Jalan Seroja,,745,0+400,0+500,,baik,makadam,5,,2022,,,,
+149,Jalan Seroja,,745,0+500,0+600,,baik,makadam,5,,2022,,,,
+150,Jalan Seroja,,745,0+700,0+744,,baik,makadam,5,,2022,,,,
+152,Jalan Sri Rejeki,,365,0+000,0+100,,baik,makadam,5,,2022,,,,
+153,Jalan Sri Rejeki,,365,0+100,0+200,,baik,lapen,5,,2022,,,,
+154,Jalan Sri Rejeki,,365,0+300,0+364,,baik,lapen,5,,2022,,,,
+157,Jalan Sruni,,191,0+100,0+190,,baik,lapen,5,,2022,,,,
+159,Jalan Sruni 1,,118,0+100,0+117,,baik,lapen,5,,2022,,,,
+161,Jalan Telasih,,102,0+100,0+102,,sedang,lapen,5,,2022,,,,
+163,Jalan Teratai,,418,0+000,0+100,,sedang,lapen,5,,2022,,,,
+164,Jalan Teratai,,418,0+100,0+200,,sedang,lapen,5,,2022,,,,
+165,Jalan Teratai,,418,0+200,0+300,,sedang,lapen,5,,2022,,,,
+166,Jalan Teratai,,418,0+400,0+417,,sedang,tanah,5,,2022,,,,
+168,Jalan Wijaya Kusuma,,262,0+000,0+100,,sedang,tanah,5,,2022,,,,
+169,Jalan Wijaya Kusuma,,262,0+200,0+261,,sedang,tanah,5,,2022,,,,
+171,Jalan Wijaya Kusuma I,,267,0+000,0+100,,sedang,tanah,5,,2022,,,,
+172,Jalan Wijaya Kusuma I,,267,0+200,0+267,,sedang,tanah,5,,2022,,,,
+174,Jalan Wijaya Kusuma II,,180,0+100,0+180,,sedang,tanah,5,,2022,,,,
+176,Jl. Abimanyu,,807,0+000,0+100,,sedang,tanah,5,,2022,,,,
+177,Jl. Abimanyu,,807,0+100,0+200,,sedang,beton,5,,2022,,,,
+178,Jl. Abimanyu,,807,0+200,0+300,,sedang,beton,5,,2022,,,,
+179,Jl. Abimanyu,,807,0+300,0+400,,sedang,beton,5,,2022,,,,
+180,Jl. Abimanyu,,807,0+400,0+500,,sedang,beton,5,,2022,,,,
+181,Jl. Abimanyu,,807,0+500,0+600,,sedang,beton,5,,2022,,,,
+182,Jl. Abimanyu,,807,0+600,0+700,,sedang,beton,5,,2022,,,,
+183,Jl. Abimanyu,,807,0+800,0+806,,sedang,beton,5,,2022,,,,
+185,Jl. Abiyoso,,239,0+000,0+100,,sedang,beton,5,,2022,,,,
+186,Jl. Abiyoso,,239,0+200,0+238,,sedang,beton,5,,2022,,,,
+188,Jl. Arimbi 1,,166,0+100,0+165,,sedang,aspal,5,,2022,,,,
+191,Jl. Arjuno,,119,0+100,0+118,,sedang,aspal,5,,2022,,,,
+194,Jl. Bali,,344,0+000,0+100,,RR,aspal,5,,2022,,,,
+195,Jl. Bali,,344,0+100,0+200,,RR,aspal,5,,2022,,,,
+196,Jl. Bali,,344,0+300,0+343,,RR,aspal,5,,2022,,,,
+198,Jl. Baru,,189,0+100,0+188,,RR,aspal,5,,2022,,,,
+200,Jl. Baru Mberan,,286,0+000,0+100,,RR,aspal,5,,2022,,,,
+201,Jl. Baru Mberan,,286,0+200,0+286,,RR,aspal,5,,2022,,,,
+203,Jl. Baudayang,,801,0+000,0+100,,RR,aspal,5,,2022,,,,
+204,Jl. Baudayang,,801,0+100,0+200,,RR,makadam,5,,2022,,,,
+205,Jl. Baudayang,,801,0+200,0+300,,RR,makadam,5,,2022,,,,
+206,Jl. Baudayang,,801,0+300,0+400,,RR,makadam,5,,2022,,,,
+207,Jl. Baudayang,,801,0+400,0+500,,RR,makadam,5,,2022,,,,
+208,Jl. Baudayang,,801,0+500,0+600,,RR,makadam,5,,2022,,,,
+209,Jl. Baudayang,,801,0+600,0+700,,RR,makadam,5,,2022,,,,
+210,Jl. Baudayang,,801,0+800,0+801,,RR,makadam,5,,2022,,,,
+212,Jl. Bekas Rel,,439,0+000,0+100,,RR,lapen,5,,2022,,,,
+213,Jl. Bekas Rel,,439,0+100,0+200,,RR,lapen,5,,2022,,,,
+214,Jl. Bekas Rel,,439,0+200,0+300,,RR,lapen,5,,2022,,,,
+215,Jl. Bekas Rel,,439,0+400,0+439,,RR,lapen,5,,2022,,,,
+217,Jl. Bendungan Segaran,,328,0+000,0+100,,RR,lapen,5,,2022,,,,
+218,Jl. Bendungan Segaran,,328,0+100,0+200,,RR,lapen,5,,2022,,,,
+219,Jl. Bendungan Segaran,,328,0+300,0+328,,RR,lapen,5,,2022,,,,
+221,Jl. Bendungan Segaran Barat,,123,0+100,0+123,,RR,lapen,5,,2022,,,,
+223,Jl. Cempaka Gg 4,,154,0+100,0+154,,RR,tanah,5,,2022,,,,
+225,Jl. Diponegoro 2,,560,0+000,0+100,,RR,tanah,5,,2022,,,,
+226,Jl. Diponegoro 2,,560,0+100,0+200,,RR,tanah,5,,2022,,,,
+227,Jl. Diponegoro 2,,560,0+200,0+300,,RR,tanah,5,,2022,,,,
+228,Jl. Diponegoro 2,,560,0+300,0+400,,RR,tanah,5,,2022,,,,
+229,Jl. Diponegoro 2,,560,0+500,0+560,,RR,tanah,5,,2022,,,,
+231,Jl. Dungus Termulus,,1350,0+000,0+100,,RR,tanah,5,,2022,,,,
+232,Jl. Dungus Termulus,,1350,0+100,0+200,,RR,beton,5,,2022,,,,
+233,Jl. Dungus Termulus,,1350,0+200,0+300,,RR,beton,5,,2022,,,,
+234,Jl. Dungus Termulus,,1350,0+300,0+400,,RR,beton,5,,2022,,,,
+235,Jl. Dungus Termulus,,1350,0+400,0+500,,RR,beton,5,,2022,,,,
+236,Jl. Dungus Termulus,,1350,0+500,0+600,,RR,beton,5,,2022,,,,
+237,Jl. Dungus Termulus,,1350,0+600,0+700,,RR,beton,5,,2022,,,,
+238,Jl. Dungus Termulus,,1350,0+700,0+800,,RR,beton,5,,2022,,,,
+239,Jl. Dungus Termulus,,1350,0+800,0+900,,RR,beton,5,,2022,,,,
+240,Jl. Dungus Termulus,,1350,0+900,1+000,,RR,beton,5,,2022,,,,
+241,Jl. Dungus Termulus,,1350,1+000,1+100,,RR,aspal,5,,2022,,,,
+242,Jl. Dungus Termulus,,1350,1+100,1+200,,RR,aspal,5,,2022,,,,
+243,Jl. Dungus Termulus,,1350,1+300,1+350,,RR,aspal,5,,2022,,,,
+245,Jl. Durian,,106,0+100,0+106,,RR,aspal,5,,2022,,,,
+247,Jl. Gang Abimanyu,,199,0+100,0+198,,RR,aspal,5,,2022,,,,
+249,Jl. Gang Anggrek V,,120,0+100,0+119,,RR,aspal,5,,2022,,,,
+253,Jl. Gang Bayusuto 2,,131,0+100,0+130,,RR,aspal,5,,2022,,,,
+255,Jl. Gang Bayusuto 3,,136,0+100,0+135,,RR,aspal,5,,2022,,,,
+257,Jl. Gang Bayusuto 4,,144,0+100,0+143,,RR,aspal,5,,2022,,,,
+259,Jl. Gang Buntu,,225,0+000,0+100,,RR,makadam,5,,2022,,,,
+260,Jl. Gang Buntu,,225,0+200,0+224,,RR,makadam,5,,2022,,,,
+263,Jl. Gang Cemer 1,,127,0+100,0+126,,RR,makadam,5,,2022,,,,
+266,Jl. Gang Kantil 2,,108,0+100,0+108,,RR,makadam,5,,2022,,,,
+270,Jl. Gang Mangga,,103,0+100,0+103,,RR,makadam,5,,2022,,,,
+272,Jl. Gang Masjid,,187,0+100,0+186,,RR,makadam,5,,2022,,,,
+274,Jl. Gang Rukun,,112,0+100,0+112,,RR,makadam,5,,2022,,,,
+276,Jl. Gang Sadewo 1,,204,0+000,0+100,,RR,lapen,5,,2022,,,,
+277,Jl. Gang Sadewo 1,,204,0+200,0+204,,RR,lapen,5,,2022,,,,
+280,Jl. Gang Sentiaki 1,,400,0+000,0+100,,RR,lapen,5,,2022,,,,
+281,Jl. Gang Sentiaki 1,,400,0+100,0+200,,RR,lapen,5,,2022,,,,
+282,Jl. Gang Sentiaki 1,,400,0+300,0+399,,RR,lapen,5,,2022,,,,
+284,Jl. Gang Sentiaki 2,,195,0+100,0+195,,RR,lapen,5,,2022,,,,
+286,Jl. Gang Tangah,,260,0+000,0+100,,RR,lapen,5,,2022,,,,
+287,Jl. Gang Tangah,,260,0+200,0+260,,RR,lapen,5,,2022,,,,
+290,Jl. Gatot Kaca,,347,0+000,0+100,,RR,tanah,5,,2022,,,,
+291,Jl. Gatot Kaca,,347,0+100,0+200,,RR,tanah,5,,2022,,,,
+292,Jl. Gatot Kaca,,347,0+300,0+347,,RR,tanah,5,,2022,,,,
+294,Jl. Gatot Kaca,,1139,0+000,0+100,,RR,tanah,5,,2022,,,,
+295,Jl. Gatot Kaca,,1139,0+100,0+200,,RR,tanah,5,,2022,,,,
+296,Jl. Gatot Kaca,,1139,0+200,0+300,,RR,tanah,5,,2022,,,,
+297,Jl. Gatot Kaca,,1139,0+300,0+400,,RR,tanah,5,,2022,,,,
+298,Jl. Gatot Kaca,,1139,0+400,0+500,,RR,beton,5,,2022,,,,
+299,Jl. Gatot Kaca,,1139,0+500,0+600,,RR,beton,5,,2022,,,,
+300,Jl. Gatot Kaca,,1139,0+600,0+700,,RR,beton,5,,2022,,,,
+301,Jl. Gatot Kaca,,1139,0+700,0+800,,RR,beton,5,,2022,,,,
+302,Jl. Gatot Kaca,,1139,0+800,0+900,,RR,beton,5,,2022,,,,
+303,Jl. Gatot Kaca,,1139,0+900,1+000,,RR,beton,5,,2022,,,,
+304,Jl. Gatot Kaca,,1139,1+100,1+138,,RR,beton,5,,2022,,,,
+307,Jl. Gg Trobanyu,,107,0+100,0+106,,RR,beton,5,,2022,,,,
+310,Jl. GG. Duren,,125,0+100,0+124,,RR,beton,5,,2022,,,,
+312,Jl. Gg. Jambe,,104,0+100,0+103,,RR,aspal,5,,2022,,,,
+315,Jl. Gg. Jeruk,,110,0+100,0+110,,RR,aspal,5,,2022,,,,
+317,Jl. Gg. Kelapa,,129,0+100,0+128,,RR,aspal,5,,2022,,,,
+319,Jl. Gg. Kelurahan,,132,0+100,0+131,,RR,aspal,5,,2022,,,,
+324,Jl. H.Seto,,173,0+100,0+173,,RR,aspal,5,,2022,,,,
+326,Jl. Iromito,,197,0+100,0+197,,RR,aspal,5,,2022,,,,
+329,Jl. K.A.Moch Basari,,109,0+100,0+109,,RR,aspal,5,,2022,,,,
+331,Jl. Kamboja,,119,0+100,0+118,,RR,aspal,5,,2022,,,,
+333,Jl. Kanal Kembar (RT.11 RW.5),,333,0+000,0+100,,RR,aspal,5,,2022,,,,
+334,Jl. Kanal Kembar (RT.11 RW.5),,333,0+100,0+200,,RR,makadam,5,,2022,,,,
+335,Jl. Kanal Kembar (RT.11 RW.5),,333,0+300,0+333,,RR,makadam,5,,2022,,,,
+337,Jl. Kantil,,425,0+000,0+100,,RR,makadam,5,,2022,,,,
+338,Jl. Kantil,,425,0+100,0+200,,RR,makadam,5,,2022,,,,
+339,Jl. Kantil,,425,0+200,0+300,,RR,makadam,5,,2022,,,,
+340,Jl. Kantil,,425,0+400,0+425,,RR,makadam,5,,2022,,,,
+342,Jl. Kebon Pisang,,192,0+100,0+191,,RR,makadam,5,,2022,,,,
+344,Jl. Ki Ageng Bandar Alim,,390,0+000,0+100,,RR,lapen,5,,2022,,,,
+345,Jl. Ki Ageng Bandar Alim,,390,0+100,0+200,,RR,lapen,5,,2022,,,,
+346,Jl. Ki Ageng Bandar Alim,,390,0+300,0+389,,RR,lapen,5,,2022,,,,
+348,Jl. Ki. Ageng Basyariyah,,607,0+000,0+100,,RR,lapen,5,,2022,,,,
+349,Jl. Ki. Ageng Basyariyah,,607,0+100,0+200,,RR,lapen,5,,2022,,,,
+350,Jl. Ki. Ageng Basyariyah,,607,0+200,0+300,,RR,lapen,5,,2022,,,,
+351,Jl. Ki. Ageng Basyariyah,,607,0+300,0+400,,RR,lapen,5,,2022,,,,
+352,Jl. Ki. Ageng Basyariyah,,607,0+400,0+500,,RR,lapen,5,,2022,,,,
+353,Jl. Ki. Ageng Basyariyah,,607,0+600,0+607,,RR,tanah,5,,2022,,,,
+361,Jl. Kontak Tani,,259,0+000,0+100,,RR,tanah,5,,2022,,,,
+362,Jl. Kontak Tani,,259,0+200,0+259,,RR,tanah,5,,2022,,,,
+364,Jl. Kresno,,117,0+100,0+117,,RR,tanah,5,,2022,,,,
+366,Jl. Krisna,,507,0+000,0+100,,RR,tanah,5,,2022,,,,
+367,Jl. Krisna,,507,0+100,0+200,,RR,tanah,5,,2022,,,,
+368,Jl. Krisna,,507,0+200,0+300,,RR,tanah,5,,2022,,,,
+369,Jl. Krisna,,507,0+300,0+400,,RR,beton,5,,2022,,,,
+370,Jl. Krisna,,507,0+500,0+506,,RR,beton,5,,2022,,,,
+372,Jl. Lapangan,,231,0+000,0+100,,RR,beton,5,,2022,,,,
+373,Jl. Lapangan,,231,0+200,0+231,,RR,beton,5,,2022,,,,
+375,Jl. Manggis,,166,0+100,0+165,,RR,beton,5,,2022,,,,
+377,Jl. Masjid,,688,0+000,0+100,,RR,beton,5,,2022,,,,
+378,Jl. Masjid,,688,0+100,0+200,,RR,beton,5,,2022,,,,
+379,Jl. Masjid,,688,0+200,0+300,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+380,Jl. Masjid,,688,0+300,0+400,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+381,Jl. Masjid,,688,0+400,0+500,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+382,Jl. Masjid,,688,0+600,0+687,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+384,Jl. Mawar,,831,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+385,Jl. Mawar,,831,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+386,Jl. Mawar,,831,0+200,0+300,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+387,Jl. Mawar,,831,0+300,0+400,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+388,Jl. Mawar,,831,0+400,0+500,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+389,Jl. Mawar,,831,0+500,0+600,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+390,Jl. Mawar,,831,0+600,0+700,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+391,Jl. Mawar,,831,0+800,0+831,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+393,Jl. Mawar 1,,141,0+100,0+140,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+395,Jl. Mawar 2,,301,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+396,Jl. Mawar 2,,301,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+397,Jl. Mawar 2,,301,0+300,0+301,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+399,Jl. Melati,,502,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+400,Jl. Melati,,502,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+401,Jl. Melati,,502,0+200,0+300,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+402,Jl. Melati,,502,0+300,0+400,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+403,Jl. Melati,,502,0+500,0+502,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+405,Jl. Nangka,,194,0+100,0+194,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+407,Jl. Panji 1,,125,0+100,0+125,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+409,Jl. Panji 2,,116,0+100,0+115,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+411,Jl. Panji 3,,171,0+100,0+170,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+413,Jl. Patimura,,231,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+414,Jl. Patimura,,231,0+200,0+230,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+416,Jl. Pemuda,,399,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+417,Jl. Pemuda,,399,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+418,Jl. Pemuda,,399,0+300,0+398,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+420,Jl. Pemuda Gang I,,102,0+100,0+102,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+422,Jl. Pemuda Gang II,,102,0+100,0+102,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+424,Jl. Pemuda Gang III,,103,0+100,0+103,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+426,Jl. Pemuda Gang IV,,103,0+100,0+102,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+429,Jl. Pemuda Gang VI,,103,0+100,0+102,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+431,Jl. Pemuda Gang VII,,147,0+100,0+146,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+434,Jl. Pepaya,,172,0+100,0+171,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+436,Jl. Petruk,,134,0+100,0+133,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+438,Jl. Pisang,,170,0+100,0+170,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+441,Jl. Puntodewo,,568,0+000,0+100,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+442,Jl. Puntodewo,,568,0+100,0+200,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+443,Jl. Puntodewo,,568,0+200,0+300,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+444,Jl. Puntodewo,,568,0+300,0+400,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+445,Jl. Puntodewo,,568,0+500,0+567,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+449,Jl. Rajawali,,312,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+450,Jl. Rajawali,,312,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+451,Jl. Rajawali,,312,0+300,0+311,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+453,Jl. Rajawali Gg.1,,136,0+100,0+136,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+456,Jl. Remaja,,220,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+457,Jl. Remaja,,220,0+200,0+220,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+462,Jl. Rukun,,142,0+100,0+142,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+464,Jl. Sadewo,,175,0+100,0+174,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+466,Jl. Sawung Galing,,392,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+467,Jl. Sawung Galing,,392,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+468,Jl. Sawung Galing,,392,0+300,0+392,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+470,Jl. Selo Barong,,148,0+100,0+148,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+472,Jl. Semar,,108,0+100,0+107,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+474,Jl. Sri Dewi,,106,0+100,0+106,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+476,Jl. Srikandi,,432,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+477,Jl. Srikandi,,432,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+478,Jl. Srikandi,,432,0+200,0+300,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+479,Jl. Srikandi,,432,0+400,0+432,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+481,Jl. Sukodono (RT.11 RW.5),,213,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+482,Jl. Sukodono (RT.11 RW.5),,213,0+200,0+213,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+484,Jl. Sultan Agung,,322,0+000,0+100,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+485,Jl. Sultan Agung,,322,0+100,0+200,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+486,Jl. Sultan Agung,,322,0+300,0+322,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+488,Jl. Tani Jaya,,400,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+489,Jl. Tani Jaya,,400,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+490,Jl. Tani Jaya,,400,0+200,0+300,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+491,Jl. Tani Jaya,,400,0+400,0+400,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+493,Jl. Tani Maju,,349,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+494,Jl. Tani Maju,,349,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+495,Jl. Tani Maju,,349,0+300,0+348,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+497,Jl. Tani Murni,,579,0+000,0+100,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+498,Jl. Tani Murni,,579,0+100,0+200,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+499,Jl. Tani Murni,,579,0+200,0+300,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+500,Jl. Tani Murni,,579,0+300,0+400,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+501,Jl. Tani Murni,,579,0+500,0+578,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+503,Jl. Tani Unggul,,763,0+000,0+100,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+504,Jl. Tani Unggul,,763,0+100,0+200,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+505,Jl. Tani Unggul,,763,0+200,0+300,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+506,Jl. Tani Unggul,,763,0+300,0+400,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+507,Jl. Tani Unggul,,763,0+400,0+500,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+508,Jl. Tani Unggul,,763,0+500,0+600,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+509,Jl. Tani Unggul,,763,0+700,0+763,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+511,Jl. Tomat,,160,0+100,0+159,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+513,Jl. Werkudoro,,139,0+100,0+138,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+515,Jl. Wijaya,,342,0+000,0+100,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+516,Jl. Wijaya,,342,0+100,0+200,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+517,Jl. Wijaya,,342,0+300,0+341,,RB,aspal,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+521,Jl.Antarejo,,1501,0+000,0+100,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+522,Jl.Antarejo,,1501,0+100,0+200,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+523,Jl.Antarejo,,1501,0+200,0+300,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+524,Jl.Antarejo,,1501,0+300,0+400,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+525,Jl.Antarejo,,1501,0+400,0+500,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+526,Jl.Antarejo,,1501,0+500,0+600,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+527,Jl.Antarejo,,1501,0+600,0+700,,RB,makadam,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+528,Jl.Antarejo,,1501,0+700,0+800,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+529,Jl.Antarejo,,1501,0+800,0+900,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+530,Jl.Antarejo,,1501,0+900,1+000,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+531,Jl.Antarejo,,1501,1+000,1+100,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+532,Jl.Antarejo,,1501,1+100,1+200,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+533,Jl.Antarejo,,1501,1+200,1+300,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+534,Jl.Antarejo,,1501,1+300,1+400,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+535,Jl.Antarejo,,1501,1+500,1+500,,RB,lapen,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+537,Jl.Chery,,330,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+538,Jl.Chery,,330,0+100,0+200,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+539,Jl.Chery,,330,0+300,0+329,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+541,Jl.Gang Asem 1,,207,0+000,0+100,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+542,Jl.Gang Asem 1,,207,0+200,0+206,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+544,Jl.Gang Gatot Kaca 1,,198,0+100,0+198,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+546,Jl.Gang Gatot Kaca 2,,118,0+100,0+117,,RB,tanah,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+548,Jl.Gang Gatot Kaca 3,,102,0+100,0+102,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+550,Jl.Gg pisang (RT.3,4 RW.1),,129,0+100,0+128,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+552,Jl.Gg. Kertorejan,,128,0+100,0+127,,RB,beton,5,2023,2022,2023-01-11,pengaspalan,baik,aspal
+555,Jl.Sentiaki,,1086,0+000,0+100,,baik,beton,5,,2022,,,,
+556,Jl.Sentiaki,,1086,0+100,0+200,,baik,beton,5,,2022,,,,
+557,Jl.Sentiaki,,1086,0+200,0+300,,baik,beton,5,,2022,,,,
+558,Jl.Sentiaki,,1086,0+300,0+400,,baik,beton,5,,2022,,,,
+559,Jl.Sentiaki,,1086,0+400,0+500,,baik,beton,5,,2022,,,,
+560,Jl.Sentiaki,,1086,0+500,0+600,,baik,beton,5,,2022,,,,
+561,Jl.Sentiaki,,1086,0+600,0+700,,baik,aspal,5,,2022,,,,
+562,Jl.Sentiaki,,1086,0+700,0+800,,baik,aspal,5,,2022,,,,
+563,Jl.Sentiaki,,1086,0+800,0+900,,baik,aspal,5,,2022,,,,
+564,Jl.Sentiaki,,1086,1+000,1+085,,baik,aspal,5,,2022,,,,

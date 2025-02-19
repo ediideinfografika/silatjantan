@@ -1,0 +1,275 @@
+<?php
+use Drupal\taxonomy\Entity\Term;
+use Drupal\Core\Form\FormBase;
+use Drupal\Core\Form\FormStateInterface;
+use Drupal\Core\Ajax\AjaxResponse;
+use Drupal\Core\Ajax\HtmlCommand;
+use Drupal\Core\Ajax\InvokeCommand;
+use Drupal\Core\Ajax\AlertCommand;
+use Drupal\views\Views;
+use Drupal\Core\Entity\EntityInterface;
+use Drupal\Core\Access\AccessResult;
+use Drupal\node\NodeInterface;
+use Drupal\Core\Session\AccountInterface;
+use Drupal\Core\TempStore\PrivateTempStoreFactory;
+use Drupal\Core\Cache\Cache;
+use GuzzleHttp\Client;
+use GuzzleHttp\Exception\RequestException;
+use \Drupal\node\Entity\Node;
+use Drupal\Core\StreamWrapper\PublicStream;
+use Drupal\Core\Url;
+
+
+/**
+ * Implements hook_menu().
+ */
+function jembatan_menu() {
+  $items = array();
+
+  // Halaman untuk menampilkan data dari tabel kustom.
+  $items['jembatan/view'] = array(
+    'title' => 'View Master Jembatan',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('jembatan_view'),
+    'access arguments' => array('administer site configuration'), // Sesuaikan dengan izin yang sesuai.
+    'type' => MENU_NORMAL_ITEM,
+  );
+
+  // Halaman untuk menambah data baru.
+  $items['jembatan/add'] = array(
+    'title' => 'Add Master Jembatan',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('jembatan_add_edit_form'),
+    'access arguments' => array('administer site configuration'), // Sesuaikan dengan izin yang sesuai.
+    'type' => MENU_NORMAL_ITEM,
+  );
+
+  // Halaman untuk mengedit data berdasarkan ID.
+  $items['jembatan/edit/%'] = array(
+    'title' => 'Edit Master Jembatan',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('jembatan_add_edit_form', 3),
+    'access arguments' => array('administer site configuration'), // Sesuaikan dengan izin yang sesuai.
+    'type' => MENU_NORMAL_ITEM,
+  );
+
+  // Halaman untuk menghapus data berdasarkan ID.
+  $items['jembatan/delete/%'] = array(
+    'title' => 'Delete Master Jembatan',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('jembatan_delete_form', 3),
+    'access arguments' => array('administer site configuration'), // Sesuaikan dengan izin yang sesuai.
+    'type' => MENU_NORMAL_ITEM,
+  );
+
+  return $items;
+}
+
+
+/**
+ * Form untuk membuat atau mengedit data di tabel kustom.
+ */
+function jembatan_form($form, &$form_state, $record = NULL) {
+  $form['no_jembatan'] = array(
+    '#type' => 'textfield',
+    '#title' => t('No Jembatan'),
+    '#required' => TRUE,
+    '#default_value' => isset($record['no_jembatan']) ? $record['no_jembatan'] : '',
+  );
+
+  $form['nama'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Nama'),
+    '#required' => TRUE,
+    '#default_value' => isset($record['nama']) ? $record['nama'] : '',
+  );
+
+$options_kec = array(
+    'Balerejo' => 'Balerejo',
+    'Dagangan' => 'Dagangan',
+    'Dolopo' => 'Dolopo',
+    'Geger' => 'Geger',
+    'Gemarang' => 'Gemarang',
+    'Jiwan' => 'Jiwan',
+    'Kare' => 'Kare',
+    'Kebonsari' => 'Kebonsari',
+    'Madiun' => 'Madiun',
+    'Mejayan' => 'Mejayan',
+    'Pilangkenceng' => 'Pilangkenceng',
+    'Saradan' => 'Saradan',
+    'Sawahan' => 'Sawahan',
+    'Wonoasri' => 'Wonoasri',
+    'Wungu' => 'Wungu',
+  );
+
+  $form['kec'] = array(
+    '#type' => 'select',
+    '#title' => t('Kec'),
+    '#required' => TRUE,
+    '#options' => $options_kec,
+    '#default_value' => isset($record['kec']) ? $record['kec'] : '',
+  );
+
+ $form['panjang'] = array(
+    '#type' => 'number',
+    '#title' => t('Panjang'),
+    '#required' => TRUE,
+    '#default_value' => isset($record['panjang']) ? $record['panjang'] : '',
+    '#step' => 'any', // Memungkinkan pengguna memasukkan angka desimal.
+  );
+  
+  
+ $form['lebar'] = array(
+    '#type' => 'number',
+    '#title' => t('Lebar'),
+    '#required' => TRUE,
+    '#default_value' => isset($record['lebar']) ? $record['lebar'] : '',
+    '#step' => 'any', // Memungkinkan pengguna memasukkan angka desimal.
+  );
+  
+    $ba_tipe_options = array(
+    'Gelagar dan Pelengkung' => 'Gelagar dan Pelengkung',
+    'Gelagar dan Plat' => 'Gelagar dan Plat',
+    'Gelagar Komposit' => 'Gelagar Komposit',
+    'Gelagar Komposit & Plat' => 'Gelagar Komposit & Plat',
+    'Gelagar Komposit dan Gelagar' => 'Gelagar Komposit dan Gelagar',
+    'Gelagar Komposit dan Plat' => 'Gelagar Komposit dan Plat',
+    'Gorong-Gorong Kotak' => 'Gorong-Gorong Kotak',
+    'Gorong-Gorong Pipa' => 'Gorong-Gorong Pipa',
+    'Pelengkung' => 'Pelengkung',
+    'Pelengkung dan Gelagar' => 'Pelengkung dan Gelagar',
+    'Pelengkung dan Gorong-Gorong Kotak' => 'Pelengkung dan Gorong-Gorong Kotak',
+    'Pelengkung dan Plat' => 'Pelengkung dan Plat',
+    'Plat' => 'Plat',
+    'Plat & Gorong-gorong Kotak' => 'Plat & Gorong-gorong Kotak',
+    'Plat dan Gelagar' => 'Plat dan Gelagar',
+    'Plat dan Pelengkung' => 'Plat dan Pelengkung',
+    'Rangka' => 'Rangka',
+    'Rangka & Gelagar' => 'Rangka & Gelagar',
+    'Rangka dan Plat' => 'Rangka dan Plat',
+  );
+
+  $form['ba_tipe'] = array(
+    '#type' => 'select',
+    '#title' => t('BA TIPE'),
+    '#required' => TRUE,
+    '#options' => $ba_tipe_options,
+    '#default_value' => isset($record['ba_tipe']) ? $record['ba_tipe'] : '',
+  );
+  
+  $form['jml_bentang'] = array(
+    '#type' => 'number',
+    '#title' => t('Jml Bentang'),
+    '#required' => TRUE,
+    '#default_value' => isset($record['jml_bentang']) ? $record['jml_bentang'] : '',
+    '#step' => 'any', // Memungkinkan pengguna memasukkan angka desimal.
+  );
+  
+  
+    $form['lat'] = array(
+    '#type' => 'textfield',
+    '#title' => t('lat'),
+    '#required' => TRUE,
+    '#default_value' => isset($record['lat']) ? $record['lat'] : '',
+  );
+  
+    $form['longitude'] = array(
+    '#type' => 'textfield',
+    '#title' => t('longitude'),
+    '#required' => TRUE,
+    '#default_value' => isset($record['longitude']) ? $record['longitude'] : '',
+  );
+
+
+  // Tambahkan field lain sesuai kebutuhan.
+
+  $form['submit'] = array(
+    '#type' => 'submit',
+    '#value' => t('Submit'),
+  );
+
+  return $form;
+}
+
+/**
+ * Callback untuk menampilkan form "Create" atau "Update".
+ */
+function jembatan_add_edit_form($form, &$form_state, $record = NULL) {
+  return drupal_get_form('jembatan_form', $record);
+}
+
+/**
+ * Submit callback untuk form "Create" dan "Update".
+ */
+function jembatan_add_edit_form_submit($form, &$form_state) {
+  $values = $form_state['values'];
+
+  $fields = array(
+    'no_jembatan' => $values['no_jembatan'],
+    'nama' => $values['nama'],
+    'kec' => $values['kec'],
+    'panjang' => $values['panjang'],
+    'lebar' => $values['lebar'],
+    'ba_tipe' => $values['ba_tipe'],
+    'jml_bentang' => $values['jm_bentang'],
+    'lat' => $values['lat'],
+    'longitude' => $values['longitude'],
+    
+    // Tambahkan field lain sesuai kebutuhan.
+  );
+
+  if (empty($values['id'])) {
+    // Create new record.
+    db_insert('master_jembatan')
+      ->fields($fields)
+      ->execute();
+  }
+  else {
+    // Update existing record.
+    db_update('master_jembatan')
+      ->fields($fields)
+      ->condition('id', $values['id'])
+      ->execute();
+  }
+
+  drupal_set_message(t('Data has been saved.'));
+}
+
+/**
+ * Callback untuk menampilkan form "Delete".
+ */
+function jembatan_delete_form($form, &$form_state, $record = NULL) {
+  $form['id'] = array(
+    '#type' => 'value',
+    '#value' => $record['id'],
+  );
+
+  $form['confirm'] = array(
+    '#type' => 'checkbox',
+    '#title' => t('I confirm that I want to delete this data.'),
+    '#required' => TRUE,
+  );
+
+  $form['submit'] = array(
+    '#type' => 'submit',
+    '#value' => t('Delete'),
+  );
+
+  return $form;
+}
+
+/**
+ * Submit callback untuk form "Delete".
+ */
+function jembatan_delete_form_submit($form, &$form_state) {
+  $id = $form_state['values']['id'];
+
+  // Delete record.
+  db_delete('master_jembatan')
+    ->condition('id', $id)
+    ->execute();
+
+  drupal_set_message(t('Data has been deleted.'));
+}
+
+

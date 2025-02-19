@@ -1,0 +1,148 @@
+<?php
+
+/**
+ * @file
+ * API Extension for using Leaflet with GeoJSON.
+ *
+ * It currently just allows to add a bbox strategy.
+ */
+
+use Drupal\views\Views;
+use Drupal\Core\Url;
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_theme().
+ */
+function leaflet_geojson_theme() {
+  return [
+    'leafletgeojson_map' => [
+      'variables' => [
+        'map_id' => NULL,
+        'height' => '400px',
+      ],
+    ],
+  ];
+}
+
+/**
+ * Retrieves the leaflet layer configuration.
+ */
+function leaflet_geojson_source_get_info($source = NULL, $skip_cache = FALSE) {
+  $language = \Drupal::languageManager()->getCurrentLanguage();
+  $lang = $language->getId();
+  if (!$skip_cache) {
+    static $drupal_static_fast;
+    if (!isset($drupal_static_fast)) {
+      $drupal_static_fast['leaflet_geojson_source_info'] = &drupal_static(__FUNCTION__);
+    }
+    $source_info = &$drupal_static_fast['leaflet_geojson_source_info'];
+    if (!isset($source_info[$lang])) {
+      if ($cache = \Drupal::cache()->get("leaflet_geojson_source_info")) {
+        $source_info = $cache->data;
+      }
+    }
+  }
+
+  if (empty($source_info[$lang])) {
+    $options = array('language' => $language);
+    $source_info_lang = Drupal::moduleHandler()->invokeAll('leaflet_geojson_source_info', $options);
+
+    // Let other modules alter the source info.
+    Drupal::moduleHandler()->alter('leaflet_geojson_source_info', $source_info_lang);
+
+    $source_info[$lang] = $source_info_lang;
+    \Drupal::cache()->set("leaflet_geojson_source_info", $source_info);
+  }
+
+  if (empty($source)) {
+    return $source_info[$lang];
+  }
+  elseif (isset($source_info[$lang][$source])) {
+    return $source_info[$lang][$source];
+  }
+}
+
+/**
+ * Implements hook_leaflet_geojson_source_info().
+ */
+function leaflet_geojson_leaflet_geojson_source_info($language) {
+  $sources = [];
+  $views = Views::getEnabledViews();
+  foreach ($views as $view) {
+
+    foreach ($view->get('display') as $display_name => $display) {
+
+      // Make GeoJSON sources from the views_geojson module.
+      if ($display['display_plugin'] == 'geojson_export') {
+
+        $display_title = '(' . $display_name . ')';
+
+        if (!empty($display['display_title'])) {
+          $display_title = $display['display_title'] . ' ' . $display_title;
+        }
+        $title = $view->label() . ' - ' . $display_title;
+
+        $source = [
+          'id' => $view->get('id') . '_' . $display_name,
+          'title' => $title,
+          'type' => 'views_geojson',
+          'url' => Url::fromRoute('view.' . $view->id() . '.' . $display_name, array(), array('language' => $language))->toString(),
+        ];
+
+        // Determine if we should use a BBox strategy.
+        $arguments = isset($display['display_options']['arguments']) ? $display['display_options']['arguments'] : NULL;
+
+        // If null, it means we are using the default view's arguments.
+        if (is_null($arguments)) {
+          $defaultDisplay = $view->getDisplay('default');
+          $arguments = $defaultDisplay['display_options']['arguments'];
+        }
+
+        if (isset($arguments['bbox_argument']) && $arguments['bbox_argument']['default_argument_type'] == 'bboxquery') {
+          $source['bbox'] = TRUE;
+          if (isset($arguments['bbox_argument']['default_argument_options'])) {
+            $source['bbox_arg_id'] = $arguments['bbox_argument']['default_argument_options']['arg_id'];
+          }
+        }
+
+        // Custom views_geojson attributes.
+        $source['view'] = $view->get('id');
+        $source['view_display'] = $display;
+
+        $sources[$source['id']] = $source;
+      }
+    }
+  }
+  return $sources;
+}
+
+/**
+ * Helper function to add another views_geojson layer to the map data.
+ */
+function leaflet_geojson_map_pane_add_layer($form, &$form_state) {
+  // Increment the count and force a rebuild.
+  $form_state->set('layer_count', $form_state->get('layer_count') + 1);
+  $form_state->setRebuild();
+}
+
+/**
+ * Helper function to remove the last views_geojson layer from the map.
+ */
+function leaflet_geojson_map_pane_remove_last_layer($form, &$form_state) {
+  // Decrement the count and force a rebuild.
+  $form_state->set('layer_count', $form_state->get('layer_count') - 1);
+  $form_state->setRebuild();
+}
+
+/**
+ * Implements hook_help().
+ */
+function leaflet_geojson_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    case 'help.page.leaflet_geojson':
+      $text = file_get_contents(__DIR__ . '/README.txt');
+      return $text;
+  }
+  return NULL;
+}

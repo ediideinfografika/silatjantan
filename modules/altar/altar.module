@@ -1,0 +1,718 @@
+<?php
+use Drupal\taxonomy\Entity\Term;
+use Drupal\Core\Form\FormBase;
+use Drupal\Core\Form\FormStateInterface;
+use Drupal\Core\Ajax\AjaxResponse;
+use Drupal\Core\Ajax\HtmlCommand;
+use Drupal\Core\Ajax\InvokeCommand;
+use Drupal\Core\Ajax\AlertCommand;
+use Drupal\views\Views;
+use Drupal\Core\Entity\EntityInterface;
+use Drupal\Core\Access\AccessResult;
+use Drupal\node\NodeInterface;
+use Drupal\Core\Session\AccountInterface;
+use Drupal\Core\TempStore\PrivateTempStoreFactory;
+use Drupal\Core\Cache\Cache;
+use GuzzleHttp\Client;
+use GuzzleHttp\Exception\RequestException;
+use \Drupal\node\Entity\Node;
+use Drupal\Core\StreamWrapper\PublicStream;
+use Drupal\Core\Url;
+use Drupal\Core\Database\Database;
+
+
+
+function altar_preprocess_page(&$variables) {
+ $route_match = \Drupal::routeMatch();
+ $current_route = $route_match->getRouteName();
+ $current_path = \Drupal::service('path.current')->getPath();
+ $variables['curpath']=  $current_path;
+ if ($current_path=="/node/add/pelaporan" or $current_path=="/mobile/dashboard" )
+ {$variables['asolole']=$current_path;
+
+	$jalankab = file_get_contents("./sites/default/files/jalan.geojson");
+	$variables['jalankab']= $jalankab;
+	$jalnas = file_get_contents("./sites/default/files/JALAN_NASIONAL_MADIUN.geojson");
+	$karak = file_get_contents("./sites/default/files/Revisi_Karakteristik_Jalan.geojson");
+	$strJsonFileContents = file_get_contents("./sites/default/files/Revisi_Rekapitulasi_Fix.geojson");
+	$kab = file_get_contents("./sites/default/files/Kab_Madiun_Polyline.geojson");
+	$variables['gejson']= $strJsonFileContents;
+		  $variables['jalnas']= $jalnas;
+		  $variables['karak']= $karak;
+		  $variables['kab']= $kab;
+		  
+}
+
+
+	
+}
+
+function altar_preprocess_node(&$variables)
+{
+
+	$nid = $variables['node']->get('nid')->value;
+	 $variables['nid']=$nid;
+	 if ($variables['node']->getType() == 'pelaporan')
+	 {
+		$longlat=$variables['node']->get('field_lokasi')->value;
+		$variables['longlat'] =$longlat;	
+	 }
+
+	 if ($variables['node']->getType() == 'penutupan_jalan')
+	 {
+		$akhirlat=$variables['node']->get('field_titik_tutup_akhir')->lat;
+		$akhirlon=$variables['node']->get('field_titik_tutup_akhir')->lon;
+		$awallat=$variables['node']->get('field_data_peta')->lat;
+		$awallon=$variables['node']->get('field_data_peta')->lon;
+		$variables['jenispenutupan']=$variables['node']->get('field_jenis_penutupan')->value;
+		$variables['field_keterangan']=$variables['node']->get('field_keterangan')->value;
+		$variables['field_rentang_waktu']=$variables['node']->get('field_rentang_waktu')->value;
+		$variables['akhirlat'] =$akhirlat;	
+		$variables['akhirlon'] =$akhirlon;	
+		$variables['awallat'] =$awallat;	
+		$variables['awallon'] =$awallon;	
+	 }
+
+
+
+	 if ($variables['node']->getType() == 'data_jembatan')
+	 {
+	   $database = \Drupal::database();
+
+  // Melakukan query SQL
+  $query = $database->select('master_jembatan', 'mj');
+  $query->fields('mj');
+  $query->leftJoin('kondisi_jembatan', 'kj', 'mj.id = kj.id_jem');
+  $query->leftJoin('m_kon_jem', 'mkj', 'kj.kondisi = mkj.kode');
+  $query->fields('mkj', ['nama_kondisi']);
+  $query->fields('kj', ['kondisi']);
+   $result = $query->execute();
+  // Menginisialisasi array untuk menyimpan fitur GeoJSON
+
+  // Inisialisasi array untuk menyimpan fitur GeoJSON
+  $geojson = [
+    'type' => 'FeatureCollection',
+    'features' => [],
+  ];
+
+  // Iterasi hasil query
+  foreach ($result as $row) {
+    // Bangun objek fitur GeoJSON untuk setiap baris hasil
+    $feature = [
+      'type' => 'Feature',
+       'geometry' => [
+        'type' => 'Point',
+        'coordinates' => [ floatval($row->longitude),-floatval($row->lat)],
+      ],
+      'properties' => [
+      'id' => $row->id, 
+      'nama_jem' => $row->nama, 
+      'kec' => $row->kec, 
+      'panjang' => $row->panjang,
+      'lebar' => $row->lebar,
+      'jml_bentang' => $row->jml_bentang,
+      'ba_tipe' => $row->ba_tipe,
+      'lat' => $row->lat, 
+      'long' => $row->longitude, 
+      'kondisi' => $row->nama_kondisi, 
+      'k_kondisi' => $row->kondisi,
+      ],
+    ];
+
+    // Tambahkan fitur ke array features
+    $geojson['features'][] = $feature;
+  }
+
+  // Convert array GeoJSON ke format JSON
+  $geojson_json = json_encode($geojson);
+
+  // Tambahkan ke variabel twig
+  $variables['geojsonx'] = $geojson_json;
+  
+			
+	 }
+
+	 if ($variables['node']->getType() == 'import_data_')
+	 {
+		$filexim=$variables['node']->get('field_file_impo')->entity->getFileUri();
+		$variables['fileimport'] =\Drupal::service('file_url_generator')->generateString($filexim); 
+	
+		$jenis =$variables['node']->get('field_jenis_import')->value;
+
+		if ($jenis=='Status Jalan Kabupaten')
+		{
+			$variables['tilex'] ='Jalan_kabupaten_100m-2lldiz';
+			$variables['mapboxid'] ='robait.ad73so7a';
+			$variables['jenis'] ='kab';
+			$variables['promoteid'] ='No';
+			$variables['idx'] ='row.No';
+		}
+		elseif($jenis=='Status Jalan Perkotaan'){
+			$variables['tilex'] ='Jl_Perkotaan_Kab_Madiun-7jmjj6';
+			$variables['mapboxid'] ='robait.98m6y755';
+			$variables['jenis'] ='kota';
+			$variables['promoteid'] ='Name';
+			$variables['idx'] ='row.Name';
+		}
+		elseif($jenis=='Status Jalan Kelurahan'){
+			$variables['tilex'] ='Jalan_Kelurahan_2-2g2us7';
+			$variables['mapboxid'] ='robait.5cb850nw';
+			$variables['jenis'] ='kel';
+			$variables['promoteid'] ='Name';
+			$variables['idx'] ='row.Name';
+		}
+		else{
+			$variables['tilex'] ='Jalan_Poros_Sesuai_SK-1j36uv';
+			$variables['mapboxid'] ='robait.9nvpelby';
+			$variables['jenis'] ='kel';
+			$variables['promoteid'] ='NO';
+			$variables['idx'] ='row.NO';
+		
+			
+		}
+		
+	 }
+
+		if ($variables['node']->getType() == 'detail_kondisi_jalan' or  $variables['node']->getType() == 'pelaporan' or  $variables['node']->getType() == 'penutupan_jalan')
+		{
+			$variables['#cache']['max-age'] = 0;
+			$client = \Drupal::httpClient();
+			$tahun = \Drupal::request()->query->get('tahun');  
+			$variables['th']=$tahun;
+			$url='https://silatjantan.dpupr.madiunkab.go.id/api-datakondisi/'.$tahun;
+			$responsex = $client->request('GET', $url);
+			$string =$responsex->getBody()->getContents();
+			$string = str_replace("\n", "", $string);
+			$string = str_replace("\r", "", $string);
+			$variables['sambel']=$string;
+			if ($variables['node']->getType() == 'detail_kondisi_jalan'){
+				$variables['jenis'] =$variables['node']->get('field_jenis_peta')->value;
+			}
+			else if ($variables['node']->getType() == 'penutupan_jalan'){
+				$variables['jenis'] ='1';
+				$variables['markers'] =$variables['node']->get('field_data_peta')->view();
+			}
+			else{
+				$variables['jenis'] ='2';
+				$variables['longlat'] =$variables['node']->get('field_lokasi')->getValue();
+			}
+			
+			
+		$strJsonFileContents = file_get_contents("./sites/default/files/Revisi_Rekapitulasi_Fix.geojson");
+		$jalnas = file_get_contents("./sites/default/files/JALAN_NASIONAL_MADIUN.geojson");
+		$sungai = file_get_contents("./sites/default/files/Sungai_KabMadiun.geojson");
+		$perkerasan = file_get_contents("./sites/default/files/Perkerasan_Jalan.geojson");
+		$jembatan = file_get_contents("./sites/default/files/Revisi_Jembatan.geojson");
+		$jalankab = file_get_contents("./sites/default/files/jalan.geojson");
+		$karak = file_get_contents("./sites/default/files/Revisi_Karakteristik_Jalan.geojson");
+		$kab = file_get_contents("./sites/default/files/Kab_Madiun_Polyline.geojson");
+			  $variables['gejson']= $strJsonFileContents;
+			  $variables['jalnas']= $jalnas;
+			  $variables['sungai']= $sungai;
+			  $variables['perkerasan']= $perkerasan;
+			  $variables['jembatan']= $jembatan;
+			  $variables['jalankab']= $jalankab;
+			  $variables['karak']= $karak;
+			  $variables['kab']= $kab;
+	 
+	
+
+	 }
+
+
+
+	 
+	}
+
+
+
+
+function altar_entity_update(EntityInterface $entity) {
+  // Pastikan entitas yang diupdate adalah dari tipe yang diinginkan (misalnya content type).
+  $content_type = $entity->bundle();
+  	if  ($content_type == 'jembatan') {
+
+    // Dapatkan nilai dari setiap field.
+    $no_jembatan = $entity->get('field_no_jembatan')->value;
+    $nama = $entity->get('field_nama_jembatan')->value;
+    $kec = $entity->get('field_kec')->value;
+    $panjang = $entity->get('field_panjang')->value;
+    $lebar = $entity->get('field_lebar')->value;
+    $ba_tipe = $entity->get('field_ba_tipe')->value;
+    $jml_bentang = $entity->get('field_jml_bentang')->value;
+
+    // Dapatkan koordinat geolokasi.
+    $location = $entity->get('field_lokasi_pelaporan')->first()->getValue();
+    $lat = $location['lat'];
+    $longitude = $location['lng'];
+
+    // Dapatkan Node ID (nid).
+    $nid = $entity->id();
+
+    // Update data dalam tabel kustom berdasarkan Node ID.
+    $database = Database::getConnection();
+    $database->update('master_jembatan')
+      ->fields([
+        'no_jembatan' => $no_jembatan,
+        'nama' => $nama,
+        'kec' => $kec,
+        'panjang' => $panjang,
+        'lebar' => $lebar,
+        'ba_tipe' => $ba_tipe,
+        'jml_bentang' => $jml_bentang,
+        'lat' => $lat,
+        'longitude' => $longitude,
+      ])
+      ->condition('nid', $nid)
+      ->execute();
+  }
+}
+
+
+
+	function altar_entity_delete(Drupal\Core\Entity\EntityInterface $entity) {
+	    $content_type = $entity->bundle();
+		if ($entity->getEntityTypeId() == 'node' && $entity->getType() == 'import_data_') {
+			$tahun=$entity->get('field_tahun_ref')->referencedEntities()[0]->label();
+			$client = \Drupal::httpClient();
+			$jenis=$entity->get('field_jenis_newimport')->value;
+			$filexname=$entity->get('field_file_impo')->entity->getFilename();
+			$url='https://silatjantan.dpupr.madiunkab.go.id/importdb.php?jenis='.$jenis.'&urlx='.$filexname.'&url='.$tahun.'&tipe=delete';
+			//vardumper($url);
+			$responsex = $client->request('GET', $url);
+
+		   
+		}
+		elseif($entity->getEntityTypeId() == 'node' && $entity->getType() == 'import_data_bulanan') {
+
+			$nid = $entity->get('nid')->value;
+				$client = \Drupal::httpClient();
+				$jenis=$entity->get('field_jenis_newimport')->value;
+				$filexname=$entity->get('field_file_impo')->entity->getFilename();
+				$filexparent=$entity->get('field_data_master')->entity->get('field_file_impo')->entity->getFilename(); 	
+				$url='https://silatjantan.dpupr.madiunkab.go.id/importdb.php?jenis='.$jenis.'&urlx='.$filexname.'&url='.$tahun.'&tipe=deletebulanan'.'&nid='.$nid.'&filexparent='.$filexparent;
+		
+				$responsex = $client->request('GET', $url);
+		   
+			
+
+		}
+		else{
+
+		}
+		
+		if  ($content_type == 'data_jembatan') {
+		    	$nid = $entity->get('nid')->value;
+		    	deleteRowFromKondisiJembatan($nid);
+		}
+		
+		
+		if  ($content_type == 'jembatan') {
+		    	$nid = $entity->get('nid')->value;
+		    	 $database = Database::getConnection();
+                    $database->delete('master_jembatan')
+                      ->condition('nid', $nid)
+                      ->execute();
+                      
+                        // Reset auto-increment value setelah menghapus baris.
+                $database->query('ALTER TABLE {master_jembatan} AUTO_INCREMENT = 1');
+		}
+	  }
+	  
+	  
+	function deleteRowFromKondisiJembatan($nid) {
+  $database = \Drupal::database();
+
+  // Hapus baris dari tabel kondisi_jembatan berdasarkan nid.
+  $database->delete('kondisi_jembatan')
+    ->condition('nid', $nid)
+    ->execute();
+}
+
+
+
+	  function altar_entity_insert(Drupal\Core\Entity\EntityInterface $entity) {
+$content_type = $entity->bundle();
+
+
+		if ($entity->getEntityTypeId() == 'node' && $entity->getType() == 'import_data_bulanan') {
+		
+				//vardumper($entity->getType());
+				$nid = $entity->get('nid')->value;
+				$filexname=$entity->get('field_file_impo')->entity->getFilename(); 	
+				$filexparent=$entity->get('field_data_master')->entity->get('field_file_impo')->entity->getFilename(); 	
+				$tahun=$entity->get('field_data_master')->entity->get('field_tahun_ref')->referencedEntities()[0]->label();
+				$jenis=$entity->get('field_data_master')->entity->get('field_jenis_newimport')->value;
+				$tanggal=$entity->get('field_tanggal')->value;
+				$client = \Drupal::httpClient();
+				$url='https://silatjantan.dpupr.madiunkab.go.id/importdb.php?jenis='.$jenis.'&urlx='.$filexname.'&tahun='.$tahun.'&tanggal='.$tanggal.'&tipe=update&filexparent='.$filexparent.'&nid='.$nid;
+				//vardumper($url);
+			$responsex = $client->request('GET', $url);
+			
+			
+			
+		}
+		if  ($content_type == 'data_jembatan') {
+		    	$nid = $entity->get('nid')->value;
+    // Get the CSV file URL from the field_file_impo field.
+    $file_field = $entity->get('field_file_impo')->entity;
+     $tahun_reference = $entity->get('field_tahun_import_jemb')->entity;
+      $tahun_import_jemb = $tahun_reference->getTitle();
+
+    if (!empty($file_field) && $file_field->getFileUri()) {
+      // Get the real path of the file.
+      $file_path = \Drupal::service('file_system')->realpath($file_field->getFileUri());
+
+      // Call the import function with the CSV file path.
+      importDataFromCSV($file_path, $tahun_import_jemb, $nid);
+    }
+  }
+  
+  if($content_type == 'jembatan'){
+
+    // Ambil nilai dari setiap field.
+    $no_jembatan = $entity->get('field_no_jembatan')->value;
+    $nama = $entity->get('field_nama_jembatan')->value;
+    $kec = $entity->get('field_kec')->value;
+    $panjang = $entity->get('field_panjang')->value;
+    $lebar = $entity->get('field_lebar')->value;
+    $ba_tipe = $entity->get('field_ba_tipe')->value;
+    $jml_bentang = $entity->get('field_jml_bentang')->value;
+
+    // Ambil nilai koordinat geolokasi.
+    $location = $entity->get('field_lokasi_pelaporan')->first()->getValue();
+    $lat = $location['lat'];
+    $longitude = $location['lng'];
+     $nid = $entity->id();
+
+    // Masukkan data ke dalam tabel kustom.
+    $database = Database::getConnection();
+    $database->insert('master_jembatan')
+      ->fields([
+        'no_jembatan' => $no_jembatan,
+        'nama' => $nama,
+        'kec' => $kec,
+        'panjang' => $panjang,
+        'lebar' => $lebar,
+        'ba_tipe' => $ba_tipe,
+        'jml_bentang' => $jml_bentang,
+        'lat' => $lat,
+        'longitude' => $longitude,
+        'nid' => $nid,
+      ])
+      ->execute();
+      
+  }
+ 
+}
+
+
+/**
+ * Import data from CSV file and update kondisi_jembatan table.
+ *
+ * @param string $file_path
+ *   The path to the CSV file.
+ */
+ 
+function importDataFromCSV($file_path,$tahun, $nid) {
+  $koneksi = \Drupal::database();
+
+  $file = fopen($file_path, "r");
+
+  // Baca header file CSV
+  $header = fgetcsv($file);
+
+  // Fungsi untuk mendapatkan id_jembatan berdasarkan no_jembatan
+  function getIdJembatan($id_jembatan) {
+    $query = \Drupal::database()->select('master_jembatan', 'mj')
+      ->fields('mj', ['id'])
+      ->condition('mj.id', $id_jembatan)
+      ->execute();
+    $result = $query->fetchAssoc();
+    return !empty($result['id']) ? $result['id'] : null;
+  }
+
+  while (($data = fgetcsv($file)) !== false) {
+    $idx = $data[0];
+    $kondisi = $data[10];
+
+    // Dapatkan id_jembatan dari tabel master_jembatan
+    $id_jembatan = getIdJembatan($idx);
+
+    if ($id_jembatan !== null) {
+      // Insert data ke tabel kondisi_jembatan
+      $koneksi->insert('kondisi_jembatan')
+        ->fields([
+          'id_jem' => $id_jembatan,
+          'kondisi' => $kondisi,
+          'tahun' => $tahun,
+          'nid' => $nid,
+        ])
+        ->execute();
+    } else {
+      // Jembatan tidak ditemukan, tambahkan penanganan atau log sesuai kebutuhan
+      \Drupal::logger('altar')->error("Jembatan dengan nomor $no_jembatan tidak ditemukan.");
+    }
+  }
+
+  fclose($file);
+}
+
+
+
+
+function altar_entity_presave(Drupal\Core\Entity\EntityInterface $entity) {
+	$id = $entity->id();
+	//vardumper($entity->getType());
+	if ($entity->getEntityTypeId() == 'node' && $entity->getType() == 'import_data_') {
+		if ($entity->isNew()) {
+			$filexname=$entity->get('field_file_impo')->entity->getFilename();
+			$tahun=$entity->get('field_tahun_ref')->referencedEntities()[0]->label();
+			$jenis=$entity->get('field_jenis_newimport')->value;
+			//$jenis=$entity->field_jenis_newimport->getSetting('allowed_values')[$entity->field_jenis_newimport->value];
+			$client = \Drupal::httpClient();
+			$url='https://silatjantan.dpupr.madiunkab.go.id/importdb.php?jenis='.$jenis.'&urlx='.$filexname.'&tahun='.$tahun.'&tipe=insert';
+			//vardumper($url);
+			$responsex = $client->request('GET', $url);
+		  }
+		
+		
+	}
+
+	
+
+
+	if ($entity->getEntityTypeId() == 'node' && $entity->getType() == 'pelaporan') {
+			  $current_user = \Drupal::currentUser();
+			
+			  $roles = $current_user->getRoles();
+			  $rolex = end($roles);
+			
+			  $owner = $entity->getOwner();
+			  $email = $owner->getEmail();
+			  $nohp = $owner->get('field_nomor_whatsapp')->value;
+			  $nm_pemohon = $owner->getDisplayName();
+			  $kec=$entity->get('field_kecamatan')->value;
+			   $keluhan=$entity->get('body')->value;
+			   $nama_ruas=$entity->get('field_nama_ruas')->value;
+			   $sta_awal=$entity->get('field_sta_awal')->value;
+			  $akhir=$entity->get('field_sta_awal')->value;
+
+			  if ($entity->isNew()) {
+				if ( $rolex =="umum"){
+		 
+								 
+					 $pesan="[Pesan otomatis SILATJANTAN]
+					 ----------------------------------
+					 Terima Kasih Sdr/Sdri ".$nm_pemohon."
+					 telah menggunakan Aplikasi SilatJantan
+					 Laporan anda akan segera di tindaklanjuti.";
+						 
+						 if($nohp!=""){
+						 $kirim=sendwa($nohp,$pesan);
+						 }
+						 
+						 $client = \Drupal::httpClient();
+						 $url='https://silatjantan.dpupr.madiunkab.go.id/api-verifikator';
+						 $responsex = $client->request('GET', $url);
+						 $respony = json_decode($responsex->getBody());
+	 
+	 
+$pesan2="[Kring Kring] 
+----------------------------------
+Laporan masuk dari ".$nm_pemohon."  melalui Apps Silat Jantan
+Lakukan Verikasi klik Link dibawah ini.
+https://silatjantan.page.link/mobile ";
+
+
+$pesan3="[Kring Kring] 
+----------------------------------
+Laporan masuk dari ".$nm_pemohon."  melalui Apps Silat Jantan
+Rincian Laporan.
+Ruas :".$nama_ruas .", Kec :".$kec."
+Keluhan : ".$keluhan;
+
+
+
+
+						 
+					 foreach ($respony as $user) {
+						 $kirim=sendwa($user->nowa,$pesan2);
+					 }
+	                 
+	                 $kirim=sendwa('08125940867',$pesan3);
+	                 $kirim=sendwa('081331866332',$pesan3);
+					   
+				   }
+			  }
+  
+			 
+			  else{
+				$statusx= $entity->get('field_status_laporan')->getString();
+			if($statusx=='2'){
+					$statusy='Ditolak';
+
+								 
+$pesan="[Pesan otomatis SILATJANTAN]
+----------------------------------
+Terima Kasih Sdr/Sdri ".$nm_pemohon."
+telah menggunakan Aplikasi SilatJantan
+Laporan anda Ditolak";
+						
+						if($nohp!=""){
+						$kirim=sendwa($nohp,$pesan);
+						}
+				}
+			elseif ($statusx == '4') {
+				$statusy='Ditindaklanjuti';
+				$field_tanggal_penanganan= $entity->get('field_tanggal_penanganan')->value;
+			
+
+$pesan="[Pesan otomatis SILATJANTAN]
+----------------------------------
+Terima Kasih Sdr/Sdri ".$nm_pemohon."
+telah menggunakan Aplikasi SilatJantan
+Laporan anda telah DITINDAKLANJUTI.
+Cek detail di app Silatjantan di menu Pelaporan
+atau klik icon 📢
+";
+
+				
+						
+						if($nohp!=""){
+						$kirim=sendwa($nohp,$pesan);
+						}
+
+			}
+				else{
+					$statusy='Dikonfirmasi';
+
+$pesan="[Pesan otomatis SILATJANTAN]
+----------------------------------
+Terima Kasih Sdr/Sdri ".$nm_pemohon."
+telah menggunakan Aplikasi SilatJantan
+Laporan anda telah diKonfirmasi.";
+						
+						if($nohp!=""){
+						$kirim=sendwa($nohp,$pesan);
+						}
+						
+
+
+				}
+		
+
+			  				
+$pesan="[Pesan otomatis SILATJANTAN]
+----------------------------------
+ID Laporan Anda : ".$id.".
+Terimakasih atas partisipasi
+anda melakukan pelaporan.
+Status laporan anda menjadi
+Status: ".$statusy;
+					
+					if($nohp!=""){
+					$kirim=sendwa($nohp,$pesan);
+					}
+					
+
+
+
+
+
+			}
+
+		
+
+
+
+
+			 
+	}
+}
+
+
+
+// function altar_entity_update(Drupal\Core\Entity\EntityInterface $entity) {
+
+// 	$id = $entity->id();
+// 	if ($entity->getEntityTypeId() == 'node' && $entity->getType() == 'pelaporan') {
+			 
+			 
+// 	}
+
+// 	if ($entity->getEntityTypeId() == 'node' && $entity->getType() == 'data_kondisi_jalan') 
+// 	{
+// 		drupal_flush_all_caches();
+// 	}
+
+
+
+// }
+
+
+
+
+
+
+function sendwa($nohp,$pesan){
+    $nox=konversiNomor($nohp);
+    $curl = curl_init();
+
+curl_setopt_array($curl, array(
+  CURLOPT_URL => 'https://chatbot.ediide.com/api/create-message',
+  CURLOPT_RETURNTRANSFER => true,
+  CURLOPT_ENCODING => '',
+  CURLOPT_MAXREDIRS => 10,
+  CURLOPT_TIMEOUT => 0,
+  CURLOPT_FOLLOWLOCATION => true,
+  CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+  CURLOPT_CUSTOMREQUEST => 'POST',
+  CURLOPT_POSTFIELDS => array(
+  'appkey' => 'c06ca7b1-262f-4e11-a5a8-3b2ea3d46bbd',
+  'authkey' => 'brK6ZuuIMFmSWY8hGS85vxx6zjUPHFx36sIiSlb1HJT7yS2wuw',
+  'to' => $nox,
+  'message' => $pesan,
+  'sandbox' => 'false'
+  ),
+));
+
+$response = curl_exec($curl);
+
+
+curl_close($curl);
+//echo $response;
+
+return true;
+
+
+}
+
+
+
+function konversiNomor($nomor) {
+    // Hapus semua karakter selain angka
+    $nomor = preg_replace('/[^0-9]/', '', $nomor);
+
+    // Periksa apakah nomor dimulai dengan angka 0
+    if (substr($nomor, 0, 1) == '0') {
+        // Jika dimulai dengan angka 0, ganti dengan 62
+        $nomor = '62' . substr($nomor, 1);
+    }
+
+    return $nomor;
+}
+
+
+
+function altar_form_alter(&$form, &$form_state, $form_id) {
+  if ($form_id == 'user_register_form') {
+    $form['actions']['submit']['#value'] = t('Sign Up');
+  }
+}
+
+
+
+
+
+

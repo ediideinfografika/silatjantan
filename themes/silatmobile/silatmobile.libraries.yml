@@ -1,0 +1,14 @@
+global-style:
+  version: 1.x
+  css:
+    theme:
+       assets/css/style.css: {}
+    
+  js:
+    assets/js/lib/bootstrap.bundle.min.js: {} 
+    assets/js/plugins/splide/splide.min.js: {}
+    assets/js/base.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.once
+

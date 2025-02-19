@@ -1,0 +1,160 @@
+{#
+/**
+ * @file
+ * Theme override to display a region.
+ *
+ * Available variables:
+ * - content: The content for this region, typically blocks.
+ * - attributes: HTML attributes for the region div.
+ * - region: The name of the region variable as defined in the theme's
+ *   .info.yml file.
+ *
+ * @see template_preprocess_region()
+ */
+#}
+{%
+  set classes = [
+    'region',
+    'region-' ~ region|clean_class,
+  ]
+%}
+
+ {% set rolex= drupal_token('current-user:roles:last') %}
+
+ <div class="appBottomMenu bg-primary text-light">
+        <a href="/mobile/dashboard" class="item">
+            <div class="col">
+                <ion-icon name="home-outline"></ion-icon>
+                <strong>Beranda</strong>
+            </div>
+        </a>
+         <a href="#" class="item" onclick="submitResult(event)">
+            <div class="col">
+                <ion-icon name="map-outline"></ion-icon>
+                <strong>Data & Peta</strong>
+            </div>
+        </a>
+
+        {% if rolex== 'umum'%}
+            <a href="/mobile/laporan-saya" class="item">
+                    <div class="col">
+                        <div class="action-button large">
+                            <ion-icon name="megaphone-outline" role="img" class="md hydrated" aria-label="arrow up outline" style="color: #051174 !important;"></ion-icon>
+                        </div>
+                    </div>
+                </a>
+
+             {% elseif rolex== 'pejabat'%}
+            <a href="/mobile/list-pelaporan" class="item">
+                    <div class="col">
+                        <div class="action-button large" style="    background: #8ad315;">
+                            <ion-icon name="layers-outline" role="img" class="md hydrated" aria-label="arrow up outline" style="color: #051174 !important;"></ion-icon>
+                        </div>
+                    </div>
+                </a>
+{% else %}
+      <a href="/mobile/verifikasi-pelaporan" class="item">
+                    <div class="col">
+                        <div class="action-button large" style="   background: #ff0707;">
+                            <ion-icon name="file-tray-full-outline" role="img" class="md hydrated" aria-label="arrow up outline" style="color: #fff !important;"></ion-icon>
+                        </div>
+                    </div>
+                </a>
+{% endif %}
+
+
+ 
+
+
+        <a href="/mobile/panduan" class="item">
+            <div class="col">
+                <ion-icon name="help-circle-outline"></ion-icon>
+                <strong>Panduan</strong>
+            </div>
+        </a>
+  {% if logged_in %}
+     <a href="/user" class="item">
+            <div class="col">
+                <ion-icon name="person-circle-outline"></ion-icon>
+                <strong>User</strong>
+            </div>
+        </a>
+{% else %}
+         <a href="/user" class="item">
+            <div class="col">
+                <ion-icon name="log-in-outline"></ion-icon>
+                <strong>Login</strong>
+            </div>
+        </a>
+	
+     {% endif %}  
+
+       
+
+
+    </div>
+
+
+    <script>
+    function submitResult(e) {
+    e.preventDefault();
+    Swal.fire({
+        title: 'Menu Peta',
+         html:
+    '<div class="wallet-card" style="margin: -22px -37px 0;padding: 20px 34px;">'+          
+              '<div class="wallet-footer">'+
+                   '<div class="item">'+
+                       '<a href="/mobile/new-karakteristik">'+
+                           '<div class="icon-wrapper">'+
+                             '<img src="/sites/default/files/icon/destination.png">'+
+                           '</div>'+
+                           '<strong>Karakteristik Jalan</strong>'+
+                       '</a>'+
+                   '</div>'+
+                   '<div class="item">'+
+                       '<a href="/mobile/new-kondisi-jalan">'+
+                            '<div class="icon-wrapper">'+
+                             '<img src="/sites/default/files/icon/road.png">'+
+                           '</div>'+
+                           '<strong>Kondisi Jalan</strong>'+
+                       '</a>'+
+                   '</div>'+                                     
+
+               '</div>'+
+
+               '<div class="wallet-footer">'+
+                   '<div class="item">'+
+                       '<a href="/mobile/new-perkerasan-jalan">'+
+                           '<div class="icon-wrapper">'+
+                             '<img src="/sites/default/files/icon/sepur.png">'+
+                           '</div>'+
+                           '<strong>Perkerasan Jalan</strong>'+
+                       '</a>'+
+                   '</div>'+
+                      '<div class="item">'+
+                       '<a href="/mobile/new-kondisi-jembatan">'+
+                            '<div class="icon-wrapper">'+
+                             '<img src="/sites/default/files/icon/bridge.png">'+
+                           '</div>'+
+                           '<strong>Kondisi Jembatan</strong>'+
+                       '</a>'+
+                   '</div>'+
+
+                    
+                   '<div class="item">'+
+                       '<a href="/mobile/tentang">'+
+                            '<div class="icon-wrapper">'+
+                             '<img src="/sites/default/files/icon/booking.png">'+
+                           '</div>'+
+                           '<strong>Tentang</strong>'+
+                       '</a>'+
+                   '</div>'+
+
+                    
+
+               '</div>'+
+               
+           '</div>',
+    })
+}
+    </script>

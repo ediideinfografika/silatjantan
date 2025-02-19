@@ -1,0 +1,450 @@
+{%
+  set classes = [
+    'node',
+    'node--type-' ~ node.bundle|clean_class,
+    node.isPromoted() ? 'node--promoted',
+    node.isSticky() ? 'node--sticky',
+    not node.isPublished() ? 'node--unpublished',
+    view_mode ? 'node--view-mode-' ~ view_mode|clean_class,
+    'clearfix',
+  ]
+%}
+<style>
+
+
+/*Legend specific*/
+.legend {
+  padding: 6px 8px;
+  font: 14px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  /*box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);*/
+  /*border-radius: 5px;*/
+  line-height: 24px;
+  color: #555;
+}
+.legend h4 {
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 12px 8px;
+  color: #777;
+}
+
+.legend span {
+  position: relative;
+  bottom: 3px;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin: 0 8px 0 0;
+  opacity: 1;
+}
+
+.legend i.icon {
+  background-size: 18px;
+  background-color: rgba(255, 255, 255, 1);
+}
+body { margin: 0; padding: 0; }
+#map { position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%; }
+html, body, #map {
+        height: 100% !important;
+        width: 100% !important;
+    }
+    canvas, img, video {
+    max-width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+</style>
+
+
+  <script   src="https://code.jquery.com/jquery-3.6.0.min.js"   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="   crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/leaflet@1.3.0/dist/leaflet.js">
+     <script src="https://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
+     <script src="./modules/contrib/leaflet/js/leaflet-search.js?v=9.5.1"></script>
+     <script src="./modules/contrib/leaflet/js/leaflet.legend.js"></script>
+     <script src="./modules/contrib/leaflet/js/fuse.min.js?v=9.5.1"></script>
+	 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+	 <link rel="stylesheet" href="./modules/contrib/leaflet/js/leaflet-search.css" />
+	 <link rel="stylesheet" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css" />
+	 
+
+ 
+ 
+ 
+<div uk-grid="" class="uk-child-width-1-1@s uk-child-width-1-2@m uk-child-width-1-4@xl uk-grid">
+         
+{% for row in rows %}
+
+<div>
+
+    {{ row.content }}
+ </div>
+
+{% endfor %}
+
+</div>
+
+	
+
+ 
+  <div id="map" >  </div>
+  <br><br>
+
+   {% set filex= "./sites/default/files/jalan.geojson" %}
+
+
+{% if jenis is same as ('1')%}
+ {% set filex= karak |raw %}
+ {% set legendx='<i style="background: yellow"></i><span>Lokal Primer</span><br> <i style="background: #c55a11"></i><span>Kolektor Primer - 4</span>'  %}
+{% elseif jenis is same as ('2')%}
+{% set filex=  gejson |raw %}
+{% set legendx= '<i style="background: green"></i><span>Kondisi B</span><br> <i style="background: yellow"></i><span>Kondisi S</span><br> <i style="background: red"></i><span>Kondisi RR</span><br> <i style="background: #630606"></i><span>Kondisi RB</span><br> <i style="background: #000"></i><span>Jalan Nasional</span>'  %}
+{% elseif jenis is same as ('3')%}
+{% set filex=  perkerasan |raw %}
+{% set legendx= '<i style="background: #2f5597"></i><span>Aspal</span><br> <i style="background: #9dc3e6"></i><span>Beton</span><br> <i style="background: #c55a11"></i><span>Lapen</span><br> <i style="background: #ffff00"></i><span>Makadam</span><br> <i style="background: red"></i><span>Tanah</span><br> <i style="background: #000"></i><span>Jalan Nasional' %}
+{% elseif jenis is same as ('4')%}
+{% set filex=  jembatan |raw %}
+{% set legendx= '<i><img src="./sites/default/files/baik.png"></i> <span>Jembatan Baik</span><br><i><img src="./sites/default/files/j_rr.png"></i> <span>Jembatan RR</span><br> <i><img src="./sites/default/files/j_rs.png"></i> <span>Jembatan RS</span><br><i><img src="./sites/default/files/j_rb.png"></i> <span>Jembatan RB</span><br><i><img src="./sites/default/files/j_kritis.png"></i> <span>Jembatan Kritis</span><br><i><img src="./sites/default/files/runtuh.png"></i> <span>Jembatan Runtuh</span><br><i style="background: #82bdf7"></i><span>Sungai</span><br> <i style="background: orange"></i><span>Jalan Kabupaten</span><br> <i style="background: black"></i><span>Jalan Nasional</span>' %}
+{% else %}
+		
+{%endif%}
+  
+   <script>	
+
+{% if sambel|length > 2%}
+var datax= {{sambel|raw}};
+{% else %}
+var datax= [{"nidref":"1","field_kondisi":"Baik","field_lebar_sesuai_sta":"","field_perkerasan":"Aspal","field_tahun_data":"2021","nid":"1"}];
+{%endif%}
+
+
+var filex= {{filex |raw}};
+var sungai= {{sungai |raw}};
+var jalnas= {{jalnas |raw}};
+var jalankab= {{jalankab |raw}};
+ 
+var kabx= {{kab |raw}};
+
+var iix=36885;
+var ind=36885;
+
+		var featureNames = [];
+		
+            jQuery.when(filex).done(function() {
+         
+
+           
+            var map = L.map('map')
+                .setView([-7.500,111.653], 14);
+                
+
+            var basemap =   L.tileLayer('https://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',{
+    maxZoom: 20,
+    subdomains:['mt0','mt1','mt2','mt3']
+}).addTo(map);
+			
+		var myIcon = L.icon({
+  iconUrl: './sites/default/files/jembatan.png',
+  iconSize: [32, 37],
+  iconAnchor: [16, 37],
+  popupAnchor: [0, -28]
+});
+
+var icons = {
+    'Rusak Ringan': L.icon({iconUrl: "./sites/default/files/j_rr.png",iconSize: [32,45]}),
+    'Rusak Sedang': L.icon({iconUrl: "./sites/default/files/j_rs.png",iconSize: [32,45]}),
+    'Rusak Berat': L.icon({iconUrl: "./sites/default/files/j_rb.png",iconSize: [32,45]}),
+    'Kritis': L.icon({iconUrl: "./sites/default/files/j_kritis.png",iconSize: [32,45]})
+}
+
+	{% if jenis is same as ('4')%}	
+
+   var myStyle = {
+    "color": "orange",
+    "weight": 4
+    };
+
+
+ //var jajal=JSON.parse(jalankab.responseJSON);
+  var Ljalankab = L.geoJSON(jalankab,{
+       style: myStyle
+    });
+      
+       map.addLayer(Ljalankab);
+        	Ljalankab.bringToBack();
+
+
+
+          var sStyle = {
+    "color": "#82bdf7",
+    "weight": 2
+    };
+
+
+ //var jajal=JSON.parse(jalankab.responseJSON);
+  var Lsungai = L.geoJSON(sungai,{
+       style: sStyle
+    });
+      
+       map.addLayer(Lsungai);
+       	Lsungai.bringToBack();
+	    
+        {%endif%}	
+
+
+
+            // Add requested external GeoJSON to map
+    var g002 = L.geoJSON(filex,{
+        	{% if jenis is same as ('4')%}	
+          pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {icon: icons[feature.properties.Knd_Jembat]});
+    },
+        {%endif%}	
+			style: function(feature) {
+        
+			{% if jenis is same as ('2')%}	
+           var sind=ind.toString();
+          var resultObject = datax.find(({ nidref }) => nidref === sind);
+if(resultObject!=undefined){
+  feature.properties.Kondisi=resultObject.field_kondisi;
+}
+		ind++;
+				switch (feature.properties.Kondisi) {
+					case 'Rusak Ringan': return {color: "red",weight: 4};
+					case 'Sedang':   return {color: "yellow",weight: 4};
+					case 'Baik':   return {color: "green",weight: 4};
+					case 'Rusak Berat':   return {color: "#630606",weight: 4};
+				}
+        
+
+      {% elseif jenis is same as ('3')%}
+      	switch (feature.properties.Perkerasan) {
+					case 'Aspal': return {color: "#2f5597",weight: 4};
+					case 'Beton':   return {color: "#9dc3e6",weight: 4};
+					case 'Lapen':   return {color: "#c55a11",weight: 4};
+					case 'makadam': return {color: "#ffff00",weight: 4};
+					case 'Tanah':   return {color: "red",weight: 4};
+				}
+
+        
+      {% else %}
+      	switch (feature.properties.Hirarki) {
+					case ' Lokal Primer': return {color: "yellow",weight: 4};
+					case ' Kolektor Primer - 4':   return {color: "#c55a11",weight: 4};
+				
+				}				
+				
+      {%endif%}				
+				
+			},
+			
+			
+		onEachFeature: function(feature, featureLayer) 
+		   {    
+        var p = featureLayer.feature.properties;
+        // console.log(iix++);
+       {% if jenis is same as ('4')%}
+       	p.index = p.no_jembatan + " | " + p.nama_jembatan;
+        {% else %}	
+				p.index = p.Kode_Infra + " | " + p.Nm_Ruas;
+				p.id = iix;        
+          {%endif%}	
+	
+
+
+     
+				{% if jenis is same as ('4')%}	
+				featureLayer.bindPopup("<h4>Nama Jembatan: " + feature.properties.Nama_Jemba +"</h4>"
+				+ "<br>" + "no_jembatan: " + feature.properties.No_Jembata
+				+ "<br>" + "Kecamatan: " + feature.properties.Kecamatan
+				+ "<br>" + "panjang (M): " + feature.properties.Panjang
+				+ "<br>" + "lebar: " + feature.properties.Lebar
+				+ "<br>" + "jml_bentang: " + feature.properties.Jml_Bntang
+				+ "<br>" + "BA_Tipe: " + feature.properties.BA_Tipe
+				+ "<br>" + "<h5>Kondisi Jembatan : " + feature.properties.Knd_Jembat+"</h5>"
+				
+				); 
+        	{% elseif jenis is same as ('2')%}	
+        var sid=iix.toString();
+         // console.log(sid);
+          var resultObject2 = datax.find(({ nidref }) => nidref === sid);
+        
+
+if(resultObject2!=undefined){
+  console.log('enek');
+
+				featureLayer.bindPopup("<h4>Nama Ruas: <br>" + feature.properties.Nm_Ruas +"<br> Kondisi: "+feature.properties.Kondisi+"</h4>"        
+				+ "<br>" + "No Ruas: " + feature.properties.Kode_Infra
+        + "<br>" + "PnjangRuas: " + feature.properties.PnjangRuas
+				+ "<br>" + "STA_Awal: " + feature.properties.STA_Awal
+				+ "<br>" + "STA_Akhir: " + feature.properties.STA_Akhir
+				+ "<br>" + "Kondisi: " + resultObject2.field_kondisi
+				+ "<br>" + "Perkerasan: " + resultObject2.field_perkerasan
+        + "<br>" + '<a class="use-ajax"   data-dialog-type="modal"   href="/node/'+resultObject2.nid+'/edit?destination=/kondisi-jalan">edit </a>'				
+				);  
+}
+
+else{
+    
+				featureLayer.bindPopup("<h4>Nama Ruas: <br>" + feature.properties.Nm_Ruas +"<br> Kondisi: "+feature.properties.Kondisi+"</h4>"        
+				+ "<br>" + "No Ruas: " + feature.properties.Kode_Infra
+        + "<br>" + "PnjangRuas: " + feature.properties.PnjangRuas
+				+ "<br>" + "STA_Awal: " + feature.properties.STA_Awal
+				+ "<br>" + "STA_Akhir: " + feature.properties.STA_Akhir
+				+ "<br>" + "Kondisi: " + feature.properties.Kondisi
+				+ "<br>" + "Perkerasan: " + feature.properties.Perkerasan
+        + "<br>" + '<a class="use-ajax"   data-dialog-type="modal"   href="/node/add/data_kondisi_jalan?destination=/kondisi-jalan&edit[field_ref_jalan][widget][0][target_id]='+feature.properties.id	+'&edit[field_tahun_data][widget]=2021&edit[field_kondisi][widget]='+feature.properties.Kondisi+'&edit[field_perkerasan][widget]='+feature.properties.Perkerasan+'">edit </a>'				
+				);  
+
+}
+
+
+       	{% elseif jenis is same as ('3')%}	
+         	featureLayer.bindPopup("<h4>Nama Ruas:<br>" + feature.properties.Nm_Ruas +"</h4>" 		     
+        	+ "<br>" + "No Ruas: " + feature.properties.Kode_Infra
+        + "<br>" + "STA_Awal: " + feature.properties.STA_Awal
+				+ "<br>" + "STA_Akhir: " + feature.properties.STA_Akhir	
+        + "<br>" + "Perkerasan: " + feature.properties.Perkerasan  
+				);   
+         {% else %}
+         	featureLayer.bindPopup("<h4>Nama Ruas: " + feature.properties.Nm_Ruas +"</h4>"
+				+ "<br>" + "Kecamatan: " + feature.properties.Kecamatan
+				+ "<br>" + "Desa_Kel: " + feature.properties.Desa_Kel
+				+ "<br>" + "Panjang Ruas: " + feature.properties.Panjang
+				+ "<br>" + "Lebar (m): " + feature.properties.Lebar
+				+ "<br>" + "Fungsi: " + feature.properties.Hirarki
+				+ "<br>" + "No Ruas: " + feature.properties.Kd_Inf				
+				);   
+
+          {%endif%}	
+				
+				 featureNames.push({ STA_Awal: feature.properties.STA_Awal, STA_Akhir : feature.properties.STA_Akhir, Kondisi:feature.properties.Kondisi});
+
+       			iix++;
+								
+		   }
+		   
+ 
+       
+       });
+		   
+
+       map.addLayer(g002);
+	    	g002.bringToBack();
+
+
+  var myStyle = {
+    "color": "#000",
+    "weight": 5
+};
+
+ var kabStyle = {
+    "color": "#cccccc",
+    "weight": 5
+};
+               // Add requested external GeoJSON to map
+    var nasional = L.geoJSON(jalnas,{
+       style: myStyle
+    });
+		   
+       map.addLayer(nasional);
+        var kab = L.geoJSON(kabx,{
+       style: kabStyle
+    });
+		   
+       map.addLayer(kab);
+	    
+
+
+
+
+
+      
+			
+			
+			//legend
+		
+		
+			/*Legend specific*/
+			var legend = L.control({ position: "topright" });
+
+			legend.onAdd = function(map) {
+        
+			  var div = L.DomUtil.create("div", "legend");
+			  div.innerHTML += "<h4>Legenda</h4>";
+			  div.innerHTML +='{{legendx | raw}}';
+			return div;
+			};
+
+			legend.addTo(map);
+
+
+		var fuse = new Fuse(filex.features, {
+		keys: ['properties.index',
+			//'properties.operator'
+		]
+	});
+
+
+ 		var searchControl = new L.Control.Search({
+		layer: g002,	
+		propertyName: 'index',
+		position: 'topleft',
+		filterData: function(text, records) {
+			var jsons = fuse.search(text),
+				ret = {}, key;
+			
+			for(var i in jsons) {
+				key = jsons[i].properties.index;
+				ret[ key ]= records[key];
+			}
+
+			
+			return ret;
+		},
+	})
+  .on('search:locationfound', function(e) {
+		e.layer.openPopup();
+	})
+	.addTo(map);
+
+
+	//console.log(featureNames);
+{# 
+		jQuery('#myTable').DataTable({
+		  data: featureNames,
+		  columns : [
+                  {"data" : "STA_Awal"},
+                  {"data" : "STA_Akhir"},
+                  {"data" : "Kondisi"}
+                 ],
+		  scrollY: 300,
+		  paging: false
+		}); #}
+
+
+			
+			
+        });
+
+
+
+
+
+		
+		  </script>	 
+		  
+		  
+<br>
+<br>
+ 
+  
+

@@ -1,0 +1,28 @@
+<?php
+
+/**
+ * @file
+ * Process theme data for uikit_admin.
+ */
+
+/**
+ * Load UIkit Admin's include files for theme processing.
+ */
+include_once 'includes/preprocess.inc';
+include_once 'includes/process.inc';
+include_once 'includes/theme.inc';
+include_once 'includes/alter.inc';
+use Drupal\user\Entity\User;
+
+function uikit_admin_preprocess(&$variables, $hook)
+{
+
+
+    $tahun = \Drupal::request()->query->get('tahun');  
+    $idtutup = \Drupal::request()->query->get('idtutup');  
+  $variables['tahun'] =$tahun;
+  $variables['idtutup'] =$idtutup;
+  
+}
+
+

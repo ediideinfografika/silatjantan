@@ -1,0 +1,13 @@
+name: Controlled Fields
+type: module
+description: Enable field widgets to be visible or not on dependent on a controlling field.
+# core: 8.x
+package: Fields
+dependencies:
+  - filter_form_values
+core_version_requirement: ^8.8 || ^9
+
+# Information added by Drupal.org packaging script on 2022-02-03
+version: '2.0.1'
+project: 'controlled_fields'
+datestamp: 1643885555

@@ -1,0 +1,1450 @@
+No,Nm_Ruas,Kd_Inf,Panjang,STA_AWAL,STA_AKHIR,Fungsi,Kondisi,Tipe_Perke,Lebar_STA,Tahun_Reali,tahun,Tgl,Penanganan,Kondisi_Kini,Perke_Kini
+1194,BABADAN LOR I,,1240,1+100,1+100,,baik,aspal,4,,2022,,,,
+1195,BABADAN LOR I,,1240,0+000,0+100,,baik,aspal,4,,2022,,,,
+1196,BABADAN LOR I,,1240,0+100,0+200,,baik,aspal,4,,2022,,,,
+1197,BABADAN LOR I,,1240,0+200,0+300,,baik,aspal,4,,2022,,,,
+1198,BABADAN LOR I,,1240,0+300,0+400,,baik,aspal,4,,2022,,,,
+1199,BABADAN LOR I,,1240,0+400,0+500,,baik,aspal,4,,2022,,,,
+1200,BABADAN LOR I,,1240,0+500,0+600,,baik,aspal,4,,2022,,,,
+1201,BABADAN LOR I,,1240,0+600,0+700,,baik,aspal,4,,2022,,,,
+1202,BABADAN LOR I,,1240,0+700,0+800,,baik,aspal,4,,2022,,,,
+1203,BABADAN LOR I,,1240,0+800,0+900,,baik,makadam,4,,2022,,,,
+1204,BABADAN LOR I,,1240,0+900,1+000,,baik,makadam,4,,2022,,,,
+1205,BABADAN LOR I,,1240,1+000,1+100,,baik,makadam,4,,2022,,,,
+1206,BABADAN LOR I,,1240,1+200,1+240,,baik,makadam,4,,2022,,,,
+1207,BABADAN LOR II,,652,0+000,0+100,,sedang,makadam,4,,2022,,,,
+1208,BABADAN LOR II,,652,0+100,0+200,,sedang,lapen,4,,2022,,,,
+1209,BABADAN LOR II,,652,0+200,0+300,,sedang,lapen,4,,2022,,,,
+1210,BABADAN LOR II,,652,0+300,0+400,,sedang,lapen,4,,2022,,,,
+1211,BABADAN LOR II,,652,0+400,0+500,,sedang,lapen,4,,2022,,,,
+1212,BABADAN LOR II,,652,0+500,0+600,,sedang,lapen,4,,2022,,,,
+1213,BABADAN LOR II,,652,0+600,0+652,,sedang,lapen,4,,2022,,,,
+533,BAJULAN,,1466,0+000,0+100,,sedang,lapen,4,,2022,,,,
+534,BAJULAN,,1466,0+100,0+200,,sedang,lapen,4,,2022,,,,
+535,BAJULAN,,1466,0+200,0+300,,RR,lapen,4,,2022,,,,
+536,BAJULAN,,1466,0+300,0+400,,RR,tanah,4,,2022,,,,
+537,BAJULAN,,1466,0+400,0+500,,RR,tanah,4,,2022,,,,
+538,BAJULAN,,1466,0+500,0+600,,RR,tanah,4,,2022,,,,
+539,BAJULAN,,1466,0+600,0+700,,RR,tanah,4,,2022,,,,
+540,BAJULAN,,1466,0+700,0+800,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+541,BAJULAN,,1466,0+800,0+900,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+542,BAJULAN,,1466,0+900,1+000,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+543,BAJULAN,,1466,1+000,1+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+544,BAJULAN,,1466,1+100,1+200,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+545,BAJULAN,,1466,1+200,1+300,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+546,BAJULAN,,1466,1+300,1+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+547,BAJULAN,,1466,1+400,1+466,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+168,BADER,,800,0+000,0+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+169,BADER,,800,0+100,0+200,,baik,beton,4,,2022,,,,
+170,BADER,,800,0+200,0+300,,baik,beton,4,,2022,,,,
+171,BADER,,800,0+300,0+400,,baik,beton,4,,2022,,,,
+172,BADER,,800,0+400,0+500,,baik,beton,4,,2022,,,,
+173,BADER,,800,0+500,0+600,,baik,beton,4,,2022,,,,
+174,BADER,,800,0+600,0+630,,baik,beton,4,,2022,,,,
+1214,BALEREJO I,,444,0+000,0+100,,baik,aspal,4,,2022,,,,
+1215,BALEREJO I,,444,0+100,0+200,,baik,aspal,4,,2022,,,,
+1216,BALEREJO I,,444,0+200,0+300,,baik,aspal,4,,2022,,,,
+1217,BALEREJO I,,444,0+300,0+400,,baik,aspal,4,,2022,,,,
+1218,BALEREJO I,,444,0+400,0+444,,baik,aspal,4,,2022,,,,
+1219,BALEREJO II,,444,0+000,0+100,,baik,aspal,4,,2022,,,,
+1220,BALEREJO II,,444,0+100,0+200,,baik,aspal,4,,2022,,,,
+1221,BALEREJO II,,444,0+200,0+300,,sedang,aspal,4,,2022,,,,
+1222,BALEREJO II,,444,0+300,0+400,,sedang,aspal,4,,2022,,,,
+1223,BALEREJO II,,444,0+400,0+444,,sedang,makadam,4,,2022,,,,
+1143,BANARAN,,1313,0+000,0+100,,sedang,makadam,4,,2022,,,,
+1144,BANARAN,,1313,0+100,0+200,,sedang,makadam,4,,2022,,,,
+1145,BANARAN,,1313,0+200,0+300,,sedang,makadam,4,,2022,,,,
+1146,BANARAN,,1313,0+300,0+400,,sedang,makadam,4,,2022,,,,
+1147,BANARAN,,1313,0+400,0+500,,sedang,lapen,4,,2022,,,,
+1148,BANARAN,,1313,0+500,0+600,,sedang,lapen,4,,2022,,,,
+1149,BANARAN,,1313,0+600,0+700,,RR,lapen,4,,2022,,,,
+1150,BANARAN,,1313,0+700,0+800,,RR,lapen,4,,2022,,,,
+1151,BANARAN,,1313,0+800,0+900,,RR,lapen,4,,2022,,,,
+1152,BANARAN,,1313,0+900,1+000,,RR,lapen,4,,2022,,,,
+1153,BANARAN,,1313,1+000,1+100,,RR,lapen,4,,2022,,,,
+1154,BANARAN,,1313,1+100,1+200,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1155,BANARAN,,1313,1+200,1+300,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1156,BANARAN,,1313,1+300,1+312,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+956,BANCONG,,1137,0+000,0+100,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+957,BANCONG,,1137,0+100,0+200,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+958,BANCONG,,1137,0+200,0+300,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+959,BANCONG,,1137,0+300,0+400,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+960,BANCONG,,1137,0+400,0+500,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+961,BANCONG,,1137,0+500,0+600,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+962,BANCONG,,1137,0+600,0+700,,baik,beton,4,,2022,,,,
+963,BANCONG,,1137,0+700,0+800,,baik,beton,4,,2022,,,,
+964,BANCONG,,1137,0+800,0+900,,baik,beton,4,,2022,,,,
+965,BANCONG,,1137,0+900,1+000,,baik,beton,4,,2022,,,,
+966,BANCONG,,1137,1+000,1+100,,baik,beton,4,,2022,,,,
+967,BANCONG,,1137,1+100,1+137,,baik,beton,4,,2022,,,,
+548,BANDUNGAN,,727,0+000,0+100,,baik,beton,4,,2022,,,,
+549,BANDUNGAN,,727,0+100,0+200,,baik,beton,4,,2022,,,,
+550,BANDUNGAN,,727,0+200,0+300,,baik,beton,4,,2022,,,,
+551,BANDUNGAN,,727,0+300,0+400,,baik,beton,4,,2022,,,,
+552,BANDUNGAN,,727,0+400,0+500,,baik,beton,4,,2022,,,,
+553,BANDUNGAN,,727,0+500,0+600,,baik,beton,4,,2022,,,,
+554,BANDUNGAN,,727,0+600,0+700,,baik,aspal,4,,2022,,,,
+555,BANDUNGAN,,727,0+700,0+726,,sedang,aspal,4,,2022,,,,
+214,BANJARSARI KULON,,3026,0+000,0+100,,sedang,aspal,4,,2022,,,,
+215,BANJARSARI KULON,,3026,0+100,0+200,,sedang,aspal,4,,2022,,,,
+216,BANJARSARI KULON,,3026,0+200,0+300,,sedang,aspal,4,,2022,,,,
+217,BANJARSARI KULON,,3026,0+300,0+400,,sedang,aspal,4,,2022,,,,
+218,BANJARSARI KULON,,3026,0+400,0+500,,sedang,aspal,4,,2022,,,,
+219,BANJARSARI KULON,,3026,0+500,0+600,,sedang,aspal,4,,2022,,,,
+220,BANJARSARI KULON,,3026,0+600,0+700,,sedang,aspal,4,,2022,,,,
+221,BANJARSARI KULON,,3026,0+700,0+800,,sedang,makadam,4,,2022,,,,
+222,BANJARSARI KULON,,3026,0+800,0+900,,RR,makadam,4,,2022,,,,
+223,BANJARSARI KULON,,3026,0+900,1+000,,RR,makadam,4,,2022,,,,
+224,BANJARSARI KULON,,3026,1+000,1+100,,RR,makadam,4,,2022,,,,
+225,BANJARSARI KULON,,3026,1+100,1+200,,RR,makadam,4,,2022,,,,
+226,BANJARSARI KULON,,3026,1+200,1+300,,RR,lapen,4,,2022,,,,
+227,BANJARSARI KULON,,3026,1+300,1+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+228,BANJARSARI KULON,,3026,1+400,1+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+229,BANJARSARI KULON,,3026,1+500,1+600,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+230,BANJARSARI KULON,,3026,1+600,1+700,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+231,BANJARSARI KULON,,3026,1+700,1+800,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+232,BANJARSARI KULON,,3026,1+800,1+900,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+233,BANJARSARI KULON,,3026,1+900,2+000,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+234,BANJARSARI KULON,,3026,2+000,2+100,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+235,BANJARSARI KULON,,3026,2+100,2+200,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+236,BANJARSARI KULON,,3026,2+200,2+300,,baik,tanah,4,,2022,,,,
+237,BANJARSARI KULON,,3026,2+300,2+400,,baik,tanah,4,,2022,,,,
+238,BANJARSARI KULON,,3026,2+400,2+500,,baik,tanah,4,,2022,,,,
+239,BANJARSARI KULON,,3026,2+500,2+600,,baik,tanah,4,,2022,,,,
+240,BANJARSARI KULON,,3026,2+600,2+700,,baik,tanah,4,,2022,,,,
+241,BANJARSARI KULON,,3026,2+700,2+800,,baik,beton,4,,2022,,,,
+242,BANJARSARI KULON,,3026,2+800,2+900,,baik,beton,4,,2022,,,,
+243,BANJARSARI KULON,,3026,2+900,3+000,,baik,beton,4,,2022,,,,
+244,BANJARSARI KULON,,3026,3+000,3+026,,baik,beton,4,,2022,,,,
+245,BANJARSARI WETAN,,1055,0+000,0+100,,baik,beton,4,,2022,,,,
+246,BANJARSARI WETAN,,1055,0+100,0+200,,baik,beton,4,,2022,,,,
+247,BANJARSARI WETAN,,1055,0+200,0+300,,baik,beton,4,,2022,,,,
+248,BANJARSARI WETAN,,1055,0+300,0+400,,baik,beton,4,,2022,,,,
+249,BANJARSARI WETAN,,1055,0+400,0+500,,sedang,beton,4,,2022,,,,
+250,BANJARSARI WETAN,,1055,0+500,0+600,,sedang,beton,4,,2022,,,,
+251,BANJARSARI WETAN,,1055,0+600,0+700,,sedang,beton,4,,2022,,,,
+252,BANJARSARI WETAN,,1055,0+700,0+800,,sedang,beton,4,,2022,,,,
+253,BANJARSARI WETAN,,1055,0+800,0+900,,sedang,beton,4,,2022,,,,
+254,BANJARSARI WETAN,,1055,0+900,1+000,,sedang,aspal,4,,2022,,,,
+255,BANJARSARI WETAN,,1055,1+000,1+055,,sedang,aspal,4,,2022,,,,
+939,BANYUKAMBANG,,726,0+000,0+100,,sedang,aspal,4,,2022,,,,
+940,BANYUKAMBANG,,726,0+100,0+200,,sedang,aspal,4,,2022,,,,
+941,BANYUKAMBANG,,726,0+200,0+300,,RR,aspal,4,,2022,,,,
+942,BANYUKAMBANG,,726,0+300,0+400,,RR,aspal,4,,2022,,,,
+943,BANYUKAMBANG,,726,0+400,0+500,,RR,aspal,4,,2022,,,,
+944,BANYUKAMBANG,,726,0+500,0+600,,RR,aspal,4,,2022,,,,
+945,BANYUKAMBANG,,726,0+600,0+700,,RR,aspal,4,,2022,,,,
+946,BANYUKAMBANG,,726,0+700,0+725,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+556,BENER,,1418,0+000,0+100,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+557,BENER,,1418,0+100,0+200,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+558,BENER,,1418,0+200,0+300,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+559,BENER,,1418,0+300,0+400,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+560,BENER,,1418,0+400,0+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+561,BENER,,1418,0+500,0+600,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+562,BENER,,1418,0+600,0+700,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+563,BENER,,1418,0+700,0+800,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+564,BENER,,1418,0+800,0+900,,baik,lapen,4,,2022,,,,
+565,BENER,,1418,0+900,1+000,,baik,lapen,4,,2022,,,,
+566,BENER,,1418,1+000,1+100,,baik,lapen,4,,2022,,,,
+567,BENER,,1418,1+100,1+200,,baik,lapen,4,,2022,,,,
+568,BENER,,1418,1+200,1+300,,baik,lapen,4,,2022,,,,
+569,BENER,,1418,1+300,1+400,,baik,tanah,4,,2022,,,,
+570,BENER,,1418,1+400,1+418,,baik,tanah,4,,2022,,,,
+1362,BETEK,,1773,0+000,0+100,,baik,tanah,4,,2022,,,,
+1363,BETEK,,1773,0+100,0+200,,baik,tanah,4,,2022,,,,
+1364,BETEK,,1773,0+200,0+300,,baik,tanah,4,,2022,,,,
+1365,BETEK,,1773,0+300,0+400,,baik,tanah,4,,2022,,,,
+1366,BETEK,,1773,0+400,0+500,,baik,beton,4,,2022,,,,
+1367,BETEK,,1773,0+500,0+600,,baik,beton,4,,2022,,,,
+1368,BETEK,,1773,0+600,0+700,,sedang,beton,4,,2022,,,,
+1369,BETEK,,1773,0+700,0+800,,sedang,beton,4,,2022,,,,
+1370,BETEK,,1773,0+800,0+900,,sedang,beton,4,,2022,,,,
+1371,BETEK,,1773,0+900,1+000,,sedang,beton,4,,2022,,,,
+1372,BETEK,,1773,1+000,1+100,,sedang,beton,4,,2022,,,,
+1373,BETEK,,1773,1+100,1+200,,sedang,beton,4,,2022,,,,
+1374,BETEK,,1773,1+200,1+300,,sedang,beton,4,,2022,,,,
+1375,BETEK,,1773,1+300,1+400,,sedang,beton,4,,2022,,,,
+1376,BETEK,,1773,1+400,1+500,,sedang,beton,4,,2022,,,,
+1377,BETEK,,1773,1+500,1+600,,RR,beton,4,,2022,,,,
+1378,BETEK,,1773,1+600,1+700,,RR,beton,4,,2022,,,,
+1379,BETEK,,1773,1+700,1+772,,RR,aspal,4,,2022,,,,
+208,BLIMBING,,516,0+000,0+100,,RR,aspal,4,,2022,,,,
+209,BLIMBING,,516,0+100,0+200,,RR,aspal,4,,2022,,,,
+210,BLIMBING,,516,0+200,0+300,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+211,BLIMBING,,516,0+300,0+400,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+212,BLIMBING,,516,0+400,0+500,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+213,BLIMBING,,516,0+500,0+515,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+571,BONGSOPOTRO,,2089,0+000,0+100,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+572,BONGSOPOTRO,,2089,0+100,0+200,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+573,BONGSOPOTRO,,2089,0+200,0+300,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+574,BONGSOPOTRO,,2089,0+300,0+400,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+575,BONGSOPOTRO,,2089,0+400,0+500,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+576,BONGSOPOTRO,,2089,0+500,0+600,,baik,makadam,4,,2022,,,,
+577,BONGSOPOTRO,,2089,0+600,0+700,,baik,makadam,4,,2022,,,,
+578,BONGSOPOTRO,,2089,0+700,0+800,,baik,lapen,4,,2022,,,,
+579,BONGSOPOTRO,,2089,0+800,0+900,,baik,lapen,4,,2022,,,,
+580,BONGSOPOTRO,,2089,0+900,1+000,,baik,lapen,4,,2022,,,,
+581,BONGSOPOTRO,,2089,1+000,1+100,,baik,lapen,4,,2022,,,,
+582,BONGSOPOTRO,,2089,1+100,1+200,,baik,lapen,4,,2022,,,,
+583,BONGSOPOTRO,,2089,1+200,1+300,,baik,lapen,4,,2022,,,,
+584,BONGSOPOTRO,,2089,1+300,1+400,,baik,lapen,4,,2022,,,,
+585,BONGSOPOTRO,,2089,1+400,1+500,,baik,lapen,4,,2022,,,,
+586,BONGSOPOTRO,,2089,1+500,1+600,,baik,lapen,4,,2022,,,,
+587,BONGSOPOTRO,,2089,1+600,1+700,,baik,tanah,4,,2022,,,,
+588,BONGSOPOTRO,,2089,1+700,1+800,,baik,tanah,4,,2022,,,,
+589,BONGSOPOTRO,,2089,1+800,1+900,,sedang,tanah,4,,2022,,,,
+590,BONGSOPOTRO,,2089,1+900,2+000,,sedang,tanah,4,,2022,,,,
+591,BONGSOPOTRO,,2089,2+000,2+088,,sedang,tanah,4,,2022,,,,
+1119,BULAKREJO,,469,0+000,0+100,,sedang,tanah,4,,2022,,,,
+1120,BULAKREJO,,469,0+100,0+200,,sedang,beton,4,,2022,,,,
+1121,BULAKREJO,,469,0+200,0+300,,sedang,beton,4,,2022,,,,
+1122,BULAKREJO,,469,0+300,0+400,,sedang,beton,4,,2022,,,,
+1123,BULAKREJO,,469,0+400,0+469,,sedang,beton,4,,2022,,,,
+143,CANDIMULYO,,806,0+000,0+100,,sedang,beton,4,,2022,,,,
+144,CANDIMULYO,,806,0+100,0+200,,RR,beton,4,,2022,,,,
+145,CANDIMULYO,,806,0+200,0+300,,RR,beton,4,,2022,,,,
+146,CANDIMULYO,,806,0+300,0+400,,RR,beton,4,,2022,,,,
+147,CANDIMULYO,,806,0+400,0+500,,RR,beton,4,,2022,,,,
+148,CANDIMULYO,,806,0+500,0+600,,RR,beton,4,,2022,,,,
+149,CANDIMULYO,,806,0+600,0+700,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+150,CANDIMULYO,,806,0+700,0+800,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+151,CANDIMULYO,,806,0+800,0+805,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+838,DARMOREJO,,496,0+300,0+400,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+839,DARMOREJO,,496,0+000,0+100,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+840,DARMOREJO,,496,0+100,0+200,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+841,DARMOREJO,,496,0+200,0+300,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+842,DARMOREJO,,496,0+400,0+495,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+820,DAWUHAN,,1770,0+000,0+100,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+821,DAWUHAN,,1770,0+100,0+200,,baik,aspal,4,,2022,,,,
+822,DAWUHAN,,1770,0+200,0+300,,baik,aspal,4,,2022,,,,
+823,DAWUHAN,,1770,0+300,0+400,,baik,aspal,4,,2022,,,,
+824,DAWUHAN,,1770,0+400,0+500,,baik,makadam,4,,2022,,,,
+825,DAWUHAN,,1770,0+500,0+600,,baik,makadam,4,,2022,,,,
+826,DAWUHAN,,1770,0+600,0+700,,baik,makadam,4,,2022,,,,
+827,DAWUHAN,,1770,0+700,0+800,,baik,makadam,4,,2022,,,,
+828,DAWUHAN,,1770,0+800,0+900,,baik,makadam,4,,2022,,,,
+829,DAWUHAN,,1770,0+900,1+000,,baik,lapen,4,,2022,,,,
+830,DAWUHAN,,1770,1+000,1+100,,baik,lapen,4,,2022,,,,
+831,DAWUHAN,,1770,1+100,1+200,,baik,lapen,4,,2022,,,,
+832,DAWUHAN,,1770,1+200,1+300,,baik,lapen,4,,2022,,,,
+833,DAWUHAN,,1770,1+300,1+400,,baik,lapen,4,,2022,,,,
+834,DAWUHAN,,1770,1+400,1+500,,sedang,lapen,4,,2022,,,,
+835,DAWUHAN,,1770,1+500,1+600,,sedang,lapen,4,,2022,,,,
+836,DAWUHAN,,1770,1+600,1+700,,sedang,lapen,4,,2022,,,,
+837,DAWUHAN,,1770,1+700,1+769,,sedang,lapen,4,,2022,,,,
+1380,DEMPELAN,,628,0+000,0+100,,sedang,tanah,4,,2022,,,,
+1381,DEMPELAN,,628,0+100,0+200,,sedang,tanah,4,,2022,,,,
+1382,DEMPELAN,,628,0+200,0+300,,sedang,tanah,4,,2022,,,,
+1383,DEMPELAN,,628,0+300,0+400,,sedang,tanah,4,,2022,,,,
+1384,DEMPELAN,,628,0+400,0+500,,sedang,tanah,4,,2022,,,,
+1385,DEMPELAN,,628,0+500,0+600,,RR,tanah,4,,2022,,,,
+1386,DEMPELAN,,628,0+600,0+628,,RR,beton,4,,2022,,,,
+152,DOHO,,1524,0+000,0+100,,RR,beton,4,,2022,,,,
+153,DOHO,,1524,0+100,0+200,,RR,beton,4,,2022,,,,
+154,DOHO,,1524,0+200,0+300,,RR,beton,4,,2022,,,,
+155,DOHO,,1524,0+300,0+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+156,DOHO,,1524,0+400,0+500,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+157,DOHO,,1524,0+500,0+600,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+158,DOHO,,1524,0+600,0+700,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+159,DOHO,,1524,0+700,0+800,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+160,DOHO,,1524,0+800,0+900,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+161,DOHO,,1524,0+900,1+000,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+162,DOHO,,1524,1+000,1+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+163,DOHO,,1524,1+100,1+200,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+164,DOHO,,1524,1+200,1+300,,baik,aspal,4,,2022,,,,
+165,DOHO,,1524,1+300,1+400,,baik,aspal,4,,2022,,,,
+166,DOHO,,1524,1+400,1+500,,baik,aspal,4,,2022,,,,
+167,DOHO,,1524,1+500,1+524,,baik,aspal,4,,2022,,,,
+175,DOLOPO I,,570,0+000,0+100,,baik,aspal,4,,2022,,,,
+176,DOLOPO I,,570,0+100,0+200,,baik,aspal,4,,2022,,,,
+177,DOLOPO I,,570,0+200,0+300,,baik,aspal,4,,2022,,,,
+178,DOLOPO I,,570,0+300,0+400,,baik,aspal,4,,2022,,,,
+179,DOLOPO I,,570,0+400,0+500,,baik,aspal,4,,2022,,,,
+180,DOLOPO I,,570,0+500,0+500,,baik,makadam,4,,2022,,,,
+192,DOLOPO II,,635,0+000,0+100,,baik,makadam,4,,2022,,,,
+193,DOLOPO II,,635,0+100,0+200,,baik,makadam,4,,2022,,,,
+194,DOLOPO II,,635,0+200,0+300,,baik,makadam,4,,2022,,,,
+195,DOLOPO II,,635,0+300,0+400,,sedang,makadam,4,,2022,,,,
+196,DOLOPO II,,635,0+400,0+500,,sedang,lapen,4,,2022,,,,
+197,DOLOPO II,,635,0+500,0+600,,sedang,lapen,4,,2022,,,,
+198,DOLOPO II,,635,0+600,0+634,,sedang,lapen,4,,2022,,,,
+794,DUREN I,,921,0+000,0+100,,sedang,lapen,4,,2022,,,,
+795,DUREN I,,921,0+100,0+200,,sedang,lapen,4,,2022,,,,
+796,DUREN I,,921,0+200,0+300,,sedang,lapen,4,,2022,,,,
+797,DUREN I,,921,0+300,0+400,,sedang,lapen,4,,2022,,,,
+798,DUREN I,,921,0+400,0+500,,sedang,lapen,4,,2022,,,,
+799,DUREN I,,921,0+500,0+600,,RR,lapen,4,,2022,,,,
+800,DUREN I,,921,0+600,0+700,,RR,tanah,4,,2022,,,,
+801,DUREN I,,921,0+700,0+800,,RR,tanah,4,,2022,,,,
+802,DUREN I,,921,0+800,0+900,,RR,tanah,4,,2022,,,,
+803,DUREN I,,921,0+900,0+912,,RR,tanah,4,,2022,,,,
+804,DUREN II,,1599,0+000,0+100,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+805,DUREN II,,1599,0+100,0+200,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+806,DUREN II,,1599,0+200,0+300,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+807,DUREN II,,1599,0+300,0+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+808,DUREN II,,1599,0+400,0+500,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+809,DUREN II,,1599,0+500,0+600,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+810,DUREN II,,1599,0+600,0+700,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+811,DUREN II,,1599,0+700,0+800,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+812,DUREN II,,1599,0+800,0+900,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+813,DUREN II,,1599,0+900,1+000,,baik,beton,4,,2022,,,,
+814,DUREN II,,1599,1+000,1+100,,baik,beton,4,,2022,,,,
+815,DUREN II,,1599,1+100,1+200,,baik,beton,4,,2022,,,,
+816,DUREN II,,1599,1+200,1+300,,baik,beton,4,,2022,,,,
+817,DUREN II,,1599,1+300,1+400,,baik,beton,4,,2022,,,,
+818,DUREN II,,1599,1+400,1+500,,baik,beton,4,,2022,,,,
+819,DUREN II,,1599,1+500,1+599,,baik,aspal,4,,2022,,,,
+478,DURENAN I,,1725,0+000,0+100,,baik,aspal,4,,2022,,,,
+479,DURENAN I,,1725,0+100,0+200,,baik,aspal,4,,2022,,,,
+480,DURENAN I,,1725,0+200,0+300,,baik,aspal,4,,2022,,,,
+481,DURENAN I,,1725,0+300,0+400,,baik,aspal,4,,2022,,,,
+482,DURENAN I,,1725,0+400,0+500,,baik,aspal,4,,2022,,,,
+483,DURENAN I,,1725,0+500,0+600,,baik,aspal,4,,2022,,,,
+484,DURENAN I,,1725,0+600,0+700,,sedang,aspal,4,,2022,,,,
+485,DURENAN I,,1725,0+700,0+800,,sedang,aspal,4,,2022,,,,
+486,DURENAN I,,1725,0+800,0+900,,sedang,makadam,4,,2022,,,,
+487,DURENAN I,,1725,0+900,1+000,,sedang,makadam,4,,2022,,,,
+488,DURENAN I,,1725,1+000,1+100,,sedang,makadam,4,,2022,,,,
+489,DURENAN I,,1725,1+100,1+200,,sedang,makadam,4,,2022,,,,
+490,DURENAN I,,1725,1+200,1+300,,sedang,makadam,4,,2022,,,,
+491,DURENAN I,,1725,1+300,1+400,,sedang,lapen,4,,2022,,,,
+492,DURENAN I,,1725,1+400,1+500,,sedang,lapen,4,,2022,,,,
+493,DURENAN I,,1725,1+500,1+600,,RR,lapen,4,,2022,,,,
+494,DURENAN I,,1725,1+600,1+700,,RR,lapen,4,,2022,,,,
+495,DURENAN I,,1725,1+700,1+724,,RR,lapen,4,,2022,,,,
+496,DURENAN II,,1439,0+000,0+100,,RR,lapen,4,,2022,,,,
+497,DURENAN II,,1439,0+100,0+200,,RR,lapen,4,,2022,,,,
+498,DURENAN II,,1439,0+200,0+300,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+499,DURENAN II,,1439,0+300,0+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+500,DURENAN II,,1439,0+400,0+500,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+501,DURENAN II,,1439,0+500,0+600,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+502,DURENAN II,,1439,0+600,0+700,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+503,DURENAN II,,1439,0+700,0+800,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+504,DURENAN II,,1439,0+800,0+900,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+505,DURENAN II,,1439,0+900,1+000,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+506,DURENAN II,,1439,1+000,1+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+507,DURENAN II,,1439,1+100,1+200,,baik,beton,4,,2022,,,,
+508,DURENAN II,,1439,1+200,1+300,,baik,beton,4,,2022,,,,
+509,DURENAN II,,1439,1+300,1+400,,baik,beton,4,,2022,,,,
+510,DURENAN II,,1439,1+400,1+438,,baik,beton,4,,2022,,,,
+1124,GADING,,1832,0+000,0+100,,baik,beton,4,,2022,,,,
+1125,GADING,,1832,0+100,0+200,,baik,beton,4,,2022,,,,
+1126,GADING,,1832,0+200,0+300,,baik,beton,4,,2022,,,,
+1127,GADING,,1832,0+300,0+400,,baik,beton,4,,2022,,,,
+1128,GADING,,1832,0+400,0+500,,baik,beton,4,,2022,,,,
+1129,GADING,,1832,0+500,0+600,,baik,beton,4,,2022,,,,
+1130,GADING,,1832,0+600,0+700,,baik,beton,4,,2022,,,,
+1131,GADING,,1832,0+700,0+800,,baik,beton,4,,2022,,,,
+1132,GADING,,1832,0+800,0+900,,baik,aspal,4,,2022,,,,
+1133,GADING,,1832,0+900,1+000,,sedang,aspal,4,,2022,,,,
+1134,GADING,,1832,1+000,1+100,,sedang,aspal,4,,2022,,,,
+1135,GADING,,1832,1+100,1+200,,sedang,aspal,4,,2022,,,,
+1136,GADING,,1832,1+200,1+300,,sedang,aspal,4,,2022,,,,
+1137,GADING,,1832,1+300,1+400,,sedang,aspal,4,,2022,,,,
+1138,GADING,,1832,1+400,1+500,,sedang,aspal,4,,2022,,,,
+1139,GADING,,1832,1+500,1+600,,sedang,aspal,4,,2022,,,,
+1140,GADING,,1832,1+600,1+700,,sedang,aspal,4,,2022,,,,
+1141,GADING,,1832,1+700,1+800,,sedang,makadam,4,,2022,,,,
+1142,GADING,,1832,1+800,1+831,,RR,makadam,4,,2022,,,,
+774,GANDUL,,1990,0+000,0+100,,RR,makadam,4,,2022,,,,
+775,GANDUL,,1990,0+100,0+200,,RR,makadam,4,,2022,,,,
+776,GANDUL,,1990,0+200,0+300,,RR,makadam,4,,2022,,,,
+777,GANDUL,,1990,0+300,0+400,,RR,lapen,4,,2022,,,,
+778,GANDUL,,1990,0+400,0+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+779,GANDUL,,1990,0+500,0+600,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+780,GANDUL,,1990,0+600,0+700,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+781,GANDUL,,1990,0+700,0+800,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+782,GANDUL,,1990,0+800,0+900,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+783,GANDUL,,1990,0+900,1+000,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+784,GANDUL,,1990,1+000,1+100,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+785,GANDUL,,1990,1+100,1+200,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+786,GANDUL,,1990,1+200,1+300,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+787,GANDUL,,1990,1+300,1+400,,baik,tanah,4,,2022,,,,
+788,GANDUL,,1990,1+400,1+500,,baik,tanah,4,,2022,,,,
+789,GANDUL,,1990,1+500,1+600,,baik,tanah,4,,2022,,,,
+790,GANDUL,,1990,1+600,1+700,,baik,tanah,4,,2022,,,,
+791,GANDUL,,1990,1+700,1+800,,baik,tanah,4,,2022,,,,
+792,GANDUL,,1990,1+800,1+900,,baik,beton,4,,2022,,,,
+793,GANDUL,,1990,1+900,1+989,,baik,beton,4,,2022,,,,
+1165,GARON,,1530,0+000,0+100,,baik,beton,4,,2022,,,,
+1166,GARON,,1530,0+100,0+200,,baik,beton,4,,2022,,,,
+1167,GARON,,1530,0+200,0+300,,baik,beton,4,,2022,,,,
+1168,GARON,,1530,0+300,0+400,,baik,beton,4,,2022,,,,
+1169,GARON,,1530,0+400,0+500,,baik,beton,4,,2022,,,,
+1170,GARON,,1530,0+500,0+600,,baik,beton,4,,2022,,,,
+1171,GARON,,1530,0+600,0+700,,sedang,beton,4,,2022,,,,
+1172,GARON,,1530,0+700,0+800,,sedang,beton,4,,2022,,,,
+1173,GARON,,1530,0+800,0+900,,sedang,beton,4,,2022,,,,
+1174,GARON,,1530,0+900,1+000,,sedang,beton,4,,2022,,,,
+1175,GARON,,1530,1+000,1+100,,sedang,beton,4,,2022,,,,
+1176,GARON,,1530,1+100,1+200,,sedang,aspal,4,,2022,,,,
+1177,GARON,,1530,1+200,1+300,,sedang,aspal,4,,2022,,,,
+1178,GARON,,1530,1+300,1+400,,sedang,aspal,4,,2022,,,,
+1179,GARON,,1530,1+400,1+500,,sedang,aspal,4,,2022,,,,
+1180,GARON,,1530,1+500,1+530,,RR,aspal,4,,2022,,,,
+1157,GEGER,,785,0+000,0+100,,RR,aspal,4,,2022,,,,
+1158,GEGER,,785,0+100,0+200,,RR,aspal,4,,2022,,,,
+1159,GEGER,,785,0+200,0+300,,RR,aspal,4,,2022,,,,
+1160,GEGER,,785,0+300,0+400,,RR,aspal,4,,2022,,,,
+1161,GEGER,,785,0+400,0+500,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1162,GEGER,,785,0+500,0+600,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1163,GEGER,,785,0+600,0+700,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1164,GEGER,,785,0+700,0+784,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+22,GROBOGAN,,752,0+000,0+100,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+23,GROBOGAN,,752,0+100,0+200,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+24,GROBOGAN,,752,0+200,0+300,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+25,GROBOGAN,,752,0+300,0+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+26,GROBOGAN,,752,0+400,0+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+27,GROBOGAN,,752,0+500,0+600,,baik,lapen,4,,2022,,,,
+28,GROBOGAN,,752,0+600,0+700,,baik,lapen,4,,2022,,,,
+29,GROBOGAN,,752,0+700,0+751,,baik,lapen,4,,2022,,,,
+1181,JERUK GULUNG,,1207,0+000,0+100,,baik,lapen,4,,2022,,,,
+1182,JERUK GULUNG,,1207,0+100,0+200,,baik,lapen,4,,2022,,,,
+1183,JERUK GULUNG,,1207,0+200,0+300,,baik,tanah,4,,2022,,,,
+1184,JERUK GULUNG,,1207,0+300,0+400,,baik,tanah,4,,2022,,,,
+1185,JERUK GULUNG,,1207,0+400,0+500,,baik,tanah,4,,2022,,,,
+1186,JERUK GULUNG,,1207,0+500,0+600,,baik,tanah,4,,2022,,,,
+1187,JERUK GULUNG,,1207,0+600,0+700,,baik,tanah,4,,2022,,,,
+1188,JERUK GULUNG,,1207,0+700,0+800,,baik,tanah,4,,2022,,,,
+1189,JERUK GULUNG,,1207,0+800,0+900,,baik,beton,4,,2022,,,,
+1190,JERUK GULUNG,,1207,0+900,1+000,,baik,beton,4,,2022,,,,
+1191,JERUK GULUNG,,1207,1+000,1+100,,sedang,beton,4,,2022,,,,
+1192,JERUK GULUNG,,1207,1+100,1+200,,sedang,beton,4,,2022,,,,
+1193,JERUK GULUNG,,1207,1+200,1+200,,sedang,beton,4,,2022,,,,
+89,JOGODAYUH,,1744,0+000,0+100,,sedang,beton,4,,2022,,,,
+90,JOGODAYUH,,1744,0+100,0+200,,sedang,beton,4,,2022,,,,
+91,JOGODAYUH,,1744,0+200,0+300,,sedang,beton,4,,2022,,,,
+92,JOGODAYUH,,1744,0+300,0+400,,sedang,beton,4,,2022,,,,
+93,JOGODAYUH,,1744,0+400,0+500,,sedang,beton,4,,2022,,,,
+94,JOGODAYUH,,1744,0+500,0+600,,sedang,beton,4,,2022,,,,
+95,JOGODAYUH,,1744,0+600,0+700,,RR,beton,4,,2022,,,,
+96,JOGODAYUH,,1744,0+700,0+800,,RR,beton,4,,2022,,,,
+97,JOGODAYUH,,1744,0+800,0+900,,RR,aspal,4,,2022,,,,
+98,JOGODAYUH,,1744,0+900,1+000,,RR,aspal,4,,2022,,,,
+99,JOGODAYUH,,1744,1+000,1+100,,RR,aspal,4,,2022,,,,
+100,JOGODAYUH,,1744,1+100,1+200,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+101,JOGODAYUH,,1744,1+200,1+300,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+102,JOGODAYUH,,1744,1+300,1+400,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+103,JOGODAYUH,,1744,1+400,1+500,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+104,JOGODAYUH,,1744,1+500,1+600,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+105,JOGODAYUH,,1744,1+600,1+700,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+106,JOGODAYUH,,1744,1+700,1+743,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+288,JOHO,,1571,0+000,0+100,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+289,JOHO,,1571,0+100,0+200,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+290,JOHO,,1571,0+200,0+300,,baik,makadam,4,,2022,,,,
+291,JOHO,,1571,0+300,0+400,,baik,makadam,4,,2022,,,,
+292,JOHO,,1571,0+400,0+500,,baik,lapen,4,,2022,,,,
+293,JOHO,,1571,0+500,0+600,,baik,lapen,4,,2022,,,,
+294,JOHO,,1571,0+600,0+700,,baik,lapen,4,,2022,,,,
+295,JOHO,,1571,0+700,0+800,,baik,lapen,4,,2022,,,,
+296,JOHO,,1571,0+800,0+900,,baik,lapen,4,,2022,,,,
+297,JOHO,,1571,0+900,1+000,,baik,lapen,4,,2022,,,,
+298,JOHO,,1571,1+000,1+100,,baik,lapen,4,,2022,,,,
+299,JOHO,,1571,1+100,1+200,,baik,lapen,4,,2022,,,,
+300,JOHO,,1571,1+200,1+300,,baik,lapen,4,,2022,,,,
+301,JOHO,,1571,1+300,1+400,,baik,tanah,4,,2022,,,,
+302,JOHO,,1571,1+400,1+500,,baik,tanah,4,,2022,,,,
+303,JOHO,,1571,1+500,1+570,,sedang,tanah,4,,2022,,,,
+17,KAJANG,,493,0+300,0+400,,sedang,tanah,4,,2022,,,,
+18,KAJANG,,493,0+000,0+100,,sedang,tanah,4,,2022,,,,
+19,KAJANG,,493,0+100,0+200,,sedang,tanah,4,,2022,,,,
+20,KAJANG,,493,0+200,0+300,,sedang,beton,4,,2022,,,,
+21,KAJANG,,493,0+400,0+400,,sedang,beton,4,,2022,,,,
+859,KALIABU,,1165,0+000,0+100,,sedang,beton,4,,2022,,,,
+860,KALIABU,,1165,0+100,0+200,,sedang,beton,4,,2022,,,,
+861,KALIABU,,1165,0+200,0+300,,sedang,beton,4,,2022,,,,
+862,KALIABU,,1165,0+300,0+400,,RR,beton,4,,2022,,,,
+863,KALIABU,,1165,0+400,0+500,,RR,beton,4,,2022,,,,
+864,KALIABU,,1165,0+500,0+600,,RR,beton,4,,2022,,,,
+865,KALIABU,,1165,0+600,0+700,,RR,beton,4,,2022,,,,
+866,KALIABU,,1165,0+700,0+800,,RR,beton,4,,2022,,,,
+867,KALIABU,,1165,0+800,0+900,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+868,KALIABU,,1165,0+900,1+000,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+869,KALIABU,,1165,1+000,1+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+870,KALIABU,,1165,1+100,1+165,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+871,KALIGUNTING,,2057,0+000,0+100,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+872,KALIGUNTING,,2057,0+100,0+200,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+873,KALIGUNTING,,2057,0+200,0+300,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+874,KALIGUNTING,,2057,0+300,0+400,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+875,KALIGUNTING,,2057,0+400,0+500,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+876,KALIGUNTING,,2057,0+500,0+600,,baik,aspal,4,,2022,,,,
+877,KALIGUNTING,,2057,0+600,0+700,,baik,aspal,4,,2022,,,,
+878,KALIGUNTING,,2057,0+700,0+800,,baik,aspal,4,,2022,,,,
+879,KALIGUNTING,,2057,0+800,0+900,,baik,makadam,4,,2022,,,,
+880,KALIGUNTING,,2057,0+900,1+000,,baik,makadam,4,,2022,,,,
+881,KALIGUNTING,,2057,1+000,1+100,,baik,makadam,4,,2022,,,,
+882,KALIGUNTING,,2057,1+100,1+200,,baik,makadam,4,,2022,,,,
+883,KALIGUNTING,,2057,1+200,1+300,,baik,makadam,4,,2022,,,,
+884,KALIGUNTING,,2057,1+300,1+400,,baik,lapen,4,,2022,,,,
+885,KALIGUNTING,,2057,1+400,1+500,,baik,lapen,4,,2022,,,,
+886,KALIGUNTING,,2057,1+500,1+600,,baik,lapen,4,,2022,,,,
+887,KALIGUNTING,,2057,1+600,1+700,,baik,lapen,4,,2022,,,,
+888,KALIGUNTING,,2057,1+700,1+800,,baik,lapen,4,,2022,,,,
+889,KALIGUNTING,,2057,1+800,1+900,,sedang,lapen,4,,2022,,,,
+890,KALIGUNTING,,2057,2+000,2+056,,sedang,lapen,4,,2022,,,,
+891,KALIGUNTING,,2057,1+900,2+000,,sedang,lapen,4,,2022,,,,
+410,KARANGREJO,,672,0+000,0+100,,sedang,lapen,4,,2022,,,,
+411,KARANGREJO,,672,0+100,0+200,,sedang,tanah,4,,2022,,,,
+412,KARANGREJO,,672,0+200,0+300,,sedang,tanah,4,,2022,,,,
+413,KARANGREJO,,672,0+300,0+400,,sedang,tanah,4,,2022,,,,
+414,KARANGREJO,,672,0+400,0+500,,sedang,tanah,4,,2022,,,,
+415,KARANGREJO,,672,0+500,0+600,,sedang,tanah,4,,2022,,,,
+416,KARANGREJO,,672,0+600,0+671,,RR,tanah,4,,2022,,,,
+892,KEBONAGUNG,,844,0+000,0+100,,RR,beton,4,,2022,,,,
+893,KEBONAGUNG,,844,0+100,0+200,,RR,beton,4,,2022,,,,
+894,KEBONAGUNG,,844,0+200,0+300,,RR,beton,4,,2022,,,,
+895,KEBONAGUNG,,844,0+300,0+400,,RR,beton,4,,2022,,,,
+896,KEBONAGUNG,,844,0+400,0+500,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+897,KEBONAGUNG,,844,0+500,0+600,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+898,KEBONAGUNG,,844,0+600,0+700,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+899,KEBONAGUNG,,844,0+700,0+800,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+900,KEBONAGUNG,,844,0+800,0+844,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1224,KEBONAGUNG,,1174,0+000,0+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1225,KEBONAGUNG,,1174,0+100,0+200,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1226,KEBONAGUNG,,1174,0+200,0+300,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1227,KEBONAGUNG,,1174,0+300,0+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1228,KEBONAGUNG,,1174,0+400,0+500,,baik,aspal,4,,2022,,,,
+1229,KEBONAGUNG,,1174,0+500,0+600,,baik,aspal,4,,2022,,,,
+1230,KEBONAGUNG,,1174,0+600,0+700,,baik,aspal,4,,2022,,,,
+1231,KEBONAGUNG,,1174,0+700,0+800,,baik,aspal,4,,2022,,,,
+1232,KEBONAGUNG,,1174,0+800,0+900,,baik,aspal,4,,2022,,,,
+1233,KEBONAGUNG,,1174,0+900,1+000,,baik,aspal,4,,2022,,,,
+1234,KEBONAGUNG,,1174,1+000,1+100,,baik,aspal,4,,2022,,,,
+1235,KEBONAGUNG,,1174,1+100,1+173,,baik,aspal,4,,2022,,,,
+843,KEDONDONG,,1514,0+000,0+100,,baik,aspal,4,,2022,,,,
+844,KEDONDONG,,1514,0+100,0+200,,baik,makadam,4,,2022,,,,
+845,KEDONDONG,,1514,0+200,0+300,,baik,makadam,4,,2022,,,,
+846,KEDONDONG,,1514,0+300,0+400,,baik,makadam,4,,2022,,,,
+847,KEDONDONG,,1514,0+400,0+500,,baik,makadam,4,,2022,,,,
+848,KEDONDONG,,1514,0+500,0+600,,sedang,makadam,4,,2022,,,,
+849,KEDONDONG,,1514,0+600,0+700,,sedang,lapen,4,,2022,,,,
+850,KEDONDONG,,1514,0+700,0+800,,sedang,lapen,4,,2022,,,,
+851,KEDONDONG,,1514,0+800,0+900,,sedang,lapen,4,,2022,,,,
+852,KEDONDONG,,1514,0+900,1+000,,sedang,lapen,4,,2022,,,,
+853,KEDONDONG,,1514,1+000,1+100,,sedang,lapen,4,,2022,,,,
+854,KEDONDONG,,1514,1+100,1+200,,sedang,lapen,4,,2022,,,,
+855,KEDONDONG,,1514,1+200,1+300,,sedang,lapen,4,,2022,,,,
+856,KEDONDONG,,1514,1+300,1+400,,sedang,lapen,4,,2022,,,,
+857,KEDONDONG,,1514,1+400,1+500,,RR,lapen,4,,2022,,,,
+858,KEDONDONG,,1514,1+500,1+513,,RR,tanah,4,,2022,,,,
+1097,KEDUNGJATI,,2194,0+000,0+100,,RR,tanah,4,,2022,,,,
+1098,KEDUNGJATI,,2194,0+100,0+200,,RR,tanah,4,,2022,,,,
+1099,KEDUNGJATI,,2194,0+200,0+300,,RR,tanah,4,,2022,,,,
+1100,KEDUNGJATI,,2194,0+300,0+400,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1101,KEDUNGJATI,,2194,0+400,0+500,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1102,KEDUNGJATI,,2194,0+500,0+600,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1103,KEDUNGJATI,,2194,0+600,0+700,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1104,KEDUNGJATI,,2194,0+700,0+800,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1105,KEDUNGJATI,,2194,0+800,0+900,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1106,KEDUNGJATI,,2194,0+900,1+000,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1107,KEDUNGJATI,,2194,1+000,1+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1108,KEDUNGJATI,,2194,1+100,1+200,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1109,KEDUNGJATI,,2194,1+200,1+300,,baik,beton,4,,2022,,,,
+1110,KEDUNGJATI,,2194,1+300,1+400,,baik,beton,4,,2022,,,,
+1111,KEDUNGJATI,,2194,1+400,1+500,,baik,beton,4,,2022,,,,
+1112,KEDUNGJATI,,2194,1+500,1+600,,baik,beton,4,,2022,,,,
+1113,KEDUNGJATI,,2194,1+600,1+700,,baik,beton,4,,2022,,,,
+1114,KEDUNGJATI,,2194,1+700,1+800,,baik,beton,4,,2022,,,,
+1115,KEDUNGJATI,,2194,1+800,1+900,,baik,aspal,4,,2022,,,,
+1116,KEDUNGJATI,,2194,1+900,2+000,,baik,aspal,4,,2022,,,,
+1117,KEDUNGJATI,,2194,2+000,2+100,,baik,aspal,4,,2022,,,,
+1118,KEDUNGJATI,,2194,2+100,2+193,,baik,aspal,4,,2022,,,,
+322,KEPET,,1355,0+000,0+100,,baik,aspal,4,,2022,,,,
+323,KEPET,,1355,0+100,0+200,,baik,aspal,4,,2022,,,,
+324,KEPET,,1355,0+200,0+300,,baik,aspal,4,,2022,,,,
+325,KEPET,,1355,0+300,0+400,,sedang,aspal,4,,2022,,,,
+326,KEPET,,1355,0+400,0+500,,sedang,aspal,4,,2022,,,,
+327,KEPET,,1355,0+500,0+600,,sedang,makadam,4,,2022,,,,
+328,KEPET,,1355,0+600,0+700,,sedang,makadam,4,,2022,,,,
+329,KEPET,,1355,0+700,0+800,,sedang,makadam,4,,2022,,,,
+330,KEPET,,1355,0+800,0+900,,sedang,makadam,4,,2022,,,,
+331,KEPET,,1355,0+900,1+000,,sedang,makadam,4,,2022,,,,
+332,KEPET,,1355,1+000,1+100,,sedang,lapen,4,,2022,,,,
+333,KEPET,,1355,1+100,1+200,,sedang,lapen,4,,2022,,,,
+334,KEPET,,1355,1+200,1+300,,RR,lapen,4,,2022,,,,
+335,KEPET,,1355,1+300,1+355,,RR,lapen,4,,2022,,,,
+107,KERTOSARI,,600,0+000,0+100,,RR,lapen,4,,2022,,,,
+108,KERTOSARI,,600,0+100,0+200,,RR,lapen,4,,2022,,,,
+109,KERTOSARI,,600,0+200,0+300,,RR,lapen,4,,2022,,,,
+110,KERTOSARI,,600,0+300,0+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+111,KERTOSARI,,600,0+400,0+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+112,KERTOSARI,,600,0+500,0+599,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+256,KETANDAN,,3123,0+000,0+100,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+257,KETANDAN,,3123,0+100,0+200,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+258,KETANDAN,,3123,0+200,0+300,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+259,KETANDAN,,3123,0+300,0+400,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+260,KETANDAN,,3123,0+400,0+500,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+261,KETANDAN,,3123,0+500,0+600,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+262,KETANDAN,,3123,0+600,0+700,,baik,beton,4,,2022,,,,
+263,KETANDAN,,3123,0+700,0+800,,baik,beton,4,,2022,,,,
+264,KETANDAN,,3123,0+800,0+900,,baik,beton,4,,2022,,,,
+265,KETANDAN,,3123,0+900,1+000,,baik,beton,4,,2022,,,,
+266,KETANDAN,,3123,1+000,1+100,,baik,beton,4,,2022,,,,
+267,KETANDAN,,3123,1+100,1+200,,baik,beton,4,,2022,,,,
+268,KETANDAN,,3123,1+200,1+300,,baik,beton,4,,2022,,,,
+269,KETANDAN,,3123,1+300,1+400,,baik,beton,4,,2022,,,,
+270,KETANDAN,,3123,1+400,1+500,,baik,beton,4,,2022,,,,
+271,KETANDAN,,3123,1+500,1+600,,baik,beton,4,,2022,,,,
+272,KETANDAN,,3123,1+600,1+700,,baik,beton,4,,2022,,,,
+273,KETANDAN,,3123,1+700,1+800,,baik,beton,4,,2022,,,,
+274,KETANDAN,,3123,1+800,1+900,,baik,aspal,4,,2022,,,,
+275,KETANDAN,,3123,1+900,2+000,,sedang,aspal,4,,2022,,,,
+276,KETANDAN,,3123,2+000,2+100,,sedang,aspal,4,,2022,,,,
+277,KETANDAN,,3123,2+100,2+200,,sedang,aspal,4,,2022,,,,
+278,KETANDAN,,3123,2+200,2+300,,sedang,aspal,4,,2022,,,,
+279,KETANDAN,,3123,2+300,2+400,,sedang,aspal,4,,2022,,,,
+280,KETANDAN,,3123,2+400,2+500,,sedang,aspal,4,,2022,,,,
+281,KETANDAN,,3123,2+500,2+600,,sedang,aspal,4,,2022,,,,
+282,KETANDAN,,3123,2+600,2+700,,sedang,aspal,4,,2022,,,,
+283,KETANDAN,,3123,2+700,2+800,,sedang,makadam,4,,2022,,,,
+284,KETANDAN,,3123,2+800,2+900,,RR,makadam,4,,2022,,,,
+285,KETANDAN,,3123,2+900,3+000,,RR,makadam,4,,2022,,,,
+286,KETANDAN,,3123,3+000,3+100,,RR,makadam,4,,2022,,,,
+287,KETANDAN,,3123,3+100,3+122,,RR,makadam,4,,2022,,,,
+30,KINCANG WETAN,,1500,0+000,0+100,,RR,lapen,4,,2022,,,,
+31,KINCANG WETAN,,1500,0+100,0+200,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+32,KINCANG WETAN,,1500,0+200,0+300,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+33,KINCANG WETAN,,1500,0+300,0+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+34,KINCANG WETAN,,1500,0+400,0+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+35,KINCANG WETAN,,1500,0+500,0+600,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+36,KINCANG WETAN,,1500,0+600,0+700,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+37,KINCANG WETAN,,1500,0+700,0+800,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+38,KINCANG WETAN,,1500,0+800,0+900,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+39,KINCANG WETAN,,1500,0+900,1+000,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+40,KINCANG WETAN,,1500,1+000,1+100,,baik,tanah,4,,2022,,,,
+41,KINCANG WETAN,,1500,1+100,1+200,,baik,tanah,4,,2022,,,,
+42,KINCANG WETAN,,1500,1+200,1+300,,baik,tanah,4,,2022,,,,
+43,KINCANG WETAN,,1500,1+300,1+400,,baik,tanah,4,,2022,,,,
+44,KINCANG WETAN,,1500,1+400,1+499,,baik,tanah,4,,2022,,,,
+592,KLANGON,,1705,0+000,0+100,,baik,beton,4,,2022,,,,
+593,KLANGON,,1705,0+100,0+200,,baik,beton,4,,2022,,,,
+594,KLANGON,,1705,0+200,0+300,,baik,beton,4,,2022,,,,
+595,KLANGON,,1705,0+300,0+400,,baik,beton,4,,2022,,,,
+596,KLANGON,,1705,0+400,0+500,,baik,beton,4,,2022,,,,
+597,KLANGON,,1705,0+500,0+600,,baik,beton,4,,2022,,,,
+598,KLANGON,,1705,0+600,0+700,,baik,beton,4,,2022,,,,
+599,KLANGON,,1705,0+700,0+800,,baik,beton,4,,2022,,,,
+600,KLANGON,,1705,0+800,0+900,,sedang,beton,4,,2022,,,,
+601,KLANGON,,1705,0+900,1+000,,sedang,beton,4,,2022,,,,
+602,KLANGON,,1705,1+000,1+100,,sedang,beton,4,,2022,,,,
+603,KLANGON,,1705,1+100,1+200,,sedang,beton,4,,2022,,,,
+604,KLANGON,,1705,1+200,1+300,,sedang,beton,4,,2022,,,,
+605,KLANGON,,1705,1+300,1+400,,sedang,aspal,4,,2022,,,,
+606,KLANGON,,1705,1+400,1+500,,sedang,aspal,4,,2022,,,,
+607,KLANGON,,1705,1+500,1+600,,sedang,aspal,4,,2022,,,,
+608,KLANGON,,1705,1+600,1+700,,sedang,aspal,4,,2022,,,,
+609,KLANGON,,1705,1+700,1+705,,RR,aspal,4,,2022,,,,
+12,KLOROGAN,,440,0+300,0+400,,RR,aspal,4,,2022,,,,
+13,KLOROGAN,,440,0+000,0+100,,RR,aspal,4,,2022,,,,
+14,KLOROGAN,,440,0+100,0+200,,RR,aspal,4,,2022,,,,
+15,KLOROGAN,,440,0+200,0+300,,RR,aspal,4,,2022,,,,
+16,KLOROGAN,,440,0+400,0+440,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1444,KLUMPIT,,506,0+000,0+100,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1445,KLUMPIT,,506,0+100,0+200,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1446,KLUMPIT,,506,0+200,0+300,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1447,KLUMPIT,,506,0+300,0+400,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1448,KLUMPIT,,506,0+400,0+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1449,KLUMPIT,,506,0+500,0+505,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+610,KLUMUTAN,,5340,0+000,0+100,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+611,KLUMUTAN,,5340,0+100,0+200,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+612,KLUMUTAN,,5340,0+200,0+300,,baik,lapen,4,,2022,,,,
+613,KLUMUTAN,,5340,0+300,0+400,,baik,lapen,4,,2022,,,,
+614,KLUMUTAN,,5340,0+400,0+500,,baik,lapen,4,,2022,,,,
+615,KLUMUTAN,,5340,0+500,0+600,,baik,lapen,4,,2022,,,,
+616,KLUMUTAN,,5340,0+600,0+700,,baik,lapen,4,,2022,,,,
+617,KLUMUTAN,,5340,0+700,0+800,,baik,tanah,4,,2022,,,,
+618,KLUMUTAN,,5340,0+800,0+900,,baik,tanah,4,,2022,,,,
+619,KLUMUTAN,,5340,0+900,1+000,,baik,tanah,4,,2022,,,,
+620,KLUMUTAN,,5340,1+000,1+100,,baik,tanah,4,,2022,,,,
+621,KLUMUTAN,,5340,1+100,1+200,,baik,tanah,4,,2022,,,,
+622,KLUMUTAN,,5340,1+200,1+300,,baik,tanah,4,,2022,,,,
+623,KLUMUTAN,,5340,1+300,1+400,,baik,beton,4,,2022,,,,
+624,KLUMUTAN,,5340,1+400,1+500,,baik,beton,4,,2022,,,,
+625,KLUMUTAN,,5340,1+500,1+600,,sedang,beton,4,,2022,,,,
+626,KLUMUTAN,,5340,1+600,1+700,,sedang,beton,4,,2022,,,,
+627,KLUMUTAN,,5340,1+700,1+800,,sedang,beton,4,,2022,,,,
+628,KLUMUTAN,,5340,1+800,1+900,,sedang,beton,4,,2022,,,,
+629,KLUMUTAN,,5340,1+900,2+000,,sedang,beton,4,,2022,,,,
+630,KLUMUTAN,,5340,2+000,2+100,,sedang,beton,4,,2022,,,,
+631,KLUMUTAN,,5340,2+100,2+200,,sedang,beton,4,,2022,,,,
+632,KLUMUTAN,,5340,2+200,2+300,,sedang,beton,4,,2022,,,,
+633,KLUMUTAN,,5340,2+300,2+400,,sedang,beton,4,,2022,,,,
+634,KLUMUTAN,,5340,2+400,2+500,,RR,beton,4,,2022,,,,
+635,KLUMUTAN,,5340,2+500,2+600,,RR,beton,4,,2022,,,,
+636,KLUMUTAN,,5340,2+600,2+700,,RR,aspal,4,,2022,,,,
+637,KLUMUTAN,,5340,2+700,2+800,,RR,aspal,4,,2022,,,,
+638,KLUMUTAN,,5340,2+800,2+900,,RR,aspal,4,,2022,,,,
+639,KLUMUTAN,,5340,2+900,3+000,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+640,KLUMUTAN,,5340,3+000,3+100,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+641,KLUMUTAN,,5340,3+100,3+200,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+642,KLUMUTAN,,5340,3+200,3+300,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+643,KLUMUTAN,,5340,3+300,3+400,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+644,KLUMUTAN,,5340,3+400,3+500,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+645,KLUMUTAN,,5340,3+500,3+600,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+646,KLUMUTAN,,5340,3+600,3+700,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+647,KLUMUTAN,,5340,3+700,3+800,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+648,KLUMUTAN,,5340,3+800,3+900,,baik,makadam,4,,2022,,,,
+649,KLUMUTAN,,5340,3+900,4+000,,baik,makadam,4,,2022,,,,
+650,KLUMUTAN,,5340,4+000,4+100,,baik,lapen,4,,2022,,,,
+651,KLUMUTAN,,5340,4+100,4+200,,baik,lapen,4,,2022,,,,
+652,KLUMUTAN,,5340,4+200,4+300,,baik,lapen,4,,2022,,,,
+653,KLUMUTAN,,5340,4+300,4+400,,baik,lapen,4,,2022,,,,
+654,KLUMUTAN,,5340,4+400,4+500,,baik,lapen,4,,2022,,,,
+655,KLUMUTAN,,5340,4+500,4+600,,baik,lapen,4,,2022,,,,
+656,KLUMUTAN,,5340,4+600,4+700,,baik,lapen,4,,2022,,,,
+657,KLUMUTAN,,5340,4+700,4+800,,baik,lapen,4,,2022,,,,
+658,KLUMUTAN,,5340,4+800,4+900,,baik,lapen,4,,2022,,,,
+659,KLUMUTAN,,5340,4+900,5+000,,baik,tanah,4,,2022,,,,
+660,KLUMUTAN,,5340,5+000,5+100,,baik,tanah,4,,2022,,,,
+661,KLUMUTAN,,5340,5+100,5+200,,sedang,tanah,4,,2022,,,,
+662,KLUMUTAN,,5340,5+200,5+300,,sedang,tanah,4,,2022,,,,
+663,KLUMUTAN,,5340,5+300,5+340,,sedang,tanah,4,,2022,,,,
+137,KRADINAN,,536,0+000,0+100,,sedang,tanah,4,,2022,,,,
+138,KRADINAN,,536,0+100,0+200,,sedang,beton,4,,2022,,,,
+139,KRADINAN,,536,0+200,0+300,,sedang,beton,4,,2022,,,,
+140,KRADINAN,,536,0+300,0+400,,sedang,beton,4,,2022,,,,
+141,KRADINAN,,536,0+400,0+500,,sedang,beton,4,,2022,,,,
+142,KRADINAN,,536,0+500,0+535,,sedang,beton,4,,2022,,,,
+113,KRANGGAN,,1375,0+000,0+100,,RR,beton,4,,2022,,,,
+114,KRANGGAN,,1375,0+100,0+200,,RR,beton,4,,2022,,,,
+115,KRANGGAN,,1375,0+200,0+300,,RR,beton,4,,2022,,,,
+116,KRANGGAN,,1375,0+300,0+400,,RR,beton,4,,2022,,,,
+117,KRANGGAN,,1375,0+400,0+500,,RR,beton,4,,2022,,,,
+118,KRANGGAN,,1375,0+500,0+600,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+119,KRANGGAN,,1375,0+600,0+700,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+120,KRANGGAN,,1375,0+700,0+800,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+121,KRANGGAN,,1375,0+800,0+900,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+122,KRANGGAN,,1375,0+900,1+000,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+123,KRANGGAN,,1375,1+000,1+100,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+124,KRANGGAN,,1375,1+100,1+200,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+125,KRANGGAN,,1375,1+200,1+300,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+126,KRANGGAN,,1375,1+300,1+375,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1236,KUWU I,,1486,0+000,0+100,,baik,aspal,4,,2022,,,,
+1237,KUWU I,,1486,0+100,0+200,,baik,aspal,4,,2022,,,,
+1238,KUWU I,,1486,0+200,0+300,,baik,aspal,4,,2022,,,,
+1239,KUWU I,,1486,0+300,0+400,,baik,makadam,4,,2022,,,,
+1240,KUWU I,,1486,0+400,0+500,,baik,makadam,4,,2022,,,,
+1241,KUWU I,,1486,0+500,0+600,,baik,makadam,4,,2022,,,,
+1242,KUWU I,,1486,0+600,0+700,,baik,makadam,4,,2022,,,,
+1243,KUWU I,,1486,0+700,0+800,,baik,makadam,4,,2022,,,,
+1244,KUWU I,,1486,0+800,0+900,,baik,lapen,4,,2022,,,,
+1245,KUWU I,,1486,0+900,1+000,,baik,lapen,4,,2022,,,,
+1246,KUWU I,,1486,1+000,1+100,,baik,lapen,4,,2022,,,,
+1247,KUWU I,,1486,1+100,1+200,,baik,lapen,4,,2022,,,,
+1248,KUWU I,,1486,1+200,1+300,,baik,lapen,4,,2022,,,,
+1249,KUWU I,,1486,1+300,1+400,,sedang,lapen,4,,2022,,,,
+1250,KUWU I,,1486,1+400,1+486,,sedang,lapen,4,,2022,,,,
+1251,KUWU II,,1195,0+000,0+100,,sedang,lapen,4,,2022,,,,
+1252,KUWU II,,1195,0+100,0+200,,sedang,lapen,4,,2022,,,,
+1253,KUWU II,,1195,0+200,0+300,,sedang,tanah,4,,2022,,,,
+1254,KUWU II,,1195,0+300,0+400,,sedang,tanah,4,,2022,,,,
+1255,KUWU II,,1195,0+400,0+500,,sedang,tanah,4,,2022,,,,
+1256,KUWU II,,1195,0+500,0+600,,sedang,tanah,4,,2022,,,,
+1257,KUWU II,,1195,0+600,0+700,,sedang,tanah,4,,2022,,,,
+1258,KUWU II,,1195,0+700,0+800,,RR,tanah,4,,2022,,,,
+1259,KUWU II,,1195,0+800,0+900,,RR,beton,4,,2022,,,,
+1260,KUWU II,,1195,0+900,1+000,,RR,beton,4,,2022,,,,
+1261,KUWU II,,1195,1+000,1+100,,RR,beton,4,,2022,,,,
+1262,KUWU II,,1195,1+100,1+195,,RR,beton,4,,2022,,,,
+45,KWANGSEN,,1178,0+000,0+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+46,KWANGSEN,,1178,0+100,0+200,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+47,KWANGSEN,,1178,0+200,0+300,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+48,KWANGSEN,,1178,0+300,0+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+49,KWANGSEN,,1178,0+400,0+500,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+50,KWANGSEN,,1178,0+500,0+600,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+51,KWANGSEN,,1178,0+600,0+700,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+52,KWANGSEN,,1178,0+700,0+800,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+53,KWANGSEN,,1178,0+800,0+900,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+54,KWANGSEN,,1178,0+900,1+000,,baik,aspal,4,,2022,,,,
+55,KWANGSEN,,1178,1+000,1+100,,baik,aspal,4,,2022,,,,
+56,KWANGSEN,,1178,1+100,1+178,,baik,aspal,4,,2022,,,,
+127,LEMBAH,,951,0+000,0+100,,baik,aspal,4,,2022,,,,
+128,LEMBAH,,951,0+100,0+200,,baik,aspal,4,,2022,,,,
+129,LEMBAH,,951,0+200,0+300,,baik,aspal,4,,2022,,,,
+130,LEMBAH,,951,0+300,0+400,,baik,aspal,4,,2022,,,,
+131,LEMBAH,,951,0+400,0+500,,baik,aspal,4,,2022,,,,
+132,LEMBAH,,951,0+500,0+600,,baik,aspal,4,,2022,,,,
+133,LEMBAH,,951,0+600,0+700,,baik,makadam,4,,2022,,,,
+134,LEMBAH,,951,0+700,0+800,,baik,makadam,4,,2022,,,,
+135,LEMBAH,,951,0+800,0+900,,baik,makadam,4,,2022,,,,
+136,LEMBAH,,951,0+900,0+951,,baik,makadam,4,,2022,,,,
+756,LUWORO,,1755,0+000,0+100,,sedang,makadam,4,,2022,,,,
+757,LUWORO,,1755,0+100,0+200,,sedang,lapen,4,,2022,,,,
+758,LUWORO,,1755,0+200,0+300,,sedang,lapen,4,,2022,,,,
+759,LUWORO,,1755,0+300,0+400,,sedang,lapen,4,,2022,,,,
+760,LUWORO,,1755,0+400,0+500,,sedang,lapen,4,,2022,,,,
+761,LUWORO,,1755,0+500,0+600,,sedang,lapen,4,,2022,,,,
+762,LUWORO,,1755,0+600,0+700,,sedang,lapen,4,,2022,,,,
+763,LUWORO,,1755,0+700,0+800,,sedang,lapen,4,,2022,,,,
+764,LUWORO,,1755,0+800,0+900,,sedang,lapen,4,,2022,,,,
+765,LUWORO,,1755,0+900,1+000,,RR,lapen,4,,2022,,,,
+766,LUWORO,,1755,1+000,1+100,,RR,tanah,4,,2022,,,,
+767,LUWORO,,1755,1+100,1+200,,RR,tanah,4,,2022,,,,
+768,LUWORO,,1755,1+200,1+300,,RR,tanah,4,,2022,,,,
+769,LUWORO,,1755,1+300,1+400,,RR,tanah,4,,2022,,,,
+770,LUWORO,,1755,1+400,1+500,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+771,LUWORO,,1755,1+500,1+600,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+772,LUWORO,,1755,1+600,1+700,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+773,LUWORO,,1755,1+700,1+755,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+901,MEJAYAN,,1666,0+000,0+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+902,MEJAYAN,,1666,0+100,0+200,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+903,MEJAYAN,,1666,0+200,0+300,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+904,MEJAYAN,,1666,0+300,0+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+905,MEJAYAN,,1666,0+400,0+500,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+906,MEJAYAN,,1666,0+500,0+600,,baik,beton,4,,2022,,,,
+907,MEJAYAN,,1666,0+600,0+700,,baik,beton,4,,2022,,,,
+908,MEJAYAN,,1666,0+700,0+800,,baik,beton,4,,2022,,,,
+909,MEJAYAN,,1666,0+800,0+900,,baik,beton,4,,2022,,,,
+910,MEJAYAN,,1666,0+900,1+000,,baik,beton,4,,2022,,,,
+911,MEJAYAN,,1666,1+000,1+100,,baik,beton,4,,2022,,,,
+912,MEJAYAN,,1666,1+100,1+200,,baik,aspal,4,,2022,,,,
+913,MEJAYAN,,1666,1+200,1+300,,baik,aspal,4,,2022,,,,
+914,MEJAYAN,,1666,1+300,1+400,,baik,aspal,4,,2022,,,,
+915,MEJAYAN,,1666,1+400,1+500,,baik,aspal,4,,2022,,,,
+916,MEJAYAN,,1666,1+500,1+600,,baik,aspal,4,,2022,,,,
+917,MEJAYAN,,1666,1+600,1+666,,baik,aspal,4,,2022,,,,
+363,MENDAK,,1652,0+000,0+100,,baik,aspal,4,,2022,,,,
+364,MENDAK,,1652,0+100,0+200,,sedang,aspal,4,,2022,,,,
+365,MENDAK,,1652,0+200,0+300,,sedang,aspal,4,,2022,,,,
+366,MENDAK,,1652,0+300,0+400,,sedang,makadam,4,,2022,,,,
+367,MENDAK,,1652,0+400,0+500,,sedang,makadam,4,,2022,,,,
+368,MENDAK,,1652,0+500,0+600,,sedang,makadam,4,,2022,,,,
+369,MENDAK,,1652,0+600,0+700,,sedang,makadam,4,,2022,,,,
+370,MENDAK,,1652,0+700,0+800,,sedang,makadam,4,,2022,,,,
+371,MENDAK,,1652,0+800,0+900,,sedang,lapen,4,,2022,,,,
+372,MENDAK,,1652,0+900,1+000,,sedang,lapen,4,,2022,,,,
+373,MENDAK,,1652,1+000,1+100,,RR,lapen,4,,2022,,,,
+374,MENDAK,,1652,1+100,1+200,,RR,lapen,4,,2022,,,,
+375,MENDAK,,1652,1+200,1+300,,RR,lapen,4,,2022,,,,
+376,MENDAK,,1652,1+300,1+400,,RR,lapen,4,,2022,,,,
+377,MENDAK,,1652,1+400,1+500,,RR,lapen,4,,2022,,,,
+378,MENDAK,,1652,1+500,1+600,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+379,MENDAK,,1652,1+600,1+652,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+450,MOJOPURNO,,967,0+000,0+100,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+451,MOJOPURNO,,967,0+100,0+200,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+452,MOJOPURNO,,967,0+200,0+300,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+453,MOJOPURNO,,967,0+300,0+400,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+454,MOJOPURNO,,967,0+400,0+500,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+455,MOJOPURNO,,967,0+500,0+600,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+456,MOJOPURNO,,967,0+600,0+700,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+457,MOJOPURNO,,967,0+700,0+800,,baik,beton,4,,2022,,,,
+458,MOJOPURNO,,967,0+800,0+900,,baik,beton,4,,2022,,,,
+459,MOJOPURNO,,967,0+900,0+967,,baik,beton,4,,2022,,,,
+466,MOJOREJO,,823,0+000,0+100,,baik,beton,4,,2022,,,,
+467,MOJOREJO,,823,0+100,0+200,,baik,beton,4,,2022,,,,
+468,MOJOREJO,,823,0+200,0+300,,baik,beton,4,,2022,,,,
+469,MOJOREJO,,823,0+300,0+400,,baik,beton,4,,2022,,,,
+470,MOJOREJO,,823,0+400,0+500,,baik,beton,4,,2022,,,,
+471,MOJOREJO,,823,0+500,0+600,,baik,beton,4,,2022,,,,
+472,MOJOREJO,,823,0+600,0+700,,baik,beton,4,,2022,,,,
+473,MOJOREJO,,823,0+700,0+800,,baik,beton,4,,2022,,,,
+474,MOJOREJO,,823,0+800,0+822,,baik,beton,4,,2022,,,,
+1037,NGADIREJO,,1352,0+000,0+100,,baik,aspal,4,,2022,,,,
+1038,NGADIREJO,,1352,0+100,0+200,,sedang,aspal,4,,2022,,,,
+1039,NGADIREJO,,1352,0+200,0+300,,sedang,aspal,4,,2022,,,,
+1040,NGADIREJO,,1352,0+300,0+400,,sedang,aspal,4,,2022,,,,
+1041,NGADIREJO,,1352,0+400,0+500,,sedang,aspal,4,,2022,,,,
+1042,NGADIREJO,,1352,0+500,0+600,,sedang,aspal,4,,2022,,,,
+1043,NGADIREJO,,1352,0+600,0+700,,sedang,aspal,4,,2022,,,,
+1044,NGADIREJO,,1352,0+700,0+800,,sedang,aspal,4,,2022,,,,
+1045,NGADIREJO,,1352,0+800,0+900,,sedang,aspal,4,,2022,,,,
+1046,NGADIREJO,,1352,0+900,1+000,,sedang,makadam,4,,2022,,,,
+1047,NGADIREJO,,1352,1+000,1+100,,RR,makadam,4,,2022,,,,
+1048,NGADIREJO,,1352,1+100,1+200,,RR,makadam,4,,2022,,,,
+1049,NGADIREJO,,1352,1+200,1+300,,RR,makadam,4,,2022,,,,
+1050,NGADIREJO,,1352,1+300,1+351,,RR,makadam,4,,2022,,,,
+1051,NGADIREJO,,1244,0+000,0+100,,RR,lapen,4,,2022,,,,
+1052,NGADIREJO,,1244,0+100,0+200,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1053,NGADIREJO,,1244,0+200,0+300,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1054,NGADIREJO,,1244,0+300,0+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1055,NGADIREJO,,1244,0+400,0+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1056,NGADIREJO,,1244,0+500,0+600,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1057,NGADIREJO,,1244,0+600,0+700,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1058,NGADIREJO,,1244,0+700,0+800,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1059,NGADIREJO,,1244,0+800,0+900,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1060,NGADIREJO,,1244,0+900,1+000,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1061,NGADIREJO,,1244,1+000,1+100,,baik,tanah,4,,2022,,,,
+1062,NGADIREJO,,1244,1+100,1+200,,baik,tanah,4,,2022,,,,
+1063,NGADIREJO,,1244,1+200,1+243,,baik,tanah,4,,2022,,,,
+417,NGLAMBANGAN I,,609,0+000,0+100,,baik,tanah,4,,2022,,,,
+418,NGLAMBANGAN I,,609,0+100,0+200,,baik,tanah,4,,2022,,,,
+419,NGLAMBANGAN I,,609,0+200,0+300,,baik,beton,4,,2022,,,,
+420,NGLAMBANGAN I,,609,0+300,0+400,,baik,beton,4,,2022,,,,
+421,NGLAMBANGAN I,,609,0+400,0+500,,baik,beton,4,,2022,,,,
+422,NGLAMBANGAN I,,609,0+500,0+600,,baik,beton,4,,2022,,,,
+423,NGLAMBANGAN I,,609,0+600,0+608,,baik,beton,4,,2022,,,,
+424,NGLAMBANGAN II,,986,0+000,0+100,,baik,beton,4,,2022,,,,
+425,NGLAMBANGAN II,,986,0+100,0+200,,baik,beton,4,,2022,,,,
+426,NGLAMBANGAN II,,986,0+200,0+300,,baik,beton,4,,2022,,,,
+427,NGLAMBANGAN II,,986,0+300,0+400,,sedang,beton,4,,2022,,,,
+428,NGLAMBANGAN II,,986,0+400,0+500,,sedang,beton,4,,2022,,,,
+429,NGLAMBANGAN II,,986,0+500,0+600,,sedang,beton,4,,2022,,,,
+430,NGLAMBANGAN II,,986,0+600,0+700,,sedang,beton,4,,2022,,,,
+431,NGLAMBANGAN II,,986,0+700,0+800,,sedang,beton,4,,2022,,,,
+432,NGLAMBANGAN II,,986,0+800,0+900,,sedang,aspal,4,,2022,,,,
+433,NGLAMBANGAN II,,986,0+900,0+985,,sedang,aspal,4,,2022,,,,
+434,NGLAMBANGAN III,,1543,0+000,0+100,,sedang,aspal,4,,2022,,,,
+435,NGLAMBANGAN III,,1543,0+100,0+200,,sedang,aspal,4,,2022,,,,
+436,NGLAMBANGAN III,,1543,0+200,0+300,,RR,aspal,4,,2022,,,,
+437,NGLAMBANGAN III,,1543,0+300,0+400,,RR,aspal,4,,2022,,,,
+438,NGLAMBANGAN III,,1543,0+400,0+500,,RR,aspal,4,,2022,,,,
+439,NGLAMBANGAN III,,1543,0+500,0+600,,RR,aspal,4,,2022,,,,
+440,NGLAMBANGAN III,,1543,0+600,0+700,,RR,aspal,4,,2022,,,,
+441,NGLAMBANGAN III,,1543,0+700,0+800,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+442,NGLAMBANGAN III,,1543,0+800,0+900,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+443,NGLAMBANGAN III,,1543,0+900,1+000,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+444,NGLAMBANGAN III,,1543,1+000,1+100,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+445,NGLAMBANGAN III,,1543,1+100,1+200,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+446,NGLAMBANGAN III,,1543,1+200,1+300,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+447,NGLAMBANGAN III,,1543,1+300,1+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+448,NGLAMBANGAN III,,1543,1+400,1+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+449,NGLAMBANGAN III,,1543,1+500,1+542,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+460,NGLANDUK,,578,0+000,0+100,,baik,lapen,4,,2022,,,,
+461,NGLANDUK,,578,0+100,0+200,,baik,lapen,4,,2022,,,,
+462,NGLANDUK,,578,0+200,0+300,,baik,lapen,4,,2022,,,,
+463,NGLANDUK,,578,0+300,0+400,,baik,lapen,4,,2022,,,,
+464,NGLANDUK,,578,0+400,0+500,,baik,lapen,4,,2022,,,,
+465,NGLANDUK,,578,0+500,0+500,,baik,tanah,4,,2022,,,,
+1263,PACINAN,,1558,0+000,0+100,,baik,tanah,4,,2022,,,,
+1264,PACINAN,,1558,0+100,0+200,,baik,tanah,4,,2022,,,,
+1265,PACINAN,,1558,0+200,0+300,,baik,tanah,4,,2022,,,,
+1266,PACINAN,,1558,0+300,0+400,,baik,tanah,4,,2022,,,,
+1267,PACINAN,,1558,0+400,0+500,,baik,tanah,4,,2022,,,,
+1268,PACINAN,,1558,0+500,0+600,,baik,beton,4,,2022,,,,
+1269,PACINAN,,1558,0+600,0+700,,baik,beton,4,,2022,,,,
+1270,PACINAN,,1558,0+700,0+800,,sedang,beton,4,,2022,,,,
+1271,PACINAN,,1558,0+800,0+900,,sedang,beton,4,,2022,,,,
+1272,PACINAN,,1558,0+900,1+000,,sedang,beton,4,,2022,,,,
+1273,PACINAN,,1558,1+000,1+100,,sedang,beton,4,,2022,,,,
+1274,PACINAN,,1558,1+100,1+200,,sedang,beton,4,,2022,,,,
+1275,PACINAN,,1558,1+200,1+300,,sedang,beton,4,,2022,,,,
+1276,PACINAN,,1558,1+300,1+400,,sedang,beton,4,,2022,,,,
+1277,PACINAN,,1558,1+400,1+500,,sedang,beton,4,,2022,,,,
+1278,PACINAN,,1558,1+500,1+558,,sedang,beton,4,,2022,,,,
+1,PALUR I,,1041,0+000,0+100,,RR,beton,4,,2022,,,,
+2,PALUR I,,1041,0+100,0+200,,RR,beton,4,,2022,,,,
+3,PALUR I,,1041,0+200,0+300,,RR,aspal,4,,2022,,,,
+4,PALUR I,,1041,0+300,0+400,,RR,aspal,4,,2022,,,,
+5,PALUR I,,1041,0+400,0+500,,RR,aspal,4,,2022,,,,
+6,PALUR I,,1041,0+500,0+600,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+7,PALUR I,,1041,0+600,0+700,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+8,PALUR I,,1041,0+700,0+800,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+9,PALUR I,,1041,0+800,0+900,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+10,PALUR I,,1041,0+900,1+000,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+11,PALUR I,,1041,1+000,1+100,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+181,PALUR II,,1082,0+000,0+100,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+182,PALUR II,,1082,0+100,0+200,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+183,PALUR II,,1082,0+200,0+300,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+184,PALUR II,,1082,0+300,0+400,,baik,makadam,4,,2022,,,,
+185,PALUR II,,1082,0+400,0+500,,baik,makadam,4,,2022,,,,
+186,PALUR II,,1082,0+500,0+600,,baik,lapen,4,,2022,,,,
+187,PALUR II,,1082,0+600,0+700,,baik,lapen,4,,2022,,,,
+188,PALUR II,,1082,0+700,0+800,,baik,lapen,4,,2022,,,,
+189,PALUR II,,1082,0+800,0+900,,baik,lapen,4,,2022,,,,
+190,PALUR II,,1082,0+900,1+000,,baik,lapen,4,,2022,,,,
+191,PALUR II,,1082,1+000,1+081,,baik,lapen,4,,2022,,,,
+351,PALUR III,,1139,0+000,0+100,,baik,lapen,4,,2022,,,,
+352,PALUR III,,1139,0+100,0+200,,baik,lapen,4,,2022,,,,
+353,PALUR III,,1139,0+200,0+300,,baik,lapen,4,,2022,,,,
+354,PALUR III,,1139,0+300,0+400,,baik,tanah,4,,2022,,,,
+355,PALUR III,,1139,0+400,0+500,,baik,tanah,4,,2022,,,,
+356,PALUR III,,1139,0+500,0+600,,sedang,tanah,4,,2022,,,,
+357,PALUR III,,1139,0+600,0+700,,sedang,tanah,4,,2022,,,,
+358,PALUR III,,1139,0+700,0+800,,sedang,tanah,4,,2022,,,,
+359,PALUR III,,1139,0+800,0+900,,sedang,tanah,4,,2022,,,,
+360,PALUR III,,1139,0+900,1+000,,sedang,beton,4,,2022,,,,
+361,PALUR III,,1139,1+000,1+100,,sedang,beton,4,,2022,,,,
+362,PALUR III,,1139,1+100,1+138,,sedang,beton,4,,2022,,,,
+390,PILANGREJO I,,1375,0+000,0+100,,sedang,beton,4,,2022,,,,
+391,PILANGREJO I,,1375,0+100,0+200,,sedang,beton,4,,2022,,,,
+392,PILANGREJO I,,1375,0+200,0+300,,RR,beton,4,,2022,,,,
+393,PILANGREJO I,,1375,0+300,0+400,,RR,beton,4,,2022,,,,
+394,PILANGREJO I,,1375,0+400,0+500,,RR,beton,4,,2022,,,,
+395,PILANGREJO I,,1375,0+500,0+600,,RR,beton,4,,2022,,,,
+396,PILANGREJO I,,1375,0+600,0+700,,RR,beton,4,,2022,,,,
+397,PILANGREJO I,,1375,0+700,0+800,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+398,PILANGREJO I,,1375,0+800,0+900,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+399,PILANGREJO I,,1375,0+900,1+000,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+400,PILANGREJO I,,1375,1+000,1+100,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+401,PILANGREJO I,,1375,1+100,1+200,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+402,PILANGREJO I,,1375,1+200,1+300,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+403,PILANGREJO I,,1375,1+300,1+300,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+404,PILANGREJO II,,506,0+000,0+100,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+405,PILANGREJO II,,506,0+100,0+200,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+406,PILANGREJO II,,506,0+200,0+300,,baik,aspal,4,,2022,,,,
+407,PILANGREJO II,,506,0+300,0+400,,baik,aspal,4,,2022,,,,
+408,PILANGREJO II,,506,0+400,0+500,,baik,aspal,4,,2022,,,,
+409,PILANGREJO II,,506,0+500,0+505,,baik,makadam,4,,2022,,,,
+968,PLUMPUNGREJO,,625,0+000,0+100,,baik,makadam,4,,2022,,,,
+969,PLUMPUNGREJO,,625,0+100,0+200,,baik,makadam,4,,2022,,,,
+970,PLUMPUNGREJO,,625,0+200,0+300,,baik,makadam,4,,2022,,,,
+971,PLUMPUNGREJO,,625,0+300,0+400,,baik,makadam,4,,2022,,,,
+972,PLUMPUNGREJO,,625,0+400,0+500,,baik,lapen,4,,2022,,,,
+973,PLUMPUNGREJO,,625,0+500,0+600,,baik,lapen,4,,2022,,,,
+974,PLUMPUNGREJO,,625,0+600,0+624,,baik,lapen,4,,2022,,,,
+1279,PURWOREJO,,1732,0+000,0+100,,baik,lapen,4,,2022,,,,
+1280,PURWOREJO,,1732,0+100,0+200,,baik,lapen,4,,2022,,,,
+1281,PURWOREJO,,1732,0+200,0+300,,sedang,lapen,4,,2022,,,,
+1282,PURWOREJO,,1732,0+300,0+400,,sedang,lapen,4,,2022,,,,
+1283,PURWOREJO,,1732,0+400,0+500,,sedang,lapen,4,,2022,,,,
+1284,PURWOREJO,,1732,0+500,0+600,,sedang,lapen,4,,2022,,,,
+1285,PURWOREJO,,1732,0+600,0+700,,sedang,tanah,4,,2022,,,,
+1286,PURWOREJO,,1732,0+700,0+800,,sedang,tanah,4,,2022,,,,
+1287,PURWOREJO,,1732,0+800,0+900,,sedang,tanah,4,,2022,,,,
+1288,PURWOREJO,,1732,0+900,1+000,,sedang,tanah,4,,2022,,,,
+1289,PURWOREJO,,1732,1+000,1+100,,sedang,tanah,4,,2022,,,,
+1290,PURWOREJO,,1732,1+100,1+200,,RR,tanah,4,,2022,,,,
+1291,PURWOREJO,,1732,1+200,1+300,,RR,beton,4,,2022,,,,
+1292,PURWOREJO,,1732,1+300,1+400,,RR,beton,4,,2022,,,,
+1293,PURWOREJO,,1732,1+400,1+500,,RR,beton,4,,2022,,,,
+1294,PURWOREJO,,1732,1+500,1+600,,RR,beton,4,,2022,,,,
+1295,PURWOREJO,,1732,1+600,1+700,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1296,PURWOREJO,,1732,1+700,1+731,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+664,REJOSARI,,666,0+000,0+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+665,REJOSARI,,666,0+100,0+200,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+666,REJOSARI,,666,0+200,0+300,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+667,REJOSARI,,666,0+300,0+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+668,REJOSARI,,666,0+400,0+500,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+669,REJOSARI,,666,0+500,0+600,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+670,REJOSARI,,666,0+600,0+666,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1435,REJOSARI,,809,0+000,0+100,,baik,aspal,4,,2022,,,,
+1436,REJOSARI,,809,0+100,0+200,,baik,aspal,4,,2022,,,,
+1437,REJOSARI,,809,0+200,0+300,,baik,aspal,4,,2022,,,,
+1438,REJOSARI,,809,0+300,0+400,,baik,aspal,4,,2022,,,,
+1439,REJOSARI,,809,0+400,0+500,,baik,aspal,4,,2022,,,,
+1440,REJOSARI,,809,0+500,0+600,,baik,aspal,4,,2022,,,,
+1441,REJOSARI,,809,0+600,0+700,,baik,aspal,4,,2022,,,,
+1442,REJOSARI,,809,0+700,0+800,,baik,aspal,4,,2022,,,,
+1443,REJOSARI,,809,0+800,0+809,,baik,aspal,4,,2022,,,,
+57,SAMBIREJO,,708,0+000,0+100,,baik,makadam,4,,2022,,,,
+58,SAMBIREJO,,708,0+100,0+200,,baik,makadam,4,,2022,,,,
+59,SAMBIREJO,,708,0+200,0+300,,baik,makadam,4,,2022,,,,
+60,SAMBIREJO,,708,0+300,0+400,,baik,makadam,4,,2022,,,,
+61,SAMBIREJO,,708,0+400,0+500,,sedang,makadam,4,,2022,,,,
+62,SAMBIREJO,,708,0+500,0+600,,sedang,lapen,4,,2022,,,,
+63,SAMBIREJO,,708,0+600,0+700,,sedang,lapen,4,,2022,,,,
+64,SAMBIREJO,,708,0+700,0+707,,sedang,lapen,4,,2022,,,,
+304,SEGULUNG,,1711,0+000,0+100,,sedang,lapen,4,,2022,,,,
+305,SEGULUNG,,1711,0+100,0+200,,sedang,lapen,4,,2022,,,,
+306,SEGULUNG,,1711,0+200,0+300,,sedang,lapen,4,,2022,,,,
+307,SEGULUNG,,1711,0+300,0+400,,sedang,lapen,4,,2022,,,,
+308,SEGULUNG,,1711,0+400,0+500,,sedang,lapen,4,,2022,,,,
+309,SEGULUNG,,1711,0+500,0+600,,RR,lapen,4,,2022,,,,
+310,SEGULUNG,,1711,0+600,0+700,,RR,tanah,4,,2022,,,,
+311,SEGULUNG,,1711,0+700,0+800,,RR,tanah,4,,2022,,,,
+312,SEGULUNG,,1711,0+800,0+900,,RR,tanah,4,,2022,,,,
+313,SEGULUNG,,1711,0+900,1+000,,RR,tanah,4,,2022,,,,
+314,SEGULUNG,,1711,1+000,1+100,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+315,SEGULUNG,,1711,1+100,1+200,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+316,SEGULUNG,,1711,1+200,1+300,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+317,SEGULUNG,,1711,1+300,1+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+318,SEGULUNG,,1711,1+400,1+500,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+319,SEGULUNG,,1711,1+500,1+600,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+320,SEGULUNG,,1711,1+600,1+700,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+321,SEGULUNG,,1711,1+700,1+710,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1387,SENDANGREJO,,711,0+000,0+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1388,SENDANGREJO,,711,0+100,0+200,,baik,beton,4,,2022,,,,
+1389,SENDANGREJO,,711,0+200,0+300,,baik,beton,4,,2022,,,,
+1390,SENDANGREJO,,711,0+300,0+400,,baik,beton,4,,2022,,,,
+1391,SENDANGREJO,,711,0+400,0+500,,baik,beton,4,,2022,,,,
+1392,SENDANGREJO,,711,0+500,0+600,,baik,beton,4,,2022,,,,
+1393,SENDANGREJO,,711,0+600,0+700,,baik,beton,4,,2022,,,,
+1394,SENDANGREJO,,711,0+700,0+711,,baik,aspal,4,,2022,,,,
+1007,SIDOMULYO I,,427,0+300,0+400,,baik,aspal,4,,2022,,,,
+1008,SIDOMULYO I,,427,0+000,0+100,,baik,aspal,4,,2022,,,,
+1009,SIDOMULYO I,,427,0+100,0+200,,baik,aspal,4,,2022,,,,
+1010,SIDOMULYO I,,427,0+200,0+300,,baik,aspal,4,,2022,,,,
+1011,SIDOMULYO I,,427,0+400,0+426,,baik,aspal,4,,2022,,,,
+1012,SIDOMULYO II,,2455,0+000,0+100,,baik,aspal,4,,2022,,,,
+1013,SIDOMULYO II,,2455,0+100,0+200,,sedang,aspal,4,,2022,,,,
+1014,SIDOMULYO II,,2455,0+200,0+300,,sedang,aspal,4,,2022,,,,
+1015,SIDOMULYO II,,2455,0+300,0+400,,sedang,makadam,4,,2022,,,,
+1016,SIDOMULYO II,,2455,0+400,0+500,,sedang,makadam,4,,2022,,,,
+1017,SIDOMULYO II,,2455,0+500,0+600,,sedang,makadam,4,,2022,,,,
+1018,SIDOMULYO II,,2455,0+600,0+700,,sedang,makadam,4,,2022,,,,
+1019,SIDOMULYO II,,2455,0+700,0+800,,sedang,makadam,4,,2022,,,,
+1020,SIDOMULYO II,,2455,0+800,0+900,,sedang,lapen,4,,2022,,,,
+1021,SIDOMULYO II,,2455,0+900,1+000,,sedang,lapen,4,,2022,,,,
+1022,SIDOMULYO II,,2455,1+000,1+100,,RR,lapen,4,,2022,,,,
+1023,SIDOMULYO II,,2455,1+100,1+200,,RR,lapen,4,,2022,,,,
+1024,SIDOMULYO II,,2455,1+200,1+300,,RR,lapen,4,,2022,,,,
+1025,SIDOMULYO II,,2455,1+300,1+400,,RR,lapen,4,,2022,,,,
+1026,SIDOMULYO II,,2455,1+400,1+500,,RR,lapen,4,,2022,,,,
+1027,SIDOMULYO II,,2455,1+500,1+600,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1028,SIDOMULYO II,,2455,1+600,1+700,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1029,SIDOMULYO II,,2455,1+700,1+800,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1030,SIDOMULYO II,,2455,1+800,1+900,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1031,SIDOMULYO II,,2455,1+900,2+000,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1032,SIDOMULYO II,,2455,2+000,2+100,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1033,SIDOMULYO II,,2455,2+100,2+200,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1034,SIDOMULYO II,,2455,2+200,2+300,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1035,SIDOMULYO II,,2455,2+300,2+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1036,SIDOMULYO II,,2455,2+400,2+454,,baik,beton,4,,2022,,,,
+475,SIDOREJO,,267,0+100,0+200,,baik,beton,4,,2022,,,,
+476,SIDOREJO,,267,0+000,0+100,,baik,beton,4,,2022,,,,
+477,SIDOREJO,,267,0+200,0+200,,baik,beton,4,,2022,,,,
+1297,SIMO,,2512,0+000,0+100,,baik,beton,4,,2022,,,,
+1298,SIMO,,2512,0+100,0+200,,baik,beton,4,,2022,,,,
+1299,SIMO,,2512,0+200,0+300,,baik,beton,4,,2022,,,,
+1300,SIMO,,2512,0+300,0+400,,baik,beton,4,,2022,,,,
+1301,SIMO,,2512,0+400,0+500,,baik,beton,4,,2022,,,,
+1302,SIMO,,2512,0+500,0+600,,baik,beton,4,,2022,,,,
+1303,SIMO,,2512,0+600,0+700,,baik,beton,4,,2022,,,,
+1304,SIMO,,2512,0+700,0+800,,baik,beton,4,,2022,,,,
+1305,SIMO,,2512,0+800,0+900,,baik,aspal,4,,2022,,,,
+1306,SIMO,,2512,0+900,1+000,,sedang,aspal,4,,2022,,,,
+1307,SIMO,,2512,1+000,1+100,,sedang,aspal,4,,2022,,,,
+1308,SIMO,,2512,1+100,1+200,,sedang,aspal,4,,2022,,,,
+1309,SIMO,,2512,1+200,1+300,,sedang,aspal,4,,2022,,,,
+1310,SIMO,,2512,1+300,1+400,,sedang,aspal,4,,2022,,,,
+1311,SIMO,,2512,1+400,1+500,,sedang,aspal,4,,2022,,,,
+1312,SIMO,,2512,1+500,1+600,,sedang,aspal,4,,2022,,,,
+1313,SIMO,,2512,1+600,1+700,,sedang,aspal,4,,2022,,,,
+1314,SIMO,,2512,1+700,1+800,,sedang,makadam,4,,2022,,,,
+1315,SIMO,,2512,1+800,1+900,,RR,makadam,4,,2022,,,,
+1316,SIMO,,2512,1+900,2+000,,RR,makadam,4,,2022,,,,
+1317,SIMO,,2512,2+000,2+100,,RR,makadam,4,,2022,,,,
+1318,SIMO,,2512,2+100,2+200,,RR,makadam,4,,2022,,,,
+1319,SIMO,,2512,2+200,2+300,,RR,lapen,4,,2022,,,,
+1320,SIMO,,2512,2+300,2+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1321,SIMO,,2512,2+400,2+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1322,SIMO,,2512,2+500,2+512,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1395,SIRAPAN,,2484,0+000,0+100,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1396,SIRAPAN,,2484,0+100,0+200,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1397,SIRAPAN,,2484,0+200,0+300,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1398,SIRAPAN,,2484,0+300,0+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1399,SIRAPAN,,2484,0+400,0+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1400,SIRAPAN,,2484,0+500,0+600,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1401,SIRAPAN,,2484,0+600,0+700,,baik,tanah,4,,2022,,,,
+1402,SIRAPAN,,2484,0+700,0+800,,baik,tanah,4,,2022,,,,
+1403,SIRAPAN,,2484,0+800,0+900,,baik,tanah,4,,2022,,,,
+1404,SIRAPAN,,2484,0+900,1+000,,baik,tanah,4,,2022,,,,
+1405,SIRAPAN,,2484,1+000,1+100,,baik,tanah,4,,2022,,,,
+1406,SIRAPAN,,2484,1+100,1+200,,baik,beton,4,,2022,,,,
+1407,SIRAPAN,,2484,1+200,1+300,,baik,beton,4,,2022,,,,
+1408,SIRAPAN,,2484,1+300,1+400,,baik,beton,4,,2022,,,,
+1409,SIRAPAN,,2484,1+400,1+500,,baik,beton,4,,2022,,,,
+1410,SIRAPAN,,2484,1+500,1+600,,baik,beton,4,,2022,,,,
+1411,SIRAPAN,,2484,1+600,1+700,,baik,beton,4,,2022,,,,
+1412,SIRAPAN,,2484,1+700,1+800,,baik,beton,4,,2022,,,,
+1413,SIRAPAN,,2484,1+800,1+900,,baik,beton,4,,2022,,,,
+1414,SIRAPAN,,2484,1+900,2+000,,sedang,beton,4,,2022,,,,
+1415,SIRAPAN,,2484,2+000,2+100,,sedang,beton,4,,2022,,,,
+1416,SIRAPAN,,2484,2+100,2+200,,sedang,beton,4,,2022,,,,
+1417,SIRAPAN,,2484,2+200,2+300,,sedang,beton,4,,2022,,,,
+1418,SIRAPAN,,2484,2+300,2+400,,sedang,beton,4,,2022,,,,
+1419,SIRAPAN,,2484,2+400,2+483,,sedang,aspal,4,,2022,,,,
+1323,SOGO,,2661,0+000,0+100,,sedang,aspal,4,,2022,,,,
+1324,SOGO,,2661,0+100,0+200,,sedang,aspal,4,,2022,,,,
+1325,SOGO,,2661,0+200,0+300,,sedang,aspal,4,,2022,,,,
+1326,SOGO,,2661,0+300,0+400,,RR,aspal,4,,2022,,,,
+1327,SOGO,,2661,0+400,0+500,,RR,aspal,4,,2022,,,,
+1328,SOGO,,2661,0+500,0+600,,RR,aspal,4,,2022,,,,
+1329,SOGO,,2661,0+600,0+700,,RR,aspal,4,,2022,,,,
+1330,SOGO,,2661,0+700,0+800,,RR,aspal,4,,2022,,,,
+1331,SOGO,,2661,0+800,0+900,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1332,SOGO,,2661,0+900,1+000,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1333,SOGO,,2661,1+000,1+100,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1334,SOGO,,2661,1+100,1+200,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1335,SOGO,,2661,1+200,1+300,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1336,SOGO,,2661,1+300,1+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1337,SOGO,,2661,1+400,1+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1338,SOGO,,2661,1+500,1+600,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1339,SOGO,,2661,1+600,1+700,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1340,SOGO,,2661,1+700,1+800,,baik,lapen,4,,2022,,,,
+1341,SOGO,,2661,1+800,1+900,,baik,lapen,4,,2022,,,,
+1342,SOGO,,2661,1+900,2+000,,baik,lapen,4,,2022,,,,
+1343,SOGO,,2661,2+000,2+100,,baik,lapen,4,,2022,,,,
+1344,SOGO,,2661,2+100,2+200,,baik,lapen,4,,2022,,,,
+1345,SOGO,,2661,2+200,2+300,,baik,tanah,4,,2022,,,,
+1346,SOGO,,2661,2+300,2+400,,baik,tanah,4,,2022,,,,
+1347,SOGO,,2661,2+400,2+500,,baik,tanah,4,,2022,,,,
+1348,SOGO,,2661,2+500,2+600,,baik,tanah,4,,2022,,,,
+1349,SOGO,,2661,2+600,2+660,,baik,tanah,4,,2022,,,,
+712,SUGIHWARAS,,4346,0+000,0+100,,baik,tanah,4,,2022,,,,
+713,SUGIHWARAS,,4346,0+100,0+200,,baik,beton,4,,2022,,,,
+714,SUGIHWARAS,,4346,0+200,0+300,,baik,beton,4,,2022,,,,
+715,SUGIHWARAS,,4346,0+300,0+400,,sedang,beton,4,,2022,,,,
+716,SUGIHWARAS,,4346,0+400,0+500,,sedang,beton,4,,2022,,,,
+717,SUGIHWARAS,,4346,0+500,0+600,,sedang,beton,4,,2022,,,,
+718,SUGIHWARAS,,4346,0+600,0+700,,sedang,beton,4,,2022,,,,
+719,SUGIHWARAS,,4346,0+700,0+800,,sedang,beton,4,,2022,,,,
+720,SUGIHWARAS,,4346,0+800,0+900,,sedang,beton,4,,2022,,,,
+721,SUGIHWARAS,,4346,0+900,1+000,,sedang,beton,4,,2022,,,,
+722,SUGIHWARAS,,4346,1+000,1+100,,sedang,beton,4,,2022,,,,
+723,SUGIHWARAS,,4346,1+100,1+200,,sedang,beton,4,,2022,,,,
+724,SUGIHWARAS,,4346,1+200,1+300,,RR,beton,4,,2022,,,,
+725,SUGIHWARAS,,4346,1+300,1+400,,RR,beton,4,,2022,,,,
+726,SUGIHWARAS,,4346,1+400,1+500,,RR,aspal,4,,2022,,,,
+727,SUGIHWARAS,,4346,1+500,1+600,,RR,aspal,4,,2022,,,,
+728,SUGIHWARAS,,4346,1+600,1+700,,RR,aspal,4,,2022,,,,
+729,SUGIHWARAS,,4346,1+700,1+800,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+730,SUGIHWARAS,,4346,1+800,1+900,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+731,SUGIHWARAS,,4346,1+900,2+000,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+732,SUGIHWARAS,,4346,2+000,2+100,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+733,SUGIHWARAS,,4346,2+100,2+200,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+734,SUGIHWARAS,,4346,2+200,2+300,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+735,SUGIHWARAS,,4346,2+300,2+400,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+736,SUGIHWARAS,,4346,2+400,2+500,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+737,SUGIHWARAS,,4346,2+500,2+600,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+738,SUGIHWARAS,,4346,2+600,2+700,,baik,makadam,4,,2022,,,,
+739,SUGIHWARAS,,4346,2+700,2+800,,baik,makadam,4,,2022,,,,
+740,SUGIHWARAS,,4346,2+800,2+900,,baik,lapen,4,,2022,,,,
+741,SUGIHWARAS,,4346,2+900,3+000,,baik,lapen,4,,2022,,,,
+742,SUGIHWARAS,,4346,3+000,3+100,,baik,lapen,4,,2022,,,,
+743,SUGIHWARAS,,4346,3+100,3+200,,baik,lapen,4,,2022,,,,
+744,SUGIHWARAS,,4346,3+200,3+300,,baik,lapen,4,,2022,,,,
+745,SUGIHWARAS,,4346,3+300,3+400,,baik,lapen,4,,2022,,,,
+746,SUGIHWARAS,,4346,3+400,3+500,,baik,lapen,4,,2022,,,,
+747,SUGIHWARAS,,4346,3+500,3+600,,baik,lapen,4,,2022,,,,
+748,SUGIHWARAS,,4346,3+600,3+700,,baik,lapen,4,,2022,,,,
+749,SUGIHWARAS,,4346,3+700,3+800,,baik,tanah,4,,2022,,,,
+750,SUGIHWARAS,,4346,3+800,3+900,,baik,tanah,4,,2022,,,,
+751,SUGIHWARAS,,4346,3+900,4+000,,sedang,tanah,4,,2022,,,,
+752,SUGIHWARAS,,4346,4+000,4+100,,sedang,tanah,4,,2022,,,,
+753,SUGIHWARAS,,4346,4+100,4+200,,sedang,tanah,4,,2022,,,,
+754,SUGIHWARAS,,4346,4+200,4+300,,sedang,tanah,4,,2022,,,,
+755,SUGIHWARAS,,4346,4+300,4+345,,sedang,beton,4,,2022,,,,
+199,SULUK,,824,0+000,0+100,,sedang,beton,4,,2022,,,,
+200,SULUK,,824,0+100,0+200,,sedang,beton,4,,2022,,,,
+201,SULUK,,824,0+200,0+300,,sedang,beton,4,,2022,,,,
+202,SULUK,,824,0+300,0+400,,sedang,beton,4,,2022,,,,
+203,SULUK,,824,0+400,0+500,,RR,beton,4,,2022,,,,
+204,SULUK,,824,0+500,0+600,,RR,beton,4,,2022,,,,
+205,SULUK,,824,0+600,0+700,,RR,beton,4,,2022,,,,
+206,SULUK,,824,0+700,0+800,,RR,beton,4,,2022,,,,
+207,SULUK,,824,0+800,0+824,,RR,beton,4,,2022,,,,
+695,SUMBERBENDO,,1667,0+000,0+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+696,SUMBERBENDO,,1667,0+100,0+200,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+697,SUMBERBENDO,,1667,0+200,0+300,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+698,SUMBERBENDO,,1667,0+300,0+400,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+699,SUMBERBENDO,,1667,0+400,0+500,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+700,SUMBERBENDO,,1667,0+500,0+600,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+701,SUMBERBENDO,,1667,0+600,0+700,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+702,SUMBERBENDO,,1667,0+700,0+800,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+703,SUMBERBENDO,,1667,0+800,0+900,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+704,SUMBERBENDO,,1667,0+900,1+000,,baik,aspal,4,,2022,,,,
+705,SUMBERBENDO,,1667,1+000,1+100,,baik,aspal,4,,2022,,,,
+706,SUMBERBENDO,,1667,1+100,1+200,,baik,aspal,4,,2022,,,,
+707,SUMBERBENDO,,1667,1+200,1+300,,baik,makadam,4,,2022,,,,
+708,SUMBERBENDO,,1667,1+300,1+400,,baik,makadam,4,,2022,,,,
+709,SUMBERBENDO,,1667,1+400,1+500,,baik,makadam,4,,2022,,,,
+710,SUMBERBENDO,,1667,1+500,1+600,,baik,makadam,4,,2022,,,,
+711,SUMBERBENDO,,1667,1+600,1+667,,baik,makadam,4,,2022,,,,
+1350,SUMBERBENING,,1127,0+000,0+100,,baik,lapen,4,,2022,,,,
+1351,SUMBERBENING,,1127,0+100,0+200,,baik,lapen,4,,2022,,,,
+1352,SUMBERBENING,,1127,0+200,0+300,,baik,lapen,4,,2022,,,,
+1353,SUMBERBENING,,1127,0+300,0+400,,baik,lapen,4,,2022,,,,
+1354,SUMBERBENING,,1127,0+400,0+500,,baik,lapen,4,,2022,,,,
+1355,SUMBERBENING,,1127,0+500,0+600,,sedang,lapen,4,,2022,,,,
+1356,SUMBERBENING,,1127,0+600,0+700,,sedang,lapen,4,,2022,,,,
+1357,SUMBERBENING,,1127,0+700,0+800,,sedang,lapen,4,,2022,,,,
+1358,SUMBERBENING,,1127,0+800,0+900,,sedang,lapen,4,,2022,,,,
+1359,SUMBERBENING,,1127,0+900,1+000,,sedang,tanah,4,,2022,,,,
+1360,SUMBERBENING,,1127,1+000,1+100,,sedang,tanah,4,,2022,,,,
+1361,SUMBERBENING,,1127,1+100,1+126,,sedang,tanah,4,,2022,,,,
+975,SUMBEREJO,,3140,0+000,0+100,,sedang,tanah,4,,2022,,,,
+976,SUMBEREJO,,3140,0+100,0+200,,sedang,tanah,4,,2022,,,,
+977,SUMBEREJO,,3140,0+200,0+300,,RR,tanah,4,,2022,,,,
+978,SUMBEREJO,,3140,0+300,0+400,,RR,beton,4,,2022,,,,
+979,SUMBEREJO,,3140,0+400,0+500,,RR,beton,4,,2022,,,,
+980,SUMBEREJO,,3140,0+500,0+600,,RR,beton,4,,2022,,,,
+981,SUMBEREJO,,3140,0+600,0+700,,RR,beton,4,,2022,,,,
+982,SUMBEREJO,,3140,0+700,0+800,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+983,SUMBEREJO,,3140,0+800,0+900,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+984,SUMBEREJO,,3140,0+900,1+000,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+985,SUMBEREJO,,3140,1+000,1+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+986,SUMBEREJO,,3140,1+100,1+200,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+987,SUMBEREJO,,3140,1+200,1+300,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+988,SUMBEREJO,,3140,1+300,1+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+989,SUMBEREJO,,3140,1+400,1+500,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+990,SUMBEREJO,,3140,1+500,1+600,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+991,SUMBEREJO,,3140,1+600,1+700,,baik,aspal,4,,2022,,,,
+992,SUMBEREJO,,3140,1+700,1+800,,baik,aspal,4,,2022,,,,
+993,SUMBEREJO,,3140,1+800,1+900,,baik,aspal,4,,2022,,,,
+994,SUMBEREJO,,3140,1+900,2+000,,baik,aspal,4,,2022,,,,
+995,SUMBEREJO,,3140,2+000,2+100,,baik,aspal,4,,2022,,,,
+996,SUMBEREJO,,3140,2+100,2+200,,baik,aspal,4,,2022,,,,
+997,SUMBEREJO,,3140,2+200,2+300,,baik,aspal,4,,2022,,,,
+998,SUMBEREJO,,3140,2+300,2+400,,baik,aspal,4,,2022,,,,
+999,SUMBEREJO,,3140,2+400,2+500,,baik,aspal,4,,2022,,,,
+1000,SUMBEREJO,,3140,2+500,2+600,,baik,makadam,4,,2022,,,,
+1001,SUMBEREJO,,3140,2+600,2+700,,baik,makadam,4,,2022,,,,
+1002,SUMBEREJO,,3140,2+700,2+800,,baik,makadam,4,,2022,,,,
+1003,SUMBEREJO,,3140,2+800,2+900,,baik,makadam,4,,2022,,,,
+1004,SUMBEREJO,,3140,2+900,3+000,,sedang,makadam,4,,2022,,,,
+1005,SUMBEREJO,,3140,3+000,3+100,,sedang,lapen,4,,2022,,,,
+1006,SUMBEREJO,,3140,3+100,3+140,,sedang,lapen,4,,2022,,,,
+1420,SUMBEREJO,,1464,0+000,0+100,,sedang,lapen,4,,2022,,,,
+1421,SUMBEREJO,,1464,0+100,0+200,,sedang,lapen,4,,2022,,,,
+1422,SUMBEREJO,,1464,0+200,0+300,,sedang,lapen,4,,2022,,,,
+1423,SUMBEREJO,,1464,0+300,0+400,,sedang,lapen,4,,2022,,,,
+1424,SUMBEREJO,,1464,0+400,0+500,,sedang,lapen,4,,2022,,,,
+1425,SUMBEREJO,,1464,0+500,0+600,,sedang,lapen,4,,2022,,,,
+1426,SUMBEREJO,,1464,0+600,0+700,,RR,lapen,4,,2022,,,,
+1427,SUMBEREJO,,1464,0+700,0+800,,RR,tanah,4,,2022,,,,
+1428,SUMBEREJO,,1464,0+800,0+900,,RR,tanah,4,,2022,,,,
+1429,SUMBEREJO,,1464,0+900,1+000,,RR,tanah,4,,2022,,,,
+1430,SUMBEREJO,,1464,1+000,1+100,,RR,tanah,4,,2022,,,,
+1431,SUMBEREJO,,1464,1+100,1+200,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1432,SUMBEREJO,,1464,1+200,1+300,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1433,SUMBEREJO,,1464,1+300,1+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1434,SUMBEREJO,,1464,1+400,1+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+684,SUMBERSAMBI,,1015,0+000,0+100,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+685,SUMBERSAMBI,,1015,0+100,0+200,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+686,SUMBERSAMBI,,1015,0+200,0+300,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+687,SUMBERSAMBI,,1015,0+300,0+400,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+688,SUMBERSAMBI,,1015,0+400,0+500,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+689,SUMBERSAMBI,,1015,0+500,0+600,,baik,beton,4,,2022,,,,
+690,SUMBERSAMBI,,1015,0+600,0+700,,baik,beton,4,,2022,,,,
+691,SUMBERSAMBI,,1015,0+700,0+800,,baik,beton,4,,2022,,,,
+692,SUMBERSAMBI,,1015,0+800,0+900,,baik,beton,4,,2022,,,,
+693,SUMBERSAMBI,,1015,0+900,1+000,,baik,beton,4,,2022,,,,
+694,SUMBERSAMBI,,1015,1+000,1+015,,baik,beton,4,,2022,,,,
+65,TEGUHAN,,998,0+000,0+100,,baik,aspal,4,,2022,,,,
+66,TEGUHAN,,998,0+100,0+200,,baik,aspal,4,,2022,,,,
+67,TEGUHAN,,998,0+200,0+300,,baik,aspal,4,,2022,,,,
+68,TEGUHAN,,998,0+300,0+400,,baik,aspal,4,,2022,,,,
+69,TEGUHAN,,998,0+400,0+500,,baik,aspal,4,,2022,,,,
+70,TEGUHAN,,998,0+500,0+600,,baik,aspal,4,,2022,,,,
+71,TEGUHAN,,998,0+600,0+700,,baik,aspal,4,,2022,,,,
+72,TEGUHAN,,998,0+700,0+800,,sedang,aspal,4,,2022,,,,
+73,TEGUHAN,,998,0+800,0+900,,sedang,aspal,4,,2022,,,,
+74,TEGUHAN,,998,0+900,0+989,,sedang,makadam,4,,2022,,,,
+380,TEMPURSARI,,936,0+000,0+100,,sedang,makadam,4,,2022,,,,
+381,TEMPURSARI,,936,0+100,0+200,,sedang,makadam,4,,2022,,,,
+382,TEMPURSARI,,936,0+200,0+300,,sedang,makadam,4,,2022,,,,
+383,TEMPURSARI,,936,0+300,0+400,,sedang,makadam,4,,2022,,,,
+384,TEMPURSARI,,936,0+400,0+500,,sedang,lapen,4,,2022,,,,
+385,TEMPURSARI,,936,0+500,0+600,,sedang,lapen,4,,2022,,,,
+386,TEMPURSARI,,936,0+600,0+700,,RR,lapen,4,,2022,,,,
+387,TEMPURSARI,,936,0+700,0+800,,RR,lapen,4,,2022,,,,
+388,TEMPURSARI,,936,0+800,0+900,,RR,lapen,4,,2022,,,,
+389,TEMPURSARI,,936,0+900,0+935,,RR,lapen,4,,2022,,,,
+336,TILENG,,1474,0+000,0+100,,RR,lapen,4,,2022,,,,
+337,TILENG,,1474,0+100,0+200,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+338,TILENG,,1474,0+200,0+300,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+339,TILENG,,1474,0+300,0+400,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+340,TILENG,,1474,0+400,0+500,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+341,TILENG,,1474,0+500,0+600,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+342,TILENG,,1474,0+600,0+700,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+343,TILENG,,1474,0+700,0+800,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+344,TILENG,,1474,0+800,0+900,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+345,TILENG,,1474,0+900,1+000,,RB,beton,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+346,TILENG,,1474,1+000,1+100,,baik,beton,4,,2022,,,,
+347,TILENG,,1474,1+100,1+200,,baik,beton,4,,2022,,,,
+348,TILENG,,1474,1+200,1+300,,baik,beton,4,,2022,,,,
+349,TILENG,,1474,1+300,1+400,,baik,beton,4,,2022,,,,
+350,TILENG,,1474,1+400,1+474,,baik,beton,4,,2022,,,,
+671,TULUNG,,1220,0+000,0+100,,baik,beton,4,,2022,,,,
+672,TULUNG,,1220,0+100,0+200,,baik,beton,4,,2022,,,,
+673,TULUNG,,1220,0+200,0+300,,baik,beton,4,,2022,,,,
+674,TULUNG,,1220,0+300,0+400,,baik,beton,4,,2022,,,,
+675,TULUNG,,1220,0+400,0+500,,baik,beton,4,,2022,,,,
+676,TULUNG,,1220,0+500,0+600,,baik,beton,4,,2022,,,,
+677,TULUNG,,1220,0+600,0+700,,baik,beton,4,,2022,,,,
+678,TULUNG,,1220,0+700,0+800,,baik,aspal,4,,2022,,,,
+679,TULUNG,,1220,0+800,0+900,,sedang,aspal,4,,2022,,,,
+680,TULUNG,,1220,0+900,1+000,,sedang,aspal,4,,2022,,,,
+681,TULUNG,,1220,1+000,1+100,,sedang,aspal,4,,2022,,,,
+682,TULUNG,,1220,1+100,1+200,,sedang,aspal,4,,2022,,,,
+683,TULUNG,,1220,1+200,1+220,,sedang,aspal,4,,2022,,,,
+1064,WARUREJO I,,2158,0+000,0+100,,sedang,aspal,4,,2022,,,,
+1065,WARUREJO I,,2158,0+100,0+200,,sedang,aspal,4,,2022,,,,
+1066,WARUREJO I,,2158,0+200,0+300,,sedang,aspal,4,,2022,,,,
+1067,WARUREJO I,,2158,0+300,0+400,,sedang,makadam,4,,2022,,,,
+1068,WARUREJO I,,2158,0+400,0+500,,RR,makadam,4,,2022,,,,
+1069,WARUREJO I,,2158,0+500,0+600,,RR,makadam,4,,2022,,,,
+1070,WARUREJO I,,2158,0+600,0+700,,RR,makadam,4,,2022,,,,
+1071,WARUREJO I,,2158,0+700,0+800,,RR,makadam,4,,2022,,,,
+1072,WARUREJO I,,2158,0+800,0+900,,RR,lapen,4,,2022,,,,
+1073,WARUREJO I,,2158,0+900,1+000,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1074,WARUREJO I,,2158,1+000,1+100,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1075,WARUREJO I,,2158,1+100,1+200,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1076,WARUREJO I,,2158,1+200,1+300,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1077,WARUREJO I,,2158,1+300,1+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1078,WARUREJO I,,2158,1+400,1+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1079,WARUREJO I,,2158,1+500,1+600,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1080,WARUREJO I,,2158,1+600,1+700,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1081,WARUREJO I,,2158,1+700,1+800,,RB,tanah,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+1082,WARUREJO I,,2158,1+800,1+900,,baik,tanah,4,,2022,,,,
+1083,WARUREJO I,,2158,1+900,2+000,,baik,tanah,4,,2022,,,,
+1084,WARUREJO I,,2158,2+000,2+100,,baik,tanah,4,,2022,,,,
+1085,WARUREJO I,,2158,2+100,2+158,,baik,tanah,4,,2022,,,,
+1086,WARUREJO II,,1085,0+000,0+100,,baik,tanah,4,,2022,,,,
+1087,WARUREJO II,,1085,0+100,0+200,,baik,beton,4,,2022,,,,
+1088,WARUREJO II,,1085,0+200,0+300,,baik,beton,4,,2022,,,,
+1089,WARUREJO II,,1085,0+300,0+400,,baik,beton,4,,2022,,,,
+1090,WARUREJO II,,1085,0+400,0+500,,baik,beton,4,,2022,,,,
+1091,WARUREJO II,,1085,0+500,0+600,,baik,beton,4,,2022,,,,
+1092,WARUREJO II,,1085,0+600,0+700,,baik,beton,4,,2022,,,,
+1093,WARUREJO II,,1085,0+700,0+800,,baik,beton,4,,2022,,,,
+1094,WARUREJO II,,1085,0+800,0+900,,baik,beton,4,,2022,,,,
+1095,WARUREJO II,,1085,0+900,1+000,,sedang,beton,4,,2022,,,,
+1096,WARUREJO II,,1085,1+000,1+085,,sedang,beton,4,,2022,,,,
+75,WAYUT,,1350,0+000,0+100,,sedang,beton,4,,2022,,,,
+76,WAYUT,,1350,0+100,0+200,,sedang,beton,4,,2022,,,,
+77,WAYUT,,1350,0+200,0+300,,sedang,beton,4,,2022,,,,
+78,WAYUT,,1350,0+300,0+400,,sedang,aspal,4,,2022,,,,
+79,WAYUT,,1350,0+400,0+500,,sedang,aspal,4,,2022,,,,
+80,WAYUT,,1350,0+500,0+600,,sedang,aspal,4,,2022,,,,
+81,WAYUT,,1350,0+600,0+700,,sedang,aspal,4,,2022,,,,
+82,WAYUT,,1350,0+700,0+800,,RR,aspal,4,,2022,,,,
+83,WAYUT,,1350,0+800,0+900,,RR,aspal,4,,2022,,,,
+84,WAYUT,,1350,0+900,1+000,,RR,aspal,4,,2022,,,,
+85,WAYUT,,1350,1+000,1+100,,RR,aspal,4,,2022,,,,
+86,WAYUT,,1350,1+100,1+200,,RR,aspal,4,,2022,,,,
+87,WAYUT,,1350,1+200,1+300,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+88,WAYUT,,1350,1+300,1+350,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+511,WINONG,,2197,0+000,0+100,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+512,WINONG,,2197,0+100,0+200,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+513,WINONG,,2197,0+200,0+300,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+514,WINONG,,2197,0+300,0+400,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+515,WINONG,,2197,0+400,0+500,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+516,WINONG,,2197,0+500,0+600,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+517,WINONG,,2197,0+600,0+700,,RB,lapen,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+518,WINONG,,2197,0+700,0+800,,baik,lapen,4,,2022,,,,
+519,WINONG,,2197,0+800,0+900,,baik,lapen,4,,2022,,,,
+520,WINONG,,2197,0+900,1+000,,baik,lapen,4,,2022,,,,
+521,WINONG,,2197,1+000,1+100,,baik,lapen,4,,2022,,,,
+522,WINONG,,2197,1+100,1+200,,baik,lapen,4,,2022,,,,
+523,WINONG,,2197,1+200,1+300,,baik,tanah,4,,2022,,,,
+524,WINONG,,2197,1+300,1+400,,baik,tanah,4,,2022,,,,
+525,WINONG,,2197,1+400,1+500,,baik,tanah,4,,2022,,,,
+526,WINONG,,2197,1+500,1+600,,baik,tanah,4,,2022,,,,
+527,WINONG,,2197,1+600,1+700,,baik,tanah,4,,2022,,,,
+528,WINONG,,2197,1+700,1+800,,baik,tanah,4,,2022,,,,
+529,WINONG,,2197,1+800,1+900,,baik,beton,4,,2022,,,,
+530,WINONG,,2197,1+900,2+000,,baik,beton,4,,2022,,,,
+531,WINONG,,2197,2+000,2+100,,sedang,beton,4,,2022,,,,
+532,WINONG,,2197,2+100,2+196,,sedang,beton,4,,2022,,,,
+947,WONOASRI,,865,0+000,0+100,,sedang,beton,4,,2022,,,,
+948,WONOASRI,,865,0+100,0+200,,sedang,beton,4,,2022,,,,
+949,WONOASRI,,865,0+200,0+300,,sedang,beton,4,,2022,,,,
+950,WONOASRI,,865,0+300,0+400,,sedang,beton,4,,2022,,,,
+951,WONOASRI,,865,0+400,0+500,,sedang,beton,4,,2022,,,,
+952,WONOASRI,,865,0+500,0+600,,sedang,beton,4,,2022,,,,
+953,WONOASRI,,865,0+600,0+700,,sedang,beton,4,,2022,,,,
+954,WONOASRI,,865,0+700,0+800,,RR,beton,4,,2022,,,,
+955,WONOASRI,,865,0+800,0+800,,RR,beton,4,,2022,,,,
+918,WONOREJO I,,676,0+000,0+100,,RR,aspal,4,,2022,,,,
+919,WONOREJO I,,676,0+100,0+200,,RR,aspal,4,,2022,,,,
+920,WONOREJO I,,676,0+200,0+300,,RR,aspal,4,,2022,,,,
+921,WONOREJO I,,676,0+300,0+400,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+922,WONOREJO I,,676,0+400,0+500,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+923,WONOREJO I,,676,0+500,0+600,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+924,WONOREJO I,,676,0+600,0+676,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+925,WONOREJO II,,1358,0+000,0+100,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+926,WONOREJO II,,1358,0+100,0+200,,RB,aspal,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+927,WONOREJO II,,1358,0+200,0+300,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+928,WONOREJO II,,1358,0+300,0+400,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+929,WONOREJO II,,1358,0+400,0+500,,RB,makadam,4,2023,2022,2023-01-11,pemeliharaan rutin,baik,aspal
+930,WONOREJO II,,1358,0+500,0+600,,baik,makadam,4,,2022,,,,
+931,WONOREJO II,,1358,0+600,0+700,,baik,makadam,4,,2022,,,,
+932,WONOREJO II,,1358,0+700,0+800,,baik,lapen,4,,2022,,,,
+933,WONOREJO II,,1358,0+800,0+900,,baik,lapen,4,,2022,,,,
+934,WONOREJO II,,1358,0+900,1+000,,baik,lapen,4,,2022,,,,
+935,WONOREJO II,,1358,1+000,1+100,,baik,lapen,4,,2022,,,,
+936,WONOREJO II,,1358,1+100,1+200,,baik,lapen,4,,2022,,,,
+937,WONOREJO II,,1358,1+200,1+300,,baik,lapen,4,,2022,,,,
+938,WONOREJO II,,1358,1+300,1+358,,baik,lapen,4,,2022,,,,

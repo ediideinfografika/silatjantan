@@ -1,0 +1,662 @@
+{#
+/**
+ * @file
+ * Default theme implementation to display a single page.
+ *
+ * The doctype, html, head and body tags are not in this template. Instead they
+ * can be found in the html.html.twig template in this directory.
+ *
+ * Available variables:
+ *
+ * General utility variables:
+ * - base_path: The base URL path of the Drupal installation. Will usually be
+ *   "/" unless you have installed Drupal in a sub-directory.
+ * - is_front: A flag indicating if the current page is the front page.
+ * - logged_in: A flag indicating if the user is registered and signed in.
+ * - is_admin: A flag indicating if the user has permission to access
+ *   administration pages.
+ *
+ * Site identity:
+ * - front_page: The URL of the front page. Use this instead of base_path when
+ *   linking to the front page. This includes the language domain or prefix.
+ * - logo: The url of the logo image, as defined in theme settings.
+ * - site_name: The name of the site. This is empty when displaying the site
+ *   name has been disabled in the theme settings.
+ * - site_slogan: The slogan of the site. This is empty when displaying the site
+ *   slogan has been disabled in theme settings.
+ *
+ * Page content (in order of occurrence in the default page.html.twig):
+ * - messages: Status and error messages. Should be displayed prominently.
+ * - node: Fully loaded node, if there is an automatically-loaded node
+ *   associated with the page and the node ID is the second argument in the
+ *   page's path (e.g. node/12345 and node/12345/revisions, but not
+ *   comment/reply/12345).
+ *
+ * Regions:
+ * - page.header: Items for the header region.
+ * - page.navigation: Items for the Navigation region.
+ * - page.page_title: Used by Current page Title.
+ * - page.banner: Items for the banner region.
+ * - page.highlighted: Items for the highlighted top  region.
+ * - page.content_top: The main content top of the current page.
+ * - page.help: Item for the help region.
+ * - page.breadcrumb: Item for the Breadcrumb region.
+ * - page.content: The main content of the current page.
+ * - page.sidecolumn_first: Items for the first sidecolumn.
+ * - page.sidecolumn_second: Items for the second sidecolumn.
+ * - page.content_bottom: Items for the bottom in content region.
+ * - page.footer_top: Items for the footer top region.
+ * - page.footer_first: Items for the footer first region.
+ * - page.footer_second: Items for the footer Second region.
+ * - page.footer_third: Items for the footer third region.
+ * - page.footer_bottom: Items for the footer bottom region.
+ *
+ * @see template_preprocess_page()
+ * @see html.html.twig
+ *
+ * @ingroup themeable
+ */
+#}
+
+
+{% set rolex= drupal_token('current-user:roles:last') %}
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js"></script>
+<style>
+strong, b {
+    font-weight: 700;
+    color: #ff0000;
+}
+</style>
+
+    <!-- loader -->
+    <div id="loader">
+        <img src="/sites/default/files/icon/logo.png" alt="icon" class="loading-icon">
+    </div>
+    <!-- * loader -->
+
+    <!-- App Header -->
+    <div class="appHeader  text-light" style="height: 79px;padding-bottom: 26px;position: relative;background: none;border: 0;">
+        <div class="left">
+           
+        </div>
+        <div class="pageTitle"> 
+            <img src="/sites/default/files/newputih.png" alt="silatjantan" style="padding-top: 26px;margin-top: 72px;width: 100px;" >
+        </div>
+        
+    </div>
+    <!-- * App Header -->
+
+    <!-- App Capsule -->
+    <div id="appCapsule" style="padding-top: 0;">
+
+    
+
+
+
+        <!-- Wallet Card -->
+        <div class="section wallet-card-section pt-1" style="margin-top: 23px;">
+            <div class="wallet-card">
+               <p style="text-align: center;line-height: 16px;background: #ffde00;font-size: 12px;padding: 13px;margin: -16px -18px 0;color: #000;border-radius: 20px;">
+               Sistem Informasi dan Pelaporan Terpadu Jalan & Jembatan Kabupaten Madiun
+               </p>
+               <div class="wallet-footer">
+                   
+                   <div class="section mt-1 mb-1">
+{% if rolex== 'umum'%}
+          <a href="/node/add/pelaporan?destination=/mobile/laporan-saya">
+          <img src="/sites/default/files/lapor.png" alt="image" class="imaged img-fluid">
+            </a>
+{% else %}
+
+{{ drupal_view('pelaporan', 'block_ver') }}
+{% endif %}
+
+ </div> 
+ 
+ 
+                {#    <div class="item">#}
+                {#        <a href="/mobile/new-karakteristik" >#}
+                {#            <div class="icon-wrapper">#}
+                {#              <img src='/sites/default/files/icon/destination.png'>#}
+                {#            </div>#}
+                {#            <strong>Karakteristik Jalan</strong>#}
+                {#        </a>#}
+                {#    </div>#}
+                {#    <div class="item">#}
+                {#        <a href="/mobile/new-kondisi-jalan"  >#}
+                {#             <div class="icon-wrapper">#}
+                {#              <img src='/sites/default/files/icon/road.png'>#}
+                {#            </div>#}
+                {#            <strong>Kondisi Jalan</strong>#}
+                {#        </a>#}
+                {#    </div>#}
+                              
+
+                {#</div>#}
+
+                {#<div class="wallet-footer">#}
+                {#    <div class="item">#}
+                {#        <a href="/mobile/new-perkerasan-jalan" >#}
+                {#            <div class="icon-wrapper">#}
+                {#              <img src='/sites/default/files/icon/sepur.png'>#}
+                {#            </div>#}
+                {#            <strong>Perkerasan Jalan</strong>#}
+                {#        </a>#}
+                {#    </div>#}
+                {#       <div class="item">#}
+                {#        <a href="/mobile/kondisi-jembatan"  >#}
+                {#             <div class="icon-wrapper">#}
+                {#              <img src='/sites/default/files/icon/bridge.png'>#}
+                {#            </div>#}
+                {#            <strong>Kondisi Jembatan</strong>#}
+                {#        </a>#}
+                {#    </div>#}
+
+                    
+                {#    <div class="item">#}
+                {#        <a href="/mobile/tentang"  >#}
+                {#             <div class="icon-wrapper">#}
+                {#              <img src='/sites/default/files/icon/booking.png'>#}
+                {#            </div>#}
+                {#            <strong>Tentang</strong>#}
+                {#        </a>#}
+                {#    </div>#}
+
+                    
+
+                </div>
+               
+            </div>
+        </div>
+        
+        
+   
+
+
+
+<div class="section mt-4 mb-4">
+{{ drupal_view('penutupan_jalan', 'block_1') }}
+</div>
+
+
+
+
+        <div class="section" >
+          <div class="row mt-2" id="stat">
+           </div>
+     
+        </div>    
+
+
+
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title" id="exampleModalLabel">Login</h4>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+            <form>
+                <div class="form-group">
+                    <label>uname</label>
+                    <input type="text" class="form-control" placeholder="User Name">
+                    <label>upwd</label>
+                    <input type="password" class="form-control" placeholder="password">
+                </div>
+            </form>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-success">Login</button>
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+    
+
+
+
+
+        <!-- Stats -->
+        <div class="section">
+        {#{{ drupal_entity('node', 43686, 'default') }}#}
+        {{ drupal_view('dashboard', 'page_2') }}
+       
+        </div>
+
+
+
+    </div>
+    <!-- * App Capsule -->
+
+
+    <!-- App Bottom Menu -->
+       {{page.bottom_menu}}
+
+    
+    <!-- * App Bottom Menu -->
+
+
+
+ <script   src="https://code.jquery.com/jquery-3.6.0.min.js"   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="   crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/linq.js/2.2.0.2/linq.min.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/highcharts-3d.js"></script>
+
+
+<script>
+
+/* This script supports IE9+ */
+
+
+
+window.onload = function() {
+  {% if logged_in %}
+  
+{% else %}
+Swal.fire({
+  allowOutsideClick: false,
+  allowEscapeKey: false,
+  title: 'Selamat Datang di Silatjantan',
+  type: 'info',
+  html:
+    'Untuk Bisa mengakses data atau pelaporan Kondisi Jalan pada aplikasi ini, Silahkan <b>Login</b>. Jika Anda belum memiliki akun silahkan tekan tombol <b>daftar</b> di bawah ini. Untuk Pendaftaran, Pastikan anda memiliki nomer Whatsapp yang aktif  ',
+  focusConfirm: false,
+  showCancelButton: true,
+  confirmButtonText:
+    '<i class="fa-solid fa-user-check"></i> Daftar',
+  cancelButtonText:
+  '<ion-icon name="log-in-outline"></ion-icon> Login',
+  
+}).then((result) => {
+        if (result.isConfirmed) {
+            window.location = "/user/register";
+          
+        }
+        else{
+          window.location = "/user/login";
+        }
+    });
+{% endif %}
+
+
+
+
+var dataPoints = [];
+
+
+
+function addDatakon() {
+//console.log(data.features);
+   {# var aggregatedObject = Enumerable.From(data.features)
+        .GroupBy("$.properties.Kondisi", null,
+                 function (key, g) {
+                     return {
+                       jenis: key,
+                       total: g.Sum(function (s) { return 200 }) 
+                     }
+        })
+        .ToArray(); #}
+
+
+
+var arr=[];
+
+arr[0]={jenis: 'Baik', total:  156.825 };
+arr[1]={jenis: 'Sedang', total:  393.962 };
+arr[2]={jenis: 'Rusak Ringan', total:  180.297 };
+arr[3]={jenis: 'Rusak Berat', total:  11.936 };
+console.log(arr);
+drawChartkond(arr[0].total, arr[0].jenis,"red",'Grafik Kondisi Jalan','chartKond');
+drawChartkond(arr[1].total, arr[1].jenis,"red",'Grafik Kondisi Jalan','chartKond');
+drawChartkond(arr[2].total, arr[2].jenis,"red",'Grafik Kondisi Jalan','chartKond');
+drawChartkond(arr[3].total, arr[3].jenis,"red",'Grafik Kondisi Jalan','chartKond');
+
+$( "#stat" ).append('<div class="col-6" style="margin-bottom:10px;"><div class="stat-box"><span class="badge badge-success mb-1">'+arr[0].jenis+'</span> <div class="value text-primary">'+arr[0].total+'</div></div> </div>' );
+$( "#stat" ).append('<div class="col-6" style="margin-bottom:10px;"><div class="stat-box"><span class="badge badge-warning mb-1" style="background:#ff0 !important; color:#000 !important">'+arr[1].jenis+'</span><div class="value text-primary">'+arr[1].total+'</div></div> </div>' );
+$( "#stat" ).append('<div class="col-6" style="margin-bottom:10px;"><div class="stat-box"><span class="badge badge-warning mb-1">'+arr[2].jenis+'</span><div class="value text-primary">'+arr[2].total+'</div></div> </div>' );
+$( "#stat" ).append('<div class="col-6" style="margin-bottom:10px;"><div class="stat-box"><span class="badge badge-danger mb-1">'+arr[3].jenis+'</span><div class="value text-primary">'+arr[3].total+'</div></div> </div>' );
+
+
+
+
+
+
+}
+
+
+
+function addData(data) {
+//console.log(data.features);
+  var aggregatedObject = Enumerable.From(data.features)
+        .GroupBy("$.properties.Perkerasan", null,
+                 function (key, g) {
+                     return {
+                       jenis: key,
+                       total: g.Sum(function (s) { return parseInt(s.properties.PnjangRuas) }) 
+                     }
+        })
+        .ToArray();
+
+//console.log(aggregatedObject);
+
+
+
+  for (var i = 0; i < aggregatedObject.length; i++) {
+					var color = setColor();
+					 var newarr=[];
+					 var kat=[];
+        //   console.log(aggregatedObject[i].jenis);
+				//	 newarr.push(parseInt(aggregatedObject[key]));
+						
+					  drawChart(aggregatedObject[i].total, aggregatedObject[i].jenis,color,'Grafik Perkerasan','chartContainer');
+					  }
+					  
+
+}
+
+
+function addData2(data) {
+//console.log(data.features);
+var jemb = Enumerable.From(data.features)
+    .GroupBy("$.properties.Knd_Jembat", null, "{ Name: $, Count: $$.Count() }")
+    .ToArray();
+
+
+//console.log(aggregatedObject);
+
+
+
+  for (var i = 0; i < jemb.length; i++) {
+					var color = setColor();
+					 var newarr=[];
+					 var kat=[];
+				//	 newarr.push(parseInt(aggregatedObject[key]));
+						
+					  drawChart2(jemb[i].Count, jemb[i].Name,color,'Grafik Jembatan','jembatan');
+					  }
+					  
+
+}
+
+
+addDatakon();
+$.getJSON("https://silatjantan.dpupr.madiunkab.go.id/sites/default/files/Perkerasan_Jalan.geojson", addData);
+
+$.getJSON("https://silatjantan.dpupr.madiunkab.go.id/sites/default/files/Revisi_Jembatan.geojson", addData2);
+
+
+}
+
+              function setColor() {
+        //random Colors
+        var letters = '0123456789ABCDEF'.split('');
+        var color = '#';
+        for (var i = 0; i < 6; i++) {
+            color += letters[Math.round(Math.random() * 15)];
+        }
+        //console.log(color);
+        return color;
+    }
+
+    var options1 = {
+         legend: {
+   layout: 'vertical',
+   align: 'right',
+   verticalAlign: 'middle',
+   itemMarginTop: 10,
+   itemMarginBottom: 10
+ },
+    chart: {
+        renderTo: '',
+		type: 'column',
+        options3d: {
+            enabled: true,
+            alpha: 15,
+            beta: 15,
+            depth: 50,
+            viewDistance: 25
+        }
+    },	
+	title: {
+    text: 'ddd'
+  },
+  xAxis: {
+	categories:[]
+  },
+  plotOptions: {
+      column: {
+          dataLabels: {
+            enabled: true,
+            rotation: -90,
+            color: '#000',
+            align: 'right',
+            style: {
+                fontSize: '10px',
+                fontFamily: 'Verdana, sans-serif'
+            }
+        }
+      }
+    },
+
+    series: []
+};
+
+    var options2 = {
+         legend: {
+   layout: 'vertical',
+   align: 'right',
+   verticalAlign: 'middle',
+   itemMarginTop: 10,
+   itemMarginBottom: 10
+ },
+    chart: {
+        renderTo: '',
+		type: 'column',
+        options3d: {
+            enabled: true,
+            alpha: 15,
+            beta: 15,
+            depth: 50,
+            viewDistance: 25
+        }
+    },	
+	title: {
+    text: 'ddd'
+  },
+  xAxis: {
+	categories:[]
+  },
+  plotOptions: {
+      column: {
+          dataLabels: {
+            enabled: true,
+            rotation: -90,
+            color: '#000',
+            align: 'right',
+            style: {
+                fontSize: '9px',
+                fontFamily: 'Verdana, sans-serif'
+            }
+        }
+      }
+    },
+    series: []
+};
+
+
+
+    var options3 = {
+         legend: {
+   layout: 'vertical',
+   align: 'right',
+   verticalAlign: 'middle',
+   itemMarginTop: 10,
+   itemMarginBottom: 10
+ },
+    chart: {
+        renderTo: '',
+		type: 'column',
+        options3d: {
+            enabled: true,
+            alpha: 15,
+            beta: 15,
+            depth: 50,
+            viewDistance: 25
+        }
+    },	
+	title: {
+    text: 'ddd'
+  },
+  xAxis: {
+	categories:[]
+  },
+  plotOptions: {
+      column: {
+          dataLabels: {
+            enabled: true,
+            rotation: -90,
+            color: '#000',
+            align: 'right',
+            style: {
+                fontSize: '10px',
+                fontFamily: 'Verdana, sans-serif'
+            }
+        }
+      }
+    },
+    series: []
+};
+
+
+
+var drawChartkond = function (data, name, color, judul, idnya) {
+    // 'series' is an array of objects with keys: 'name' (string) and 'data' (array)
+  var aaa='';
+ 
+
+           if (name ==='Baik'){aaa="green";}
+          else if (name ==='Rusak Ringan'){aaa="orange";}
+          else if (name ==='Sedang'){aaa="Yellow";}
+          else if (name ==='Rusak Berat'){aaa="red";}
+          else {aaa="red";}
+ 
+
+
+
+      
+  	var arr=[];
+    arr[0]=data;
+    var newSeriesData = {
+        name: name,
+        data: arr,
+		color:aaa
+    };
+
+
+    	
+
+    options3.series.push(newSeriesData);
+	
+     options3.title.text=judul;
+	 options3.chart.renderTo=idnya;
+	 options3.xAxis.categories.push(name);
+	 
+var chart = new Highcharts.Chart(options3);
+	
+
+	
+};
+
+
+
+var drawChart = function (data, name, color, judul, idnya) {
+    // 'series' is an array of objects with keys: 'name' (string) and 'data' (array)
+  var aaa='';
+ 
+
+           if (name ==='Aspal'){aaa="#2f5597";}
+          else if (name ==='Beton'){aaa="#9dc3e6";}
+          else if (name ==='Lapen'){aaa="#c55a11";}
+          else if (name ==='makadam'){aaa="#ffff00";}
+          else {aaa="red";}
+ 
+
+
+
+      
+  	var arr=[];
+    arr[0]=data;
+    var newSeriesData = {
+        name: name,
+        data: arr,
+		color:aaa
+    };
+
+
+    	
+
+    options1.series.push(newSeriesData);
+	
+     options1.title.text=judul;
+	 options1.chart.renderTo=idnya;
+	 options1.xAxis.categories.push(name);
+	 
+var chart = new Highcharts.Chart(options1);
+	
+
+	
+};
+
+
+var drawChart2 = function (data, name, color, judul, idnya) {
+  var aaa='';
+           if (name ==='Rusak Ringan'){aaa="green";}
+          else if (name ==='Rusak Sedang'){aaa="yellow";}
+          else if (name ==='Rusak Berat'){aaa="orange";}
+          else {aaa="red";}
+
+  	var arr=[];
+    arr[0]=data;
+    var newSeriesData = {
+        name: name,
+        data: arr,
+		color:aaa
+    };
+
+
+    	
+
+    options2.series.push(newSeriesData);
+	
+     options2.title.text=judul;
+	 options2.chart.renderTo=idnya;
+	 options2.xAxis.categories.push(name);
+	 
+var chart = new Highcharts.Chart(options2);
+	
+
+
+	
+};
+
+
+</script>
+
+
+<script>
+ jQuery(function($) {
+     var path = window.location.href; // because the 'href' property of the DOM element is the absolute path
+     $('.item').each(function() {
+      if (this.href === path) {
+       $(this).addClass('active');
+      }
+     });
+    });
+
+</script>

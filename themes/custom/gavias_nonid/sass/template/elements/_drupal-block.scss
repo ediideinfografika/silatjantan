@@ -1,0 +1,58 @@
+.gsc-block-drupal{
+   margin-bottom: 35px;
+   &.hidden-title-off{
+      .block-inner{
+         .block-title{
+            h2{
+               display: none!important;
+            }
+         }
+      }
+   }
+   &.title-align-center{
+      .block-title{
+         text-align: center;
+      }
+   }
+   &.title-align-left{
+      .block-title{
+         text-align: left;
+      }
+   }
+   &.title-align-right{
+      .block-title{
+         text-align: right;
+      }
+   }
+   &.text-light{
+      div{
+        color: $white;
+      }
+      .block-inner{
+         .block-title{
+            color: $white;
+         }
+         .block-content{
+            *, div{
+               color: $white;
+               &:after, &:before{
+                  color: rgba(255, 255, 255, 0.2);
+               }
+            }
+         }
+      }
+   }
+   &.remove-margin-on{
+      margin-bottom: 0!important;
+      .block{
+         margin-bottom: 0!important;
+      }
+   }
+   &.block-style-1{
+      padding: 40px 40px 50px;
+      background: $theme-color-second;
+      @include media-breakpoint-down(lg){
+         padding: 50px 30px 60px;
+      }
+   }
+}

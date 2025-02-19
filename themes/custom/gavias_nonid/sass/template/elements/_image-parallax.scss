@@ -1,0 +1,57 @@
+.gsc-images-parallax {
+	@include media-breakpoint-down(md){
+    	margin-bottom: 30px;
+  	}
+	.shape-1 {
+		width: 60px;
+		height: 66px;
+		border-radius: 4px;
+		display: inline-block;
+		position: absolute;
+		top:0;
+		right: 0;
+	}
+	.shape-2 {
+		width: 100px;
+		height: 106px;
+		border-radius: 4px;
+		display: inline-block;
+		position: absolute;
+		bottom: 30px;
+		left: 30px;
+	}
+	.shape-3 {
+		width: 100px;
+		height: 106px;
+		border-radius: 4px;
+		display: inline-block;
+		position: absolute;
+		top: 30px;
+		right: 30px;
+	}
+	.shape-4 {
+		width: 60px;
+		height: 66px;
+		border-radius: 4px;
+		display: inline-block;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+	}
+	@include media-breakpoint-up(xl){
+		.widget-content {
+			padding-right: 60px;
+		}
+	}
+	.box-images-top, .box-images-bottom {
+	    display: flex;
+	    align-items: stretch;
+	}
+	.shape-right, .shape-left {
+	    width: 50%;
+	    position: relative;
+	}
+	.image-2 {
+		order: 2;
+	}
+}

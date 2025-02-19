@@ -1,0 +1,6 @@
+# geojson support.
+mapfeature.leaflet_geojson:
+  js:
+    js/MapFeature/geojson.js: {}
+  dependencies:
+    - geolocation_leaflet/geolocation.leaflet

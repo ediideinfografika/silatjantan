@@ -1,0 +1,93 @@
+{#
+/**
+ * @file
+ * Default theme implementation to display a view of unformatted rows.
+ *
+ * Available variables:
+ * - title: The title of this group of rows. May be empty.
+ * - rows: A list of the view's row items.
+ *   - attributes: The row's HTML attributes.
+ *   - content: The row's content.
+ * - view: The view object.
+ * - default_row_class: A flag indicating whether default classes should be
+ *   used on rows.
+ *
+ * @see template_preprocess_views_view_unformatted()
+ *
+ * @ingroup themeable
+ */
+#}
+{% if title %}
+  <h3>{{ title }}</h3>
+{% endif %}
+<center><div class="tpen">Pencarian Layanan</div></center>
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Silahkan ketik salah satu layanan" title="Type in a name">
+
+
+<ul class="uk-list uk-list-divider hilang">
+<div class = "category-title active" id = "all">
+                            <li style=" padding: 10px;">Semua</li>
+  </div>
+{% for row in rows %}
+  {%
+    set row_classes = [
+      default_row_class ? 'views-row',
+    ]
+  %}
+
+    {{ row.content }}
+ 
+{% endfor %}
+</ul>
+
+<div id="offcanvas-usage" uk-offcanvas>
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close" type="button" uk-close></button>
+
+      {% if title %}
+  <h3>{{ title }}</h3>
+{% endif %}
+<ul class="uk-list uk-list-divider">
+<div class = "category-title active" id = "all">
+                            <li style=" padding: 10px;">Semua</li>
+  </div>
+{% for row in rows %}
+  {%
+    set row_classes = [
+      default_row_class ? 'views-row',
+    ]
+  %}
+
+    {{ row.content }}
+ 
+{% endfor %}
+</ul>
+
+    </div>
+</div>
+
+
+<script>
+function myFunction() {
+
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("myInput");
+	filter = input.value;
+	
+    ul = document.getElementById("myApp");
+    li = ul.getElementsByClassName("uk-animation-toggle");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+		txtValue = a.textContent || a.innerText;
+		let result = txtValue.trim();
+		
+        if (result.indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+</script>
+

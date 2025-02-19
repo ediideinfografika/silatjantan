@@ -1,0 +1,10 @@
+id,no_jemb,nama,kec,panjang,lebar,jml_bintang,ba_tipe,lat,long,kondisi
+1,19.001.001,Jembatan Wonoasri I,Wonoasri,6.95,7.95,1,Gelagar,7.56769,111.62469,4
+2,19.001.002,Jembatan Ngadirejo I,Wonoasri,13,7.9,1,Gelagar,7.58204,111.60897,4
+3,19.001.003,Jembatan Ngadirejo II,Wonoasri,5.7,7.65,1,Gelagar,7.59212,111.60186,4
+4,19.001.004,Jembatan Dimong I,Wonoasri,8.9,8,1,Gelagar,7.59371,111.59896,4
+5,19.002.001,Jembatan Kedungrejo I,Pilangkenceng,24,4.9,2,Gelagar Komposit,7.51685,111.66315,4
+6,19.002.002,Jembatan Kenongorejo I,Pilangkenceng,8.6,7,1,Gelagar,7.49006,111.66293,4
+7,19.002.003,Jembatan Kenongorejo II,Pilangkenceng,2.5,12.5,1,Gorong-Gorong Kotak,7.488835,111.662346,4
+8,19.002.004,Jembatan Kenongorejo III,Pilangkenceng,5,11.35,1,Plat,7.48465,111.66092,4
+9,19.003.001,Jembatan Mejayan I,Mejayan,2.8,9.83,1,Plat,7.55246,111.66052,4

@@ -1,0 +1,98 @@
+{#
+/**
+ * @file
+ * Theme override to present all user data.
+ *
+ * This template is used when viewing a registered user's page,
+ * e.g., example.com/user/123. 123 being the user's ID.
+ *
+ * Available variables:
+ * - content: A list of content items. Use 'content' to print all content, or
+ *   print a subset such as 'content.field_example'. Fields attached to a user
+ *   such as 'user_picture' are available as 'content.user_picture'.
+ * - attributes: HTML attributes for the container element.
+ * - user: A Drupal User entity.
+ *
+ * @see template_preprocess_user()
+ */
+#}
+<article{{ attributes.addClass('profile') }}>
+
+</article>
+
+<div id="appCapsule" style="  padding-top: 10px;">
+
+        <div class="section mt-3 text-center">
+            <div class="avatar-section">
+                <a href="#">
+                    <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png" alt="avatar" class="imaged w100 rounded">
+                    <span class="button">
+                        <ion-icon name="camera-outline" role="img" class="md hydrated" aria-label="camera outline"></ion-icon>
+                    </span>
+                </a>
+            </div>
+<br>
+<br>
+{{ drupal_token('current-user:name') }}<br>
+{{ drupal_token('current-user:roles:last') }}
+   {% if content %}
+    {{- content -}}
+  {% endif %}
+
+
+        </div>
+
+
+       
+
+        <div class="listview-title mt-1">Profile Settings</div>
+        <ul class="listview image-listview text inset">
+            <li>
+                <a href="/user/edit" class="item">
+                    <div class="in">
+                        <div>Ubah No Whatsapp</div>
+                    </div>
+                </a>
+            </li>
+            
+            <li>
+                <a href="/user/edit" class="item">
+                    <div class="in">
+                        <div>Ubah Username</div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/user/edit" class="item">
+                    <div class="in">
+                        <div>Ubah E-mail</div>
+                    </div>
+                </a>
+            </li>
+            
+          
+        </ul>
+
+        <div class="listview-title mt-1">Security</div>
+        <ul class="listview image-listview text mb-2 inset">
+            <li>
+                <a href="/user/edit" class="item">
+                    <div class="in">
+                        <div>Ubah Password</div>
+                    </div>
+                </a>
+            </li>
+            
+             <li>
+                <a href="/user/logout" class="item">
+                    <div class="in" style=" color: #ff0000;">
+                        <div>logout</div>
+                    </div>
+                </a>
+            </li>
+            
+
+        </ul>
+
+
+    </div>

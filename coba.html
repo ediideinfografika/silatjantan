@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contoh Iframe</title>
+</head>
+<body onload="sendMessageToChild()">
+    
+
+<iframe id="myFrame" src="https://arsippumadiunkab.site/drive"  referrerpolicy="no-referrer" data-tf-redirect-target="_self" width="100%" height="700px" frameborder="0"></iframe>
+
+</body>
+
+<script>
+     $(document).ready(function() {
+        // Call your function when the document is ready
+        sendMessageToChild();
+    });
+
+    
+    // Mendengarkan pesan dari child frame
+    window.addEventListener('message', function(event) {
+      // Periksa apakah pesan berasal dari sumber yang diharapkan
+      if (event.origin === 'https://arsippumadiunkab.site') {
+        // Lakukan sesuatu dengan pesan yang diterima
+        console.log('Received message from child:', event.data);
+      }
+    });
+
+    // Mengirim pesan ke child frame
+    function sendMessageToChild() {
+      // Dapatkan referensi ke iframe
+      var childFrame = document.getElementById('myFrame').contentWindow;
+      
+      // Kirim pesan ke child frame dengan asal yang ditentukan
+      childFrame.postMessage('Hello from the parent frame!', 'https://arsippumadiunkab.site/');
+    }
+  </script>
+</html>

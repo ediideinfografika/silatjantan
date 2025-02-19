@@ -1,0 +1,21 @@
+{
+    "name": "drupal/geolocation_leaflet_geojson",
+    "description": "Very small module (pluging) that add a geojson layer for the geolocation leaflet module.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Stève Oriol (steveoriol)",
+            "homepage": "https://www.drupal.org/u/steveoriol",
+            "role": "Maintainer"
+        }
+    ],
+    "homepage": "https://drupal.org/project/geolocation_leaflet_geojson",
+    "support": {
+        "issues": "https://drupal.org/project/issues/geolocation_leaflet_geojson",
+        "source": "https://git.drupalcode.org/project/geolocation_leaflet_geojson"
+    },
+    "require": {
+        "drupal/geolocation": "^3.7"
+    }
+}

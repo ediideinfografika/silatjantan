@@ -1,0 +1,34 @@
+<?php
+
+/**
+ * @file
+ * Process theme data for uikit_admin.
+ */
+
+/**
+ * Load UIkit Admin's include files for theme processing.
+ */
+include_once 'includes/preprocess.inc';
+include_once 'includes/process.inc';
+include_once 'includes/theme.inc';
+include_once 'includes/alter.inc';
+use Drupal\user\Entity\User;
+
+
+
+function uikit_admin_preprocess_views_view_field(&$variables) {
+
+ $variables['output'] = $variables['field']->advancedRender($variables['row']);
+
+}
+
+
+function uikit_admin_preprocess(&$variables, $hook)
+{
+  $variables['uid'] = \Drupal::currentUser()->id();
+  
+    $tahun = \Drupal::request()->query->get('th');  
+  $variables['th'] =$tahun;
+  
+  
+}

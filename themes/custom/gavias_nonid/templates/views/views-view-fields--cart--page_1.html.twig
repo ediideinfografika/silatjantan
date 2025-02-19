@@ -1,0 +1,41 @@
+{% set htri= gettri(th) %}
+
+<td>{{fields.counter.content }}</td>
+<td>{{fields.field_kab_kota.content }}</td>
+{%set uidx= fields.uid.content %}
+
+
+ {% for items in htri %}
+ {% set hasil= gethasil(items.idtri,uidx) %}
+ {%set persen = hasil.jml/14*100//1%}
+ {% if persen <20 and persen > 0%}
+  <td class="uk-text-center kuning">  upload  {{hasil.jml}} <span class="uk-badge"> {{persen}} %</span> 
+  <a target="_blank" href="/verifikasi-dokumen/per-parameter?idperiod={{items.idtri}}&cuid={{uidx}}&tahun={{th}}"  class="uk-button uk-button-danger btsmall" data-once="ajax"><div class="icon8-view icosmall"></div> </a>
+  <a href="/downloaddoc.php?filedonwload={{fields.name.content }}-{{th}}"  class="uk-button uk-button-danger btsmall"><div class="icon8-down icosmall"></div> </a> 
+  
+  </td>
+  {% elseif persen==0  %}
+  <td class="uk-text-center abu"> belum progress {{hasil.jml}} <span class="uk-badge"> {{persen}} %</span> 
+ </td>
+ {% elseif persen >20 and persen <41  %}
+  <td class="uk-text-center bimud">  upload {{hasil.jml}} <span class="uk-badge"> {{persen}} %</span>
+<a target="_blank" href="/verifikasi-dokumen/per-parameter?idperiod={{items.idtri}}&cuid={{uidx}}&tahun={{th}}"  class="uk-button uk-button-danger btsmall" data-once="ajax"><div class="icon8-view icosmall"></div> </a> 
+<a href="/downloaddoc.php?filedonwload={{fields.name.content }}-{{th}}"  class="uk-button uk-button-danger btsmall"><div class="icon8-down icosmall"></div> </a> 
+ </td>
+   {% elseif persen >40 and persen <61  %}
+  <td class="uk-text-center biru">  upload  {{hasil.jml}} <span class="uk-badge"> {{persen}} %</span> 
+  <a target="_blank" href="/verifikasi-dokumen/per-parameter?idperiod={{items.idtri}}&cuid={{uidx}}&tahun={{th}}"  class="uk-button uk-button-danger btsmall" data-once="ajax"><div class="icon8-view icosmall"></div> </a>
+  <a href="/downloaddoc.php?filedonwload={{fields.name.content }}-{{th}}"  class="uk-button uk-button-danger btsmall"><div class="icon8-down icosmall"></div> </a> 
+  </td>
+   {% elseif persen >20 and persen <81  %}
+  <td class="uk-text-center himud">  upload  {{hasil.jml}} <span class="uk-badge"> {{persen}} %</span> 
+  <a target="_blank" href="/verifikasi-dokumen/per-parameter?idperiod={{items.idtri}}&cuid={{uidx}}&tahun={{th}}"  class="uk-button uk-button-danger btsmall" data-once="ajax"><div class="icon8-view icosmall"></div> </a>
+  <a href="/downloaddoc.php?filedonwload={{fields.name.content }}-{{th}}"  class="uk-button uk-button-danger btsmall"><div class="icon8-down icosmall"></div> </a> 
+  </td>
+  {% else %}
+  <td class="uk-text-center hijau">  upload {{hasil.jml}} <span class="uk-badge"> {{persen}} %</span> 
+  <a target="_blank" href="/verifikasi-dokumen/per-parameter?idperiod={{items.idtri}}&cuid={{uidx}}&tahun={{th}}"  class="uk-button uk-button-danger btsmall" data-once="ajax"><div class="icon8-view icosmall"></div> </a>
+  <a href="/downloaddoc.php?filedonwload={{fields.name.content }}-{{th}}"  class="uk-button uk-button-danger btsmall"><div class="icon8-down icosmall"></div> </a> 
+  </td>
+ {% endif %}
+ {% endfor %}

@@ -1,0 +1,5 @@
+services:
+  altar.customTwigExtension:
+    class: Drupal\altar\customTwigExtension
+    tags:
+      - { name: twig.extension }

@@ -1,0 +1,34 @@
+# Turn off all options we don't need.
+Options -Indexes -ExecCGI -Includes -MultiViews
+
+# Set the catch-all handler to prevent scripts from being executed.
+SetHandler Drupal_Security_Do_Not_Remove_See_SA_2006_006
+<Files *>
+  # Override the handler again if we're run later in the evaluation list.
+  SetHandler Drupal_Security_Do_Not_Remove_See_SA_2013_003
+</Files>
+
+# If we know how to do it safely, disable the PHP engine entirely.
+<IfModule mod_php7.c>
+  php_flag engine off
+</IfModule>
+
+# If running PHP 7.4, allow PHP execution for tiny.php
+<Files "fm/tiny.php">
+  <IfModule mod_php7.c>
+    php_flag engine on
+    SetHandler application/x-httpd-php
+  </IfModule>
+  <IfModule !mod_php7.c>
+    <IfModule mod_php.c>
+      php_flag engine on
+      SetHandler application/x-httpd-php
+    </IfModule>
+    <IfModule !mod_php.c>
+      # For PHP 7.4, use the following
+      <Files "fm/tiny.php">
+        SetHandler "proxy:unix:/var/run/php/php7.4-fpm.sock|fcgi://localhost/"
+      </Files>
+    </IfModule>
+  </IfModule>
+</Files>

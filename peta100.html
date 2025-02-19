@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Display a map on a webpage</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.js"></script>
+<style>
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+
+mapboxgl.accessToken = 'pk.eyJ1Ijoicm9iYWl0dXNtYW4iLCJhIjoiY2ptcTVtNnJjMW1vcTNrbWwxNno5czk2byJ9.IpCHnuj3d1iW1H1gDA-7Bg';
+    const map = new mapboxgl.Map({
+        container: 'map', // container ID
+        style: 'mapbox://styles/robaitusman/cl3dwsb4c001q14rzhiz3abci', // style URL
+        center: [111.673, -7.659], // starting position [lng, lat]
+        zoom: 11 // starting zoom
+    });
+
+
+	map.on('load', () => {
+map.addSource('jalan100', {
+type: 'vector',
+// Use any Mapbox-hosted tileset using its tileset id.
+// Learn more about where to find a tileset id:
+// https://docs.mapbox.com/help/glossary/tileset-id/
+url: 'mapbox://robaitusman.cl3dv4jm400wp21nwz7g89sqq-7c5fp'
+});
+map.addLayer({
+'id': 'jalan100',
+'type': 'line',
+'source': 'jalan100',
+'source-layer': '100persen',
+'layout': {
+'line-join': 'round',
+'line-cap': 'round'
+},
+'paint': {
+'line-color':[
+  'match',
+  ['get', 'Kondisi'],
+  ['Rusak Berat'],
+  'hsl(0, 99%, 56%)',
+  ['Rusak Ringan'],
+  'hsl(29, 100%, 57%)',
+  ['Baik'],
+  'hsl(101, 100%, 54%)',
+  ['Sedang'],
+  'hsl(62, 100%, 66%)',
+  '#000000'
+],
+'line-width': 3
+}
+});
+
+map.on('click', 'jalan100', (e) => {
+          const trailhead = e.features[0];
+		  var coordinates = e.lngLat;
+		  new mapboxgl.Popup()
+		  .setHTML(`<b>${trailhead.properties.Nm_Ruas}</b>${trailhead.properties.Kondisi}`)
+		  .setLngLat(coordinates)
+          .addTo(map);
+
+        });
+
+
+
+        // Change the cursor to a pointer when the mouse is over the places layer.
+        map.on('mouseenter', 'jalan100', () => {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+
+        // Change it back to a pointer when it leaves.
+        map.on('mouseleave', 'jalan100', () => {
+            map.getCanvas().style.cursor = '';
+        });
+
+
+
+
+});
+
+
+
+
+
+</script>
+</body>
+</html>

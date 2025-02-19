@@ -1,0 +1,82 @@
+.gsc-box-hover{
+   background: $white;
+   padding: 50px;
+   border: 2px solid #F3F5FA;
+   border-radius: 6px;
+   position: relative;
+   overflow: hidden;
+   margin-bottom: 30px;
+   @include media-breakpoint-down(lg){
+      padding: 30px;
+   }
+   @include media-breakpoint-down(md){
+      min-height: 100px!important;
+   }
+   .overlay-link{
+      position: absolute;
+      display: block;
+      @include size(100%, 100%);
+      top: 0;
+      left: 0;
+      z-index: 11;
+   }
+   .content-frontend{
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 9;
+      padding: 50px;
+      transition: all 0.35s;
+      @include media-breakpoint-down(lg){
+         padding: 30px;
+      }
+      @include media-breakpoint-down(md){
+         opacity: 0;
+         top: -250px;
+      }
+      .icon{
+         margin-bottom: 20px;
+         i{
+            @include size(40px, 40px);
+            line-height: 40px;
+            text-align: center;
+            background: $theme-color;
+            color: $white;
+            border-radius: 50%;
+         }
+      }
+      .title{
+         font-size: 20px;
+         font-weight: 500;
+         line-height: 32px;
+      }
+   }
+   .content-backend{
+      opacity: 0;
+      position: relative;
+      top: 250px;
+      transition: all 0.35s;
+      @include media-breakpoint-down(md){
+         opacity: 1;
+         top: 0;
+      }
+      .title{
+         font-size: 20px;
+         font-weight: 500;
+         line-height: 32px;
+         margin-bottom: 20px;
+      }
+   }
+   &:hover, &.highlight{
+      .content-frontend{
+         opacity: 0;
+         top: -250px;
+      }
+      .content-backend{
+         opacity: 1;
+         top: 0;
+      }
+   }
+}

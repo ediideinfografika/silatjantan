@@ -1,0 +1,56 @@
+.bootstrap_layout_classes_widget > .fieldset-wrapper,
+.bootstrap_layout_classes_widget > .fieldset__wrapper,
+.bootstrap_layout_classes_widget > .details-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 0;
+}
+
+.bootstrap_layout_classes_widget table {
+  width: auto;
+}
+
+.bootstrap_layout_classes_widget fieldset {
+  flex: 1 1;
+  border-left: none;
+  border-bottom: none;
+  border-top: none;
+  box-shadow: none;
+}
+.bootstrap_layout_classes_widget fieldset:not(.fieldgroup) {
+  min-width: 12em;
+}
+
+.bootstrap_layout_classes_widget fieldset.dpad .fieldset-wrapper,
+.bootstrap_layout_classes_widget fieldset.dpad .fieldset__wrapper {
+  text-align: center;
+}
+.bootstrap_layout_classes_widget fieldset.dpad .fieldset-wrapper .form-item:first-child,
+.bootstrap_layout_classes_widget fieldset.dpad .fieldset__wrapper .form-item:first-child,
+.bootstrap_layout_classes_widget fieldset.dpad .fieldset-wrapper .form-item:last-child,
+.bootstrap_layout_classes_widget fieldset.dpad .fieldset__wrapper .form-item:last-child {
+  display: block;
+}
+
+/* Claro */
+
+.js .field--widget-paragraphs .bootstrap_layout_classes_widget tbody td {
+  padding: 0;
+}
+.bootstrap_layout_classes_widget td {
+  height: 3rem;
+}
+.bootstrap_layout_classes_widget .form-element {
+  min-height: 1rem;
+  padding: calc(0.25rem - 1px) calc(0.5rem - 1px);
+}
+.bootstrap_layout_classes_widget .form-element--type-select {
+  padding-right: calc(2rem - 1px);
+}
+.bootstrap_layout_classes_widget tr .form-item {
+  margin: 0;
+}
+.bootstrap_layout_classes_widget .container-inline .form-item {
+  margin: 2px;
+}

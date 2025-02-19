@@ -1,0 +1,35 @@
+name: 'Nonid Features'
+description: 'Nonid Features - Import content type, field, view ... for Nonid theme.'
+type: module
+core_version_requirement: ^8 || ^9
+dependencies:
+  - admin_toolbar
+  - block
+  - block_content
+  - comment
+  - contact
+  - ctools
+  - datetime
+  - field
+  - file
+  - gavias_view
+  - gaviasthemer
+  - image
+  - imce
+  - mailchimp_signup
+  - menu_ui
+  - node
+  - options
+  - path
+  - pathauto
+  - rdf
+  - system
+  - taxonomy
+  - text
+  - user
+  - views
+  - views_infinite_scroll
+  - webform
+  - config_update
+  - features
+version: 9.x

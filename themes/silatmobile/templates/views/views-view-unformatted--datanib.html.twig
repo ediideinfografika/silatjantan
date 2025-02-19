@@ -1,0 +1,81 @@
+{#
+/**
+ * @file
+ * Default theme implementation to display a view of unformatted rows.
+ *
+ * Available variables:
+ * - title: The title of this group of rows. May be empty.
+ * - rows: A list of the view's row items.
+ *   - attributes: The row's HTML attributes.
+ *   - content: The row's content.
+ * - view: The view object.
+ * - default_row_class: A flag indicating whether default classes should be
+ *   used on rows.
+ *
+ * @see template_preprocess_views_view_unformatted()
+ *
+ * @ingroup themeable
+ */
+#}
+
+
+ <h3>Data Proyek -  {{ nib }} - {{d_usaha.nama_perusahaan}}</h3>
+ <div class="text_color-bg text-white mb-30">
+ <table class="table-striped table-inverse">
+                                        <thead>
+                                            <tr>
+                                                <th>nama_perusahaan</th>
+                                                <th>NIB</th>
+                                                <th>tanggal_terbit_oss</th>
+                                                <th>Alamat</th>
+                                                <th>status_penanaman_modal</th>
+                                               
+                                            </tr>
+                                        </thead>
+                                        <tbody> 
+<tr>
+                                                <td>{{d_usaha.jenis_perusahaan_uraian}}<br>{{d_usaha.nama_perusahaan}}</td>
+                                                <td>{{d_usaha.nib}}<br> ID Permohonan : {{d_usaha.id_permohonan}}</td>
+                                                <td>{{d_usaha.tanggal_terbit_oss}}</td>
+                                                <td>{{d_usaha.daereah_perusahaan|raw}}</td>
+                                                <td>{{d_usaha.status_penanaman_modal}}</td>
+                                             
+                                                
+                                            </tr>
+
+         
+                                        </tbody>
+                                    </table>
+</div>
+
+                                    <br>
+                                    <br>
+
+ <table class="table-striped  dh-table">
+                                        <thead>
+                                            <tr>
+                                                <th>ID Proyek</th>
+                                                <th>Nama Usaha</th>
+                                            
+                                                <th>KBLI</th>
+                                                <th>Skala Usaha</th>
+                                                <th>Actions</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>                                           
+                                  
+
+
+{% for row in result %}
+<tr>
+                                                <td>{{row.id_proyek}}</td>
+                                                <td>{{row.nama_usaha}}</td>
+                                                <td>{{row.kbli}}<br>{{row._kbli.judul}}</td>
+                                                <td>{{row.skala_usaha}}</td>
+                                                <td><a href="/node/add/bap?permohonan={{d_usaha.id_permohonan}}&proyek={{row.id_proyek}}" class="details-btn">View Details <i class="icofont-arrow-right"></i></a></td>
+                                            </tr>
+
+{% endfor %}
+         
+                                        </tbody>
+                                    </table>

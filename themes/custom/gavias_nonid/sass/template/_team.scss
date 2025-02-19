@@ -1,0 +1,287 @@
+.team-block{
+  &.team-v1{
+    max-width: 500px;
+    margin: 0 auto 30px;
+    text-align: center;
+    .team-image{
+      position: relative;       
+      transition: all 0.35s;
+      @include border-radius(50%);
+      @include size(280px,280px);
+      display: inline-block;
+      overflow: hidden;
+      .socials-team{
+        z-index: 9;
+        width: auto;
+        height: 30%;
+        padding: 30px 0;
+        @include transition(all 0.15s); 
+        text-align: center;
+        @include transition(all 0.4s);
+        border-radius: 2px;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 11;
+        background-image: linear-gradient(to top, rgba($theme-color, 0.99), rgba($theme-color, 0.01));
+        @include opacity(0);
+        a{
+          font-size: 18px;
+          color: $white;
+          display: inline-block;
+          + a {
+            margin-left: 10px;
+          }
+          &:hover, &:focus, &:active{
+            color: $black;
+          }
+        }
+      }
+    }
+    .team-content{
+      text-align: center;
+      position: relative;
+      top: 0;
+      transition: all 0.35s;
+      padding-top: 10px;
+      .team-name{
+        font-weight: 500;
+        color: $black;
+        line-height: 22px;
+        font-size: 20px;
+        @include transition(all 0.5s);
+        transition: all 0.35s;
+        a{
+          color: $black;
+          &:hover{
+            color: $theme-color;
+          }
+        }
+      }
+      .team-job{
+        font-size: 14px;
+        font-weight: 400;
+        @include transition(all 0.6s);
+        text-transform: capitalize;
+        margin-top: 2px;
+      }
+    }
+    &:hover{
+      .team-image{
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+        .socials-team{
+          @include opacity(1);
+        }
+      }
+    }  
+  }
+  &.team-v2{
+    padding: 30px;
+    background: $white;
+    border: 1px solid $border-color;
+    text-align: center;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+    background: $white;
+    border-radius: 6px;
+    @include media-breakpoint-down(lg){
+      padding: 20px;
+    }
+    .team-image{
+      position: relative; 
+      background: transparent;
+      @include size(150px, 150px);
+      display: inline-block;
+      @include border-radius(50%); 
+      border: 1px solid $border-color;
+      overflow: hidden;
+      .item-image{
+        position: relative;
+        &:after{
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          @include size(100%, 100%);
+          background: rgba(0, 0, 0, 0.2);
+          @include opacity(0);
+          z-index: 1;
+          @include transition(all 0.35s);
+        }
+      }
+    }
+    .team-content{
+      background: transparent;
+      position: relative;
+      text-align: center;
+       .socials-team{
+         text-align: center;
+         margin: 6px 0 8px;
+         > a{
+           font-size: 14px;
+           color: $body-color;
+           display: inline-block;
+           margin: 0 6px;
+           &:hover{
+             color: $theme-color;
+           }
+         }
+       }
+      .team-name{
+         font-weight: 500;
+         color: $black;
+         line-height: 24px;
+         font-size: 18px;
+         position: relative;
+       }
+       .team-job{
+         font-size: 14px;
+         font-weight: 500;
+         margin-bottom: 6px;
+       }
+    }
+    .team-skills{
+      margin-top: 10px;
+      .progress-label{
+        font-size: 12px;
+        font-weight: 500;
+        margin-bottom: 2px!important;
+      }
+      .progress{
+        margin-bottom: 11px!important;
+        height: 2px!important;
+        .progress-bar span{
+          top: -4px!important;
+        }
+        .percentage{
+          font-size: 11px!important;
+          top: -22px;
+        }
+      }
+    }
+    &:hover{
+      .team-image{
+        .item-image{
+          &:after{
+            @include opacity(1);
+          }
+        }
+        .socials-team{
+          @include opacity(1);
+          top: 10px;
+        }
+      }
+    }
+  }
+  &.team-v3{
+    @include media-breakpoint-down(md){
+      max-width: 300px;
+      margin: 0 auto;
+    }
+    .team-block-inner{
+      text-align: center;
+      .team-image{
+        position: relative;
+        text-align: center;
+        max-width: 220px;
+        border-radius: 50%;
+        overflow: hidden;
+        display: inline-block;
+        .field--name-field-team-image{
+          a{
+            display: block;
+            &:after{
+              content: '';
+              @include size(100%, 100%);
+              position: absolute;
+              top: 0;
+              left: 0;
+              z-index: 9;
+              background: rgba(0, 0, 0, 0.36);
+              @include opacity(0);
+              @include transition(all 0.35s);
+            }
+          }
+        }
+      }
+      .team-content{
+        padding: 10px 0 0;
+      }
+    }
+    .team-name{
+      font-weight: 500;
+      color: $black;
+      line-height: 24px;
+      font-size: 18px;
+      position: relative;
+    }
+    .team-job{
+      font-size: 14px;
+      font-weight: 500;
+      margin-bottom: 6px;
+    }
+    .team-socials{
+      text-align: center;
+      > a{
+        font-size: 14px;
+        color: $body-color;
+        display: inline-block;
+        margin: 0 6px;
+        &:hover{
+          color: $theme-color;
+        }
+      }
+    }
+    &:hover{
+      .team-image{
+        .field--name-field-team-image{
+          a:after{
+            @include opacity(1);
+          }
+        }
+        .socials{
+          @include opacity(1);
+        }
+      }
+    }  
+  }
+}
+
+.team-carousel{
+  .team-block{
+    margin-bottom: 10px;
+  }
+}
+
+.owl-carousel{
+  .team-block{
+    margin-bottom: 10px;
+  }
+}
+
+.team-list{
+  .team-block{
+    .team-image{
+      width: 35%;
+      float: left;
+    }
+    .team-content{
+      padding-left: 30px;
+      width: 65%;
+      float: left;
+      .team-body{
+        display: block!important;
+        visibility: visible!important;
+        padding: 10px 0;
+      }
+    }
+  }
+}
+
+.team-grid{
+  .team-block{
+    margin-bottom: 45px;
+  }
+}

@@ -1,0 +1,646 @@
+{#
+/**
+ * @file
+ * Theme override to display a node.
+ *
+ * Available variables:
+ * - node: The node entity with limited access to object properties and methods.
+     Only "getter" methods (method names starting with "get", "has", or "is")
+     and a few common methods such as "id" and "label" are available. Calling
+     other methods (such as node.delete) will result in an exception.
+ * - label: The title of the node.
+ * - content: All node items. Use {{ content }} to print them all,
+ *   or print a subset such as {{ content.field_example }}. Use
+ *   {{ content|without('field_example') }} to temporarily suppress the printing
+ *   of a given child element.
+ * - author_picture: The node author user entity, rendered using the "compact"
+ *   view mode.
+ * - metadata: Metadata for this node.
+ * - date: Themed creation date field.
+ * - author_name: Themed author name field.
+ * - url: Direct URL of the current node.
+ * - display_submitted: Whether submission information should be displayed.
+ * - attributes: HTML attributes for the containing element.
+ *   The attributes.class element may contain one or more of the following
+ *   classes:
+ *   - node: The current template type (also known as a "theming hook").
+ *   - node--type-[type]: The current node type. For example, if the node is an
+ *     "Article" it would result in "node--type-article". Note that the machine
+ *     name will often be in a short form of the human readable label.
+ *   - node--view-mode-[view_mode]: The View Mode of the node; for example, a
+ *     teaser would result in: "node--view-mode-teaser", and
+ *     full: "node--view-mode-full".
+ *   The following are controlled through the node publishing options.
+ *   - node--promoted: Appears on nodes promoted to the front page.
+ *   - node--sticky: Appears on nodes ordered above other non-sticky nodes in
+ *     teaser listings.
+ *   - node--unpublished: Appears on unpublished nodes visible only to site
+ *     admins.
+ * - title_attributes: Same as attributes, except applied to the main title
+ *   tag that appears in the template.
+ * - content_attributes: Same as attributes, except applied to the main
+ *   content tag that appears in the template.
+ * - author_attributes: Same as attributes, except applied to the author of
+ *   the node tag that appears in the template.
+ * - title_prefix: Additional output populated by modules, intended to be
+ *   displayed in front of the main title tag that appears in the template.
+ * - title_suffix: Additional output populated by modules, intended to be
+ *   displayed after the main title tag that appears in the template.
+ * - view_mode: View mode; for example, "teaser" or "full".
+ * - teaser: Flag for the teaser state. Will be true if view_mode is 'teaser'.
+ * - page: Flag for the full page state. Will be true if view_mode is 'full'.
+ * - readmore: Flag for more state. Will be true if the teaser content of the
+ *   node cannot hold the main body content.
+ * - logged_in: Flag for authenticated user status. Will be true when the
+ *   current user is a logged-in member.
+ * - is_admin: Flag for admin user status. Will be true when the current user
+ *   is an administrator.
+ *
+ * @see template_preprocess_node()
+ *
+ * @todo Remove the id attribute (or make it a class), because if that gets
+ *   rendered twice on a page this is invalid CSS for example: two lists
+ *   in different view modes.
+ */
+#}
+
+<style>
+
+
+.sheet {
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  page-break-after: always;
+}
+/** Paper sizes **/
+div.A3 .sheet {
+  width: 297mm;
+  height: 419mm
+}
+div.F4 .sheet {
+  width: 216mm;
+  height: 330mm
+}
+div.A3.landscape .sheet {
+  width: 420mm;
+  height: 296mm
+}
+div.A4 .sheet {
+  width: 210mm;
+  height: 296mm
+}
+div.A4.landscape .sheet {
+  width: 297mm;
+  height: 209mm
+}
+div.A5 .sheet {
+  width: 148mm;
+  height: 209mm
+}
+div.A5.landscape .sheet {
+  width: 210mm;
+  height: 147mm
+}
+div.letter .sheet {
+  width: 216mm;
+  height: 279mm
+}
+div.letter.landscape .sheet {
+  width: 280mm;
+  height: 215mm
+}
+div.legal .sheet {
+  width: 216mm;
+  height: 356mm
+}
+div.legal.landscape .sheet {
+  width: 357mm;
+  height: 215mm
+}
+/** Padding area **/
+.sheet.padding-10mm {
+  padding: 10mm
+}
+.sheet.padding-15mm {
+  padding: 15mm
+}
+.sheet.padding-20mm {
+  padding: 5mm 20mm;
+}
+.sheet.padding-25mm {
+  padding: 25mm
+}
+/** For screen preview **/
+@media screen {
+  body {
+      background: #e0e0e0
+  }
+  
+  .sheet {
+      background: white;
+      box-shadow: 0 .5mm 2mm rgba(0, 0, 0, .3);
+      margin: 5mm auto;
+  }
+}
+/** Fix for Chrome issue #273306 **/
+@media print {
+  div.A3.landscape {
+      width: 420mm
+  }
+  
+  div.A3,
+  div.A4.landscape {
+      width: 297mm
+  }
+  
+  div.A4,
+  div.A5.landscape {
+      width: 210mm
+  }
+  
+  div.A5 {
+      width: 148mm
+  }
+  
+  div.letter,
+  body.legal,
+  body.F4 {
+      width: 216mm
+  }
+  
+  div.letter.landscape {
+      width: 280mm
+  }
+  
+  div.legal.landscape {
+      width: 357mm
+  }
+}
+
+.tablex {
+  width: 100%;
+}
+td {
+  vertical-align: top;
+}
+.tablex td,
+.tablex tr,
+.No-Table-Style {
+  padding: 0;
+  border: none;
+}
+.kecil td, .kecil th{
+    font-size:10px;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+table td
+{padding:0 8px!important;}
+
+body {
+  -webkit-print-color-adjust: exact !important;
+}
+</style>
+
+<div id="printablediv">
+<div class="F4">
+<section class="sheet padding-20mm">
+<div style="width: 100%; margin: 0px auto; padding: 0px; font-family: Arial;">
+<div style="font-family: Arial;">
+<div style="font-size: 12px; font-family: Arial; text-align: center; font-weight: bold; text-decoration: underline; margin: 4px;">&nbsp;</div>
+
+<div style="font-size: 15px; font-family: Arial; text-align: center; font-weight: bold; text-decoration: underline; margin: 4px;">BERITA ACARA PEMERIKSAAN (BAP)</div>
+
+<div style="text-align: center;">Nomor: {{ node.field_some_name.value }}.</div>
+</div>
+</div>
+
+<p>&nbsp;</p>
+
+
+<table style="font-size: 14px; font-family: Arial; width: 100%; margin: 0px auto; padding: 0px;">
+	<tbody>
+		<tr>
+			
+			<td colspan=6>Pada hari ini {{ node.field_some_name.value }}. tanggal &nbsp;{{ node.field_some_name.value }}.bulan Maret tahun 2022, yang bertanda tangan di bawah ini, wakil-wakil dari instansi pemerintah dan wakil dari perusahaan, telah melakukan Pengawasan Perizinan Berusaha Berbasis Risiko</td>
+		</tr>
+		<tr>
+			
+			<td colspan=6>
+			<p style="margin-right:-1px"><strong>I. &nbsp;KETERANGAN PERUSAHAAN</strong></p>
+			</td>
+		</tr>
+		
+					<tr>
+						<td>1.</td>
+						<td style="width: 221px;">Nama Perusahaan</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" style="width: 512px;">
+						<p>{{ node.field_nama.value }}</p>
+						</td>
+					</tr>
+					<tr>
+						<td>b.</td>
+						<td style="width: 221px;">Alamat Lokasi Proyek</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" style="width: 512px;">
+						<p>{{ node.field_alamat.value }}</p>
+
+						<p>Desa/Kel&nbsp;:{{ node.field_kelurahan.value }}&nbsp;Kec.{{ node.field_kecamatan.value }}&nbsp;{{ node.field_kab_kota.value }}&nbsp;</p>
+
+						<p>Provinsi Jawa Timur</p>
+						</td>
+					</tr>
+					<tr>
+						<td rowspan="4">c.</td>
+						<td rowspan="4" style="width: 221px;">Penanggung Jawab di Lokasi Proyek</td>
+						<td rowspan="4" style="width: 10px;">:</td>
+						<td style="width: 157px;">Nama</td>
+						<td style="width: 357px;">: {{ node.field_alamat.value }}</td>
+					</tr>
+					<tr>
+						<td style="width: 157px;">Jabatan</td>
+						<td style="width: 357px;">:&nbsp;{{ node.field_jabatan_penanggungjawab.value }}</td>
+					</tr>
+					<tr>
+						<td style="width: 157px;">No Hp/Telp</td>
+						<td style="width: 357px;">:&nbsp;{{ node.field_kontak_penanggungjawab.value }}</td>
+					</tr>
+					<tr>
+						<td style="width: 157px;">e-mail</td>
+						<td style="width: 357px;">:&nbsp;{{ node.field_email_penanggungjawab.value }}</td>
+					</tr>
+					<tr>
+						<td colspan="5">
+						<p>&nbsp;</p>
+
+						<p><strong>II. PERIZINAN DAN/ATAU NONPERIZINAN YANG MENJADI OBYPENGAWASAN</strong></p>
+						</td>
+					</tr>
+					<tr>
+						<td rowspan="2">1</td>
+						<td rowspan="2" style="width: 221px;">Nomor dan Tanggal Penerbitan Nomor Induk Berusaha</td>
+						<td rowspan="2" style="width: 10px;">:</td>
+						<td style="width: 157px;">Nomor</td>
+						<td style="width: 357px;">:&nbsp;{{ node.field_nib.value }}</td>
+					</tr>
+					<tr>
+						<td style="width: 157px;">Tanggal</td>
+						<td style="width: 357px;">:&nbsp;{{ node.field_tgl_terbit_nib.value }}</td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td style="width: 221px;">Nomor Kode Proyek</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" rowspan="1" style="width: 95px;">{{ node.field_kode_proyek.value }}</td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td style="width: 221px;">Kegiatan Usaha</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" rowspan="1" style="width: 95px;">{{ node.field_kegiatan_usaha.value }}</td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td style="width: 221px;">Bidang Usaha</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" rowspan="1" style="width: 95px;">{{ node.field_bidang_usaha.value }}</td>
+					</tr>
+					<tr>
+						<td>5</td>
+						<td style="width: 221px;">Persyaratan dasar perizinan berusaha</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" rowspan="1" style="width: 95px;" class="kecil">{{ node.field_list_izin_dasar.value |raw}}</td>
+					</tr>
+					<tr>
+						<td>6</td>
+						<td style="width: 221px;">Sertifikat Standart / Izin</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" rowspan="1" style="width: 95px;" class="kecil">{{ node.field_sertifikat_standar_izin.value|raw }}</td>
+					</tr>
+					<tr>
+						<td>7</td>
+						<td style="width: 221px;">Fasilitas Penanaman Modal</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" rowspan="1" style="width: 95px;" class="kecil">{{ node.field_fasilitas_penanaman_modal.value|raw }}</td>
+					</tr>
+					
+				
+	</tbody>
+</table>
+</section>
+
+<section class="sheet padding-20mm">
+<div style="width: 100%; margin: 0px auto; padding: 0px; font-family: Arial;">
+<div style="font-family: Arial;">
+<div style="font-size: 12px; font-family: Arial; text-align: center; font-weight: bold; text-decoration: underline; margin: 4px;">&nbsp;</div>
+
+<div style="font-size: 15px; font-family: Arial; text-align: center; font-weight: bold; text-decoration: underline; margin: 4px;">&nbsp;</div>
+</div>
+</div>
+
+			<table style="font-family:Arial; font-size:14px; width: 100%;">
+				<tbody>
+                <tr>
+						<td>8</td>
+						<td style="width: 221px;">Pemenuhan Standart Usaha</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" rowspan="1" style="width: 95px;">{{ node.field_pemenuhan_standard_usaha.value |raw}}</td>
+					</tr>
+					<tr>
+						<td>9</td>
+						<td style="width: 221px;">Pemenuhan Standart Produk</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" rowspan="1" style="width: 95px;" >{{ node.field_standard_produk.value|raw }}</td>
+					</tr>
+					<tr>
+						<td rowspan="3">10</td>
+						<td rowspan="3" style="width: 221px;">Nilai Rencana dan Realisasi Investasi</td>
+						<td rowspan="3" style="width: 10px;">:</td>
+						<td style="width: 157px;">a. Rencana Investasi</td>
+						<td style="width: 357px;">: {{ node.field_nilai_rencana_investasi.value }}</td>
+					</tr>
+					<tr>
+						<td style="width: 157px;">b. Realisasi Investasi</td>
+						<td style="width: 357px;">: {{ node.field_nilai_realisasi_investasi.value }}</td>
+					</tr>
+					<tr>
+						<td style="width: 157px;">c. Kesesuaian</td>
+						<td style="width: 357px;">:&nbsp;{{ node.field_kesesuaian.value }}</td>
+					</tr>
+					<tr>
+						<td rowspan="3">11</td>
+						<td rowspan="3" style="width: 221px;">Penyerapan Tenaga Kerja</td>
+						<td rowspan="3" style="width: 10px;">:</td>
+						<td style="width: 95px;">Laki-laki</td>
+						<td style="width: 95px;">:&nbsp;{{ node.field_laki_laki.value }}</td>
+					</tr>
+					<tr>
+						<td style="width: 95px;">Perempuan</td>
+						<td style="width: 95px;">:&nbsp;{{ node.field_perempuan.value }}</td>
+					</tr>
+					<tr>
+						<td style="width: 95px;">total</td>
+						<td style="width: 95px;">:&nbsp;{{ node.field_total_tenaga_kerja.value }}</td>
+					</tr>
+					<tr>
+						<td>12</td>
+						<td style="width: 221px;">Kewajiban</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" rowspan="1" style="width: 95px;">
+                        
+                        <table style="width: 100%;">
+                                <tbody>
+                                </tbody>
+                                <tbody>
+                                    <tr>
+                                        <td style="width: 10%;">&nbsp;</td>
+                                        <td style="width: 90%;">Divestasi</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 10%;">&nbsp;</td>
+                                        <td style="width: 90%;">Pelatihan TKI</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 10%;">&nbsp;</td>
+                                        <td style="width: 90%;">CSR </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 10%;">&nbsp;</td>
+                                        <td style="width: 90%;">Kemitraan  </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 10%;">&nbsp;</td>
+                                        <td style="width: 90%;">Alih Teknologi  </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td style="width: 10%;">&nbsp;</td>
+                                        <td style="width: 90%;">Pengelolaan Lingkungan  </td>
+                                    </tr>
+                                    
+                                   
+                                </tbody>
+                            </table>
+
+
+
+                        </td>
+					</tr>
+					<tr>
+						<td>13</td>
+						<td style="width: 221px;">Penilaian Kepatuhan Pelaku Usaha</td>
+						<td style="width: 10px;">:</td>
+						<td colspan="2" rowspan="1" style="width: 95px;">
+                        <table style="width: 100%;">
+                          
+                            <tbody>
+                            	<tr>
+                            		<td style="width: 280px;">a. Teknis</td>
+                            		<td style="width: 597px;">  {{ node.field_penilaian_teknis.value }}</td>
+                            	</tr>
+                            	<tr>
+                            		<td style="width: 280px;">b.Administratif</td>
+                            		<td style="width: 597px;">  {{ node.field_penilaian_administratif.value }}</td>
+                            	</tr>
+                            	<tr>
+                            		<td style="width: 280px;">b.Klasifikasi Kepatuhan</td>
+                            		<td style="width: 597px;">  {{ node.field_kla.value }}</td>
+                            	</tr>
+                            	
+                            </tbody>
+                         </table>  
+
+                      </td>
+					</tr>
+				</tbody>
+			</table>
+			
+</section>
+
+<section class="sheet padding-20mm">
+<div style="width: 100%; margin: 0px auto; padding: 0px; font-family: Arial;">
+<div style="font-family: Arial;">
+<div style="font-size: 12px; font-family: Arial; text-align: center; font-weight: bold; text-decoration: underline; margin: 4px;">&nbsp;</div>
+
+<div style="font-size: 15px; font-family: Arial; text-align: center; font-weight: bold; text-decoration: underline; margin: 4px;">&nbsp;</div>
+</div>
+</div>
+
+<table style="font-family:Arial; font-size:14px; width: 100%;">
+	<tbody>
+		<tr>
+			<td class="text-align-center" rowspan="5" style="width: 168px;">Mengetahui<br />
+			Pimpinan/Penanggung Jawab perusahaan</td>
+			<td colspan="1" style="width: 481px;">
+			<table style="width: 487px;">
+				<tbody>
+					<tr>
+						<td colspan="3" style="width: 318px;">Pemeriksa</td>
+						<td rowspan="5" style="width: 155px;">
+						<p class="text-align-center">Tanda Tangan</p>
+
+						<p class="text-align-center">&nbsp;</p>
+
+						<p class="text-align-center">&nbsp;</p>
+
+						<p class="text-align-center">.................................</p>
+						</td>
+					</tr>
+					<tr>
+						<td>1</td>
+						<td colspan="2" rowspan="1" style="width: 303px;">Koordinator</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td colspan="2" style="width: 303px;">DPM-PTSP Provinsi Jawa Timur</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td>Nama</td>
+						<td style="width: 244px;">:&nbsp;CIPTO WIBOWO, S.Sos, MP</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td>Jabatan</td>
+						<td style="width: 244px;">:&nbsp;Kepala Bidang Pengendalian Pelaksanaan Penanaman Modal</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table style="width: 487px;">
+				<tbody>
+					<tr>
+						<td>2</td>
+						<td colspan="2" style="width: 303px;">DPM-PTSP Provinsi Jawa Timur</td>
+						<td rowspan="3" style="width: 153px;">
+						<p>&nbsp;</p>
+
+						<p class="text-align-center">.................................</p>
+						</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td>Nama</td>
+						<td style="width: 244px;">:&nbsp;MARYONO</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td>Jabatan</td>
+						<td style="width: 244px;">:&nbsp;Bendhara</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table>
+				<tbody>
+					<tr>
+						<td>3</td>
+						<td colspan="2" style="width: 303px;">DPM-PTSP Provinsi Jawa Timur</td>
+						<td rowspan="3" style="width: 153px;">
+						<p>&nbsp;</p>
+
+						<p class="text-align-center">.................................</p>
+						</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td style="width: 53px;">Nama</td>
+						<td style="width: 243px;">:&nbsp;AFRINA ROSERLI, SE</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td style="width: 53px;">Jabatan</td>
+						<td style="width: 243px;">:&nbsp;Pemeriksa Penanaman Modal</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table>
+				<tbody>
+					<tr>
+						<td>4</td>
+						<td colspan="2" style="width: 303px;">PM-PTSP Kabupaten Sidoarjo</td>
+						<td rowspan="3" style="width: 153px;">
+						<p>&nbsp;</p>
+
+						<p class="text-align-center">.................................</p>
+						</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td style="width: 57px;">Nama</td>
+						<td style="width: 239px;">:&nbsp;IDA NUR RAKHMA, S.Sos</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td style="width: 57px;">Jabatan</td>
+						<td style="width: 239px;">:&nbsp;Analis Kebijakan Ahli Muda</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table style="width: 486px;">
+				<tbody>
+					<tr>
+						<td>5</td>
+						<td colspan="2" style="width: 298px;">DPM-PTSP Provinsi Jawa Timur</td>
+						<td rowspan="3" style="width: 156px;">
+						<p>&nbsp;</p>
+
+						<p class="text-align-center">.................................</p>
+						</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td style="width: 59px;">Nama</td>
+						<td style="width: 234px;">:&nbsp;NURRAKHMAN SUSILO WARDONO, S.H</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td style="width: 59px;">Jabatan</td>
+						<td style="width: 234px;">:&nbsp;Staf Seksi Pengawasan Pelaksanaan Penanaman Mod</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table>
+				<tbody>
+					<tr>
+						<td>6</td>
+						<td colspan="2" style="width: 303px;">DPM-PTSP Provinsi Jawa Timur</td>
+						<td rowspan="3" style="width: 153px;">
+						<p>&nbsp;</p>
+
+						<p class="text-align-center">.................................</p>
+						</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td style="width: 59px;">Nama</td>
+						<td style="width: 237px;">:&nbsp;NUR TASHA MAHARANI</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td style="width: 59px;">Jabatan</td>
+						<td style="width: 237px;">:&nbsp;Tenaga Pendamping Prime Servise</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</section>
+</div>
+</div>

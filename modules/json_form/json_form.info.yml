@@ -1,0 +1,11 @@
+name: 'JSON Form'
+description: 'JSON Form'
+type: module
+core_version_requirement: ^8 || ^9
+dependencies:
+  drupal:field
+
+# Information added by Drupal.org packaging script on 2023-05-22
+version: '2.0.0'
+project: 'json_form'
+datestamp: 1684748608

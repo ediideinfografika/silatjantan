@@ -1,0 +1,55 @@
+{#
+/**
+ * @file
+ * Default view template to display all the fields in a row.
+ *
+ * Available variables:
+ * - view: The view in use.
+ * - fields: A list of fields, each one contains:
+ *   - content: The output of the field.
+ *   - raw: The raw data for the field, if it exists. This is NOT output safe.
+ *   - class: The safe class ID to use.
+ *   - handler: The Views field handler controlling this field.
+ *   - inline: Whether or not the field should be inline.
+ *   - wrapper_element: An HTML element for a wrapper.
+ *   - wrapper_attributes: List of attributes for wrapper element.
+ *   - separator: An optional separator that may appear before a field.
+ *   - label: The field's label text.
+ *   - label_element: An HTML element for a label wrapper.
+ *   - label_attributes: List of attributes for label wrapper.
+ *   - label_suffix: Colon after the label.
+ *   - element_type: An HTML element for the field content.
+ *   - element_attributes: List of attributes for HTML element for field content.
+ *   - has_label_colon: A boolean indicating whether to display a colon after
+ *     the label.
+ *   - element_type: An HTML element for the field content.
+ *   - element_attributes: List of attributes for HTML element for field content.
+ * - row: The raw result from the query, with all data it fetched.
+ *
+ * @see template_preprocess_views_view_fields()
+ *
+ * @ingroup themeable
+ */
+#}
+{% set statx=  fields.field_status_laporan.content |render|render %}
+
+                    <a href="/node/{{ fields.nid.content }}" class="item">
+                    {% if statx in 'Diterima'  %}
+                        <div class="icon-box bg-primary">
+                    {% elseif statx in 'Ditolak'   %}
+                         <div class="icon-box bg-danger">
+                    {% else %}
+                     <div class="icon-box bg-success">
+                    {% endif %}
+                            <ion-icon name="megaphone-outline" role="img" class="md hydrated" aria-label="key outline"></ion-icon>
+                        </div>
+                        <div class="in">
+                            <div>
+                                <div class="mb-05"><strong style=" color: #010f72;"> {{ fields.field_nama.content }}</strong></div>
+                                <div class="text-small mb-05"> {{ fields.field_status_laporan.content }}</div>
+                                <div class="text-xsmall">{{ fields.created.content }}</div>
+                            </div>
+                        </div>
+                    </a>
+
+

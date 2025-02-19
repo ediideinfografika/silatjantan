@@ -1,0 +1,298 @@
+{#
+/**
+ * @file
+ * Default theme implementation to display a single page.
+ *
+ * The doctype, html, head and body tags are not in this template. Instead they
+ * can be found in the html.html.twig template in this directory.
+ *
+ * Available variables:
+ *
+ * General utility variables:
+ * - base_path: The base URL path of the Drupal installation. Will usually be
+ *   "/" unless you have installed Drupal in a sub-directory.
+ * - is_front: A flag indicating if the current page is the front page.
+ * - logged_in: A flag indicating if the user is registered and signed in.
+ * - is_admin: A flag indicating if the user has permission to access
+ *   administration pages.
+ *
+ * Site identity:
+ * - front_page: The URL of the front page. Use this instead of base_path when
+ *   linking to the front page. This includes the language domain or prefix.
+ * - logo: The url of the logo image, as defined in theme settings.
+ * - site_name: The name of the site. This is empty when displaying the site
+ *   name has been disabled in the theme settings.
+ * - site_slogan: The slogan of the site. This is empty when displaying the site
+ *   slogan has been disabled in theme settings.
+ *
+ * Page content (in order of occurrence in the default page.html.twig):
+ * - messages: Status and error messages. Should be displayed prominently.
+ * - node: Fully loaded node, if there is an automatically-loaded node
+ *   associated with the page and the node ID is the second argument in the
+ *   page's path (e.g. node/12345 and node/12345/revisions, but not
+ *   comment/reply/12345).
+ *
+ * Regions:
+ * - page.header: Items for the header region.
+ * - page.navigation: Items for the Navigation region.
+ * - page.page_title: Used by Current page Title.
+ * - page.banner: Items for the banner region.
+ * - page.highlighted: Items for the highlighted top  region.
+ * - page.content_top: The main content top of the current page.
+ * - page.help: Item for the help region.
+ * - page.breadcrumb: Item for the Breadcrumb region.
+ * - page.content: The main content of the current page.
+ * - page.sidebar_first: Items for the first sidebar.
+ * - page.sidebar_second: Items for the second sidebar.
+ * - page.content_bottom: Items for the bottom in content region.
+ * - page.footer_top: Items for the footer top region.
+ * - page.footer_first: Items for the footer first region.
+ * - page.footer_second: Items for the footer Second region.
+ * - page.footer_third: Items for the footer third region.
+ * - page.footer_bottom: Items for the footer bottom region.
+ *
+ * @see template_preprocess_page()
+ * @see html.html.twig
+ *
+ * @ingroup themeable
+ */
+#}
+<style>
+#map { 
+ display:none !important;
+    }
+
+    
+/*Legend specific*/
+.legend {
+  padding: 6px 8px;
+  font: 14px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  /*box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);*/
+  /*border-radius: 5px;*/
+  line-height: 24px;
+  color: #555;
+}
+.legend h4 {
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 12px 8px;
+  color: #777;
+}
+
+.legend span {
+  position: relative;
+  bottom: 7px;
+font-size: 10px;}
+
+.legend i {
+  width: 14px;
+  height: 14px;
+  float: left;
+  margin: -4px 4px 0 0;
+  opacity: 1;
+}
+
+.legend i.icon {
+  background-size: 18px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.form-group.basic {
+  padding: 0 !important;
+    margin: 0 !important;
+}
+
+.mb-2 {
+    margin-bottom: 0px !important;
+}
+
+.description{
+  font-size: 11px;
+    line-height: 13px;
+}
+.js-form-file::before{
+  margin: 5px;
+}
+
+.form-group.basic .form-control, .form-group.basic .custom-select {
+    background: #edededf2;
+    border: none;
+    border-bottom: 1px solid #DCDCE9;
+        padding: 0 30px 0 10px;
+    border-radius: 0;
+    height: 40px;
+        margin: 0 0 10px;
+    color: #27173E;
+    font-size: 15px;
+    border-radius: 18px;
+}
+.views-exposed-form{
+  display:none;
+}
+
+
+</style>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+
+
+<script>
+
+$( document ).ready(function() {
+
+ 
+    var ok= $('#edit-field-status-laporan').val();
+    console.log(ok);
+
+  if(ok == '_none')
+  {
+   $('.js-form-item-field-catatan-0-value').hide();
+   $('.js-form-item-field-catatan-admin-0-value').hide();
+     $('.form-item-field-photo-penanganan-0').hide();
+  $('#edit-field-tanggal-penanganan-0-value').hide();
+  $('.js-form-item-field-alasan-penolakan-0-value').hide();
+  }
+    else if(ok == 4)
+  {
+  $('.js-form-item-field-catatan-0-value').hide();
+  $('.form-item-field-photo-penanganan-0').show();
+  $('#edit-field-tanggal-penanganan-0-value').show();
+   $('.js-form-item-field-catatan-admin-0-value').show();
+   $('.js-form-item-field-alasan-penolakan-0-value').hide();
+  }
+
+  else if(ok == 2)
+  {
+  $('.js-form-item-field-catatan-0-value').hide();
+  $('.js-form-item-field-alasan-penolakan-0-value').show();
+     $('.js-form-item-field-catatan-admin-0-value').hide();
+     $('.form-item-field-photo-penanganan-0').hide();
+  $('#edit-field-tanggal-penanganan-0-value').hide();
+  }
+  else{
+     $('.js-form-item-field-catatan-0-value').show();
+      $('.js-form-item-field-catatan-admin-0-value').hide();
+     $('.form-item-field-photo-penanganan-0').hide();
+  $('#edit-field-tanggal-penanganan-0-value').hide();
+  $('.js-form-item-field-alasan-penolakan-0-value').hide();
+  }
+
+
+});
+
+
+$(document).on('change','#edit-field-status-laporan',function(){
+ 
+    var ok=this.value;
+     console.log(ok);
+     if(ok == '_none')
+  {
+   $('.js-form-item-field-catatan-0-value').hide();
+   $('.js-form-item-field-catatan-admin-0-value').hide();
+     $('.form-item-field-photo-penanganan-0').hide();
+  $('#edit-field-tanggal-penanganan-0-value').hide();
+  $('.js-form-item-field-alasan-penolakan-0-value').hide();
+  }
+    else if(ok == 4)
+  {
+  $('.js-form-item-field-catatan-0-value').hide();
+  $('.form-item-field-photo-penanganan-0').show();
+  $('#edit-field-tanggal-penanganan-0-value').show();
+  $('.js-form-item-field-catatan-admin-0-value').show();
+  $('.js-form-item-field-alasan-penolakan-0-value').hide();
+  }
+
+  else if(ok == 2)
+  {
+  $('.js-form-item-field-catatan-0-value').hide();
+     $('.js-form-item-field-catatan-admin-0-value').hide();
+     $('.form-item-field-photo-penanganan-0').hide();
+  $('#edit-field-tanggal-penanganan-0-value').hide();
+  $('.js-form-item-field-alasan-penolakan-0-value').show();
+  }
+  else{
+     $('.js-form-item-field-catatan-0-value').show();
+      $('.js-form-item-field-catatan-admin-0-value').hide();
+     $('.form-item-field-photo-penanganan-0').hide();
+  $('#edit-field-tanggal-penanganan-0-value').hide();
+  $('.js-form-item-field-alasan-penolakan-0-value').hide();
+  }
+
+
+});
+
+
+$('#edit-field-status-laporan').on('change', function()
+{
+    alert(this.value); //or alert($(this).val());    
+
+
+
+if (ok==1){
+  $('.js-form-item-field-catatan-0-value').hide();
+}
+
+  $("[id^=edit-field-status-laporan]").change(function()
+ {
+ 
+ });
+
+
+});
+  
+
+
+</script>
+
+
+    <!-- loader -->
+       <div id="loader">
+        <img src="/sites/default/files/icon/logo.png" alt="icon" class="loading-icon">
+    </div>
+    <!-- * loader -->
+
+    <!-- App Header -->
+    <div class="appHeader">
+        <div class="left">
+            <a href="#" class="headerButton goBack">
+                <ion-icon name="chevron-back-outline"></ion-icon>
+            </a>
+        </div>
+        <div class="pageTitle"> 
+                {{ page.header_title }}
+        </div>
+        
+    </div>
+    <!-- * App Header -->
+
+    <!-- App Capsule -->
+    <div id="appCapsule">
+
+    <div class="card">
+                <div class="card-body">
+                    <div class="p-1">
+                        <div class="text-center">
+                            <h2 class="text-primary">Form Laporan Jalan</h2>
+                        </div>
+                        {{page.content}}
+                    </div>
+                </div>
+            </div>
+
+
+
+
+    </div>
+    <!-- * App Capsule -->
+
+
+    <!-- App Bottom Menu -->
+      {{page.bottom_menu}}
+
+
+    <!-- * App Bottom Menu -->
+

@@ -1,0 +1,246 @@
+{#
+/**
+ * @file
+ * Theme override to display a block.
+ *
+ * Available variables:
+ * - plugin_id: The ID of the block implementation.
+ * - label: The configured label of the block if visible.
+ * - configuration: A list of the block's configuration values.
+ *   - label: The configured label for the block.
+ *   - label_display: The display settings for the label.
+ *   - provider: The module or other provider that provided this block plugin.
+ *   - Block plugin specific settings will also be stored here.
+ * - content: The content of this block.
+ * - attributes: array of HTML attributes populated by modules, intended to
+ *   be added to the main container tag of this template.
+ *   - id: A valid HTML ID and guaranteed unique.
+ * - title_attributes: Same as attributes, except applied to the main title
+ *   tag that appears in the template.
+ * - title_prefix: Additional output populated by modules, intended to be
+ *   displayed in front of the main title tag that appears in the template.
+ * - title_suffix: Additional output populated by modules, intended to be
+ *   displayed after the main title tag that appears in the template.
+ *
+ * @see template_preprocess_block()
+ * @see uikit_preprocess_block()
+ *
+ * @ingroup uikit_themeable
+ */
+#}
+{%
+  set classes = [
+    'block',
+    'block-' ~ configuration.provider|clean_class,
+    'block-' ~ plugin_id|clean_class,
+  ]
+%}
+{% if content %}
+<br>
+<br>
+  <script   src="https://code.jquery.com/jquery-3.6.0.min.js"   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="   crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/linq.js/2.2.0.2/linq.min.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+
+<script>
+window.onload = function() {
+
+var dataPoints = [];
+
+
+
+function addData(data) {
+//console.log(data.features);
+  var aggregatedObject = Enumerable.From(data.features)
+        .GroupBy("$.properties.Perkerasan", null,
+                 function (key, g) {
+                     return {
+                       jenis: key,
+                       total: g.Sum(function (s) { return parseInt(s.properties.PnjangRuas) }) 
+                     }
+        })
+        .ToArray();
+
+//console.log(aggregatedObject);
+
+
+
+  for (var i = 0; i < aggregatedObject.length; i++) {
+					var color = setColor();
+					 var newarr=[];
+					 var kat=[];
+        //   console.log(aggregatedObject[i].jenis);
+				//	 newarr.push(parseInt(aggregatedObject[key]));
+						
+					  drawChart(aggregatedObject[i].total, aggregatedObject[i].jenis,color,'Grafik Perkerasan','chartContainer');
+					  }
+					  
+
+}
+
+
+function addData2(data) {
+//console.log(data.features);
+var jemb = Enumerable.From(data.features)
+    .GroupBy("$.properties.Knd_Jembat", null, "{ Name: $, Count: $$.Count() }")
+    .ToArray();
+
+
+//console.log(aggregatedObject);
+
+
+
+  for (var i = 0; i < jemb.length; i++) {
+					var color = setColor();
+					 var newarr=[];
+					 var kat=[];
+				//	 newarr.push(parseInt(aggregatedObject[key]));
+						
+					  drawChart2(jemb[i].Count, jemb[i].Name,color,'Grafik Jembatan','jembatan');
+					  }
+					  
+
+}
+
+
+
+$.getJSON("https://peta.ediide.com/sites/default/files/Perkerasan_Jalan.geojson", addData);
+
+$.getJSON("https://peta.ediide.com/sites/default/files/Revisi_Jembatan.geojson", addData2);
+
+
+}
+
+              function setColor() {
+        //random Colors
+        var letters = '0123456789ABCDEF'.split('');
+        var color = '#';
+        for (var i = 0; i < 6; i++) {
+            color += letters[Math.round(Math.random() * 15)];
+        }
+        //console.log(color);
+        return color;
+    }
+
+    var options1 = {
+    chart: {
+        renderTo: '',
+		type: 'column'
+    },	
+	title: {
+    text: 'ddd'
+  },
+  xAxis: {
+	categories:[]
+  },
+    series: []
+};
+
+    var options2 = {
+    chart: {
+        renderTo: '',
+		type: 'column'
+    },	
+	title: {
+    text: 'ddd'
+  },
+  xAxis: {
+	categories:[]
+  },
+    series: []
+};
+
+
+
+
+var drawChart = function (data, name, color, judul, idnya) {
+    // 'series' is an array of objects with keys: 'name' (string) and 'data' (array)
+  var aaa='';
+ 
+
+           if (name ==='Aspal'){aaa="#2f5597";}
+          else if (name ==='Beton'){aaa="#9dc3e6";}
+          else if (name ==='Lapen'){aaa="#c55a11";}
+          else if (name ==='makadam'){aaa="#ffff00";}
+          else {aaa="red";}
+ 
+
+
+
+      
+  	var arr=[];
+    arr[0]=data;
+    var newSeriesData = {
+        name: name,
+        data: arr,
+		color:aaa
+    };
+
+
+    	
+
+    options1.series.push(newSeriesData);
+	
+     options1.title.text=judul;
+	 options1.chart.renderTo=idnya;
+	 options1.xAxis.categories.push(name);
+	 
+var chart = new Highcharts.Chart(options1);
+	
+
+	
+};
+
+
+var drawChart2 = function (data, name, color, judul, idnya) {
+  var aaa='';
+           if (name ==='Rusak Ringan'){aaa="green";}
+          else if (name ==='Rusak Sedang'){aaa="yellow";}
+          else if (name ==='Rusak Berat'){aaa="orange";}
+          else {aaa="red";}
+
+  	var arr=[];
+    arr[0]=data;
+    var newSeriesData = {
+        name: name,
+        data: arr,
+		color:aaa
+    };
+
+
+    	
+
+    options2.series.push(newSeriesData);
+	
+     options2.title.text=judul;
+	 options2.chart.renderTo=idnya;
+	 options2.xAxis.categories.push(name);
+	 
+var chart = new Highcharts.Chart(options2);
+	
+
+
+	
+};
+
+
+</script>
+
+
+  <div{{ attributes.addClass(classes) }}>
+    {{ title_prefix }}
+    {% if label %}
+      <h3{{ title_attributes }}>{{ label }}</h3>
+    {% endif %}
+    {{ title_suffix }}
+
+    {% block content %}
+    <div id="chartContainer" style="height: 300px; width: 100%;"></div>
+
+
+
+
+     
+    {% endblock %}
+  </div>
+{% endif %}

@@ -1,0 +1,41 @@
+{#
+/**
+ * @file
+ * Default theme implementation of a views exposed form.
+ *
+ * Available variables:
+ * - form: A render element representing the form.
+ *
+ * @see template_preprocess_views_exposed_form()
+ *
+ * @ingroup themeable
+ */
+#}
+{% if q is not empty %}
+  {#
+    This ensures that, if clean URLs are off, the 'q' is added first,
+    as a hidden form element, so that it shows up first in the POST URL.
+  #}
+{{ q }}
+{% endif %}
+
+<div class="accordion" id="accordionExample4">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionc1">
+                            <ion-icon name="filter-outline" role="img" class="md hydrated" aria-label="wallet outline"></ion-icon>
+                            Filter List
+                        </button>
+                    </h2>
+                    <div id="accordionc1" class="accordion-collapse collapse" data-bs-parent="#accordionExample4">
+                        <div class="accordion-body">
+                           {{ form }}
+                        </div>
+                    </div>
+                </div>
+            
+            </div>
+
+
+
+

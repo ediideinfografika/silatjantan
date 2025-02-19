@@ -1,0 +1,42 @@
+<?php
+
+use Drupal\field\Entity\FieldConfig;
+
+function mobile_number_login_install() {
+  // to enable the form.
+  $formDisplay = \Drupal::entityTypeManager()
+    ->getStorage('entity_form_display')
+    ->load('user.user.default');
+  $formDisplay->setComponent('field_login_mobile_number', [
+    'type' => 'string_textfield',
+    'weight' => 5,
+    'region' => 'content',
+    'settings' => [
+      'size' => 60,
+      'placeholder' => ''
+    ],
+    'third_party_settings' => []
+  ]);
+  $formDisplay->save();
+
+  // to enable the display
+  $viewDisplay = \Drupal::entityTypeManager()
+    ->getStorage('entity_view_display')
+    ->load('user.user.default');
+  $viewDisplay->setComponent('field_login_mobile_number', [
+    'type' => 'string',
+    'label' => 'hidden',
+    'settings' => [
+      'link_to_entity' => false
+    ],
+    'third_party_settings' => [],
+    'weight' => 2,
+    'region' => 'content'
+  ]);
+  $viewDisplay->save();
+}
+
+function mobile_number_login_uninstall() {
+  // Deleting field.
+  FieldConfig::loadByName('user', 'user', 'field_login_mobile_number')->delete();
+}

@@ -1,0 +1,101 @@
+{#
+/**
+ * @file
+ * Default theme implementation to display a view of unformatted rows.
+ *
+ * Available variables:
+ * - title: The title of this group of rows. May be empty.
+ * - rows: A list of the view's row items.
+ *   - attributes: The row's HTML attributes.
+ *   - content: The row's content.
+ * - view: The view object.
+ * - default_row_class: A flag indicating whether default classes should be
+ *   used on rows.
+ *
+ * @see template_preprocess_views_view_unformatted()
+ *
+ * @ingroup themeable
+ */
+#}
+ <script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
+ <script>
+     
+        function papaPromise(url) {
+        return new Promise(function (resolve, reject) {
+          Papa.parse(url, {
+            download: true,
+            header: true,
+            skipEmptyLines: true,
+            complete: resolve,
+          });
+        });
+      }
+      
+ </script>
+{% if title %}
+  <h3>{{ title }}</h3> okok
+{% endif %}
+<div class="view-content-wrap">
+
+   {% for row in rows %}
+   
+   {% set filex= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ field_file_impo }}'] %}
+{% set jenis= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ field_jenis_newimport }}'] %}
+{% set idx= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ nid }}'] %}
+
+
+     {%
+       set row_classes = [
+         default_row_class ? 'item',
+       ]
+     %}
+      {% set filex= row.content['#view'].style_plugin.render_tokens[ loop.index0 ]['{{ field_file_impo }}'] %}
+ <script>
+ const csvUrl{{idx}} = '{{filex}}';
+const csvPromise{{idx}} = papaPromise(csvUrl{{idx}});
+
+console.log(csvPromise{{idx}});
+
+
+
+ csvPromise{{idx}}.then(function (results) {
+         // console.log(results.data);
+         
+         
+// Menggunakan reduce untuk menghitung total panjang berdasarkan Nm_Ruas dan Kondisi
+const totalPanjangByNmRuasAndKondisi = results.data.reduce((result, obj) => {
+  const { Nm_Ruas, Kondisi, Panjang } = obj;
+
+  // Mengecek apakah Nm_Ruas dan Kondisi sudah ada di result
+  if (!result[Nm_Ruas]) {
+    result[Nm_Ruas] = {};
+  }
+
+  if (!result[Nm_Ruas][Kondisi]) {
+    result[Nm_Ruas][Kondisi] = 0;
+  }
+
+  // Menambahkan panjang ke total untuk Nm_Ruas dan Kondisi tertentu
+  result[Nm_Ruas][Kondisi] += parseInt(Panjang);
+
+  return result;
+}, {});
+
+console.log(totalPanjangByNmRuasAndKondisi);
+
+
+
+          results.data.forEach((row) => {
+            
+        
+          });
+        });
+        
+        
+  </script>
+
+     <div{{ row.attributes.addClass(row_classes) }}>
+       {{ row.content }}
+     </div>
+   {% endfor %}
+</div>

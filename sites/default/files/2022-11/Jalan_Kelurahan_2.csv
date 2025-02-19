@@ -1,0 +1,565 @@
+Name;STA_AWAL;STA_AKHIR;NO;Panjang;Kondisi;Tipe_Perke;Lebar_STA
+Jl. Baru Mberan;0+100;0+200;199;286,45102056000;sedang;aspal;6
+Jl. Tani Jaya;0+300;0+400;487;400,34698249800;RR;aspal;6
+Jl. Kontak Tani;0+100;0+200;360;259,44289831100;RB;aspal;6
+Jl. Tani Unggul;0+600;0+700;502;763,47946531900;baik;aspal;6
+Jl. Tani Maju;0+200;0+300;492;348,56307107900;sedang;aspal;6
+Jl. Tani Murni;0+400;0+500;496;578,92875549800;RR;aspal;6
+Jl. Cempaka Gg 4;0+000;0+100;222;154,12005938600;RB;aspal;6
+Jl. Gang Anggrek V;0+000;0+100;248;119,96597349300;baik;aspal;6
+GG. Anggrek III;0+000;0+100;1;106,00000000000;sedang;aspal;6
+Jl.Gg pisang (RT.3,4 RW.1);0+000;0+100;549;128,72291513100;RR;aspal;6
+Jl. Pisang;0+000;0+100;437;170,07529703700;RB;aspal;6
+Jl. Pepaya;0+000;0+100;433;171,99455906400;baik;aspal;6
+Jl. Bali;0+200;0+300;193;343,94479559300;sedang;aspal;6
+Jl.Gg. Kertorejan;0+000;0+100;551;127,55305972100;RR;aspal;6
+Jl.Gg. Timur Kecamatan;0+000;0+096;553;96,77506517730;RB;aspal;6
+Jl. Patimura;0+100;0+200;412;230,62570930300;baik;aspal;6
+Jl. Sawung Galing;0+200;0+300;465;392,04071632200;sedang;aspal;6
+Jl. Gang Buntu;0+100;0+200;258;224,73984898300;RR;aspal;6
+Jl. Diponegoro 2;0+400;0+500;224;560,27146413100;RB;aspal;6
+Jl. Mawar 1;0+000;0+100;392;140,91921476300;baik;aspal;6
+Jl. Mawar 2;0+200;0+300;394;301,03466681600;sedang;aspal;6
+Jl. Sultan Agung;0+200;0+300;483;322,08050603000;RR;aspal;6
+Jalan Mojopurno - Pilangrejo;0+600;0+700;96;706,55355581300;RB;aspal;6
+Jalan Pacing;2+600;2+700;113;2755,36335330000;baik;aspal;6
+Jalan Nusa Indah;0+400;0+500;107;587,05764979500;sedang;aspal;6
+Jalan Teratai;0+300;0+400;162;417,67073239800;RR;aspal;6
+Jalan Seroja;0+600;0+700;143;744,54767511700;RB;aspal;6
+Jalan Kenongo;1+000;1+100;41;1158,61756835000;baik;aspal;6
+Jalan Kantil;0+300;0+400;17;428,00000000000;sedang;aspal;6
+Jalan Mawar;0+200;0+300;62;368,41040178600;RR;aspal;6
+Jalan Melati;0+200;0+300;80;343,93457693900;RB;aspal;6
+Jalan Anthorium;0+300;0+400;5;450,00000000000;baik;aspal;6
+Jalan Sruni;0+000;0+100;156;190,67689615600;sedang;aspal;6
+Jalan Sruni 1;0+000;0+100;158;117,52556401100;RR;aspal;6
+Jalan Sedap Malam;0+000;0+100;141;104,65387142400;RB;aspal;6
+Jalan Telasih;0+000;0+100;160;102,49287957200;baik;aspal;6
+Jalan Anggrek-Mayang Kembar IV;0+000;0+100;3;240,00000000000;sedang;aspal;6
+Jalan Mayang Kembar;0+000;0+100;66;140,51946476500;RR;aspal;6
+Jalan Mayang Kembar I;0+100;0+200;68;205,28154719200;RB;aspal;6
+Jalan Mayang Kembar II;0+100;0+200;71;208,39409233900;baik;aspal;6
+Jalan Mayang Kembar III;0+100;0+200;74;210,84968965700;sedang;aspal;6
+Jalan Mayang Kembar IV;0+100;0+200;77;202,25105169600;RR;aspal;6
+Jalan Wijaya Kusuma;0+100;0+200;167;261,75094781100;RB;aspal;6
+Jalan Wijaya Kusuma I;0+100;0+200;170;267,32192815600;baik;aspal;6
+Jalan Wijaya Kusuma II;0+000;0+100;173;180,06427326300;sedang;aspal;6
+Jalan Menur;0+300;0+400;84;453,97758610300;RR;aspal;6
+Jalan Menur Gg. 1;0+100;0+200;89;262,48882759800;RB;aspal;6
+Jalan Menur Gg. 2;0+000;0+100;92;136,06885037100;baik;aspal;6
+Jalan Menur Gg. 3;0+000;0+089;94;89,91745507840;sedang;aspal;6
+Jalan Menur Gg. 4;0+000;0+092;95;92,32386229840;RR;aspal;6
+Jalan Munggut Asri;0+100;0+200;104;249,70623891300;RB;aspal;6
+Jalan M Sholeh;0+100;0+200;59;215,08135450300;baik;aspal;6
+Jalan Cempaka;0+300;0+400;10;416,00000000000;sedang;aspal;6
+Jalan Kantil I;0+000;0+100;32;143,90603246200;RR;aspal;6
+Jalan Kantil  II;0+000;0+094;22;94,87636954640;RB;aspal;6
+Jalan Kantil  III;0+100;0+200;23;206,00000000000;baik;aspal;6
+Jalan Kantil  IV;0+200;0+300;26;303,67359400400;sedang;aspal;6
+Jalan Kantil V;0+000;0+065;34;65,69045217980;RR;aspal;6
+Jalan Kantil  VI;0+000;0+100;30;153,49717392500;RB;aspal;6
+Jalan Joharmanik;0+000;0+100;15;194,00000000000;baik;aspal;6
+Jalan Kenongo 2;0+200;0+300;53;350,85962043300;sedang;aspal;6
+Jalan Kenongo 3;0+000;0+100;57;118,11785882400;RR;aspal;6
+Jalan Sri Rejeki;0+200;0+300;151;364,51156824900;RB;aspal;6
+Jalan Sri Rejeki I;0+000;0+082;155;82,99055031100;baik;aspal;6
+Jl. Kresno;0+000;0+100;363;117,02696500500;sedang;aspal;6
+Jl. Sri Dewi;0+000;0+100;473;106,43465180600;RR;aspal;6
+Jl. Wijaya;0+200;0+300;514;341,84641018800;RB;aspal;6
+Jl. Gatot Kaca;0+200;0+300;289;347,25600437600;baik;aspal;6
+Jl. Abiyoso;0+100;0+200;184;238,54428715500;sedang;aspal;6
+Jl. Baudayang;0+700;0+800;202;801,09230616000;RR;aspal;6
+Jl. Remaja;0+100;0+200;455;220,46953534900;RB;aspal;6
+Jl. Pemuda;0+200;0+300;415;398,53131854900;baik;aspal;6
+Jl. Lapangan;0+100;0+200;371;231,27761602000;sedang;aspal;6
+Jl. H.Seto;0+000;0+100;323;173,30814607000;RR;aspal;6
+Jl. Pemuda Gang VII;0+000;0+100;430;146,98523460100;RB;aspal;6
+Jl. Pemuda Gang VI;0+000;0+100;428;102,59598028500;baik;aspal;6
+Jl. Pemuda Gang V;0+000;0+100;427;100,83266073900;sedang;aspal;6
+Jl. Pemuda Gang IV;0+000;0+100;425;102,56190011100;RR;aspal;6
+Jl. Pemuda Gang III;0+000;0+100;423;103,05491504300;RB;aspal;6
+Jl. Pemuda Gang II;0+000;0+100;421;102,23715400500;baik;aspal;6
+Jl. Pemuda Gang I;0+000;0+100;419;102,48531581500;sedang;aspal;6
+Jl. Pemuda Gang VIII;0+000;0+052;432;52,44597340190;RR;aspal;6
+Jl. Baru;0+000;0+100;197;188,60183790000;RB;aspal;6
+JALAN KASATRIAN;0+400;0+500;35;509,88596253200;baik;aspal;6
+Jl. Ki. Ageng Basyariyah;0+500;0+600;347;607,41213701200;sedang;aspal;6
+Jl. Masjid;0+500;0+600;376;687,89343412500;RR;aspal;6
+Jl. Ki. Ageng Basyariyah Gang 1;0+000;0+037;354;37,95300377980;RB;aspal;6
+Jl. Ki. Ageng Basyariyah Gang 2;0+000;0+044;355;44,42001982480;baik;aspal;6
+Jl. Ki. Ageng Basyariyah Gang 3;0+000;0+040;356;40,17851593580;sedang;aspal;6
+Jl. Ki. Ageng Basyariyah Gang 4;0+000;0+053;357;53,20546031260;RR;aspal;6
+Jl. Ki. Ageng Basyariyah Gang 5;0+000;0+024;358;24,11765947120;RB;aspal;6
+Jl. Kebon Pisang;0+000;0+100;341;191,59929040600;baik;aspal;6
+Jl. Wiroto II;0+000;0+095;519;95,87961700280;sedang;aspal;6
+Jl. Wiroto;0+000;0+054;518;54,63744040560;RR;aspal;6
+Jl. Gang Buntu;0+000;0+051;261;51,57763578450;RB;aspal;6
+Jl. Puntuk I;0+000;0+074;446;74,34236721250;baik;aspal;6
+Jl. Puntuk II;0+000;0+077;447;77,89626966720;sedang;aspal;6
+Jl. K.A.Moch Basari;0+000;0+100;328;109,13151624800;RR;aspal;6
+Jl. Rajawali;0+200;0+300;448;311,56354139100;RB;aspal;6
+Jl. Gang Tangah;0+100;0+200;285;260,32911066300;baik;aspal;6
+Jl. Iromito;0+000;0+100;325;197,00801466500;sedang;aspal;6
+Jl. Gang Rukun;0+000;0+100;273;112,03293487600;RR;aspal;6
+Jl. Panji 1;0+000;0+100;406;125,11623571900;RB;aspal;6
+Jl. Panji 2;0+000;0+100;408;115,64590177500;baik;aspal;6
+Jl. Panji 3;0+000;0+100;410;170,99832613800;sedang;aspal;6
+Jl. Rukun;0+000;0+100;461;142,13503935400;RR;aspal;6
+Jl. Arjuno;0+000;0+100;190;118,93223057700;RB;aspal;6
+Jl. Rajawali Gg.1;0+000;0+100;452;136,21529604600;baik;aspal;6
+Jl. Remaja Gang 1;0+000;0+051;458;51,80976690010;sedang;aspal;6
+Jl. Arjuno Gg.1;0+000;0+073;192;73,11720601270;RR;aspal;6
+Jl. Remaja Gang 2;0+000;0+052;459;52,28227242470;RB;aspal;6
+Jl. Remaja Gang 3;0+000;0+062;460;62,43509561260;baik;aspal;6
+Jl. Gg. Kelurahan;0+000;0+100;318;131,77265048400;sedang;aspal;6
+Jl. Gg. Nanas;0+000;0+079;321;79,57557884910;RR;aspal;6
+Jl. Gg. Mlinjo;0+000;0+075;320;75,81176708700;RB;aspal;6
+Jl. Gg. Kelapa;0+000;0+100;316;128,68915564200;baik;aspal;6
+Jl. Gg Borobudur;0+000;0+031;305;31,98306335400;sedang;aspal;6
+Jl. Gg. Jeruk;0+000;0+100;314;110,11086061300;RR;aspal;6
+Jl. Gg Trobanyu;0+000;0+100;306;106,75507100000;RB;aspal;6
+Jl. Gg. Jambe;0+000;0+100;311;103,71499825800;baik;aspal;6
+Jl. GG. Duren;0+000;0+100;309;124,53164984400;sedang;aspal;6
+Jl. GG. Jambu;0+000;0+096;313;96,64691923470;RR;aspal;6
+Jl. Gg. Apel;0+000;0+024;308;24,09779999730;RB;aspal;6
+Jl. Gg. Salak;0+000;0+086;322;86,76780498570;baik;aspal;6
+Jl. Bekas Rel;0+300;0+400;211;439,15696261400;sedang;aspal;6
+Jl. Kanal Kembar (RT.11 RW.5);0+200;0+300;332;333,29069857300;RR;aspal;6
+Jl. Sukodono (RT.11 RW.5);0+100;0+200;480;213,46466528600;RB;aspal;6
+Jl.Antarejo;1+400;1+500;520;1500,52775078000;baik;aspal;6
+Jl. Gatot Kaca;1+000;1+100;293;1138,85027180000;sedang;aspal;6
+Jl. Abimanyu;0+700;0+800;175;806,84988536900;RR;aspal;6
+Jl.Sentiaki;0+900;1+000;554;1085,94315009000;RB;aspal;6
+Jl. Werkudoro;0+000;0+100;512;138,72230442400;baik;aspal;6
+Jl. Krisna;0+400;0+500;365;506,54240706400;sedang;aspal;6
+Jl. Gang Bayusuto 1;0+000;0+098;251;98,95963803950;RR;aspal;6
+Jl. Gang Bayusuto 2;0+000;0+100;252;130,87169661800;RB;aspal;6
+Jl. Gang Bayusuto 3;0+000;0+100;254;135,52926666300;baik;aspal;6
+Jl. Gang Bayusuto 4;0+000;0+100;256;143,90000708900;sedang;aspal;6
+Jl.Gang Asem 1;0+100;0+200;540;206,79818336300;RR;aspal;6
+Jl. Gang Asem 2;0+000;0+098;250;98,81405512740;RB;aspal;6
+Jl. Selo Barong;0+000;0+100;469;148,35298987000;baik;aspal;6
+Jl. Puntodewo;0+400;0+500;440;567,71375178000;sedang;aspal;6
+Jl. Srikandi;0+300;0+400;475;432,01950779800;RR;aspal;6
+Jl. Bendungan Segaran;0+200;0+300;216;328,17731869900;RB;aspal;6
+Jl. Bendungan Segaran Barat;0+000;0+100;220;123,46328740300;baik;aspal;6
+Jl. Mawar;0+700;0+800;383;831,38163716300;sedang;aspal;6
+Jl. Kamboja;0+000;0+100;330;118,53146244200;RR;aspal;6
+Jl. Ki Ageng Bandar Alim;0+200;0+300;343;389,54491273700;RB;aspal;6
+Jl. Melati;0+400;0+500;398;502,42341231700;baik;aspal;6
+Jl. Gang Kantil 2;0+000;0+100;265;108,40731715800;sedang;aspal;6
+Jl. Gang Kantil 3;0+000;0+051;267;51,34249030920;RR;aspal;6
+Jl. Kantil;0+300;0+400;336;425,14209296500;RB;aspal;6
+Jl. Gang Kasepuhan;0+000;0+064;268;64,33732617110;baik;aspal;6
+Jl.Gang Gatot Kaca 1;0+000;0+100;543;198,01287640800;sedang;aspal;6
+Jl.Gang Gatot Kaca 2;0+000;0+100;545;117,68787286100;RR;aspal;6
+Jl.Gang Gatot Kaca 3;0+000;0+100;547;102,35326719900;RB;aspal;6
+Jl. Gang Cemer 1;0+000;0+100;262;126,59416612100;baik;aspal;6
+Jl. Gang Cemer 2;0+000;0+061;264;61,21934649020;sedang;aspal;6
+Jl. Gang Abimanyu;0+000;0+100;246;198,57722979100;RR;aspal;6
+Jl. Petruk;0+000;0+100;435;133,65194156400;RB;aspal;6
+Jl. Semar;0+000;0+100;471;107,69046695100;baik;aspal;6
+Jl. Gareng;0+000;0+034;288;34,27336270670;sedang;aspal;6
+Jl. Gang Sentiaki 2;0+000;0+100;283;195,13213763500;RR;aspal;6
+Jl. Gang Sentiaki 1;0+200;0+300;279;399,89229234000;RB;aspal;6
+Jl. Dungus Termulus;1+200;1+300;230;1350,30544222000;baik;aspal;6
+Jl. Tomat;0+000;0+100;510;159,93522934400;sedang;aspal;6
+Jl.Chery;0+200;0+300;536;329,91722255700;RR;aspal;6
+Jl. Manggis;0+000;0+100;374;165,95358359100;RB;aspal;6
+Jl. Gang Mangga;0+000;0+100;269;103,35599802900;baik;aspal;6
+Jl. Rambutan;0+000;0+097;454;97,02924411100;sedang;aspal;6
+Jl. Jambu;0+000;0+098;327;98,67663945790;RR;aspal;6
+Jl. Nangka;0+000;0+100;404;194,23642249000;RB;aspal;6
+Jl. Durian;0+000;0+100;244;106,36471350200;baik;aspal;6
+Jl. Kiwi;0+000;0+050;359;50,59782491660;sedang;aspal;6
+Jl. Gang Masjid;0+000;0+100;271;186,74829802700;RR;aspal;6
+Jl. Arimbi 1;0+000;0+100;187;165,91978938100;RB;aspal;6
+Jl. Arimbi 2;0+000;0+056;189;56,95132012110;baik;aspal;6
+Jl. Sadewo;0+000;0+100;463;174,83712768300;sedang;aspal;6
+Jl. Gang Sadewo 1;0+100;0+200;275;204,27965605500;RR;aspal;6
+Jl. Gang Sadewo 2;0+000;0+076;278;76,73030413160;RB;aspal;6
+Jl. Pisang;0+000;0+091;439;91,30306689380;baik;aspal;6
+GG. Anggrek III;0+100;0+106;2;106,00000000000;sedang;aspal;6
+Jalan Anggrek-Mayang Kembar IV;0+100;0+140;4;240,00000000000;RR;aspal;6
+Jalan Anthorium;0+000;0+100;6;450,00000000000;RB;aspal;6
+Jalan Anthorium;0+100;0+200;7;450,00000000000;baik;aspal;6
+Jalan Anthorium;0+200;0+300;8;450,00000000000;sedang;aspal;6
+Jalan Anthorium;0+400;0+450;9;450,00000000000;RR;aspal;6
+Jalan Cempaka;0+000;0+100;11;416,00000000000;RB;aspal;6
+Jalan Cempaka;0+100;0+200;12;416,00000000000;baik;aspal;6
+Jalan Cempaka;0+200;0+300;13;416,00000000000;sedang;aspal;6
+Jalan Cempaka;0+400;0+416;14;416,00000000000;RR;aspal;6
+Jalan Joharmanik;0+100;0+194;16;194,00000000000;RB;aspal;6
+Jalan Kantil;0+000;0+100;18;428,00000000000;baik;aspal;6
+Jalan Kantil;0+100;0+200;19;428,00000000000;sedang;aspal;6
+Jalan Kantil;0+200;0+300;20;428,00000000000;RR;aspal;6
+Jalan Kantil;0+400;0+428;21;428,00000000000;RB;aspal;6
+Jalan Kantil  III;0+000;0+100;24;206,00000000000;baik;aspal;6
+Jalan Kantil  III;0+200;0+206;25;206,00000000000;sedang;aspal;6
+Jalan Kantil  IV;0+000;0+100;27;303,67359400400;RR;aspal;6
+Jalan Kantil  IV;0+100;0+200;28;303,67359400400;RB;aspal;6
+Jalan Kantil  IV;0+300;0+303;29;303,67359400400;baik;aspal;6
+Jalan Kantil  VI;0+100;0+153;31;153,49717392500;sedang;aspal;6
+Jalan Kantil I;0+100;0+143;33;143,90603246200;RR;aspal;6
+JALAN KASATRIAN;0+000;0+100;36;509,88596253200;RB;aspal;6
+JALAN KASATRIAN;0+100;0+200;37;509,88596253200;baik;aspal;6
+JALAN KASATRIAN;0+200;0+300;38;509,88596253200;sedang;aspal;6
+JALAN KASATRIAN;0+300;0+400;39;509,88596253200;RR;aspal;6
+JALAN KASATRIAN;0+500;0+509;40;509,88596253200;RB;aspal;6
+Jalan Kenongo;0+000;0+100;42;1158,61756835000;baik;aspal;6
+Jalan Kenongo;0+100;0+200;43;1158,61756835000;sedang;aspal;6
+Jalan Kenongo;0+200;0+300;44;1158,61756835000;RR;aspal;6
+Jalan Kenongo;0+300;0+400;45;1158,61756835000;RB;aspal;6
+Jalan Kenongo;0+400;0+500;46;1158,61756835000;baik;aspal;6
+Jalan Kenongo;0+500;0+600;47;1158,61756835000;sedang;aspal;6
+Jalan Kenongo;0+600;0+700;48;1158,61756835000;RR;aspal;6
+Jalan Kenongo;0+700;0+800;49;1158,61756835000;RB;aspal;6
+Jalan Kenongo;0+800;0+900;50;1158,61756835000;baik;aspal;6
+Jalan Kenongo;0+900;1+000;51;1158,61756835000;sedang;aspal;6
+Jalan Kenongo;1+100;1+156;52;1158,61756835000;RR;aspal;6
+Jalan Kenongo 2;0+000;0+100;54;350,85962043300;RB;aspal;6
+Jalan Kenongo 2;0+100;0+200;55;350,85962043300;baik;aspal;6
+Jalan Kenongo 2;0+300;0+350;56;350,85962043300;sedang;aspal;6
+Jalan Kenongo 3;0+100;0+118;58;118,11785882400;RR;aspal;6
+Jalan M Sholeh;0+000;0+100;60;215,08135450300;RB;aspal;6
+Jalan M Sholeh;0+200;0+215;61;215,08135450300;baik;aspal;6
+Jalan Mawar;0+000;0+100;63;368,41040178600;sedang;aspal;6
+Jalan Mawar;0+100;0+200;64;368,41040178600;RR;aspal;6
+Jalan Mawar;0+300;0+368;65;368,41040178600;RB;aspal;6
+Jalan Mayang Kembar;0+100;0+140;67;140,51946476500;baik;aspal;6
+Jalan Mayang Kembar I;0+000;0+100;69;205,28154719200;sedang;aspal;6
+Jalan Mayang Kembar I;0+200;0+205;70;205,28154719200;RR;aspal;6
+Jalan Mayang Kembar II;0+000;0+100;72;208,39409233900;RB;aspal;6
+Jalan Mayang Kembar II;0+200;0+208;73;208,39409233900;baik;aspal;6
+Jalan Mayang Kembar III;0+000;0+100;75;210,84968965700;sedang;aspal;6
+Jalan Mayang Kembar III;0+200;0+210;76;210,84968965700;RR;aspal;6
+Jalan Mayang Kembar IV;0+000;0+100;78;202,25105169600;RB;aspal;6
+Jalan Mayang Kembar IV;0+200;0+202;79;202,25105169600;baik;aspal;6
+Jalan Melati;0+000;0+100;81;343,93457693900;sedang;aspal;6
+Jalan Melati;0+100;0+200;82;343,93457693900;RR;aspal;6
+Jalan Melati;0+300;0+343;83;343,93457693900;RB;aspal;6
+Jalan Menur;0+000;0+100;85;453,97758610300;baik;aspal;6
+Jalan Menur;0+100;0+200;86;453,97758610300;sedang;aspal;6
+Jalan Menur;0+200;0+300;87;453,97758610300;RR;aspal;6
+Jalan Menur;0+400;0+453;88;453,97758610300;RB;aspal;6
+Jalan Menur Gg. 1;0+000;0+100;90;262,48882759800;baik;aspal;6
+Jalan Menur Gg. 1;0+200;0+262;91;262,48882759800;sedang;aspal;6
+Jalan Menur Gg. 2;0+100;0+136;93;136,06885037100;RR;aspal;6
+Jalan Mojopurno - Pilangrejo;0+000;0+100;97;706,55355581300;RB;aspal;6
+Jalan Mojopurno - Pilangrejo;0+100;0+200;98;706,55355581300;baik;aspal;6
+Jalan Mojopurno - Pilangrejo;0+200;0+300;99;706,55355581300;sedang;aspal;6
+Jalan Mojopurno - Pilangrejo;0+300;0+400;100;706,55355581300;RR;aspal;6
+Jalan Mojopurno - Pilangrejo;0+400;0+500;101;706,55355581300;RB;aspal;6
+Jalan Mojopurno - Pilangrejo;0+500;0+600;102;706,55355581300;baik;aspal;6
+Jalan Mojopurno - Pilangrejo;0+700;0+706;103;706,55355581300;sedang;aspal;6
+Jalan Munggut Asri;0+000;0+100;105;249,70623891300;RR;aspal;6
+Jalan Munggut Asri;0+200;0+249;106;249,70623891300;RB;aspal;6
+Jalan Nusa Indah;0+000;0+100;108;587,05764979500;baik;aspal;6
+Jalan Nusa Indah;0+100;0+200;109;587,05764979500;sedang;aspal;6
+Jalan Nusa Indah;0+200;0+300;110;587,05764979500;RR;aspal;6
+Jalan Nusa Indah;0+300;0+400;111;587,05764979500;RB;aspal;6
+Jalan Nusa Indah;0+500;0+587;112;587,05764979500;baik;aspal;6
+Jalan Pacing;0+000;0+100;114;2755,36335330000;sedang;aspal;6
+Jalan Pacing;0+100;0+200;115;2755,36335330000;RR;aspal;6
+Jalan Pacing;0+200;0+300;116;2755,36335330000;RB;aspal;6
+Jalan Pacing;0+300;0+400;117;2755,36335330000;baik;aspal;6
+Jalan Pacing;0+400;0+500;118;2755,36335330000;sedang;aspal;6
+Jalan Pacing;0+500;0+600;119;2755,36335330000;RR;aspal;6
+Jalan Pacing;0+600;0+700;120;2755,36335330000;RB;aspal;6
+Jalan Pacing;0+700;0+800;121;2755,36335330000;baik;aspal;6
+Jalan Pacing;0+800;0+900;122;2755,36335330000;sedang;aspal;6
+Jalan Pacing;0+900;1+000;123;2755,36335330000;RR;aspal;6
+Jalan Pacing;1+000;1+100;124;2755,36335330000;RB;aspal;6
+Jalan Pacing;1+100;1+200;125;2755,36335330000;baik;aspal;6
+Jalan Pacing;1+200;1+300;126;2755,36335330000;sedang;aspal;6
+Jalan Pacing;1+300;1+400;127;2755,36335330000;RR;aspal;6
+Jalan Pacing;1+400;1+500;128;2755,36335330000;RB;aspal;6
+Jalan Pacing;1+500;1+600;129;2755,36335330000;baik;aspal;6
+Jalan Pacing;1+600;1+700;130;2755,36335330000;sedang;aspal;6
+Jalan Pacing;1+700;1+800;131;2755,36335330000;RR;aspal;6
+Jalan Pacing;1+800;1+900;132;2755,36335330000;RB;aspal;6
+Jalan Pacing;1+900;2+000;133;2755,36335330000;baik;aspal;6
+Jalan Pacing;2+000;2+100;134;2755,36335330000;sedang;aspal;6
+Jalan Pacing;2+100;2+200;135;2755,36335330000;RR;aspal;6
+Jalan Pacing;2+200;2+300;136;2755,36335330000;RB;aspal;6
+Jalan Pacing;2+300;2+400;137;2755,36335330000;baik;aspal;6
+Jalan Pacing;2+400;2+500;138;2755,36335330000;sedang;aspal;6
+Jalan Pacing;2+500;2+600;139;2755,36335330000;RR;aspal;6
+Jalan Pacing;2+700;2+755;140;2755,36335330000;RB;aspal;6
+Jalan Sedap Malam;0+100;0+104;142;104,65387142400;baik;aspal;6
+Jalan Seroja;0+000;0+100;144;744,54767511700;sedang;aspal;6
+Jalan Seroja;0+100;0+200;145;744,54767511700;RR;aspal;6
+Jalan Seroja;0+200;0+300;146;744,54767511700;RB;aspal;6
+Jalan Seroja;0+300;0+400;147;744,54767511700;baik;aspal;6
+Jalan Seroja;0+400;0+500;148;744,54767511700;sedang;aspal;6
+Jalan Seroja;0+500;0+600;149;744,54767511700;RR;aspal;6
+Jalan Seroja;0+700;0+744;150;744,54767511700;RB;aspal;6
+Jalan Sri Rejeki;0+000;0+100;152;364,51156824900;baik;aspal;6
+Jalan Sri Rejeki;0+100;0+200;153;364,51156824900;sedang;aspal;6
+Jalan Sri Rejeki;0+300;0+364;154;364,51156824900;RR;aspal;6
+Jalan Sruni;0+100;0+190;157;190,67689615600;RB;aspal;6
+Jalan Sruni 1;0+100;0+117;159;117,52556401100;baik;aspal;6
+Jalan Telasih;0+100;0+102;161;102,49287957200;sedang;aspal;6
+Jalan Teratai;0+000;0+100;163;417,67073239800;RR;aspal;6
+Jalan Teratai;0+100;0+200;164;417,67073239800;RB;aspal;6
+Jalan Teratai;0+200;0+300;165;417,67073239800;baik;aspal;6
+Jalan Teratai;0+400;0+417;166;417,67073239800;sedang;aspal;6
+Jalan Wijaya Kusuma;0+000;0+100;168;261,75094781100;RR;aspal;6
+Jalan Wijaya Kusuma;0+200;0+261;169;261,75094781100;RB;aspal;6
+Jalan Wijaya Kusuma I;0+000;0+100;171;267,32192815600;baik;aspal;6
+Jalan Wijaya Kusuma I;0+200;0+267;172;267,32192815600;sedang;aspal;6
+Jalan Wijaya Kusuma II;0+100;0+180;174;180,06427326300;RR;beton;6
+Jl. Abimanyu;0+000;0+100;176;806,84988536900;RB;beton;6
+Jl. Abimanyu;0+100;0+200;177;806,84988536900;baik;beton;6
+Jl. Abimanyu;0+200;0+300;178;806,84988536900;sedang;beton;6
+Jl. Abimanyu;0+300;0+400;179;806,84988536900;RR;beton;6
+Jl. Abimanyu;0+400;0+500;180;806,84988536900;RB;beton;6
+Jl. Abimanyu;0+500;0+600;181;806,84988536900;baik;beton;6
+Jl. Abimanyu;0+600;0+700;182;806,84988536900;sedang;beton;6
+Jl. Abimanyu;0+800;0+806;183;806,84988536900;RR;beton;6
+Jl. Abiyoso;0+000;0+100;185;238,54428715500;RB;beton;6
+Jl. Abiyoso;0+200;0+238;186;238,54428715500;baik;beton;6
+Jl. Arimbi 1;0+100;0+165;188;165,91978938100;sedang;beton;6
+Jl. Arjuno;0+100;0+118;191;118,93223057700;RR;beton;6
+Jl. Bali;0+000;0+100;194;343,94479559300;RB;beton;6
+Jl. Bali;0+100;0+200;195;343,94479559300;baik;beton;6
+Jl. Bali;0+300;0+343;196;343,94479559300;sedang;beton;6
+Jl. Baru;0+100;0+188;198;188,60183790000;RR;beton;6
+Jl. Baru Mberan;0+000;0+100;200;286,45102056000;RB;beton;6
+Jl. Baru Mberan;0+200;0+286;201;286,45102056000;baik;beton;6
+Jl. Baudayang;0+000;0+100;203;801,09230616000;sedang;beton;6
+Jl. Baudayang;0+100;0+200;204;801,09230616000;RR;beton;6
+Jl. Baudayang;0+200;0+300;205;801,09230616000;RB;beton;6
+Jl. Baudayang;0+300;0+400;206;801,09230616000;baik;beton;6
+Jl. Baudayang;0+400;0+500;207;801,09230616000;sedang;beton;6
+Jl. Baudayang;0+500;0+600;208;801,09230616000;RR;beton;6
+Jl. Baudayang;0+600;0+700;209;801,09230616000;RB;beton;6
+Jl. Baudayang;0+800;0+801;210;801,09230616000;baik;beton;6
+Jl. Bekas Rel;0+000;0+100;212;439,15696261400;sedang;beton;6
+Jl. Bekas Rel;0+100;0+200;213;439,15696261400;RR;beton;6
+Jl. Bekas Rel;0+200;0+300;214;439,15696261400;RB;beton;6
+Jl. Bekas Rel;0+400;0+439;215;439,15696261400;baik;beton;6
+Jl. Bendungan Segaran;0+000;0+100;217;328,17731869900;sedang;beton;6
+Jl. Bendungan Segaran;0+100;0+200;218;328,17731869900;RR;beton;6
+Jl. Bendungan Segaran;0+300;0+328;219;328,17731869900;RB;beton;6
+Jl. Bendungan Segaran Barat;0+100;0+123;221;123,46328740300;baik;beton;6
+Jl. Cempaka Gg 4;0+100;0+154;223;154,12005938600;sedang;beton;6
+Jl. Diponegoro 2;0+000;0+100;225;560,27146413100;RR;beton;6
+Jl. Diponegoro 2;0+100;0+200;226;560,27146413100;RB;beton;6
+Jl. Diponegoro 2;0+200;0+300;227;560,27146413100;baik;beton;6
+Jl. Diponegoro 2;0+300;0+400;228;560,27146413100;sedang;beton;6
+Jl. Diponegoro 2;0+500;0+560;229;560,27146413100;RR;beton;6
+Jl. Dungus Termulus;0+000;0+100;231;1350,30544222000;RB;beton;6
+Jl. Dungus Termulus;0+100;0+200;232;1350,30544222000;baik;beton;6
+Jl. Dungus Termulus;0+200;0+300;233;1350,30544222000;sedang;beton;6
+Jl. Dungus Termulus;0+300;0+400;234;1350,30544222000;RR;beton;6
+Jl. Dungus Termulus;0+400;0+500;235;1350,30544222000;RB;beton;6
+Jl. Dungus Termulus;0+500;0+600;236;1350,30544222000;baik;beton;6
+Jl. Dungus Termulus;0+600;0+700;237;1350,30544222000;sedang;beton;6
+Jl. Dungus Termulus;0+700;0+800;238;1350,30544222000;RR;beton;6
+Jl. Dungus Termulus;0+800;0+900;239;1350,30544222000;RB;beton;6
+Jl. Dungus Termulus;0+900;1+000;240;1350,30544222000;baik;beton;6
+Jl. Dungus Termulus;1+000;1+100;241;1350,30544222000;sedang;beton;6
+Jl. Dungus Termulus;1+100;1+200;242;1350,30544222000;RR;beton;6
+Jl. Dungus Termulus;1+300;1+350;243;1350,30544222000;RB;beton;6
+Jl. Durian;0+100;0+106;245;106,36471350200;baik;beton;6
+Jl. Gang Abimanyu;0+100;0+198;247;198,57722979100;sedang;beton;6
+Jl. Gang Anggrek V;0+100;0+119;249;119,96597349300;RR;beton;6
+Jl. Gang Bayusuto 2;0+100;0+130;253;130,87169661800;RB;beton;6
+Jl. Gang Bayusuto 3;0+100;0+135;255;135,52926666300;baik;beton;6
+Jl. Gang Bayusuto 4;0+100;0+143;257;143,90000708900;sedang;beton;6
+Jl. Gang Buntu;0+000;0+100;259;224,73984898300;RR;beton;6
+Jl. Gang Buntu;0+200;0+224;260;224,73984898300;RB;beton;6
+Jl. Gang Cemer 1;0+100;0+126;263;126,59416612100;baik;beton;6
+Jl. Gang Kantil 2;0+100;0+108;266;108,40731715800;sedang;beton;6
+Jl. Gang Mangga;0+100;0+103;270;103,35599802900;RR;beton;6
+Jl. Gang Masjid;0+100;0+186;272;186,74829802700;RB;beton;6
+Jl. Gang Rukun;0+100;0+112;274;112,03293487600;baik;beton;6
+Jl. Gang Sadewo 1;0+000;0+100;276;204,27965605500;sedang;beton;6
+Jl. Gang Sadewo 1;0+200;0+204;277;204,27965605500;RR;beton;6
+Jl. Gang Sentiaki 1;0+000;0+100;280;399,89229234000;RB;beton;6
+Jl. Gang Sentiaki 1;0+100;0+200;281;399,89229234000;baik;beton;6
+Jl. Gang Sentiaki 1;0+300;0+399;282;399,89229234000;sedang;beton;6
+Jl. Gang Sentiaki 2;0+100;0+195;284;195,13213763500;RR;beton;6
+Jl. Gang Tangah;0+000;0+100;286;260,32911066300;RB;beton;6
+Jl. Gang Tangah;0+200;0+260;287;260,32911066300;baik;beton;6
+Jl. Gatot Kaca;0+000;0+100;290;347,25600437600;sedang;beton;6
+Jl. Gatot Kaca;0+100;0+200;291;347,25600437600;RR;beton;6
+Jl. Gatot Kaca;0+300;0+347;292;347,25600437600;RB;beton;6
+Jl. Gatot Kaca;0+000;0+100;294;1138,85027180000;baik;beton;6
+Jl. Gatot Kaca;0+100;0+200;295;1138,85027180000;sedang;beton;6
+Jl. Gatot Kaca;0+200;0+300;296;1138,85027180000;RR;beton;6
+Jl. Gatot Kaca;0+300;0+400;297;1138,85027180000;RB;beton;6
+Jl. Gatot Kaca;0+400;0+500;298;1138,85027180000;baik;beton;6
+Jl. Gatot Kaca;0+500;0+600;299;1138,85027180000;sedang;beton;6
+Jl. Gatot Kaca;0+600;0+700;300;1138,85027180000;RR;beton;6
+Jl. Gatot Kaca;0+700;0+800;301;1138,85027180000;RB;beton;6
+Jl. Gatot Kaca;0+800;0+900;302;1138,85027180000;baik;beton;6
+Jl. Gatot Kaca;0+900;1+000;303;1138,85027180000;sedang;beton;6
+Jl. Gatot Kaca;1+100;1+138;304;1138,85027180000;RR;beton;6
+Jl. Gg Trobanyu;0+100;0+106;307;106,75507100000;RB;beton;6
+Jl. GG. Duren;0+100;0+124;310;124,53164984400;baik;beton;6
+Jl. Gg. Jambe;0+100;0+103;312;103,71499825800;sedang;beton;6
+Jl. Gg. Jeruk;0+100;0+110;315;110,11086061300;RR;beton;6
+Jl. Gg. Kelapa;0+100;0+128;317;128,68915564200;RB;beton;6
+Jl. Gg. Kelurahan;0+100;0+131;319;131,77265048400;baik;beton;6
+Jl. H.Seto;0+100;0+173;324;173,30814607000;sedang;beton;6
+Jl. Iromito;0+100;0+197;326;197,00801466500;RR;beton;6
+Jl. K.A.Moch Basari;0+100;0+109;329;109,13151624800;RB;beton;6
+Jl. Kamboja;0+100;0+118;331;118,53146244200;baik;beton;6
+Jl. Kanal Kembar (RT.11 RW.5);0+000;0+100;333;333,29069857300;sedang;beton;6
+Jl. Kanal Kembar (RT.11 RW.5);0+100;0+200;334;333,29069857300;RR;beton;6
+Jl. Kanal Kembar (RT.11 RW.5);0+300;0+333;335;333,29069857300;RB;beton;6
+Jl. Kantil;0+000;0+100;337;425,14209296500;baik;beton;6
+Jl. Kantil;0+100;0+200;338;425,14209296500;sedang;beton;6
+Jl. Kantil;0+200;0+300;339;425,14209296500;RR;beton;6
+Jl. Kantil;0+400;0+425;340;425,14209296500;RB;beton;6
+Jl. Kebon Pisang;0+100;0+191;342;191,59929040600;baik;beton;6
+Jl. Ki Ageng Bandar Alim;0+000;0+100;344;389,54491273700;sedang;beton;6
+Jl. Ki Ageng Bandar Alim;0+100;0+200;345;389,54491273700;RR;beton;6
+Jl. Ki Ageng Bandar Alim;0+300;0+389;346;389,54491273700;RB;beton;6
+Jl. Ki. Ageng Basyariyah;0+000;0+100;348;607,41213701200;baik;beton;6
+Jl. Ki. Ageng Basyariyah;0+100;0+200;349;607,41213701200;sedang;beton;6
+Jl. Ki. Ageng Basyariyah;0+200;0+300;350;607,41213701200;RR;beton;6
+Jl. Ki. Ageng Basyariyah;0+300;0+400;351;607,41213701200;RB;beton;6
+Jl. Ki. Ageng Basyariyah;0+400;0+500;352;607,41213701200;baik;beton;6
+Jl. Ki. Ageng Basyariyah;0+600;0+607;353;607,41213701200;sedang;beton;6
+Jl. Kontak Tani;0+000;0+100;361;259,44289831100;RR;beton;6
+Jl. Kontak Tani;0+200;0+259;362;259,44289831100;RB;beton;6
+Jl. Kresno;0+100;0+117;364;117,02696500500;baik;beton;6
+Jl. Krisna;0+000;0+100;366;506,54240706400;sedang;beton;6
+Jl. Krisna;0+100;0+200;367;506,54240706400;RR;beton;6
+Jl. Krisna;0+200;0+300;368;506,54240706400;RB;beton;6
+Jl. Krisna;0+300;0+400;369;506,54240706400;baik;beton;6
+Jl. Krisna;0+500;0+506;370;506,54240706400;sedang;beton;6
+Jl. Lapangan;0+000;0+100;372;231,27761602000;RR;beton;6
+Jl. Lapangan;0+200;0+231;373;231,27761602000;RB;beton;6
+Jl. Manggis;0+100;0+165;375;165,95358359100;baik;beton;6
+Jl. Masjid;0+000;0+100;377;687,89343412500;sedang;beton;6
+Jl. Masjid;0+100;0+200;378;687,89343412500;RR;beton;6
+Jl. Masjid;0+200;0+300;379;687,89343412500;RB;beton;6
+Jl. Masjid;0+300;0+400;380;687,89343412500;baik;beton;6
+Jl. Masjid;0+400;0+500;381;687,89343412500;sedang;beton;6
+Jl. Masjid;0+600;0+687;382;687,89343412500;RR;beton;6
+Jl. Mawar;0+000;0+100;384;831,38163716300;RB;beton;6
+Jl. Mawar;0+100;0+200;385;831,38163716300;baik;beton;6
+Jl. Mawar;0+200;0+300;386;831,38163716300;sedang;beton;6
+Jl. Mawar;0+300;0+400;387;831,38163716300;RR;beton;6
+Jl. Mawar;0+400;0+500;388;831,38163716300;RB;beton;6
+Jl. Mawar;0+500;0+600;389;831,38163716300;baik;beton;6
+Jl. Mawar;0+600;0+700;390;831,38163716300;sedang;beton;6
+Jl. Mawar;0+800;0+831;391;831,38163716300;RR;beton;6
+Jl. Mawar 1;0+100;0+140;393;140,91921476300;RB;beton;6
+Jl. Mawar 2;0+000;0+100;395;301,03466681600;baik;beton;6
+Jl. Mawar 2;0+100;0+200;396;301,03466681600;sedang;beton;6
+Jl. Mawar 2;0+300;0+301;397;301,03466681600;RR;beton;6
+Jl. Melati;0+000;0+100;399;502,42341231700;RB;beton;6
+Jl. Melati;0+100;0+200;400;502,42341231700;baik;beton;6
+Jl. Melati;0+200;0+300;401;502,42341231700;sedang;beton;6
+Jl. Melati;0+300;0+400;402;502,42341231700;RR;beton;6
+Jl. Melati;0+500;0+502;403;502,42341231700;RB;beton;6
+Jl. Nangka;0+100;0+194;405;194,23642249000;baik;beton;6
+Jl. Panji 1;0+100;0+125;407;125,11623571900;sedang;beton;6
+Jl. Panji 2;0+100;0+115;409;115,64590177500;RR;beton;6
+Jl. Panji 3;0+100;0+170;411;170,99832613800;RB;beton;6
+Jl. Patimura;0+000;0+100;413;230,62570930300;baik;beton;6
+Jl. Patimura;0+200;0+230;414;230,62570930300;sedang;beton;6
+Jl. Pemuda;0+000;0+100;416;398,53131854900;RR;beton;6
+Jl. Pemuda;0+100;0+200;417;398,53131854900;RB;beton;6
+Jl. Pemuda;0+300;0+398;418;398,53131854900;baik;beton;6
+Jl. Pemuda Gang I;0+100;0+102;420;102,48531581500;sedang;beton;6
+Jl. Pemuda Gang II;0+100;0+102;422;102,23715400500;RR;beton;6
+Jl. Pemuda Gang III;0+100;0+103;424;103,05491504300;RB;beton;6
+Jl. Pemuda Gang IV;0+100;0+102;426;102,56190011100;baik;beton;6
+Jl. Pemuda Gang VI;0+100;0+102;429;102,59598028500;sedang;beton;6
+Jl. Pemuda Gang VII;0+100;0+146;431;146,98523460100;RR;beton;6
+Jl. Pepaya;0+100;0+171;434;171,99455906400;RB;beton;6
+Jl. Petruk;0+100;0+133;436;133,65194156400;baik;beton;6
+Jl. Pisang;0+100;0+170;438;170,07529703700;sedang;beton;6
+Jl. Puntodewo;0+000;0+100;441;567,71375178000;RR;beton;6
+Jl. Puntodewo;0+100;0+200;442;567,71375178000;RB;beton;6
+Jl. Puntodewo;0+200;0+300;443;567,71375178000;baik;beton;6
+Jl. Puntodewo;0+300;0+400;444;567,71375178000;sedang;beton;6
+Jl. Puntodewo;0+500;0+567;445;567,71375178000;RR;beton;6
+Jl. Rajawali;0+000;0+100;449;311,56354139100;RB;beton;6
+Jl. Rajawali;0+100;0+200;450;311,56354139100;baik;beton;6
+Jl. Rajawali;0+300;0+311;451;311,56354139100;sedang;beton;6
+Jl. Rajawali Gg.1;0+100;0+136;453;136,21529604600;RR;beton;6
+Jl. Remaja;0+000;0+100;456;220,46953534900;RB;beton;6
+Jl. Remaja;0+200;0+220;457;220,46953534900;baik;beton;6
+Jl. Rukun;0+100;0+142;462;142,13503935400;sedang;beton;6
+Jl. Sadewo;0+100;0+174;464;174,83712768300;RR;beton;6
+Jl. Sawung Galing;0+000;0+100;466;392,04071632200;RB;beton;6
+Jl. Sawung Galing;0+100;0+200;467;392,04071632200;baik;beton;6
+Jl. Sawung Galing;0+300;0+392;468;392,04071632200;sedang;beton;6
+Jl. Selo Barong;0+100;0+148;470;148,35298987000;RR;beton;6
+Jl. Semar;0+100;0+107;472;107,69046695100;RB;beton;6
+Jl. Sri Dewi;0+100;0+106;474;106,43465180600;baik;beton;6
+Jl. Srikandi;0+000;0+100;476;432,01950779800;sedang;beton;6
+Jl. Srikandi;0+100;0+200;477;432,01950779800;RR;beton;6
+Jl. Srikandi;0+200;0+300;478;432,01950779800;RB;beton;6
+Jl. Srikandi;0+400;0+432;479;432,01950779800;baik;beton;6
+Jl. Sukodono (RT.11 RW.5);0+000;0+100;481;213,46466528600;sedang;beton;6
+Jl. Sukodono (RT.11 RW.5);0+200;0+213;482;213,46466528600;RR;beton;6
+Jl. Sultan Agung;0+000;0+100;484;322,08050603000;RB;beton;6
+Jl. Sultan Agung;0+100;0+200;485;322,08050603000;baik;beton;6
+Jl. Sultan Agung;0+300;0+322;486;322,08050603000;sedang;beton;6
+Jl. Tani Jaya;0+000;0+100;488;400,34698249800;RR;beton;6
+Jl. Tani Jaya;0+100;0+200;489;400,34698249800;RB;beton;6
+Jl. Tani Jaya;0+200;0+300;490;400,34698249800;baik;beton;6
+Jl. Tani Jaya;0+400;0+400;491;400,34698249800;sedang;beton;6
+Jl. Tani Maju;0+000;0+100;493;348,56307107900;RR;beton;6
+Jl. Tani Maju;0+100;0+200;494;348,56307107900;RB;beton;6
+Jl. Tani Maju;0+300;0+348;495;348,56307107900;baik;beton;6
+Jl. Tani Murni;0+000;0+100;497;578,92875549800;sedang;beton;6
+Jl. Tani Murni;0+100;0+200;498;578,92875549800;RR;beton;6
+Jl. Tani Murni;0+200;0+300;499;578,92875549800;RB;beton;6
+Jl. Tani Murni;0+300;0+400;500;578,92875549800;baik;beton;6
+Jl. Tani Murni;0+500;0+578;501;578,92875549800;sedang;beton;6
+Jl. Tani Unggul;0+000;0+100;503;763,47946531900;RR;beton;6
+Jl. Tani Unggul;0+100;0+200;504;763,47946531900;RB;beton;6
+Jl. Tani Unggul;0+200;0+300;505;763,47946531900;baik;beton;6
+Jl. Tani Unggul;0+300;0+400;506;763,47946531900;sedang;beton;6
+Jl. Tani Unggul;0+400;0+500;507;763,47946531900;RR;beton;6
+Jl. Tani Unggul;0+500;0+600;508;763,47946531900;RB;beton;6
+Jl. Tani Unggul;0+700;0+763;509;763,47946531900;baik;beton;6
+Jl. Tomat;0+100;0+159;511;159,93522934400;sedang;beton;6
+Jl. Werkudoro;0+100;0+138;513;138,72230442400;RR;beton;6
+Jl. Wijaya;0+000;0+100;515;341,84641018800;RB;beton;6
+Jl. Wijaya;0+100;0+200;516;341,84641018800;baik;beton;6
+Jl. Wijaya;0+300;0+341;517;341,84641018800;sedang;beton;6
+Jl.Antarejo;0+000;0+100;521;1500,52775078000;RR;beton;6
+Jl.Antarejo;0+100;0+200;522;1500,52775078000;RB;beton;6
+Jl.Antarejo;0+200;0+300;523;1500,52775078000;baik;beton;6
+Jl.Antarejo;0+300;0+400;524;1500,52775078000;sedang;beton;6
+Jl.Antarejo;0+400;0+500;525;1500,52775078000;RR;beton;6
+Jl.Antarejo;0+500;0+600;526;1500,52775078000;RB;beton;6
+Jl.Antarejo;0+600;0+700;527;1500,52775078000;baik;beton;6
+Jl.Antarejo;0+700;0+800;528;1500,52775078000;sedang;beton;6
+Jl.Antarejo;0+800;0+900;529;1500,52775078000;RR;beton;6
+Jl.Antarejo;0+900;1+000;530;1500,52775078000;RB;beton;6
+Jl.Antarejo;1+000;1+100;531;1500,52775078000;baik;beton;6
+Jl.Antarejo;1+100;1+200;532;1500,52775078000;sedang;beton;6
+Jl.Antarejo;1+200;1+300;533;1500,52775078000;RR;beton;6
+Jl.Antarejo;1+300;1+400;534;1500,52775078000;RB;beton;6
+Jl.Antarejo;1+500;1+500;535;1500,52775078000;baik;beton;6
+Jl.Chery;0+000;0+100;537;329,91722255700;sedang;beton;6
+Jl.Chery;0+100;0+200;538;329,91722255700;RR;beton;6
+Jl.Chery;0+300;0+329;539;329,91722255700;RB;beton;6
+Jl.Gang Asem 1;0+000;0+100;541;206,79818336300;baik;beton;6
+Jl.Gang Asem 1;0+200;0+206;542;206,79818336300;sedang;beton;6
+Jl.Gang Gatot Kaca 1;0+100;0+198;544;198,01287640800;RR;beton;6
+Jl.Gang Gatot Kaca 2;0+100;0+117;546;117,68787286100;RB;beton;6
+Jl.Gang Gatot Kaca 3;0+100;0+102;548;102,35326719900;baik;beton;6
+Jl.Gg pisang (RT.3,4 RW.1);0+100;0+128;550;128,72291513100;sedang;beton;6
+Jl.Gg. Kertorejan;0+100;0+127;552;127,55305972100;RR;beton;6
+Jl.Sentiaki;0+000;0+100;555;1085,94315009000;RB;beton;6
+Jl.Sentiaki;0+100;0+200;556;1085,94315009000;baik;beton;6
+Jl.Sentiaki;0+200;0+300;557;1085,94315009000;sedang;beton;6
+Jl.Sentiaki;0+300;0+400;558;1085,94315009000;RR;beton;6
+Jl.Sentiaki;0+400;0+500;559;1085,94315009000;RB;beton;6
+Jl.Sentiaki;0+500;0+600;560;1085,94315009000;baik;beton;6
+Jl.Sentiaki;0+600;0+700;561;1085,94315009000;sedang;beton;6
+Jl.Sentiaki;0+700;0+800;562;1085,94315009000;RR;beton;6
+Jl.Sentiaki;0+800;0+900;563;1085,94315009000;RB;beton;6
+Jl.Sentiaki;1+000;1+085;564;1085,94315009000;baik;beton;6

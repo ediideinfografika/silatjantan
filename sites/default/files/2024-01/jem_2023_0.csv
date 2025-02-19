@@ -1,0 +1,381 @@
+id,no_jemb,nama,kec,panjang,lebar,jml_bintang,ba_tipe,lat,long,kondisi
+1,19.001.001,Jembatan Wonoasri I,Wonoasri,6.95,7.95,1,Gelagar,7.56769,111.62469,1
+2,19.001.002,Jembatan Ngadirejo I,Wonoasri,13,7.9,1,Gelagar,7.58204,111.60897,1
+3,19.001.003,Jembatan Ngadirejo II,Wonoasri,5.7,7.65,1,Gelagar,7.59212,111.60186,2
+4,19.001.004,Jembatan Dimong I,Wonoasri,8.9,8,1,Gelagar,7.59371,111.59896,1
+5,19.002.001,Jembatan Kedungrejo I,Pilangkenceng,24,4.9,2,Gelagar Komposit,7.51685,111.66315,3
+6,19.002.002,Jembatan Kenongorejo I,Pilangkenceng,8.6,7,1,Gelagar,7.49006,111.66293,1
+7,19.002.003,Jembatan Kenongorejo II,Pilangkenceng,2.5,12.5,1,Gorong-Gorong Kotak,7.488835,111.662346,1
+8,19.002.004,Jembatan Kenongorejo III,Pilangkenceng,5,11.35,1,Plat,7.48465,111.66092,1
+9,19.003.001,Jembatan Mejayan I,Mejayan,2.8,9.83,1,Plat,7.55246,111.66052,1
+10,19.003.002,Jembatan Wonorejo I,Mejayan,5,9.3,1,Gelagar Komposit dan Plat,7.58111,111.68142,2
+11,19.003.003,Jembatan Kebonagung VI,Mejayan,4.4,7.5,1,Plat,7.60022,111.68877,1
+12,19.003.004,Jembatan Kebonagung VII,Mejayan,2.95,7.63,1,Plat,7.60331,111.68951,1
+13,19.003.005,Jembatan Kebonagung VIII,Mejayan,20.3,8.1,1,Gelagar,7.6106,111.69089,1
+14,19.003.006,Jembatan Tawangrejo I,Mejayan,5.8,6.64,1,Gelagar,7.62537,111.69268,1
+15,19.003.007,Jembatan Tawangrejo II,Mejayan,24.6,4.5,2,Gelagar Komposit,7.63563,111.69579,1
+16,19.003.008,Jembatan Tawangrejo III,Mejayan,4.15,6.15,1,Gelagar dan Plat,7.6384,111.69621,1
+17,19.004.001,Jembatan Balerejo I,Balerejo,10.85,7.7,1,Gelagar Komposit,7.55447,111.58094,2
+18,19.004.002,Jembatan Balerejo II,Balerejo,34,6.3,3,Gelagar Komposit,7.5525,111.58084,2
+19,19.004.003,Jembatan Balerejo III,Balerejo,4.8,8.9,1,Plat,7.54982,111.58199,2
+20,19.004.004,Jembatan Balerejo IV,Balerejo,7.6,7.6,1,Gelagar,7.54279,111.58407,2
+21,19.004.005,Jembatan Kedungrejo I,Balerejo,8.1,7.8,1,Gelagar,7.53588,111.58557,1
+22,19.004.006,Jembatan Kedungrejo II,Balerejo,10,5.65,1,Gelagar Komposit,7.51928,111.58958,2
+23,19.004.007,Jembatan Pacinan I,Balerejo,8.8,7.4,1,Gelagar,7.50975,111.59293,1
+24,19.005.001,Jembatan Uteran I,Dagangan,5.4,12.1,1,Gelagar Komposit dan Gelagar,7.70552,111.53931,1
+25,19.005.002,Jembatan Dagangan I,Dagangan,4.55,9.45,1,Gelagar Komposit dan Gelagar,7.70676,111.54623,2
+26,19.006.001,Jembatan Balerejo V,Kebonsari,3.1,6.9,1,Gelagar Komposit,7.72147,111.51136,2
+27,19.006.002,Jembatan Balerejo VI,Kebonsari,31.85,7.6,1,Gelagar,7.71876,111.5004,2
+28,19.006.003,Jembatan Balerejo VII,Kebonsari,9.4,6.9,1,Gelagar,7.71694,111.49326,2
+29,19.006.004,Jembatan Kedondong I,Kebonsari,20.9,7.85,1,Gelagar,7.71509,111.48515,2
+30,19.006.005,Jembatan Rejosari I,Kebonsari,125.1,7,3,Rangka,7.71226,111.47197,2
+31,19.007.001,Jembatan Bangunsari I,Dolopo,9.7,7.7,1,Gelagar Komposit,7.75399,111.51869,2
+32,19.007.002,Jembatan Sidorejo I,Dolopo,7.8,9.1,1,Gelagar dan Plat,7.74885,111.4893,2
+33,19.007.003,Jembatan Hutan,Dolopo,4.65,7.2,1,Gelagar,7.73819,111.58483,1
+34,19.008.001,Jembatan Sugihwaras I,Saradan,3.7,7.7,1,Plat,7.56162,111.73965,2
+35,19.008.002,Jembatan Sugihwaras II,Saradan,3.6,7.6,1,Plat,7.56644,111.74297,1
+36,19.008.003,Jembatan Sebayi I,Saradan,10.6,5.7,1,Gelagar,7.60665,111.74088,1
+37,19.009.001,Jembatan Wungu I,Wungu,3.5,11,1,Plat,7.68671,111.61297,1
+38,19.009.002,Jembatan Mojopurno I,Wungu,10.45,8,1,Gelagar Komposit,7.64667,111.54994,2
+39,19.010.001,Jembatan Bongsopotro I,Saradan,4.45,8.97,1,Plat,7.54165,111.69606,3
+40,19.010.002,Jembatan Bongsopotro II,Saradan,16.75,9.8,1,Gelagar,7.53867,111.68997,1
+41,19.010.003,Jembatan Sukorejo I,Saradan,6.4,6.9,1,Gelagar,7.53742,111.68515,2
+42,19.010.004,Jembatan Bajulan I,Saradan,5.8,9.05,1,Gelagar,7.53211,111.66443,1
+43,19.011.001,Jembatan Ngepeh I,Saradan,20.6,9,1,Gelagar,7.544,111.68091,3
+44,19.011.002,Jembatan Ngepeh II,Saradan,31.5,8,3,Gelagar,7.53942,111.68121,1
+45,19.011.003,Jembatan Sumbersari I,Saradan,26.4,6.3,2,Gelagar,7.5201,111.69436,2
+46,19.011.004,Jembatan Sumbersari II,Saradan,6.5,7.9,1,Gelagar,7.51741,111.69536,2
+47,19.011.005,Jembatan Sambirejo I,Saradan,6.85,7.5,1,Gelagar Komposit dan Gelagar,7.51421,111.69591,2
+48,19.013.001,Jembatan Kaibon I,Geger,3.5,9.75,1,Plat,7.6753,111.52306,1
+49,19.013.002,Jembatan Kaibon II,Geger,2.85,8.3,1,Gelagar Komposit dan Plat,7.68465,111.52048,2
+50,19.013.003,Jembatan Nglandung I,Geger,3.45,9.9,1,Plat,7.69101,111.5185,2
+51,19.014.001,Jembatan Dimong IV,Madiun,3.8,8.46,1,Plat,7.58985,111.5844,2
+52,19.014.002,Jembatan Sendangrejo I,Madiun,4.6,8.25,1,Plat,7.5976,111.57088,1
+53,19.014.003,Jembatan Sendangrejo II,Madiun,7.2,6.2,1,Gelagar Komposit,7.60339,111.56068,2
+54,19.016.001,Jembatan Wungu II,Wungu,3.5,9.2,1,Gelagar Komposit,7.69111,111.63069,2
+55,19.016.002,Jembatan Kuwiran III,Wungu,3.7,6.4,1,Pelengkung,7.69806,111.65656,2
+56,19.017.001,Jembatan Bantengan I,Wungu,3.95,8,1,Plat,7.64037,111.55694,1
+57,19.017.002,Jembatan Bantengan II,Wungu,3,7.1,1,Plat,7.64132,111.56328,1
+58,19.017.003,Jembatan Mojorayung I,Wungu,7.9,6.7,1,Gelagar,7.63549,111.56885,1
+59,19.017.004,Jembatan Mojorayung II,Wungu,8.7,7.8,1,Gelagar,7.63025,111.56889,2
+60,19.017.005,Jembatan Nglanduk I,Wungu,9.9,7.2,1,Gelagar,7.62138,111.57464,1
+61,19.017.006,Jembatan Nglambangan I,Wungu,3.6,5.7,1,Plat,7.61126,111.58027,1
+62,19.017.007,Jembatan Nglambangan II,Wungu,4.8,6.55,1,Gelagar,7.60959,111.58136,1
+63,19.017.008,Jembatan Sobrah I,Wungu,3.25,7.7,1,Pelengkung,7.60419,111.58455,2
+64,19.017.009,Jembatan Sobrah II,Wungu,3.5,8,1,Gorong-Gorong Kotak,7.60064,111.58782,1
+65,19.017.010,Jembatan Sirapan I,Wungu,3.8,6.6,1,Plat,7.59825,111.58944,1
+66,19.018.001,Jembatan Teguhan I,Jiwan,18.9,6.7,4,Gelagar Komposit,7.60736,111.47755,2
+67,19.019.001,Jembatan Pucangrejo I,Sawahan,3.8,6.45,1,Plat,7.57774,111.52995,2
+68,19.019.002,Jembatan Pucangrejo II,Sawahan,6.1,8.5,1,Plat dan Gelagar,7.57702,111.52599,2
+69,19.019.003,Jembatan Pucangrejo III,Sawahan,7.8,7.2,1,Gelagar,7.575437,111.51534,1
+70,19.019.004,Jembatan Bibrik I,Sawahan,8.8,6.2,1,Gelagar,7.57335,111.50078,3
+71,19.019.005,Jembatan Bibrik II,Sawahan,12.1,6.2,1,Gelagar Komposit,7.57101,111.48579,2
+72,19.021.001,Jembatan Rejosari II,Kebonsari,4.5,8.6,1,Plat,7.7245,111.47307,2
+73,19.021.002,Jembatan Kebonsari I,Kebonsari,3.75,7.6,1,Plat,7.74636,111.45958,2
+74,19.021.003,Jembatan Palur I,Kebonsari,3.63,8,1,Plat,7.724445,111.472917,2
+75,19.021.004,Jembatan Tambakmas I,Kebonsari,40.7,8.4,1,Gelagar,7.78289,111.45391,2
+76,19.022.001,Jembatan Dolopo I,Dolopo,2.9,10.5,1,Plat,7.76257,111.52714,2
+77,19.022.002,Jembatan Dolopo II,Dolopo,6.8,8.95,1,Gelagar dan Pelengkung,7.76436,111.53142,2
+78,19.023.001,Jembatan Sambirejo I,Jiwan,8.7,8.2,1,Plat,7.63012,111.49147,1
+79,19.023.002,Jembatan Sambirejo II,Jiwan,42.2,9.5,2,Rangka dan Plat,7.64881,111.50991,2
+80,19.024.001,Jembatan Wungu III,Kare,16.6,4.3,2,Gelagar Komposit,7.69626,111.6341,2
+81,19.024.002,Jembatan Cermo I,Kare,6.2,6.43,1,Gelagar Komposit dan Gelagar,7.68951,111.69708,2
+82,19.024.003,Jembatan Cermo II,Kare,16.75,4.58,2,Gelagar Komposit,7.69201,111.70269,2
+83,19.024.004,Jembatan Batok I,Kare,5.9,4.74,1,Gelagar Komposit,7.69523,111.70888,2
+84,19.024.005,Jembatan Batok II,Kare,4.9,6.55,1,Gelagar Komposit,7.69998,111.71343,2
+85,19.024.006,Jembatan Tawangrejo IV,Kare,2.6,7.95,1,Plat,7.66192,111.72227,2
+86,19.024.007,Jembatan Kuwiran I,Kare,6.5,7.25,1,Gelagar Komposit,7.659382,111.726848,2
+87,19.024.008,Jembatan Kuwiran II,Kare,22.8,7.05,2,Gelagar,7.652824,111.730501,2
+88,19.024.009,Jembatan Gemarang I,Kare,3.3,5.6,1,Plat,7.65218,111.73168,2
+89,19.025.001,Jembatan Balerejo VIII,Kebonsari,3.95,10.4,1,Gelagar,7.71292,111.5084,2
+90,19.025.002,Jembatan Bacem I,Kebonsari,7,7.6,1,Gelagar,7.71058,111.51114,2
+91,19.025.003,Jembatan Nglandung II,Kebonsari,15.8,7.8,1,Gelagar,7.70147,111.51581,2
+92,19.026.001,Jembatan Mlilir I,Dolopo,5.8,5.9,1,Gelagar Komposit dan Gelagar,7.79759,111.51249,2
+93,19.026.002,Jembatan Lembah I,Dolopo,3.55,6.8,1,Plat,7.78876,111.49867,2
+94,19.026.003,Jembatan Tambakmas II,Dolopo,5.2,5,1,Gelagar,7.77557,111.46793,1
+95,19.028.001,Jembatan Kajang I,Madiun,243.5,6.3,8,Gelagar Komposit,7.54634,111.54141,1
+96,19.028.002,Jembatan Kajang II,Madiun,6,6,1,Gelagar Komposit,7.54538,111.53794,2
+97,19.030.001,Jembatan Sumbergandu I,Pilangkenceng,2.7,9.85,1,Plat,7.49895,111.66465,1
+98,19.030.002,Jembatan Bener I,Pilangkenceng,5.15,6.2,1,Gelagar Komposit,7.52,111.68178,4
+99,19.030.003,Jembatan Duren I,Pilangkenceng,3.4,7,1,Plat,7.50215,111.68398,2
+100,19.030.004,Jembatan Tulung II,Pilangkenceng,17.75,6.6,1,Gelagar,7.5024,111.68856,1
+101,19.031.001,Jembatan Dagangan II,Dagangan,27.9,6.3,2,Gelagar,7.70678,111.55378,2
+102,19.031.002,Jembatan Banjarsari Kulon I,Dagangan,27,6.2,3,Gelagar Komposit,7.69959,111.55245,2
+103,19.031.003,Jembatan Banjarsari Kulon II,Dagangan,4.8,5.85,1,Gelagar,7.69118,111.5506,1
+104,19.032.001,Jembatan Banjarsari Kulon III,Wungu,5.35,6.4,1,Gelagar,7.68275,111.55307,2
+105,19.033.001,Jembatan Jiwan I,Jiwan,8.7,8.2,1,Gelagar,7.63012,111.49147,1
+106,19.033.002,Jembatan Metesih I,Jiwan,7.1,7.7,1,Plat,7.635631,111.489543,1
+107,19.034.001,Jembatan Sidodadi I,Mejayan,25.5,8.37,1,Gelagar,7.57234,111.6742,1
+108,19.034.002,Jembatan Klecorejo I,Mejayan,6.8,7.1,1,Plat,7.57289,111.67401,2
+109,19.035.001,Jembatan Purwosari I,Wonoasri,16,3.7,1,Gelagar Komposit,7.56543,111.64422,2
+110,19.036.001,Jembatan Babadan Lor I,Balerejo,51,4.65,3,Gelagar,7.54532,111.61519,1
+111,19.036.002,Jembatan Babadan Lor II,Balerejo,3.6,8.9,1,Plat,7.53956,111.61487,2
+112,19.036.003,Jembatan Kuwu I,Balerejo,4.4,5.5,1,Plat,7.53358,111.61524,2
+113,19.036.004,Jembatan Kuwu II,Balerejo,3.7,7.95,1,Plat & Gorong-gorong Kotak,7.52217,111.6195,1
+114,19.036.005,Jembatan Kuwu III,Balerejo,5.7,7.55,1,Plat,7.51833,111.6206,1
+115,19.037.001,Jembatan Banjarsari III,Madiun,12,4,1,Gelagar Komposit,7.59149,111.54693,2
+116,19.037.002,Jembatan Banjarsari IV,Madiun,4.7,9.45,1,Plat,7.59228,111.55018,3
+117,19.038.001,Jembatan Balerjo IX,Balerejo,8,7.3,1,Plat,7.55653,111.58367,1
+118,19.038.002,Jembatan Balerjo X,Balerejo,4.6,6,1,Plat,7.5569,111.58423,1
+119,19.038.003,Jembatan Balerjo XI,Balerejo,3.75,7.4,1,Plat,7.558,111.58565,1
+120,19.038.004,Jembatan Gading III,Balerejo,3.8,7.4,1,Plat,7.56184,111.59052,1
+121,19.038.005,Jembatan Kebon Agung I,Balerejo,3.15,6.35,1,Gelagar Komposit,7.57157,111.59483,2
+122,19.038.006,Jembatan Kebon Agung II,Balerejo,18.9,6.2,1,Gelagar,7.57271,111.59451,2
+123,19.038.007,Jembatan Kebon Agung III,Balerejo,3.6,8.45,1,Gelagar Komposit & Plat,7.57719,111.59232,2
+124,19.038.008,Jembatan Tulungrejo I,Balerejo,6.6,6.95,1,Gorong-Gorong Kotak,7.58061,111.59077,1
+125,19.038.009,Jembatan Dimong II,Balerejo,4.6,6,1,Plat,7.58595,111.58898,2
+126,19.038.010,Jembatan Dimong III,Balerejo,4.1,6,1,Gelagar,7.58764,111.5886,1
+127,19.040.001,Jembatan Sewulan I,Geger,26.25,8,1,Gelagar,7.69263,111.54127,2
+128,19.041.001,Jembatan Geger I,Geger,15.6,5.9,1,Gelagar,7.74015,111.54304,2
+129,19.041.002,Jembatan Sareng I,Geger,5.1,6.1,1,Plat,7.74236,111.55061,2
+130,19.042.001,Jembatan Doho I,Dolopo,17,4.8,1,Pelengkung,7.76144,111.51947,2
+131,19.042.002,Jembatan Doho II,Dolopo,3.9,6,1,Plat,7.76914,111.51564,2
+132,19.042.003,Jembatan Pucanganom I,Dolopo,3.9,9,1,Gelagar Komposit,7.76349,111.5053,2
+133,19.042.004,Jembatan Sukorejo II,Dolopo,12.1,4,1,Plat,7.76182,111.49206,2
+134,19.042.005,Jembatan Sukorejo III,Dolopo,9,4.5,1,Pelengkung,7.761794,111.491679,2
+135,19.042.006,Jembatan Tanjungrejo I,Dolopo,3.74,6.2,1,Plat,7.76263,111.47372,2
+136,19.043.001,Jembatan Candimulyo I,Dolopo,26.9,3.85,4,Pelengkung,7.7575,111.54009,2
+137,19.043.002,Jembatan Candimulyo II,Dolopo,8.75,5.45,1,Gelagar,7.76145,111.55811,2
+138,19.043.003,Jembatan Candimulyo III,Dolopo,6.1,5.4,1,Gelagar,7.76215,111.55849,2
+139,19.044.001,Jembatan Munggut I,Wungu,12.5,7,1,Pelengkung,7.65437,111.54385,1
+140,19.044.002,Jembatan Sidorejo II,Wungu,6.55,7.14,1,Gelagar,7.65935,111.54147,2
+141,19.046.001,Jembatan Banjarsari Kulon IV,Wungu,7.7,6.75,1,Gelagar,7.68005,111.55137,1
+142,19.046.002,Jembatan Sidorejo III,Wungu,8.25,7,4,Pelengkung,7.67831,111.54761,1
+143,19.047.001,Jembatan Kincangwetan I,Jiwan,6.6,5.5,1,Gelagar,7.621,111.46595,1
+144,19.048.002,Jembatan Pajaran I,Saradan,22,8.13,4,Gelagar Komposit,7.53589,111.76982,2
+145,19.048.003,Jembatan Pajaran II,Saradan,19,8.06,3,Gelagar Komposit,7.53108,111.77557,2
+146,19.048.004,Jembatan Pajaran III,Saradan,24.5,8.04,3,Gelagar Komposit,7.52931,111.77838,2
+147,19.048.005,Jembatan Klangon I,Saradan,4.8,4.8,1,Plat,7.47281,111.7956,1
+148,19.049.001,Jembatan Kaligunting I,Mejayan,5,3.82,1,Plat,7.5532,111.69137,3
+149,19.049.002,Jembatan Kaligunting II,Mejayan,6.17,3.74,1,Gelagar,7.56075,111.69233,1
+150,19.049.003,Jembatan Darmorejo I,Mejayan,3.25,3.15,1,Plat,7.57236,111.6833,1
+151,19.050.001,Jembatan Banyukambang I,Balerejo,3.3,5,1,Plat,7.56175,111.61361,2
+152,19.050.002,Jembatan Banyukambang II,Balerejo,3.8,7.3,1,Gorong-Gorong Kotak,7.56706,111.61209,1
+153,19.051.001,Jembatan Grobogan I,Jiwan,23.8,2.6,3,Gelagar,7.61603,111.4887,2
+154,19.051.002,Jembatan Klagen Serut I,Jiwan,4.05,5.35,1,Gelagar,7.60112,111.49635,1
+155,19.052.001,Jembatan Bulakrejo I,Balerejo,5,5.1,1,Gelagar Komposit,7.54254,111.6308,1
+156,19.052.002,Jembatan Bulakrejo II,Balerejo,6.8,9.6,1,Gelagar,7.53715,111.6318,2
+157,19.052.003,Jembatan Bulakrejo III,Balerejo,6.9,9.7,1,Gelagar,7.53343,111.63273,1
+158,19.055.001,Jembatan Wonoayu I,Pilangkenceng,3.6,6,1,Plat,7.52256,111.64998,2
+159,19.055.002,Jembatan Wonoayu II,Pilangkenceng,7.3,4.5,1,Gelagar,7.52109,111.65288,2
+160,19.055.003,Jembatan Kedungrejo II,Pilangkenceng,4.9,7.5,1,Plat,7.51623,111.66031,3
+161,19.056.001,Jembatan Luworo I,Pilangkenceng,4.8,7.8,1,Plat,7.49866,111.66086,2
+162,19.057.001,Jembatan Pulerejo I,Pilangkenceng,3.2,8.05,1,Plat,7.50443,111.62284,1
+163,19.057.002,Jembatan Krebet I,Pilangkenceng,4.1,4,1,Plat,7.48881,111.62563,1
+164,19.057.003,Jembatan Krebet II,Pilangkenceng,3.1,4.1,1,Plat,7.48419,111.62635,4
+165,19.057.004,Jembatan Krebet III,Pilangkenceng,3.5,4.5,1,Plat,7.47807,111.62735,2
+166,19.058.001,Jembatan Sidorejo IV,Saradan,13.6,6,1,Gelagar,7.5424,111.70629,1
+167,19.058.003,Jembatan Klumutan I,Saradan,3.9,6.9,1,Plat,7.53087,111.70876,1
+168,19.059.001,Jembatan Sidorejo V,Saradan,16,5.02,1,Gelagar Komposit,7.54878,111.70913,2
+169,19.060.001,Jembatan Jerukgulung I,Balerejo,5.25,5,1,Gelagar Komposit,7.557804,111.604895,3
+170,19.060.002,Jembatan Gading I,Balerejo,5.45,4.1,1,Plat,7.5618,111.60456,1
+171,19.060.003,Jembatan Gading II,Balerejo,7.2,3.85,1,Gelagar Komposit,7.56553,111.60798,2
+172,19.061.001,Jembatan Jerukgulung II,Balerejo,47,3.05,3,Rangka & Gelagar,7.54095,111.60508,3
+173,19.062.001,Jembatan Balerejo XII,Balerejo,5.4,3.55,1,Gelagar Komposit,7.55733,111.57867,1
+174,19.062.002,Jembatan Tanjungrejo II,Balerejo,17,3.35,2,Gelagar Komposit,7.56631,111.57701,2
+175,19.063.001,Jembatan Garon I,Balerejo,7.5,7.3,1,Plat,7.56541,111.56581,1
+176,19.063.002,Jembatan Garon II,Balerejo,9.8,3.9,1,Gelagar Komposit,7.569031,111.56825,3
+177,19.064.001,Jembatan Glonggongan I,Balerejo,11.85,3.4,1,Gelagar Komposit,7.55324,111.55863,2
+178,19.064.002,Jembatan Glonggongan II,Balerejo,38,3.4,4,Gelagar,7.55059,111.55909,2
+179,19.064.003,Jembatan Sogo I,Balerejo,11.5,3.95,1,Gelagar Komposit,7.52844,111.56532,2
+180,19.065.001,Jembatan Tiron I,Madiun,12,4.03,1,Gelagar Komposit,7.5772,111.54899,2
+181,19.065.002,Jembatan Tiron II,Madiun,5.7,6,1,Pelengkung dan Plat,7.57867,111.55649,1
+182,19.066.001,Jembatan Teguhan II,Jiwan,4.47,4.4,1,Gelagar,7.60783,111.47741,3
+183,19.066.002,Jembatan Teguhan III,Jiwan,8.9,4.4,1,Gelagar Komposit,7.60776,111.47759,1
+184,19.067.001,Jembatan Kranggan I,Geger,9.7,7.03,1,Gelagar,7.6631,111.50949,2
+185,19.067.002,Jembatan Putat I,Geger,10.3,5.7,1,Gelagar,7.68061,111.50257,2
+186,19.067.003,Jembatan Putat II,Geger,16.85,6,1,Gelagar,7.68861,111.50322,2
+187,19.067.004,Jembatan Sambirejo III,Geger,21.35,7.7,1,Gelagar,7.70183,111.49553,2
+188,19.068.001,Jembatan Kertosari I,Geger,20,3.95,2,Gelagar Komposit,7.675935,111.536977,2
+189,19.068.002,Jembatan Sukosari I,Geger,19.5,2.8,2,Gelagar Komposit,7.685189,111.547147,2
+190,19.069.001,Jembatan Kaibon III,Geger,6.3,6.55,2,Gelagar,7.68087,111.51527,2
+191,19.070.001,Jembatan Sewulan II,Geger,21.5,5.2,1,Gelagar,7.68785,111.54236,2
+192,19.071.001,Jembatan Kepet I,Geger,10.4,5.5,2,Pelengkung,7.72061,111.55396,2
+193,19.071.002,Jembatan Joho I,Geger,5,5.2,1,Pelengkung,7.72786,111.56433,2
+194,19.071.003,Jembatan Joho II,Geger,5.9,5.2,1,Gelagar,7.73461,111.57481,2
+195,19.071.004,Jembatan Joho III,Geger,10.8,5.5,1,Gelagar,7.73467,111.57655,2
+196,19.071.005,Jembatan Joho IV,Geger,10,4.5,1,Gelagar Komposit,7.73617,111.58173,2
+197,19.073.001,Jembatan Banaran I,Geger,3.5,6.5,1,Plat,7.73217,111.51874,2
+198,19.073.002,Jembatan Banaran II,Geger,28.5,7.8,1,Gelagar,7.73278,111.51675,2
+199,19.073.003,Jembatan Banaran III,Geger,3.4,7.45,1,Plat,7.73352,111.51644,2
+200,19.073.004,Jembatan Banaran IV,Geger,3.4,7.4,1,Plat,7.73593,111.5122,1
+201,19.074.001,Jembatan Dolopo III,Dolopo,4,6.7,1,Plat,7.74459,111.52899,2
+202,19.075.001,Jembatan Bader I,Dolopo,21.5,3.6,6,Pelengkung,7.77868,111.55175,2
+203,19.076.001,Jembatan Dolopo IV,Dolopo,3.65,3.15,1,Plat,7.77692,111.51351,2
+204,19.076.002,Jembatan Sukorejo IV,Dolopo,4.7,4.3,1,Plat,7.77553,111.50592,2
+205,19.077.001,Jembatan Lembah II,Dolopo,5.15,4.9,1,Gelagar Komposit dan Plat,7.7887,111.51256,2
+206,19.077.002,Jembatan Lembah III,Dolopo,3.6,7,1,Gorong-Gorong Kotak,7.78846,111.51178,2
+207,19.078.001,Jembatan Kradinan I,Dolopo,16.4,2.5,2,Gelagar,7.7942,111.57065,2
+208,19.078.002,Jembatan Suluk I,Dolopo,5.2,5.55,1,Pelengkung dan Gelagar,7.79135,111.57875,2
+209,19.078.003,Jembatan Suluk II,Dolopo,7.5,5.3,1,Gelagar,7.78468,111.58829,2
+210,19.079.001,Jembatan Mlilir II,Dolopo,10,5,1,Gelagar,7.79925,111.52479,2
+211,19.080.001,Jembatan Mojorayung III,Wungu,8.8,6.5,1,Gelagar,7.631675,111.563884,1
+212,19.080.002,Jembatan Mojorayung IV,Wungu,5.3,7.55,1,Gorong-Gorong Kotak,7.628945,111.556056,1
+213,19.080.003,Jembatan Tempursari I,Wungu,4.95,7,1,Gelagar,7.627773,111.552845,2
+214,19.081.001,Jembatan Bantengan III,Wungu,6.9,6.7,1,Gelagar Komposit,7.63619,111.55101,1
+215,19.082.001,Jembatan Dempelan I,Madiun,7.3,4.1,1,Gelagar,7.61563,111.57238,1
+216,19.083.001,Jembatan Tempursari II,Wungu,11,5.55,1,Gelagar Komposit,7.61928,111.55273,2
+217,19.084.001,Jembatan Sumberejo I,Madiun,8.35,4,1,Gelagar Komposit,7.59171,111.56503,2
+218,19.084.002,Jembatan Sumberejo II,Madiun,9.15,3.95,1,Gelagar Komposit,7.59476,111.56097,2
+219,19.085.001,Jembatan Rejosari III,Sawahan,4,5,1,Plat,7.57558,111.51581,1
+220,19.085.002,Jembatan Wayut I,Sawahan,8.3,4.4,1,Gelagar,7.60589,111.51161,1
+221,19.086.001,Jembatan Mruwak I,Dagangan,5.5,7.2,1,Gelagar dan Plat,7.6989,111.58008,2
+222,19.086.002,Jembatan Mruwak II,Dagangan,7.7,4.5,1,Gelagar,7.6966,111.58569,2
+223,19.086.003,Jembatan Mruwak III,Dagangan,5.9,7,1,Gelagar dan Plat,7.69605,111.58708,2
+224,19.086.004,Jembatan Mruwak IV,Dagangan,4,6,1,Plat,7.69337,111.58928,2
+225,19.086.005,Jembatan Mruwak V,Dagangan,53,4,2,Rangka,7.69288,111.58951,2
+226,19.086.006,Jembatan Brumbun I,Dagangan,4.5,6.1,1,Plat,7.69138,111.59962,2
+227,19.086.007,Jembatan Brumbun II,Dagangan,6.4,6,1,Plat,7.69122,111.60184,2
+228,19.086.008,Jembatan Brumbun III,Dagangan,5.2,5.5,1,Gelagar Komposit,7.68876,111.60504,2
+229,19.087.001,Jembatan Dagangan III,Dagangan,30.15,7.2,2,Gelagar,7.70888,111.55589,2
+230,19.088.001,Jembatan Sareng II,Dagangan,3.6,9.6,1,Gelagar dan Plat,7.73634,111.55324,1
+231,19.090.001,Jembatan Segulung I,Dagangan,5.93,6,1,Gelagar,7.73923,111.59591,2
+232,19.090.002,Jembatan Segulung II,Dagangan,24.65,6.6,1,Gelagar,7.74093,111.59496,2
+233,19.090.003,Jembatan Tileng I,Dagangan,18.1,5.5,1,Gelagar,7.77905,111.61023,2
+234,19.090.004,Jembatan Bader II,Dagangan,13.5,5.6,1,Gelagar,7.77905,111.61023,2
+235,19.091.001,Jembatan Padas I,Dagangan,9,6.55,1,Gelagar,7.73975,111.60496,2
+236,19.091.002,Jembatan Ngranget I,Dagangan,7.9,6.55,1,Gelagar,7.74718,111.62474,2
+237,19.091.003,Jembatan Mruwak VI,Dagangan,12.85,4.6,1,Gelagar,7.70318,111.57462,2
+238,19.091.004,Jembatan Jetis I,Dagangan,3,12.1,1,Gelagar,7.70288,111.57256,2
+239,19.092.001,Jembatan Sareng III,Dagangan,13,6.6,1,Gelagar,7.74715,111.55641,2
+240,19.092.002,Jembatan Ketandan I,Dagangan,7.3,5.9,1,Pelengkung dan Gelagar,7.75334,111.56138,2
+241,19.093.001,Jembatan Teguhan IV,Jiwan,3.4,19,1,Plat,7.60469,111.476311,1
+242,19.093.002,Jembatan Teguhan V,Jiwan,4.54,7.7,1,Plat,7.59591,111.48024,1
+243,19.093.003,Jembatan Ngetrep I,Jiwan,4.05,6.8,1,Pelengkung dan Plat,7.591268,111.483204,1
+244,19.093.004,Jembatan Bedoho I,Jiwan,3.3,7.1,1,Pelengkung dan Plat,7.58502,111.48488,1
+245,19.094.001,Jembatan Grobogan II,Jiwan,25,4.8,2,Gelagar Komposit,7.60857,111.48392,1
+246,19.095.001,Jembatan Bukur I,Jiwan,12,6.5,1,Gelagar Komposit,7.653032,111.485845,2
+247,19.096.001,Jembatan Lebakayu I,Sawahan,3.8,9.95,1,Plat,7.56328,111.53281,1
+248,19.096.002,Jembatan Sawahan I,Sawahan,4.4,7.4,1,Plat,7.55394,111.53688,1
+249,19.097.001,Jembatan Cabean I,Sawahan,4.4,7.25,1,Plat,7.55548,111.5172,1
+250,19.097.002,Jembatan Cabean II,Sawahan,5.3,6,1,Gelagar,7.55657,111.52115,1
+251,19.097.003,Jembatan Cabean III,Sawahan,6.5,7.5,1,Plat dan Gelagar,7.55883,111.52918,1
+252,19.097.004,Jembatan Cabean IV,Sawahan,3.9,5.55,1,Plat,7.55966,111.53356,2
+253,19.098.001,Jembatan Pucangrejo IV,Sawahan,5.8,6,1,Gelagar,7.57605,111.52046,2
+254,19.099.001,Jembatan Golan I,Sawahan,3.7,7.6,1,Plat,7.55853,111.50611,1
+255,19.100.001,Jembatan Pule I,Sawahan,2.63,9,1,Plat,7.53946,111.51214,1
+256,19.101.001,Jembatan Kajang III,Sawahan,8.2,6.2,1,Gelagar,7.54211,111.52422,3
+257,19.102.001,Jembatan Rejosari IV,Sawahan,5.3,5.3,1,Gelagar Komposit,7.584,111.52366,2
+258,19.102.002,Jembatan Rejosari V,Sawahan,2.6,7.9,1,Plat,7.58324,111.52023,2
+259,19.103.001,Jembatan Bandungan I,Saradan,23.65,5.5,1,Gelagar,7.54787,111.83064,1
+260,19.103.002,Jembatan Bandungan II,Saradan,10.8,3.8,2,Plat,7.54488,111.83295,1
+261,19.103.003,Jembatan Bandungan III,Saradan,16,4.15,1,Gelagar,7.53921,111.83351,1
+262,19.103.004,Jembatan Bandungan IV,Saradan,85.4,7.02,4,Gelagar,7.53728,111.83377,1
+263,19.105.001,Jembatan Tulung I,Saradan,17,5.5,1,Gelagar,7.502499,111.702248,1
+264,19.105.002,Jembatan Sumberbendo I,Saradan,5.4,3.5,1,Gelagar,7.473535,111.7581,1
+265,19.105.003,Jembatan Sumberbendo II,Saradan,10.5,4.7,1,Gelagar Komposit,7.473401,111.762313,2
+266,19.105.004,Jembatan Sumberbendo III,Saradan,16.5,4.8,1,Gelagar,7.473835,111.767317,1
+267,19.106.001,Jembatan Klumutan II,Saradan,20.2,3.52,2,Gelagar Komposit,7.52669,111.71006,2
+268,19.107.001,Jembatan Sambirejo IV,Saradan,18.25,3.1,3,Gelagar Komposit,7.5204,111.7067,2
+269,19.108.001,Jembatan Sukorejo VI,Saradan,16,4.23,1,Pelengkung,7.53933,111.68277,2
+270,19.109.001,Jembatan Sukorejo VII,Saradan,5.95,7.03,1,Gelagar,7.52569,111.67234,1
+271,19.109.002,Jembatan Bener II,Saradan,24.6,4.85,2,Gelagar Komposit,7.51306,111.67607,1
+272,19.111.001,Jembatan Kedungmaron I,Pilangkenceng,5.5,7,1,Gorong-Gorong Kotak,7.51294,111.66697,1
+273,19.111.002,Jembatan Kedungmaron II,Pilangkenceng,17.5,3,2,Gelagar,7.51336,111.67042,1
+274,19.112.001,Jembatan Kenongorejo IV,Pilangkenceng,5.2,4,1,Plat,7.48536,111.67084,3
+275,19.114.001,Jembatan Dawuhan I,Pilangkenceng,6.3,4.4,1,Pelengkung,7.485277,111.67902,1
+276,19.114.002,Jembatan Dawuhan II,Pilangkenceng,4.5,5.4,1,Gelagar Komposit,7.485038,111.681829,2
+277,19.115.001,Jembatan Bulu I,Pilangkenceng,22.7,3.7,2,Rangka,7.48429,111.67453,3
+278,19.115.002,Jembatan Bongsopotro III,Pilangkenceng,9.6,4.2,1,Gelagar,7.43821,111.69587,1
+279,19.116.001,Jembatan Kenongorejo V,Pilangkenceng,24.65,5.5,1,Gelagar,7.48139,111.66112,1
+280,19.117.001,Jembtan Ngengor I,Pilangkenceng,12.5,3.2,1,Gelagar Komposit,7.47567,111.65951,3
+281,19.118.001,Jembatan Gandul I,Pilangkenceng,22.95,5.5,1,Gelagar,7.47407,111.65163,1
+282,19.119.001,Jembatan Luworo II,Pilangkenceng,48,3,5,Gelagar Komposit,7.47034,111.64198,4
+283,19.119.002,Jembatan Luworo III,Pilangkenceng,18.3,4.9,2,Gelagar Komposit,7.45798,111.64346,1
+284,19.120.001,Jembatan Kedungbanteng I,Pilangkenceng,46.5,7.95,3,Gelagar,7.47443,111.6323,3
+285,19.120.002,Jembatan Kedungbanteng II,Pilangkenceng,2.7,6,1,Gelagar,7.47386,111.63131,1
+286,19.120.003,Jembatan Krebet IV,Pilangkenceng,2.7,6.3,1,Plat,7.47357,111.62925,1
+287,19.120.004,Jembatan Krebet V,Pilangkenceng,12.83,6.8,1,Gelagar,7.464231,111.628459,2
+288,19.121.001,Jembatan Krebet VI,Pilangkenceng,36.5,4.3,3,Gelagar Komposit,7.47384,111.62732,1
+289,19.122.001,Jembatan Pilangkenceng I,Pilangkenceng,3.1,3.75,1,Plat,7.49968,111.64124,3
+290,19.122.002,Jembatan Gandul II,Pilangkenceng,3.1,4,1,Plat,7.48733,111.64333,1
+291,19.122.003,Jembatan Luworo IV,Pilangkenceng,2.5,4.8,1,Plat,7.47938,111.64469,1
+292,19.123.001,Jembatan Pulerejo II,Pilangkenceng,3.4,3.15,1,Plat,7.49963,111.63077,2
+293,19.124.001,Jembatan Garon III,Mejayan,10.6,6.85,1,Gelagar,7.56451,111.56451,1
+294,19.124.002,Jembatan Kaliabu I,Mejayan,8,5.36,1,Gelagar,7.5708,111.65275,1
+295,19.124.003,Jembatan Kaliabu II,Mejayan,12,5.7,1,Gelagar,7.57129,111.64937,1
+296,19.126.001,Jembatan Kebonagung I,Mejayan,3.65,3.82,1,Gelagar,7.58222,111.68742,1
+297,19.126.002,Jembatan Kebonagung II,Mejayan,3.5,4.58,1,Plat,7.58582,111.69187,1
+298,19.126.003,Jembatan Kebonagung III,Mejayan,9.4,4.2,2,Gelagar,7.59014,111.69216,1
+299,19.126.004,Jembatan Kebonagung IV,Mejayan,16.2,3.62,2,Gelagar Komposit,7.59084,111.69123,1
+300,19.126.005,Jembatan Kebonagung V,Mejayan,4.7,3.8,1,Plat,7.59086,111.68952,1
+301,19.127.001,Jembatan Blabakan I,Mejayan,7.9,5.54,1,Gelagar,7.56461,111.658546,1
+302,19.127.002,Jembatan Wonorejo II,Mejayan,5.2,6.08,1,Gelagar,7.59262,111.67714,1
+303,19.127.003,Jembatan Gemarang II,Mejayan,5.55,4.1,1,Gelagar,7.66023,111.67684,1
+304,19.128.001,Jembatan Sidomulyo I,Wonoasri,3,7.3,1,Plat,7.57786,111.62575,3
+305,19.128.002,Jembatan Plumpungrejo I,Wonoasri,3,4,1,Plat,7.57699,111.63672,4
+306,19.129.001,Jembatan Klitik I,Wonoasri,3.1,7.8,1,Plat,7.55251,111.63248,3
+307,19.130.001,Jembatan Wonoasri II,Wonoasri,2.9,7.85,1,Pelengkung,7.57051,111.62879,2
+308,19.130.002,Jembatan Bancong I,Wonoasri,2,3.6,1,Plat,7.56056,111.63529,1
+309,19.131.001,Jembatan Banyukambang III,Wonoasri,3.8,4.75,1,Plat,7.56569,111.6198,2
+310,19.131.002,Jembatan Banyukambang IV,Wonoasri,4,3.5,1,Plat,7.56683,111.61515,3
+311,19.133.001,Jembatan Banjarsari I,Madiun,10.8,8,1,Gelagar,7.58255,111.56493,1
+312,19.133.002,Jembatan Banjarsari II,Madiun,9.8,6.17,1,Gelagar,7.5773,111.57027,2
+313,19.133.003,Jembatan Tanjungrejo III,Madiun,2.8,4.05,1,Gelagar,7.57907,111.57994,3
+314,19.134.001,Jembatan Kebonagung IV,Balerejo,6.75,4.15,1,Gelagar Komposit,7.57041,111.5989,3
+315,19.135.001,Jembatan Kedungrejo III,Balerejo,2.9,7.2,1,Gelagar,7.52387,111.59776,1
+316,19.136.001,Jembatan Sogo II,Balerejo,12.1,3.8,1,Gelagar Komposit,7.52905,111.57269,2
+317,19.137.001,Jembatan Kedungjati i,Balerejo,3.4,7.4,1,Plat,7.54857,111.58985,1
+318,19.137.002,Jembatan Warurejo I,Balerejo,4.4,7,1,Plat,7.54013,111.61077,1
+319,19.137.003,Jembatan Warurejo II,Balerejo,4.2,7,1,Plat,7.54019,111.61121,3
+320,19.138.001,Jembatan Bantengan IV,Wungu,3.8,6.5,1,Gelagar,7.64689,111.57254,1
+321,19.138.002,Jembatan Karangrejo I,Wungu,2.55,3.8,1,Gelagar,7.67077,111.58574,2
+322,19.139.001,Jembatan Bantengan V,Wungu,3.4,7.9,1,Plat,7.63452,111.55367,2
+323,19.140.001,Jembatan Karangrejo II,Wungu,3.8,3.75,1,Gelagar,7.66749,111.58147,2
+324,19.141.001,Jembatan Sidorejo VI,Wungu,6.8,6.45,1,Pelengkung,7.65996,111.54666,2
+325,19.143.001,Jembatan Wungu IV,Wungu,2.45,6.95,1,Plat,7.69032,111.61658,1
+326,19.143.002,Jembatan Kresek I,Wungu,6.1,7.5,1,Gelagar Komposit,7.69356,111.62049,2
+327,19.143.003,Jembatan Kresek II,Wungu,3.4,7.85,1,Plat,7.69493,111.62,1
+328,19.143.004,Jembatan Kresek III,Wungu,35.7,11.2,1,Gelagar,7.70067,111.62511,1
+329,19.143.005,Jembatan Kresek IV,Wungu,9.5,5.2,1,Gelagar,7.70555,111.63193,1
+330,19.144.001,Jembatan Kresek V,Wungu,11.7,3.65,1,Gelagar,7.70257,111.62727,1
+331,19.144.002,Jembatan Kresek VI,Wungu,5.7,3.65,1,Plat,7.70607,111.62664,2
+332,19.144.003,Jembatan Bodag I,Wungu,3.1,5.2,1,Gelagar,7.730033,111.64982,2
+333,19.145.001,Jembatan Bodag II,Kare,2.4,4.95,1,Gelagar,7.73971,111.65681,3
+334,19.145.002,Jembatan Bodag III,Kare,8.6,5.55,1,Gelagar,7.73904,111.65921,2
+335,19.145.003,Kembatan Kepel I,Kare,2.8,3.7,1,Plat,7.73977,111.66968,2
+336,19.145.004,Kembatan Kepel II,Kare,2.4,4.05,1,Plat,7.73878,111.66976,2
+337,19.145.005,Kembatan Kepel III,Kare,2.5,4.03,1,Plat,7.73313,111.67366,2
+338,19.147.001,Jembatan Wungu V,Kare,5.28,4.61,1,Gelagar Komposit,7.69284,111.62199,1
+339,19.147.002,Jembatan Wungu VI,Kare,3,4.3,1,Gelagar Komposit,7.69521,111.62937,2
+340,19.147.003,Jembatan Kresek VII,Kare,34.4,7.42,1,Gelagar dan Pelengkung,7.69936,111.64092,3
+341,19.148.001,Jembatan Kare I,Kare,3.4,4.95,1,Plat,7.73277,111.69105,2
+342,19.149.001,Jembatan Kare II,Kare,7.6,3.2,1,Gelagar Komposit,7.75727,111.69526,4
+343,19.150.001,Jembatan Randualas I,Kare,4,3.35,1,Gelagar,7.70244,111.68383,2
+344,19.151.001,Jembatan Tawangrejo V,Gemarang,9.4,3.67,1,Gelagar Komposit,7.65497,111.71003,2
+345,19.151.002,Jembatan Morang I,Gemarang,3.75,6.13,1,Plat,7.656,111.70608,2
+346,19.152.001,Jembatan Batok III,Gemarang,6.95,6.53,1,Gelagar,7.70224,111.71774,2
+347,19.152.002,Jembatan Batok IV,Gemarang,3.5,4.32,1,Plat,7.69533,111.728,2
+348,19.152.003,Jembatan Batok V,Gemarang,11.5,4.2,1,Gelagar Komposit,7.69584,111.72983,2
+349,19.153.001,Jembatan Durenan I,Gemarang,6.2,4.98,1,Gelagar,7.69913,111.73831,2
+350,19.153.002,Jembatan Durenan II,Gemarang,3.25,5.85,1,Plat,7.70181,111.74079,2
+351,19.153.003,Jembatan Durenan III,Gemarang,8.7,6.05,1,Gelagar,7.70245,111.74304,2
+352,19.153.004,Jembatan Durenan IV,Gemarang,16.67,7.12,1,Gelagar,7.72436,111.73417,2
+353,19.154.001,Jembatan Winong I,Gemarang,2.6,4,1,Gelagar,7.66712,111.74965,2
+354,19.154.002,Jembatan Gemarang III,Gemarang,5,4.05,1,Gelagar,7.62706,111.75553,2
+355,19.154.003,Jembatan Sebayi II,Gemarang,14,3.6,1,Gelagar Komposit,7.61318,111.75,4
+356,19.154.004,Jembatan Sebayi III,Gemarang,6.25,4.03,1,Gelagar,7.60968,111.74448,2
+357,19.154.005,Jembatan Sebayi IV,Gemarang,16,4.02,1,Gelagar Komposit,7.60863,111.74105,2
+358,19.155.001,Jembatan Sebayi V,Gemarang,16.75,6.5,1,Gelagar,7.590168,111.748585,2
+359,19.155.002,Jembatan Nampu I,Gemarang,9.4,3.15,1,Gelagar Komposit,7.593905,111.758273,2
+360,19.155.003,Jembatan Nampu II,Gemarang,3.3,3.63,1,Plat,7.595147,111.761765,2
+361,19.155.004,Jembatan Nampu III,Gemarang,3.3,3.63,1,Plat,7.595085,111.766397,2
+362,19.155.005,Jembatan Nampu IV,Gemarang,9.45,6.54,1,Gelagar,7.597647,111.774913,2
+363,19.155.006,Jembatan Nampu V,Gemarang,2.45,3,1,Plat,7.600341,111.780928,2
+364,19.155.007,Jembatan Nampu VI,Gemarang,2.9,"3,58,",1,Gorong-Gorong Pipa,7.60643,111.784837,2
+365,19.155.008,Jembatan Nampu VII,Gemarang,9.8,4.37,1,Gelagar,7.613366,111.785947,2
+366,19.155.009,Jembatan Nampu VIII,Gemarang,27.83,3.61,2,Gelagar,7.62021,111.78959,2
+367,19.157.001,Jembatan Jatisari I,Geger,14.75,4.1,1,Gelagar,7.7039,111.5314,2
+368,19.157.002,Jembatan Sumberejo III,Geger,3.6,6.45,1,Pelengkung dan Gorong-Gorong Kotak,7.71375,111.52525,2
+369,19.157.003,Jembatan Sumberejo IV,Geger,4.3,7.3,1,Pelengkung dan Gelagar,7.71972,111.52331,2
+370,19.158.001,Jembatan Banaran V,Kebonsari,12,6.45,1,Gelagar Komposit,7.73018,111.51027,2
+371,19.158.002,Jembatan Krandegan I,Kebonsari,5.15,8.3,1,Plat dan Gelagar,7.73946,111.50915,2
+372,19.159.001,Jembatan Kebonsari II,Kebonsari,10,6.3,1,Gelagar,7.7284,111.48625,2
+373,19.159.002,Jembatan Kebonsari III,Kebonsari,12,5.3,2,Gelagar,7.73374,111.48145,2
+374,19.160.001,Jembatan Rejosari VI,Kebonsari,3.4,6.4,1,Plat dan Pelengkung,7.727086,111.473718,2
+375,19.160.002,Jembatan Rejosari VII,Kebonsari,2.7,7.35,1,Plat,7.74055,111.469498,2
+376,19.162.001,Jembatan Palur II,Kebonsari,48,10.1,1,Gelagar,7.75145,111.45326,2
+377,19.164.001,Jembatan Ketawang I,Dolopo,3.3,10.6,1,Plat,7.75803,111.5064,2
+378,19.164.002,Jembatan Pucanganom II,Dolopo,3.1,10.3,1,Plat,7.75955,111.50606,2
+379,19.164.003,Jembatan Sukorejo V,Dolopo,9.9,5.9,1,Gelagar Komposit,7.77636,111.50379,2
+380,19.164.004,Jembatan Lembah IV,Dolopo,9.1,3.6,1,Plat,7.78676,111.50213,2
